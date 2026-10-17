@@ -1,0 +1,29 @@
+[
+ {
+  "id": "prix-ars-electronica",
+  "type": "award",
+  "en": "Prix Ars Electronica: Interactive Art+, Digital Humanity, Animation and Sound",
+  "zh": "Prix Ars Electronica：互动艺术+、数字人文、动画与声音类别",
+  "desc_en": "Winners, Awards of Distinction and Honorary Mentions of the Prix Ars Electronica outside the Hybrid Art and Artificial Life categories (Interactive Art+, Digital Humanity, New Animation Art, Digital Musics & Sound Art) that work with other species and ecosystems.",
+  "desc_zh": "Prix Ars Electronica 中“混合艺术”与“人工生命”以外类别（互动艺术+、数字人文、新动画艺术、数字音乐与声音艺术）里，关注其他物种与生态系统的金尼卡奖、优异奖和荣誉提名作品。",
+  "url": "https://ars.electronica.art/prix/en/winners/"
+ },
+ {
+  "id": "ars-electronica-negotiating-beyond-humanity-2026",
+  "type": "exhibition",
+  "en": "Negotiating Beyond Humanity (Ars Electronica Festival 2026)",
+  "zh": "超越人类的协商（2026 年 Ars Electronica 艺术节）",
+  "desc_en": "The more-than-human exhibition of the 2026 Ars Electronica Festival in the Ursulinenhof attics, Linz, curated by Masha Zolotova: works on soil microbes, fungi, insects, smell, rivers and drought, many from the Studiotopia residency programme.",
+  "desc_zh": "2026 年 Ars Electronica 艺术节在林茨 Ursulinenhof 阁楼举办的“超越人类”展览，由 Masha Zolotova 策展，作品涉及土壤微生物、真菌、昆虫、气味、河流与干旱，许多来自 Studiotopia 驻留计划。",
+  "url": "https://ars.electronica.art/negotiatinghumanity/en/view/negotiating-beyond-humanity-38338ddb450c80b394f8d7c836a5ba35/"
+ },
+ {
+  "id": "helsinki-biennial-2025",
+  "type": "exhibition",
+  "en": "Shelter: Below and Beyond, Becoming and Belonging (Helsinki Biennial 2025)",
+  "zh": "庇护：之下与之外、生成与归属（2025 年赫尔辛基双年展）",
+  "desc_en": "The 2025 Helsinki Biennial on Vallisaari Island and at HAM (8 June – 21 September 2025), curated by Blanca de la Torre and Kati Kivinen, which centred plants, animals, fungi, minerals and other non-human actors.",
+  "desc_zh": "2025 年赫尔辛基双年展（2025 年 6 月 8 日至 9 月 21 日），在 Vallisaari 岛和赫尔辛基艺术博物馆举办，由 Blanca de la Torre 和 Kati Kivinen 策展，以植物、动物、真菌、矿物等非人类行动者为中心。",
+  "url": "https://helsinkibiennaali.fi/en/hb25/"
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "id": "aci-conference",
+  "type": "venue",
+  "en": "ACI — International Conference on Animal-Computer Interaction",
+  "zh": "ACI 动物—计算机交互国际会议",
+  "desc_en": "The ACM-affiliated conference of the animal–computer interaction community, held since 2014 (first as an ACE workshop); ACI 2025 was the 12th edition and ACI 2026 takes place in Brugg-Windisch, Switzerland. Papers presented there.",
+  "desc_zh": "动物—计算机交互领域与 ACM 合作的会议，自 2014 年起举办（最初为 ACE 的工作坊）；ACI 2025 为第 12 届，ACI 2026 在瑞士布鲁格-温迪施举行。收录在会上发表的作品。",
+  "url": "https://www.aciconf.org/"
+ }
+]

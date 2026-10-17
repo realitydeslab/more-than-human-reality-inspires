@@ -1,0 +1,3105 @@
+{
+ "batch": "latest-bio",
+ "creators": [
+  {
+   "id": "grace-church-biodesign",
+   "name": "Grace Church School Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, Grace Church School; Biodesign Challenge 2026",
+   "based": "New York, US",
+   "bio": "Students at Grace Church School who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. A Manhattan high school team taught by science chair Chrissy Dilley.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "Grace Church 学校学生团队；Biodesign Challenge 2026",
+   "bio_zh": "Grace Church 学校的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。一支曼哈顿高中团队，指导教师为科学系主任 Chrissy Dilley。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "morris-county-biodesign",
+   "name": "Morris County School of Technology Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, Morris County School of Technology; Biodesign Challenge 2026",
+   "based": "Denville, New Jersey, US",
+   "bio": "Students at Morris County School of Technology who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. A New Jersey high school team from the Academy for Biotechnology and the Design Academy.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "Morris County 技术学校学生团队；Biodesign Challenge 2026",
+   "bio_zh": "Morris County 技术学校的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。一支来自新泽西州的高中团队，成员来自生物技术学院和设计学院。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "新泽西州登维尔，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "utas-biodesign",
+   "name": "University of Tasmania Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, University of Tasmania; Biodesign Challenge 2026",
+   "based": "Hobart, Australia",
+   "bio": "Students at University of Tasmania who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Its 2026 projects all turn the shells of invasive sea urchins into materials.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "塔斯马尼亚大学学生团队；Biodesign Challenge 2026",
+   "bio_zh": "塔斯马尼亚大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。该校 2026 年的项目都把入侵海胆的壳变成材料。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "霍巴特，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "udit-biodesign",
+   "name": "UDIT Madrid Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, UDIT Madrid; Biodesign Challenge 2026",
+   "based": "Madrid, Spain",
+   "bio": "Students at UDIT Madrid who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Academic lead: architect and biodesigner Sandra Martín Simón.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "马德里 UDIT 设计创新科技大学学生团队；Biodesign Challenge 2026",
+   "bio_zh": "马德里 UDIT 设计创新科技大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。学术负责人为建筑师、生物设计师 Sandra Martín Simón。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yunnan-arts-biodesign",
+   "name": "Yunnan Arts University Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, Yunnan Arts University; Biodesign Challenge 2026",
+   "based": "Kunming, China",
+   "bio": "Students at Yunnan Arts University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Led by environmental design professor Danting Sun, who works with local mycelium species and farm waste.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "云南艺术学院学生团队；Biodesign Challenge 2026",
+   "bio_zh": "云南艺术学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。由环境设计教授 Danting Sun 指导，她用本地菌种处理农业废料。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "昆明，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "northumbria-biodesign",
+   "name": "Northumbria University Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, Northumbria University; Biodesign Challenge 2026",
+   "based": "Newcastle, UK",
+   "bio": "Students at Northumbria University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Communication design students working with the university's Living Construction biotechnologists.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "诺森比亚大学学生团队；Biodesign Challenge 2026",
+   "bio_zh": "诺森比亚大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。传播设计专业学生，与该校 Living Construction 团队的生物技术人员合作。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "纽卡斯尔，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sfsu-biodesign",
+   "name": "San Francisco State University Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, San Francisco State University; Biodesign Challenge 2026",
+   "based": "San Francisco, US",
+   "bio": "Students at San Francisco State University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Design students working with the university's Estuary & Ocean Science Center.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "旧金山州立大学学生团队；Biodesign Challenge 2026",
+   "bio_zh": "旧金山州立大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。设计专业学生，与该校河口与海洋科学中心合作。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "scad-biodesign",
+   "name": "Savannah College of Art and Design Biodesign Challenge team",
+   "kind": "lab",
+   "role": "Student team, Savannah College of Art and Design; Biodesign Challenge 2026",
+   "based": "Savannah, Georgia, US",
+   "bio": "Students at Savannah College of Art and Design who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Its 2026 finalists engineered microbial communities and biomimetic river filters.",
+   "why": "Its prize-winning student projects show how a school can work with living organisms and biotechnology.",
+   "links": {
+    "site": "https://www.biodesignchallenge.org/"
+   },
+   "role_zh": "萨凡纳艺术设计学院学生团队；Biodesign Challenge 2026",
+   "bio_zh": "萨凡纳艺术设计学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。该校 2026 年的入围项目涉及工程微生物群落和仿生河流过滤器。",
+   "why_zh": "它的获奖学生项目展示了一所学校如何与活体生物和生物技术合作。",
+   "based_zh": "佐治亚州萨凡纳，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yin-rui-liao",
+   "name": "Yin-Rui Liao",
+   "kind": "person",
+   "role": "Designer; National Taiwan Normal University",
+   "based": "Taipei, Taiwan, China",
+   "bio": "Yin-Rui Liao leads Reefvive, a coral-restoration base printed from marine waste that reached the international top 20 of the 2026 James Dyson Award.",
+   "why": "Designs reef habitat from local marine waste and tests it at sea.",
+   "links": {
+    "site": "https://www.jamesdysonaward.org/en-GB/2026/project/reefvive/"
+   },
+   "role_zh": "设计师；台湾师范大学",
+   "bio_zh": "Yin-Rui Liao主导 Reefvive 项目：用海洋废料打印的珊瑚复育底座，入选 2026 年詹姆斯·戴森设计奖国际前 20 名。",
+   "why_zh": "用本地海洋废料设计珊瑚礁栖息地，并在海里实地测试。",
+   "based_zh": "中国台湾台北",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "evelina-lavergren",
+   "name": "Evelina Lavergren",
+   "kind": "person",
+   "role": "Industrial designer; Design Ecologies MA, Konstfack",
+   "based": "Stockholm, Sweden",
+   "bio": "Evelina Lavergren is a Swedish industrial designer trained at Konstfack and Aalto University whose work joins material exploration with ecological systems thinking.",
+   "why": "Designs everyday products that leave seeds and nutrients behind for other species.",
+   "links": {
+    "site": "https://www.gp-award.com/en/projects/Biological-Footprint"
+   },
+   "role_zh": "工业设计师；Konstfack 设计生态学硕士",
+   "bio_zh": "Evelina Lavergren 是瑞典工业设计师，毕业于 Konstfack 和阿尔托大学，作品把材料探索与生态系统思维结合起来。",
+   "why_zh": "设计会给其他物种留下种子和养分的日常用品。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katarina-gessner",
+   "name": "Katarina Gessner",
+   "kind": "person",
+   "role": "Industrial design student, Queensland University of Technology",
+   "based": "Brisbane, Australia",
+   "bio": "Katarina Gessner is an industrial design student at QUT whose airborne-eDNA sampler Bionest won an Editor's Choice prize in the 2026 Green Concept Award.",
+   "why": "Turns a new field-ecology method, eDNA from air, into a product that non-specialists can deploy.",
+   "links": {
+    "site": "https://www.gp-award.com/en/projects/bionest"
+   },
+   "role_zh": "昆士兰科技大学工业设计专业学生",
+   "bio_zh": "Katarina Gessner 是昆士兰科技大学工业设计专业学生，她的空气环境 DNA 采样器 Bionest 获得 2026 年 Green Concept Award 编辑选择奖。",
+   "why_zh": "把一种新的野外生态方法——从空气中采集环境 DNA——变成非专业人士也能部署的产品。",
+   "based_zh": "布里斯班，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lilian-van-daal",
+   "name": "Lilian van Daal",
+   "kind": "person",
+   "role": "Designer; founder of Studio Lilian van Daal",
+   "based": "Netherlands",
+   "bio": "Lilian van Daal is a Dutch designer who works on biomimicry and bio-based materials, from 3D-printed plant-like seating to colour grown by bacteria.",
+   "why": "Brings structural colour made by living bacteria into product design.",
+   "links": {
+    "site": "https://www.lilianvandaal.com/"
+   },
+   "role_zh": "设计师；Studio Lilian van Daal 创始人",
+   "bio_zh": "Lilian van Daal 是荷兰设计师，研究仿生和生物基材料，作品从仿植物结构的 3D 打印座椅到由细菌长出的颜色。",
+   "why_zh": "把活细菌产生的结构色带进产品设计。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maxim-velli",
+   "name": "Maxim Velli",
+   "kind": "person",
+   "role": "Biodesigner; DTU Biosustain",
+   "based": "Copenhagen, Denmark",
+   "bio": "Maxim Velli led the concept and biological experiments of KojiGotchi, developed with Rasmus Tofthøj, Tania Safa, Taylor Rayne and Mark Torochkin at DTU Biosustain and the Royal Danish Academy.",
+   "why": "Designs everyday rituals for living with microbes rather than lab demos.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/kojigotchi-a-tamagotchi-for-the-microbial-age-1"
+   },
+   "role_zh": "生物设计师；丹麦技术大学 Biosustain 中心",
+   "bio_zh": "Maxim Velli 主导了 KojiGotchi 的概念和生物实验，该项目与 Rasmus Tofthøj、Tania Safa、Taylor Rayne 和 Mark Torochkin 在丹麦技术大学 Biosustain 中心和丹麦皇家艺术学院共同开发。",
+   "why_zh": "为与微生物共同生活设计日常仪式，而不是实验室演示。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rafaela-cecconi",
+   "name": "Rafaela Cecconi",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Rafaela Cecconi is a designer working on bio-based interfaces for the body; she showed NOOM, an electrochromic bacterial-cellulose patch, at Dutch Design Week 2026.",
+   "why": "Uses a grown material as a wearable display for bodily rhythms.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/noom-a-living-interface-for-menstrual-awarness"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "Rafaela Cecconi 是一位研究身体生物基界面的设计师，在 2026 年荷兰设计周展出了电致变色细菌纤维素贴片 NOOM。",
+   "why_zh": "把一种“长”出来的材料用作显示身体节律的可穿戴屏幕。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "novya-biotech",
+   "name": "Novya Biotech",
+   "kind": "company",
+   "role": "Fermentation colour start-up (founded 2026)",
+   "based": "Wageningen, Netherlands",
+   "bio": "Novya Biotech, founded in 2026 by Carina Nieuwenweg, Poorva Shrivastava and Carlijn Barendregt, engineers yeast to ferment textile colourants, starting with a blue-violet.",
+   "why": "Shows how synthetic biology reaches textiles as a ready-to-use dye.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/novya-biotech-1"
+   },
+   "role_zh": "发酵色素初创公司（2026 年成立）",
+   "bio_zh": "Novya Biotech 由 Carina Nieuwenweg、Poorva Shrivastava 和 Carlijn Barendregt 于 2026 年创立，用工程酵母发酵生产纺织色素，首个颜色是蓝紫色。",
+   "why_zh": "展示合成生物学如何以现成染料的形式进入纺织业。",
+   "based_zh": "瓦赫宁根，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xijing-xu",
+   "name": "Xijing Xu",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Xijing Xu is a designer and ceramicist who grows kombucha SCOBYs in vessels she designs, exploring daily life with symbiotic microbes.",
+   "why": "Uses the vessel as a tool to shape a living culture.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/scoby-face"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "Xijing Xu 是设计师和陶艺师，在自己设计的器皿中培养康普茶菌膜，探索与共生微生物一起生活的日常。",
+   "why_zh": "把器皿当作塑造活体菌群的工具。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emilie-gibert",
+   "name": "Émilie Gibert",
+   "kind": "person",
+   "role": "Biodesigner and architect",
+   "based": "France",
+   "bio": "Émilie Gibert is a biodesigner who develops building facades from bacteria and oyster shells that capture carbon dioxide from the air.",
+   "why": "Treats microbes as co-builders of carbon-capturing architecture.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/matter-of-place-co-habiting-with-the-living"
+   },
+   "role_zh": "生物设计师、建筑师",
+   "bio_zh": "Émilie Gibert 是生物设计师，用细菌和牡蛎壳开发能从空气中吸收二氧化碳的建筑立面。",
+   "why_zh": "把微生物当作固碳建筑的共同建造者。",
+   "based_zh": "法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "utrecht-myvi-team",
+   "name": "Utrecht University Myvi team",
+   "kind": "lab",
+   "role": "Student research team, Utrecht University",
+   "based": "Utrecht, Netherlands",
+   "bio": "Students at Utrecht University who developed the Myvi panel, a mycelium composite that lets plants grow on buildings, and built the ReGreen Hut with it.",
+   "why": "Combines two living systems, fungus and plants, in one building element.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/the-regreen-hut"
+   },
+   "role_zh": "乌得勒支大学学生研究团队",
+   "bio_zh": "乌得勒支大学的学生团队，开发了让植物能在建筑上生长的菌丝体复合板 Myvi，并用它搭建了 ReGreen Hut。",
+   "why_zh": "在同一个建筑构件中结合真菌和植物两种生命系统。",
+   "based_zh": "乌得勒支，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sven-van-leeuwen",
+   "name": "Sven van Leeuwen",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Sven van Leeuwen is a Dutch designer who combines clay 3D printing with marine ecology to build reef habitat for the honeycomb worm.",
+   "why": "Designs habitat from the biology of one small reef-building animal.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/alveo-a-clay-3d-printed-artificial-reef-system"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "Sven van Leeuwen 是荷兰设计师，结合黏土 3D 打印和海洋生态学，为蜂窝沙蠋建造礁体栖息地。",
+   "why_zh": "从一种小型造礁动物的生物学出发设计栖息地。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicolas-nielsen",
+   "name": "Nicolas Nielsen",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Europe",
+   "bio": "Nicolas Nielsen is a designer who builds autonomous systems that help pollinators cross fragmented urban landscapes.",
+   "why": "Gives bees the mobility that human infrastructure took away.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/hyve-1"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "Nicolas Nielsen 是设计师，制作帮助传粉昆虫穿越破碎城市景观的自主系统。",
+   "why_zh": "把被人类基础设施夺走的移动能力还给蜜蜂。",
+   "based_zh": "欧洲",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nitzan-toren",
+   "name": "Nitzan Toren",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Eindhoven, Netherlands",
+   "bio": "Nitzan Toren is a designer in Eindhoven who turns local overgrowth, such as canal duckweed, into biocomposite objects.",
+   "why": "Lets the ecological problem show in the material itself.",
+   "links": {
+    "site": "https://ddw.nl/en/programme/illuminated-overgrowth"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "Nitzan Toren 是埃因霍温的设计师，把本地过度生长的植物（如运河浮萍）做成生物复合材料物件。",
+   "why_zh": "让生态问题直接体现在材料本身。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anomalia-studio",
+   "name": "Anomalia Studio",
+   "kind": "studio",
+   "role": "Architecture and research studio (Bhakti V Loonawat, Suyash Sawant)",
+   "based": "India",
+   "bio": "Anomalia is an Indian architecture studio led by Bhakti V Loonawat and Suyash Sawant that researches mycelium as a regenerative building material.",
+   "why": "Brings a Global South mycelium practice to the Venice Biennale.",
+   "links": {
+    "site": "https://www.architecturelab.net/mycomuseum-anomalia-plus-mycl/"
+   },
+   "role_zh": "建筑与研究工作室（Bhakti V Loonawat、Suyash Sawant）",
+   "bio_zh": "Anomalia 是由 Bhakti V Loonawat 和 Suyash Sawant 领导的印度建筑工作室，研究把菌丝体作为再生性建筑材料。",
+   "why_zh": "把来自全球南方的菌丝体实践带到威尼斯双年展。",
+   "based_zh": "印度",
+   "connected_to": [
+    "mycl"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karen-antorveza",
+   "name": "Karen Antorveza",
+   "kind": "person",
+   "role": "Architect and researcher, Digital Building Technologies, ETH Zurich",
+   "based": "Zurich, Switzerland",
+   "bio": "Karen Antorveza Paez researches robotic biocementation with Benjamin Dillenburger's Digital Building Technologies group at ETH Zurich.",
+   "why": "Grows stone-like building parts from sand, waste and bacteria with a robot.",
+   "links": {
+    "site": "https://dbt.arch.ethz.ch/project/geological-microbial-formations/"
+   },
+   "role_zh": "建筑师、研究员；苏黎世联邦理工学院数字建筑技术组",
+   "bio_zh": "Karen Antorveza Paez 在苏黎世联邦理工学院 Benjamin Dillenburger 的数字建筑技术组研究机器人生物胶结。",
+   "why_zh": "用机器人把沙子、废料和细菌“长”成类石材的建筑构件。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "benjamin-dillenburger"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "benjamin-dillenburger",
+   "name": "Benjamin Dillenburger",
+   "kind": "person",
+   "role": "Professor of Digital Building Technologies, ETH Zurich",
+   "based": "Zurich, Switzerland",
+   "bio": "Benjamin Dillenburger leads the Digital Building Technologies group at ETH Zurich, known for 3D-printed architecture and computational design.",
+   "why": "His lab extends digital fabrication to living, microbially grown materials.",
+   "links": {
+    "site": "https://dbt.arch.ethz.ch/"
+   },
+   "role_zh": "苏黎世联邦理工学院数字建筑技术教授",
+   "bio_zh": "Benjamin Dillenburger 领导苏黎世联邦理工学院数字建筑技术组，以 3D 打印建筑和计算设计著称。",
+   "why_zh": "他的实验室把数字制造延伸到由微生物生长的活体材料。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "karen-antorveza"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eduard-groutars",
+   "name": "Eduard Groutars",
+   "kind": "person",
+   "role": "Design researcher, TU Delft",
+   "based": "Delft, Netherlands",
+   "bio": "Eduard Groutars is a design researcher at TU Delft working with Elvin Karana on living artefacts made of bacterial cellulose that host other organisms.",
+   "why": "Treats a grown material as a habitat, not only as a product.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100651"
+   },
+   "role_zh": "设计研究者，代尔夫特理工大学",
+   "bio_zh": "Eduard Groutars 是代尔夫特理工大学的设计研究者，与 Elvin Karana 合作研究能容纳其他生物的细菌纤维素活体物件。",
+   "why_zh": "把“长”出来的材料当作栖息地，而不只是产品。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "elvin-karana",
+    "iohanna-nicenboim"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "margot-beekhuizen",
+   "name": "Margot Beekhuizen",
+   "kind": "person",
+   "role": "Designer, Eindhoven University of Technology",
+   "based": "Eindhoven, Netherlands",
+   "bio": "Margot Beekhuizen is a designer at Eindhoven University of Technology who grows forms with grass roots, together with Gizem Oktay and Bahareh Barati.",
+   "why": "Designs with roots as partners rather than as material to be moulded.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100857"
+   },
+   "role_zh": "设计师，埃因霍温理工大学",
+   "bio_zh": "Margot Beekhuizen 是埃因霍温理工大学的设计师，与 Gizem Oktay 和 Bahareh Barati 一起用草根生长出形态。",
+   "why_zh": "把根系当作合作伙伴而不是待塑形的材料来设计。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [
+    "bahareh-barati",
+    "gizem-oktay"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shahriar-akbari",
+   "name": "Shahriar Akbari",
+   "kind": "person",
+   "role": "Researcher, CITA, Royal Danish Academy",
+   "based": "Copenhagen, Denmark",
+   "bio": "Shahriar Akbari researches bioprinted photosynthetic living materials at CITA (Centre for Information Technology and Architecture) with Martin Tamke, Mette Ramsgaard Thomsen and microbiologist Michael Kühl.",
+   "why": "Uses light as a design tool for steering how living materials grow and colour.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100274"
+   },
+   "role_zh": "研究员，丹麦皇家艺术学院 CITA",
+   "bio_zh": "Shahriar Akbari 在丹麦皇家艺术学院 CITA（信息技术与建筑中心）研究生物打印的光合活体材料，合作者包括 Martin Tamke、Mette Ramsgaard Thomsen 和微生物学家 Michael Kühl。",
+   "why_zh": "把光当作设计工具，引导活体材料如何生长和变色。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "roba-alfraih",
+   "name": "Roba Alfraih",
+   "kind": "person",
+   "role": "Architectural designer, University College London",
+   "based": "London, UK",
+   "bio": "Roba Alfraih is an architectural designer at UCL who developed porous waste-glass scaffolds for photosynthetic life on facades.",
+   "why": "Turns glass, the classic barrier material, into a habitat.",
+   "links": {
+    "site": "https://doi.org/10.1017/s297790572610081x"
+   },
+   "role_zh": "建筑设计师，伦敦大学学院",
+   "bio_zh": "Roba Alfraih 是伦敦大学学院的建筑设计师，开发了能让光合生物在立面上生长的多孔废玻璃支架。",
+   "why_zh": "把玻璃这种典型的隔断材料变成栖息地。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "liv-tsim",
+   "name": "Liv Hui Laam Tsim",
+   "kind": "person",
+   "role": "Designer and researcher, Northumbria University",
+   "based": "Newcastle, UK",
+   "bio": "Liv Hui Laam Tsim researches self-pigmenting bacterial cellulose at Northumbria University with the Hub for Biotechnology in the Built Environment.",
+   "why": "Lets microbes pattern a textile while it grows.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100948"
+   },
+   "role_zh": "设计师、研究者，诺森比亚大学",
+   "bio_zh": "Liv Hui Laam Tsim 在诺森比亚大学与“建成环境生物技术中心”合作，研究能自我着色的细菌纤维素。",
+   "why_zh": "让微生物在织物生长时就为它“织”出图案。",
+   "based_zh": "纽卡斯尔，英国",
+   "connected_to": [
+    "thora-hafdis-arnardottir"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thora-hafdis-arnardottir",
+   "name": "Thora H. Arnardottir",
+   "kind": "person",
+   "role": "Architect and researcher, Northumbria and Newcastle Universities (HBBE)",
+   "based": "Newcastle, UK",
+   "bio": "Thora Hafdis Arnardottir is an architect who designs with microbially induced calcite precipitation (MICP) and bioregional minerals at the Hub for Biotechnology in the Built Environment.",
+   "why": "Treats microbial cementation as a form-finding process rather than a material spec.",
+   "links": {
+    "site": "https://doi.org/10.1017/s297790572510005x"
+   },
+   "role_zh": "建筑师、研究者，诺森比亚大学与纽卡斯尔大学（HBBE）",
+   "bio_zh": "Thora Hafdis Arnardottir 是建筑师，在“建成环境生物技术中心”用微生物诱导碳酸钙沉淀（MICP）和本地矿物做设计。",
+   "why_zh": "把微生物胶结当作找形过程，而不只是材料规格。",
+   "based_zh": "纽卡斯尔，英国",
+   "connected_to": [
+    "liv-tsim"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "clarice-risseeuw",
+   "name": "Clarice Risseeuw",
+   "kind": "person",
+   "role": "Design researcher, TU Delft",
+   "based": "Delft, Netherlands",
+   "bio": "Clarice Risseeuw is a design researcher at TU Delft who builds tools and everyday artefacts for living with iridescent Flavobacteria.",
+   "why": "Moves living colour from the lab to everyday use.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100250"
+   },
+   "role_zh": "设计研究者，代尔夫特理工大学",
+   "bio_zh": "Clarice Risseeuw 是代尔夫特理工大学的设计研究者，为与虹彩黄杆菌共同生活制作工具和日常物件。",
+   "why_zh": "把活体颜色从实验室带进日常使用。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "elvin-karana"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maria-claudia-valverde-rojas",
+   "name": "Maria Claudia Valverde Rojas",
+   "kind": "person",
+   "role": "Architect and researcher, University of Stuttgart",
+   "based": "Stuttgart, Germany",
+   "bio": "Maria Claudia Valverde Rojas researches building surfaces that host urban wildlife, working with Jan Knippers at the University of Stuttgart.",
+   "why": "Measures the microclimate a facade offers to non-human residents.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100079"
+   },
+   "role_zh": "建筑师、研究者，斯图加特大学",
+   "bio_zh": "Maria Claudia Valverde Rojas 在斯图加特大学与 Jan Knippers 合作，研究能容纳城市野生动物的建筑表面。",
+   "why_zh": "测量建筑立面能为非人类住户提供的微气候。",
+   "based_zh": "斯图加特，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "claudia-colmo",
+   "name": "Claudia Colmo",
+   "kind": "person",
+   "role": "Researcher, CITA, Royal Danish Academy",
+   "based": "Copenhagen, Denmark",
+   "bio": "Claudia Colmo researches living mycelium membranes at the Royal Danish Academy with Phil Ayres and Adrien Rigobello.",
+   "why": "Keeps the fungus alive inside the finished material so it can regrow and repair.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100900"
+   },
+   "role_zh": "研究员，丹麦皇家艺术学院 CITA",
+   "bio_zh": "Claudia Colmo 在丹麦皇家艺术学院与 Phil Ayres、Adrien Rigobello 合作研究活体菌丝膜。",
+   "why_zh": "让真菌在成品材料里保持存活，以便再生和自我修复。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hasti-valipour-goudarzi",
+   "name": "Hasti Valipour Goudarzi",
+   "kind": "person",
+   "role": "Independent researcher; De Vinci Research Center",
+   "based": "Paris, France",
+   "bio": "Hasti Valipour Goudarzi is a design researcher working on porous, decaying habitats for soil invertebrates.",
+   "why": "Designs for decomposers, the creatures that insect hotels usually ignore.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100754"
+   },
+   "role_zh": "独立研究者；De Vinci 研究中心",
+   "bio_zh": "Hasti Valipour Goudarzi 是设计研究者，研究为土壤无脊椎动物设计的多孔、会腐烂的栖息地。",
+   "why_zh": "为通常被“昆虫旅馆”忽视的分解者做设计。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "viola-arduini",
+   "name": "Viola Arduini",
+   "kind": "person",
+   "role": "Designer and HCI researcher",
+   "based": "Boulder, Colorado, US",
+   "bio": "Viola Arduini is a designer researching fluid-responsive biomaterials and the body, working with Eldy S. Lazaro Vasquez and Mirela Alistar.",
+   "why": "Takes bodily fluids seriously as triggers for material interaction.",
+   "links": {
+    "site": "https://doi.org/10.1145/3731459.3774473"
+   },
+   "role_zh": "设计师、人机交互研究者",
+   "bio_zh": "Viola Arduini 是设计师，与 Eldy S. Lazaro Vasquez 和 Mirela Alistar 合作研究会对液体作出反应的生物材料与身体。",
+   "why_zh": "认真地把体液当作触发材料交互的因素。",
+   "based_zh": "科罗拉多州博尔德，美国",
+   "connected_to": [
+    "eldy-lazaro-vasquez",
+    "mirela-alistar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jeremy-chen",
+   "name": "Jeremy Chen",
+   "kind": "person",
+   "role": "Researcher, Morphing Matter Lab, UC Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Jeremy Chen works in Lining Yao's Morphing Matter Lab on computational design of 3D-printed wood that shapes itself with moisture.",
+   "why": "Lets designers program the swelling of a natural material.",
+   "links": {
+    "site": "https://doi.org/10.1145/3772318.3791333"
+   },
+   "role_zh": "研究者，加州大学伯克利分校 Morphing Matter Lab",
+   "bio_zh": "Jeremy Chen 在 Lining Yao 的 Morphing Matter Lab 研究受湿度驱动、能自行成形的 3D 打印木材的计算设计。",
+   "why_zh": "让设计师可以为天然材料的膨胀“编程”。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [
+    "lining-yao"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shuting-liu",
+   "name": "Shuting Liu",
+   "kind": "person",
+   "role": "Researcher, South China Agricultural University",
+   "based": "Guangzhou, China",
+   "bio": "Shuting Liu is a materials researcher at South China Agricultural University who, with Xuejie Zhang, made living succulents glow by loading their leaves with afterglow phosphors.",
+   "why": "Shows a non-genetic route to glowing plants that people can grow at home.",
+   "links": {
+    "site": "https://doi.org/10.1016/j.matt.2025.102370"
+   },
+   "role_zh": "研究者，华南农业大学",
+   "bio_zh": "Shuting Liu 是华南农业大学的材料研究者，与 Xuejie Zhang 合作，把余辉荧光粉注入多肉植物叶片，让活植物发光。",
+   "why_zh": "展示了一条不靠基因改造、可在家中种植的发光植物路线。",
+   "based_zh": "广州，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "benedetta-zuccarelli",
+   "name": "Benedetta Zuccarelli",
+   "kind": "person",
+   "role": "Designer and researcher, Harvard Graduate School of Design",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "Benedetta Zuccarelli is a designer at the Harvard GSD who works on microalgae systems for building interiors with Daniel Tish.",
+   "why": "Brings photosynthetic organisms indoors as a building component.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100560"
+   },
+   "role_zh": "设计师、研究者，哈佛大学设计研究生院",
+   "bio_zh": "Benedetta Zuccarelli 是哈佛大学设计研究生院的设计师，与 Daniel Tish 合作研究用于建筑室内的微藻系统。",
+   "why_zh": "把光合生物作为建筑构件带进室内。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "malgorzata-zboinska",
+   "name": "Malgorzata A. Zboinska",
+   "kind": "person",
+   "role": "Associate Professor of Architecture, Chalmers University of Technology",
+   "based": "Gothenburg, Sweden",
+   "bio": "Malgorzata Zboinska researches robotic fabrication with biogenic and living materials in architecture at Chalmers University of Technology.",
+   "why": "Makes decay and short life cycles a design parameter in architecture.",
+   "links": {
+    "site": "https://doi.org/10.1017/s2977905726100262"
+   },
+   "role_zh": "查尔姆斯理工大学建筑系副教授",
+   "bio_zh": "Malgorzata Zboinska 在查尔姆斯理工大学研究建筑中生物源材料和活体材料的机器人制造。",
+   "why_zh": "把腐烂和短生命周期变成建筑的设计参数。",
+   "based_zh": "哥德堡，瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wilfried-weber",
+   "name": "Wilfried Weber",
+   "kind": "person",
+   "role": "Scientific director, INM – Leibniz Institute for New Materials",
+   "based": "Saarbrücken, Germany",
+   "bio": "Wilfried Weber is a synthetic biologist who designs materials whose properties are controlled by genetic circuits in living cells.",
+   "why": "Connects gene expression directly to how a material changes shape.",
+   "links": {
+    "site": "https://doi.org/10.1002/adfm.78503"
+   },
+   "role_zh": "INM 莱布尼茨新材料研究所科学主任",
+   "bio_zh": "Wilfried Weber 是合成生物学家，设计由活细胞中的基因线路控制性能的材料。",
+   "why_zh": "把基因表达与材料如何变形直接连接起来。",
+   "based_zh": "萨尔布吕肯，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sofia-guridi",
+   "name": "Sofía Guridi",
+   "kind": "person",
+   "role": "Doctoral researcher, Department of Design, Aalto University",
+   "based": "Espoo, Finland",
+   "bio": "Sofía Guridi is a textile designer and doctoral researcher at Aalto University who makes interactive electronic textiles from bio-based materials.",
+   "why": "Argues that biomaterials change how e-textiles look and feel, not only their footprint.",
+   "links": {
+    "site": "https://www.aalto.fi/en/news/sofia-guridi-is-designing-a-better-world-with-smart-textiles"
+   },
+   "role_zh": "博士研究者，阿尔托大学设计系",
+   "bio_zh": "Sofía Guridi 是纺织设计师、阿尔托大学博士研究者，用生物基材料制作可交互的电子纺织品。",
+   "why_zh": "她认为生物材料改变的不只是电子纺织品的环境足迹，还有它们的观感和触感。",
+   "based_zh": "埃斯波，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ivan-sukovic",
+   "name": "Ivan Šuković",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Podgorica, Montenegro",
+   "bio": "Ivan Šuković is a Montenegrin artist who works with archives and memory; he co-authored Montenegro's pavilion at the 2025 Venice Architecture Biennale.",
+   "why": "Brings soil bacteria into a national pavilion as co-authors of landscape.",
+   "links": {
+    "site": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "Ivan Šuković 是黑山艺术家，作品围绕档案与记忆展开；他是 2025 年威尼斯建筑双年展黑山馆的联合作者。",
+   "why_zh": "把土壤细菌作为景观的共同作者带进国家馆。",
+   "based_zh": "波德戈里察，黑山",
+   "connected_to": [
+    "dejan-todorovic",
+    "emir-sehanovic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dejan-todorovic",
+   "name": "Dejan Todorović",
+   "kind": "person",
+   "role": "Architect",
+   "based": "Montenegro",
+   "bio": "Dejan Todorović is an architect working across architectural design, scenography and visual art; he co-authored Montenegro's pavilion at the 2025 Venice Architecture Biennale.",
+   "why": "Translates microbial processes into spatial experience.",
+   "links": {
+    "site": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0"
+   },
+   "role_zh": "建筑师",
+   "bio_zh": "Dejan Todorović 是建筑师，工作横跨建筑设计、舞台设计和视觉艺术；他是 2025 年威尼斯建筑双年展黑山馆的联合作者。",
+   "why_zh": "把微生物过程转化为空间体验。",
+   "based_zh": "黑山",
+   "connected_to": [
+    "ivan-sukovic",
+    "emir-sehanovic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emir-sehanovic",
+   "name": "Emir Šehanović",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Bosnia and Herzegovina",
+   "bio": "Emir Šehanović is an artist whose work explores objects, bodies and material transformation; he co-authored Montenegro's pavilion at the 2025 Venice Architecture Biennale.",
+   "why": "Treats material identity as something living organisms can rewrite.",
+   "links": {
+    "site": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "Emir Šehanović 是艺术家，作品探讨物件、身体与材料的转化；他是 2025 年威尼斯建筑双年展黑山馆的联合作者。",
+   "why_zh": "把材料的身份看作可以被活体生物改写的东西。",
+   "based_zh": "波斯尼亚和黑塞哥维那",
+   "connected_to": [
+    "ivan-sukovic",
+    "dejan-todorovic"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "grace-church-biodesign--microshield",
+   "creator_ids": [
+    "grace-church-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/grace-church-school-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "MicroShield+",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A 'living paint' for damp buildings that carries Bacillus subtilis, a soil bacterium whose antifungal compounds keep moulds such as Aspergillus niger from growing on walls.",
+   "description_zh": "一种用于潮湿建筑的“活体涂料”，内含枯草芽孢杆菌。这种土壤细菌分泌的抗真菌物质能阻止黑曲霉等霉菌在墙上生长。",
+   "idea_en": "Protect a building by giving it a microbial ally instead of a fungicide.",
+   "idea_zh": "不用杀菌剂，而是给建筑配一个微生物盟友。",
+   "method": "Bacillus subtilis cells, likely as hardy spores, are mixed into a bio-based paint binder and release antifungal lipopeptides on the wall.",
+   "method_zh": "把枯草芽孢杆菌（很可能以耐受性强的芽孢形式）混入生物基涂料，在墙面上释放抗真菌脂肽。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "BDC Prize for DNA Futures",
+    "high school",
+    "Bacillus subtilis",
+    "living paint",
+    "mould"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j4hXurHsGWo"
+   }
+  },
+  {
+   "id": "morris-county-biodesign--bloom-boards",
+   "creator_ids": [
+    "morris-county-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/morris-county-school-of-technology-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Bloom Boards",
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "speculative",
+   "description": "Highway billboards rebuilt as tubular microalgae bioreactors that take up vehicle exhaust, grow biomass for fuel, and use rising bubbles as moving pixels for the advertisement.",
+   "description_zh": "把高速公路广告牌改造成管状微藻生物反应器：吸收汽车尾气、生长可做燃料的生物质，并让上升的气泡成为广告画面里移动的像素。",
+   "idea_en": "Existing roadside infrastructure can become a habitat for photosynthesis.",
+   "idea_zh": "现有的路边基础设施可以变成光合作用的栖息地。",
+   "method": "Microalgae circulate in clear tubes; computer-controlled slug flow and Taylor bubbles mix the culture, limit biofilm and draw images.",
+   "method_zh": "微藻在透明管道中循环；计算机控制的段塞流和泰勒气泡负责搅拌、减少生物膜，同时绘出图像。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "BDC Prize for Biodigital Excellence",
+    "high school",
+    "microalgae",
+    "photobioreactor",
+    "billboard"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XnryVmHJz78"
+   }
+  },
+  {
+   "id": "utas-biodesign--upsurge",
+   "creator_ids": [
+    "utas-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/university-of-tasmania-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Upsurge",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "algae",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Frames cast from 'UrchCrete', a bioconcrete made from the shells of invasive sea urchins, are seeded with giant kelp spores and hung in coastal water to regrow Tasmania's collapsed kelp forests.",
+   "description_zh": "用入侵海胆壳制成的生物混凝土“UrchCrete”浇铸框架，预先播上巨藻孢子后悬挂在近岸海水中，帮助恢复塔斯马尼亚已崩溃的巨藻林。",
+   "idea_en": "The species that destroyed a forest supplies the scaffold for its return.",
+   "idea_zh": "毁掉海藻林的物种，为它的回归提供了支架。",
+   "method": "Ground urchin shell replaces part of the cement; frames are pre-cultured with kelp gametophytes in nursery tanks before deployment, protecting young kelp from grazing.",
+   "method_zh": "用磨碎的海胆壳替代部分水泥；框架在育苗池中先培养巨藻配子体再投放，使幼藻免遭啃食。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Digital Submission",
+    "giant kelp",
+    "sea urchin",
+    "bioconcrete",
+    "Great Southern Reef",
+    "Palawa"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rwZ_nsaxaJI"
+   }
+  },
+  {
+   "id": "udit-biodesign--muqaria",
+   "creator_ids": [
+    "udit-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/udit-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Muqaria",
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Modular bio-ceramic nesting blocks, patterned after Arabic muqarnas vaults, that let common house martins build their mud nests on new building facades in Madrid.",
+   "description_zh": "一套模块化的生物陶瓷筑巢砖，造型借鉴阿拉伯建筑的穆喀纳斯（钟乳拱），让白腹毛脚燕能在马德里新建筑的外墙上筑起泥巢。",
+   "idea_en": "Treat the facade as shared habitat rather than a surface to defend from birds.",
+   "idea_zh": "把建筑立面当作与鸟共享的栖息地，而不是要防鸟的表面。",
+   "method": "Low-fired bio-ceramic modules copy the texture of natural mud nests and interlock into facade patterns sized for the swallows' nesting needs.",
+   "method_zh": "低温烧制的生物陶瓷模块模仿天然泥巢的质感，按燕子的筑巢需要拼接成立面图案。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Art Prize",
+    "top 8 finalist",
+    "Delichon urbicum",
+    "house martin",
+    "muqarnas",
+    "bird-friendly architecture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Ecfq1R177E"
+   }
+  },
+  {
+   "id": "yunnan-arts-biodesign--spores-and-spirits",
+   "creator_ids": [
+    "yunnan-arts-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/yunnan-arts-university-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Spores and Spirits: Healing Space Design",
+   "field": "bio",
+   "sub": "mycelium",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A low-carbon building for the Honghe Hani Rice Terraces, a World Heritage landscape, grown from local mycelium and terrace farm waste and shaped after the Hani people's traditional 'mushroom houses'.",
+   "description_zh": "为世界遗产红河哈尼梯田设计的低碳建筑，用本地菌丝体和梯田农业废料长成，造型取自哈尼族传统的“蘑菇房”。",
+   "idea_en": "A vernacular form named after mushrooms can now be grown from them.",
+   "idea_zh": "以蘑菇命名的乡土建筑，如今可以真的用菌丝“长”出来。",
+   "method": "Local fungal strains colonise rice straw and other terrace residues in moulds, forming mycelium composite panels for a demountable, compostable structure.",
+   "method_zh": "本地菌种在模具中长满稻草等梯田残余物，形成菌丝体复合板，用于可拆卸、可堆肥的建筑结构。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Field Research",
+    "top 8 finalist",
+    "Hani mushroom house",
+    "Honghe Hani Rice Terraces",
+    "mycelium composite",
+    "vernacular architecture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-6nViwFwnI4"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1782961236790-TZNYXXQ4AQBMX2DL93ND/%E6%9C%80%E7%BB%88%E8%98%91%E8%8F%87%E7%88%86%E7%82%B8.jpg",
+    "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1782961243672-UC686P4UT085T0UHL3CA/%E5%AE%9E%E6%99%AF%E5%9B%BE.jpg"
+   ]
+  },
+  {
+   "id": "northumbria-biodesign--mr-rain",
+   "creator_ids": [
+    "northumbria-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/northumbria-university-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Mr. Rain",
+   "field": "bio",
+   "sub": "biotextiles",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A public campaign that gives Britain's rain a grumpy voice; its posters and banners are printed with bacterial indigo and hydrophobic coatings so the message fades, bleeds and changes each time it rains.",
+   "description_zh": "一场让英国的雨“开口抱怨”的公共宣传：海报和横幅用细菌靛蓝和疏水涂层印制，每次下雨，信息都会褪色、晕开、改变。",
+   "idea_en": "Let the weather itself rewrite the message about water.",
+   "idea_zh": "让天气本身改写关于水的信息。",
+   "method": "Indigo grown by engineered or pigment-producing bacteria is printed next to water-repellent areas, so rain dissolves and moves the dye along designed paths.",
+   "method_zh": "把由工程菌或产色细菌生产的靛蓝印在疏水区域旁，雨水按设计好的路径溶解并带走染料。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Narrative",
+    "top 8 finalist",
+    "bacterial indigo",
+    "rain",
+    "water scarcity",
+    "communication design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fi1kfC3wuLM"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1782785829507-QI3C6YQ895TK56J8UIL4/social_media_MRRAIN_Igrowposter.jpg",
+    "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1782785829503-HGI2KIAJZ07V35WML3IS/socials_rain_detail2_social.jpg"
+   ]
+  },
+  {
+   "id": "mica-biodesign--cell-phonic",
+   "creator_ids": [
+    "mica-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/maryland-institute-college-of-art-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Cell-Phonic",
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A transparent, low-resolution 'phone' that lets visitors exchange sound and electrical signals with soil microbes living in microbial fuel cells, staging an imperfect conversation across species.",
+   "description_zh": "一部透明、低分辨率的“电话”，让观众与生活在微生物燃料电池里的土壤微生物交换声音和电信号，上演一场跨物种的、不完美的对话。",
+   "idea_en": "Make the uncertainty of translating microbial life part of the interface.",
+   "idea_zh": "把翻译微生物生命时的不确定性，变成界面的一部分。",
+   "method": "Microbial fuel cells generate small voltages from bacterial metabolism; these are turned into sound, and visitors' audio is fed back as electrical stimulation.",
+   "method_zh": "微生物燃料电池把细菌代谢产生的微弱电压转成声音，观众的声音再以电刺激的形式回传。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Exhibition",
+    "microbial fuel cell",
+    "interspecies communication",
+    "sound"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dCJSyK_cyz8"
+   }
+  },
+  {
+   "id": "sfsu-biodesign--coastal-resonance",
+   "creator_ids": [
+    "sfsu-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/san-francisco-state-university-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Coastal Resonance",
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "animals",
+    "algae",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Modular eco-concrete tiles that turn San Francisco Bay seawalls into habitat for oysters and algae, with built-in resonance chambers that amplify the sounds of tides and the life growing on the wall.",
+   "description_zh": "模块化生态混凝土砖，把旧金山湾的海堤变成牡蛎和藻类的栖息地；砖内的共鸣腔会放大潮汐和墙上生物的声音。",
+   "idea_en": "A seawall can protect a city, host a reef and let people listen to it.",
+   "idea_zh": "一道海堤可以保护城市、承载礁体，还能让人听见它。",
+   "method": "Textured low-pH concrete tiles invite oyster and algae settlement; passive cavities shaped like resonators make tidal and biological sounds audible from the promenade.",
+   "method_zh": "带纹理的低碱性混凝土砖吸引牡蛎和藻类附着；被动式共鸣腔让人在步道上听到潮汐和生物的声音。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "Outstanding Institutional Collaboration",
+    "living shoreline",
+    "Olympia oyster",
+    "eco-concrete",
+    "acoustic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NddDYhiLe0U"
+   }
+  },
+  {
+   "id": "scad-biodesign--poddy",
+   "creator_ids": [
+    "scad-biodesign"
+   ],
+   "year": 2026,
+   "source_url": "https://www.biodesignchallenge.org/scad-2026",
+   "collections": [
+    "biodesign-challenge"
+   ],
+   "title": "Poddy",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A portable toilet for festivals and national parks that cultivates a designed microbial community in its tank, breaking down waste and odour on site instead of sterilising it with harsh chemicals.",
+   "description_zh": "一款用于音乐节和国家公园的移动厕所：在粪箱里培养经过设计的微生物群落，就地分解粪便和异味，而不是用刺激性化学品消毒。",
+   "idea_en": "Design the microbiome of an object instead of killing it.",
+   "idea_zh": "设计物件里的微生物群落，而不是消灭它。",
+   "method": "Targeted bacterial cultures replace disinfectants, starting composting inside the tank and producing safer material for downstream treatment.",
+   "method_zh": "用定向培养的细菌替代消毒剂，在粪箱内开始堆肥，为后续处理提供更安全的物料。",
+   "keywords": [
+    "Biodesign Challenge 2026",
+    "top 8 finalist",
+    "sanitation",
+    "composting",
+    "microbiome"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CtPS_ZeWOs4"
+   }
+  },
+  {
+   "id": "keio-kmd-biodesign--taika",
+   "creator_ids": [
+    "keio-kmd-biodesign"
+   ],
+   "year": 2026,
+   "title": "TAIKA (耐火)",
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A brush-on fire-retardant coating for Japan's dense wooden neighbourhoods, made from chitosan extracted from discarded mushrooms and silica from spent mushroom-growing substrate.",
+   "description_zh": "一种可刷涂的防火涂层，用于日本密集的木造街区；原料是从废弃蘑菇中提取的壳聚糖，以及从废弃菇类培养基中提取的二氧化硅。",
+   "idea_en": "Waste from mushroom farms can buy residents time to escape a fire.",
+   "idea_zh": "蘑菇农场的废料，可以为居民在火灾中争取逃生时间。",
+   "method": "Chitosan from mushroom caps and stems (alkaline deacetylation) is blended with silica from burnt substrate; under heat it chars into an insulating crust over the wood.",
+   "method_zh": "从菇盖和菇柄中经碱法脱乙酰提取壳聚糖，与燃烧培养基得到的二氧化硅混合；受热时在木材表面炭化成隔热层。",
+   "keywords": [
+    "Biodesign Challenge 2026 finalist",
+    "James Dyson Award 2026 national runner-up (Japan)",
+    "chitosan",
+    "spent mushroom substrate",
+    "Mokumitsu",
+    "fire retardant"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=d1EWuySuAXo"
+   },
+   "images": [
+    "https://www.jamesdysonaward.org/Document/7104e0a9-d0a1-4b12-b0b7-41e147e0e35a/tested-woodsocial-media-use-copy.png",
+    "https://www.jamesdysonaward.org/Document/5155874d-4f29-4c1b-a36c-5722c0353700/chitosan-extracted.png"
+   ],
+   "source_url": "https://www.jamesdysonaward.org/en-GB/2026/project/taika/",
+   "collections": [
+    "biodesign-challenge",
+    "james-dyson-award"
+   ]
+  },
+  {
+   "id": "yin-rui-liao--reefvive",
+   "creator_ids": [
+    "yin-rui-liao"
+   ],
+   "year": 2026,
+   "title": "Reefvive",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Stackable coral-restoration bases 3D-printed from Taiwanese marine waste (coral gravel and oyster shell); in sea trials 28 coral species were planted on them and fish, crabs and octopuses moved in.",
+   "description_zh": "用台湾的海洋废料（珊瑚碎石和牡蛎壳）3D 打印的可堆叠珊瑚复育底座；海试中种下了 28 种珊瑚，鱼、寄居蟹和章鱼也住了进来。",
+   "idea_en": "Build reef habitat from the reef's own debris, without cement.",
+   "idea_zh": "不用水泥，用礁体自身的碎屑重建礁体栖息地。",
+   "method": "A cement-free coral-gravel and oyster-shell paste is printed into brain-coral-textured modules with three legs and openings so units stack into 3D reefs.",
+   "method_zh": "把不含水泥的珊瑚碎石—牡蛎壳浆料打印成带脑珊瑚纹理的模块，三条支脚和开口让模块能堆成立体礁体。",
+   "keywords": [
+    "James Dyson Award 2026 international top 20",
+    "coral restoration",
+    "oyster shell",
+    "3D printing",
+    "National Taiwan Ocean University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9Ar2Ir9hdmI"
+   },
+   "images": [
+    "https://www.jamesdysonaward.org/Document/450ff05a-f4ce-4fc3-b3d6-be9270d539f1/reefvive.jpg",
+    "https://www.jamesdysonaward.org/Document/94632f90-634e-4aad-9a8c-d07e6def2f23/reefvive2.jpg"
+   ],
+   "source_url": "https://www.jamesdysonaward.org/en-GB/2026/project/reefvive/",
+   "collections": [
+    "james-dyson-award"
+   ]
+  },
+  {
+   "id": "perla-armaly--cyanocement",
+   "creator_ids": [
+    "perla-armaly"
+   ],
+   "year": 2026,
+   "title": "CyanoCement",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A 3D-printable green biocement for non-load-bearing building elements in which photosynthetic cyanobacteria bind mineral grains and keep drawing CO₂ from the air during and after production.",
+   "description_zh": "一种可 3D 打印的绿色生物水泥，用于非承重建筑构件：光合蓝细菌把矿物颗粒粘结起来，并在生产中和成型后持续从空气中吸收二氧化碳。",
+   "idea_en": "Cement whose green colour is the sign that it is still alive and capturing carbon.",
+   "idea_zh": "水泥的绿色，就是它仍然活着、仍在固碳的标志。",
+   "method": "Cyanobacteria drive microbially induced calcium-carbonate precipitation in a printable mineral paste at room temperature, replacing kiln-fired cement.",
+   "method_zh": "蓝细菌在可打印的矿物浆料中常温诱导碳酸钙沉淀，取代窑烧水泥。",
+   "keywords": [
+    "Green Concept Award 2026 nominee",
+    "cyanobacteria",
+    "biocement",
+    "MICP",
+    "Technion",
+    "Disrupt Design Lab"
+   ],
+   "images": [
+    "https://content.gp-award.com/assets/media/award26/1-cyanocement_blogLarge.jpg",
+    "https://content.gp-award.com/assets/media/award26/3-cyanocement_blogLarge.jpg"
+   ],
+   "source_url": "https://www.gp-award.com/en/projects/CyanoCement",
+   "collections": [
+    "green-product-award"
+   ]
+  },
+  {
+   "id": "evelina-lavergren--biological-footprint",
+   "creator_ids": [
+    "evelina-lavergren"
+   ],
+   "year": 2026,
+   "title": "Biological Footprint",
+   "field": "bio",
+   "sub": "algae",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "algae",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A compostable shoe for postal workers made from Gotland beach seaweed and hemp; its lotus-pod sole drops native seeds and micronutrients along the delivery route as the wearer walks.",
+   "description_zh": "一双给邮递员穿的可堆肥鞋，用哥得兰岛海滩上的海藻和大麻制成；莲蓬状鞋底在送信路上随步伐撒下本地植物种子和微量养分。",
+   "idea_en": "A daily walking route can become a planting route.",
+   "idea_zh": "每天的步行路线可以变成播种路线。",
+   "method": "Excess Baltic seaweed is processed into a bio-based rubber sole with seed cavities inspired by the lotus seed pod; the shoe is composted or ground into fertiliser after use.",
+   "method_zh": "把波罗的海过剩的海藻加工成生物基橡胶鞋底，鞋底有仿莲蓬的种子腔；鞋子用完后堆肥或磨碎作肥料。",
+   "keywords": [
+    "Green Concept Award 2026 nominee",
+    "seaweed",
+    "Gotland",
+    "seed dispersal",
+    "postal workers",
+    "Baltic Sea eutrophication"
+   ],
+   "images": [
+    "https://content.gp-award.com/assets/media/award26/2-biological-footprint_1_blogLarge.jpg",
+    "https://content.gp-award.com/assets/media/award26/0-biological-footprint_1_blogLarge.jpg"
+   ],
+   "source_url": "https://www.gp-award.com/en/projects/Biological-Footprint",
+   "collections": [
+    "green-product-award"
+   ]
+  },
+  {
+   "id": "katarina-gessner--bionest",
+   "creator_ids": [
+    "katarina-gessner"
+   ],
+   "year": 2026,
+   "title": "Bionest",
+   "field": "hni",
+   "sub": "citizen-science",
+   "organisms": [
+    "ecosystems",
+    "molecules"
+   ],
+   "kind": "prototype",
+   "description": "A wind-powered field sampler that pulls environmental DNA (eDNA) out of the air, so the plants and animals living around it can be identified without trapping or seeing them.",
+   "description_zh": "一个由风力供电的野外采样器，从空气中收集环境 DNA，不必捕捉或目击就能识别周围生活的动植物。",
+   "idea_en": "Listen to biodiversity through the traces it leaves in the air.",
+   "idea_zh": "通过生物留在空气里的痕迹来“聆听”生物多样性。",
+   "method": "A wind-driven fan draws air through replaceable filters that trap shed DNA; sensors log conditions so the samples can be sequenced and compared over time.",
+   "method_zh": "风力风扇把空气抽过可更换滤膜以捕获脱落的 DNA；传感器记录环境条件，便于之后测序和长期比较。",
+   "keywords": [
+    "Green Concept Award 2026 Editor's Choice",
+    "airborne eDNA",
+    "biodiversity monitoring",
+    "QUT"
+   ],
+   "images": [
+    "https://content.gp-award.com/assets/media/award26/w-bionest_blogLarge.jpg",
+    "https://content.gp-award.com/assets/media/award26/1-bionest_blogLarge.jpg"
+   ],
+   "source_url": "https://www.gp-award.com/en/projects/bionest",
+   "collections": [
+    "green-product-award"
+   ]
+  },
+  {
+   "id": "lilian-van-daal--living-colour-structural",
+   "creator_ids": [
+    "lilian-van-daal"
+   ],
+   "year": 2025,
+   "source_url": "https://ddw.nl/en/programme/archive/2025/living-colour",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Living Colour (structural-colour bacteria)",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A kinetic object covered with flakes of colour grown by bacteria that make structural colour, like peacock feathers, instead of pigment; the hues shift as the object moves through light.",
+   "description_zh": "一件动态物件，表面覆盖着由细菌长出的颜色薄片。这些细菌像孔雀羽毛一样产生结构色而不是色素，物件在光中转动时颜色随之变化。",
+   "idea_en": "Colour can be grown as a nanostructure rather than painted on as a pigment.",
+   "idea_zh": "颜色可以作为纳米结构“长”出来，而不是作为色素涂上去。",
+   "method": "Iridescent bacteria from Hoekmine BV (likely Flavobacteria) grow in Petri dishes; growth time sets the colour spectrum, and the dried colonies are mounted on a moving object.",
+   "method_zh": "来自 Hoekmine BV 的虹彩细菌（很可能是黄杆菌）在培养皿中生长，生长时间决定色谱；干燥后的菌落被装到一件会动的物件上。",
+   "keywords": [
+    "Dutch Design Week 2025",
+    "structural colour",
+    "Hoekmine",
+    "iridescence",
+    "pigment-free"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/living-colour-lilian-van-daal-kazerne-ddw01-s_1760693173_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/living-colour-blue-lilian-van-daal-02-s_1760693154_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "maxim-velli--kojigotchi",
+   "creator_ids": [
+    "maxim-velli"
+   ],
+   "year": 2025,
+   "source_url": "https://ddw.nl/en/programme/kojigotchi-a-tamagotchi-for-the-microbial-age-1",
+   "collections": [
+    "dutch-design-week-biobased",
+    "biodesign-challenge"
+   ],
+   "title": "KojiGotchi",
+   "field": "bio",
+   "sub": "microbial",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "fungi",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "An open-source wearable that incubates koji, the Aspergillus oryzae mould behind miso and sake, with the wearer's body heat; a Tamagotchi-like avatar called KojiMoji turns sensor readings into the mould's moods.",
+   "description_zh": "一款开源可穿戴设备，用佩戴者的体温培养米曲霉——制作味噌和清酒的霉菌；一个类似电子宠物的头像 KojiMoji 把传感器读数转化成霉菌的“心情”。",
+   "idea_en": "Practise living with microbes the way a generation practised caring for a digital pet.",
+   "idea_zh": "像一代人照顾电子宠物那样，练习与微生物共同生活。",
+   "method": "A transparent growth chamber worn on the body holds inoculated rice; temperature and humidity sensors drive the KojiMoji avatar, built from standard open-source parts.",
+   "method_zh": "贴身佩戴的透明培养舱里装着接种过的米；温湿度传感器驱动 KojiMoji 头像，整机由标准开源零件搭建。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "Biodesign Challenge 2025",
+    "Aspergillus oryzae",
+    "koji",
+    "wearable",
+    "DTU Biosustain",
+    "Royal Danish Academy",
+    "Tamagotchi"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QHhDe_4nfCI"
+   },
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1-hero_1787317694_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/2-harness_1787317725_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "rafaela-cecconi--noom",
+   "creator_ids": [
+    "rafaela-cecconi"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/noom-a-living-interface-for-menstrual-awarness",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "NOOM",
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A wearable patch of electrochromic bacterial cellulose that changes colour with the phases of the menstrual cycle, making an invisible bodily rhythm visible on the skin.",
+   "description_zh": "一片由电致变色细菌纤维素制成的可穿戴贴片，随月经周期的不同阶段改变颜色，让看不见的身体节律在皮肤上显现。",
+   "idea_en": "A grown material can be a soft, skin-friendly display.",
+   "idea_zh": "“长”出来的材料可以成为柔软、亲肤的显示屏。",
+   "method": "Bacterial cellulose grown by bacteria is made electrochromic and switched by small voltages linked to cycle data.",
+   "method_zh": "把细菌生长出的纤维素做成电致变色材料，由与周期数据关联的微小电压驱动变色。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "bacterial cellulose",
+    "electrochromic",
+    "menstrual cycle",
+    "wearable"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/rafaela-cecconi-ddw-image-1_1788213494_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/rafaela-cecconi-ddw-image-2jpeg_1788213500_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "novya-biotech--yeast-colourants",
+   "creator_ids": [
+    "novya-biotech"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/novya-biotech-1",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Scarves dyed with yeast colourants",
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "fungi",
+    "molecules"
+   ],
+   "kind": "product",
+   "description": "Cotton, wool, bacterial cellulose and polyamide scarves dyed with a purple-blue colourant brewed by engineered yeast, shown as the first products of the start-up Novya Biotech.",
+   "description_zh": "用工程酵母发酵出的紫蓝色素染成的棉、羊毛、细菌纤维素和聚酰胺围巾，是初创公司 Novya Biotech 的首批产品。",
+   "idea_en": "Brew colour like beer instead of extracting it from oil.",
+   "idea_zh": "像酿啤酒一样酿造颜色，而不是从石油中提炼。",
+   "method": "Saccharomyces yeast is genetically engineered to produce a blue-violet pigment in fermenters; the colourant is then applied to natural and synthetic fibres.",
+   "method_zh": "对酵母进行基因改造，使其在发酵罐中产生蓝紫色素，再把色素用于天然纤维和合成纤维。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "engineered yeast",
+    "fermentation",
+    "textile dye",
+    "Wageningen"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/untitled-design-14_1792268645_1920x1080.png",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/untitled-design-16_1792269627_1920x1080.png"
+   ]
+  },
+  {
+   "id": "xijing-xu--scoby-face",
+   "creator_ids": [
+    "xijing-xu"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/scoby-face",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "SCOBY Face",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "fungi",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Ceramic vessels for brewing kombucha whose openings are shaped so the SCOBY grows into face-mask contours; the same culture is drunk as tea and laid on the skin.",
+   "description_zh": "一组用于酿造康普茶的陶瓷器皿，开口形状经过设计，让菌膜长成面膜的轮廓；同一份菌群既能当茶喝，也能敷在脸上。",
+   "idea_en": "The container sets the shape of a living material.",
+   "idea_zh": "容器决定了活体材料的形状。",
+   "method": "The symbiotic culture of bacteria and yeast forms a cellulose membrane at the liquid–air interface, so the vessel mouth defines the membrane's outline.",
+   "method_zh": "细菌与酵母的共生菌群在液气界面形成纤维素膜，因此器皿口的形状决定了菌膜的轮廓。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "kombucha",
+    "SCOBY",
+    "ceramics",
+    "skin care",
+    "gut-to-skin"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/scoby-face-xijing-xu-web-01-c_1788197020_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/scoby-face-xijing-xu-web-02-2-c_1788197035_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "shijia-huang--written-in-decay",
+   "creator_ids": [
+    "shijia-huang"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Written in Decay: Traces of Entanglement",
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A book whose pages are made of a bacteria-derived bioplastic and buried in soils from across London, so that soil microbes, moisture and time write marks of decay onto them.",
+   "description_zh": "一本书，书页用细菌来源的生物塑料制成，被埋进伦敦各地采集的土壤里，让土壤微生物、湿气和时间在上面写下腐烂的痕迹。",
+   "idea_en": "Let decomposers be the authors of the biomaterial's final chapter.",
+   "idea_zh": "让分解者来书写生物材料的最后一章。",
+   "method": "Pages of Vivomer, a PHA-type bioplastic by Shellworks made from bacterial by-products, are exposed to different soils and recorded as they degrade.",
+   "method_zh": "用 Shellworks 以细菌代谢产物制成的 PHA 类生物塑料 Vivomer 做书页，放入不同土壤并记录其降解过程。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "Vivomer",
+    "Shellworks",
+    "biodegradation",
+    "soil microbes",
+    "book"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/written-in-decay-1_1787616926_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/written-in-decay-3_1787616969_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "emilie-gibert--matter-of-place",
+   "creator_ids": [
+    "emilie-gibert"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/matter-of-place-co-habiting-with-the-living",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Matter of Place: Co-habiting with the Living",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "bacteria",
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A living facade made from bacteria and waste oyster shells that captures carbon dioxide from the air, proposed as an alternative to concrete.",
+   "description_zh": "用细菌和废弃牡蛎壳制成的活体立面，能从空气中吸收二氧化碳，被提出作为混凝土的替代品。",
+   "idea_en": "A wall can breathe in carbon like a tree if microbes are part of it.",
+   "idea_zh": "只要让微生物成为墙的一部分，墙就能像树一样吸入碳。",
+   "method": "Bacteria likely drive calcium-carbonate precipitation that binds crushed oyster shell into facade elements while fixing atmospheric CO₂.",
+   "method_zh": "细菌很可能通过诱导碳酸钙沉淀把碎牡蛎壳粘结成立面构件，同时固定空气中的二氧化碳。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "living facade",
+    "oyster shell",
+    "biomineralisation",
+    "carbon capture"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1_1788184651_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-2_1788184742_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "utrecht-myvi-team--regreen-hut",
+   "creator_ids": [
+    "utrecht-myvi-team"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/the-regreen-hut",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "The ReGreen Hut (Myvi panel)",
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A small hut clad in Myvi panels, a mycelium composite designed so plants can root and grow in it, bringing greenery, rain retention and cooling onto building walls.",
+   "description_zh": "一座用 Myvi 板包覆的小屋。Myvi 是一种菌丝体复合板，设计成能让植物扎根生长，把绿化、雨水滞留和降温带到建筑墙面上。",
+   "idea_en": "A fungal panel can be both the wall and the soil for plants.",
+   "idea_zh": "真菌板既可以是墙，也可以是植物的土壤。",
+   "method": "Mycelium is grown through a substrate in panel moulds and left porous enough to hold water and plant roots before being mounted on a timber frame.",
+   "method_zh": "菌丝体在板材模具中长满基质，并保持足够的孔隙以容纳水和植物根系，然后安装在木框架上。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "mycelium composite",
+    "green facade",
+    "urban heat",
+    "Utrecht University"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/panel_1788163385_1920x1080.png",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/the-regreen-hut-3d-model_1788165823_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "klarenbeek-dros--mass-space-biomateriality",
+   "creator_ids": [
+    "klarenbeek-dros"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/mass-space-and-biomateriality",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Mass, Space, and Biomateriality",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "bacteria",
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A monumental passage built entirely from 3D-printed panels of a bioplastic grown by microorganisms with algae and seaweed, proportioned after Dom Hans van der Laan's 'plastic number' and made with builder Heijmans.",
+   "description_zh": "一道纪念碑式的通道，完全由 3D 打印板构成，板材是微生物与藻类、海藻共同形成的生物塑料；比例依据 Dom Hans van der Laan 的“塑性数”，与建筑公司 Heijmans 合作完成。",
+   "idea_en": "Buildings should be grown with life taking part, then returned to nature.",
+   "idea_zh": "建筑应该在生命参与下“长”出来，用完再回归自然。",
+   "method": "Microbes and bacteria cultivated by the studio bind algae and seaweed fibres into a printable bioplastic; a coating of algae extract and linseed oil weathers into a patina.",
+   "method_zh": "工作室培养的微生物和细菌把藻类与海藻纤维粘结成可打印的生物塑料；藻类提取物与亚麻籽油调成的涂层会随天气形成包浆。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    ".unusual",
+    "Heijmans",
+    "Van der Laan Foundation",
+    "Growing Façade (2025)",
+    "algae bioplastic",
+    "3D printing"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/seadom-dotunusual-ddw2026-02_1790755437_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/3ef54a93-c9f1-4a98-9802-4b3e3d2e3507_1790683259_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "sven-van-leeuwen--alveo",
+   "creator_ids": [
+    "sven-van-leeuwen"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/alveo-a-clay-3d-printed-artificial-reef-system",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Alveo: A Clay 3D-Printed Artificial Reef System",
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A fired-clay artificial reef, 3D-printed to mimic the tube structure of reefs built by the honeycomb worm (Sabellaria alveolata), to bring the species back to the Wadden Sea.",
+   "description_zh": "一种烧制黏土人工礁，用 3D 打印模仿蜂窝沙蠋（Sabellaria alveolata）所建礁体的管状结构，帮助该物种回到瓦登海。",
+   "idea_en": "Design the reef from the animal's own architecture.",
+   "idea_zh": "依照动物自己的建筑来设计礁体。",
+   "method": "Six reef features of the worm are translated into a clay body fired at 1050 °C, matched to natural reef and sediment density.",
+   "method_zh": "把蜂窝沙蠋礁的六个特征转译成在 1050 °C 烧制的黏土体，密度与天然礁体和沉积物相匹配。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "Sabellaria alveolata",
+    "honeycomb worm",
+    "Wadden Sea",
+    "clay 3D printing",
+    "reef restoration"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/image-01_1788031941_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "nicolas-nielsen--hyve",
+   "creator_ids": [
+    "nicolas-nielsen"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/hyve-1",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "HYVE",
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "An autonomously moving beehive that relocates bee colonies at night between isolated city green spaces, reviving migratory beekeeping to reconnect fragmented habitat.",
+   "description_zh": "一个能自主移动的蜂箱，夜间把蜂群在相互隔离的城市绿地之间搬运，以迁徙养蜂的古老方法重新连接破碎的栖息地。",
+   "idea_en": "Give pollinators back the mobility that human infrastructure cut off.",
+   "idea_zh": "把被人类基础设施切断的移动能力还给传粉者。",
+   "method": "The hive moves only at night, when all bees are home, and travels more than 5 km so foragers reorient to the new site.",
+   "method_zh": "蜂箱只在夜间蜜蜂全部归巢时移动，并移动 5 公里以上，让采集蜂重新适应新地点。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "migratory beekeeping",
+    "habitat fragmentation",
+    "autonomous hive",
+    "pollinators"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw1_1787180118_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw2_1787178380_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "nitzan-toren--illuminated-overgrowth",
+   "creator_ids": [
+    "nitzan-toren"
+   ],
+   "year": 2026,
+   "source_url": "https://ddw.nl/en/programme/illuminated-overgrowth",
+   "collections": [
+    "dutch-design-week-biobased"
+   ],
+   "title": "Illuminated Overgrowth",
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "Lamps made from duckweed harvested from canals in Nuenen; each lamp's opacity matches how strongly the floating plant mats block light from the water below.",
+   "description_zh": "用从纽南运河打捞的浮萍制成的灯具；每盏灯的透光度对应浮萍层遮挡水下光线的程度。",
+   "idea_en": "Turn an ecological imbalance into a material whose light tells its story.",
+   "idea_zh": "把生态失衡变成一种材料，让它透出的光讲述这件事。",
+   "method": "Duckweed biomass is bound with natural polymers (developed with MNEXT) at different concentrations to tune each shade's density.",
+   "method_zh": "把浮萍生物质以不同浓度与天然聚合物粘合（与 MNEXT 合作开发），以调节每个灯罩的密度。",
+   "keywords": [
+    "Dutch Design Week 2026",
+    "duckweed",
+    "Lemna",
+    "biocomposite",
+    "lighting",
+    "Nuenen"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1000240616-1_1788213686_1920x1080.jpg"
+   ]
+  },
+  {
+   "id": "anomalia-studio--mycomuseum",
+   "creator_ids": [
+    "anomalia-studio",
+    "mycl"
+   ],
+   "year": 2025,
+   "title": "MycoMuseum",
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "An installation at the 2025 Venice Architecture Biennale built from MycoBlox, 25 cm cubes grown from mushroom mycelium and crop waste, joined with concrete parts and timber dowels for disassembly and composting.",
+   "description_zh": "2025 年威尼斯建筑双年展上的一件装置，由 MycoBlox 搭建——用蘑菇菌丝体和农作物废料长成的 25 厘米立方块，与混凝土构件和木销连接，便于拆卸和堆肥。",
+   "idea_en": "Architecture can be cultivated, assembled and returned to the soil.",
+   "idea_zh": "建筑可以被培育、组装，再还给土壤。",
+   "method": "Mycelium from MYCL in Indonesia colonises 142 kg of agricultural waste in moulds; each 1.6 kg block withstands 1.55 tonnes of compression.",
+   "method_zh": "印尼 MYCL 的菌丝体在模具中长满 142 公斤农业废料；每块 1.6 公斤的砌块可承受 1.55 吨压力。",
+   "keywords": [
+    "Venice Architecture Biennale 2025",
+    "Material Bank: Matters Make Sense",
+    "MycoBlox",
+    "Space for Ideas",
+    "India",
+    "Indonesia"
+   ],
+   "images": [
+    "https://www.architecturelab.net/wp-content/uploads/2026/05/Cover-Option-2_-MycoMuseum-at-La-Bienale-2025-_photo-%C2%A9-Silvia-Miralles-Perez.jpg",
+    "https://www.architecturelab.net/wp-content/uploads/2026/05/05-Detail-Shot-MycoMuseum-%C2%A9-Silvia-Miralles-Perez.jpg"
+   ],
+   "source_url": "https://www.architecturelab.net/mycomuseum-anomalia-plus-mycl/",
+   "collections": [
+    "venice-architecture-biennale-2025"
+   ]
+  },
+  {
+   "id": "karen-antorveza--geological-microbial-formations",
+   "creator_ids": [
+    "karen-antorveza",
+    "benjamin-dillenburger"
+   ],
+   "year": 2025,
+   "title": "Geological Microbial Formations",
+   "field": "bio",
+   "sub": "bioprinting",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A robot at the 2025 Venice Architecture Biennale sprays sand, bacteria and a calcium solution layer by layer, growing a stone-like formation from construction waste throughout the exhibition, inspired by microbial stromatolites.",
+   "description_zh": "2025 年威尼斯建筑双年展上，一台机器人逐层喷洒沙子、细菌和钙溶液，在整个展期中用建筑废料“长”出一块类似岩石的构造，灵感来自微生物形成的叠层石。",
+   "idea_en": "Speed up geology: let microbes turn waste into stone on site.",
+   "idea_zh": "加速地质过程：让微生物在现场把废料变成石头。",
+   "method": "Sporosarcina pasteurii drives microbially induced calcite precipitation (MICP), binding recycled sand, sawdust and rubble at room temperature in a two-step robotic spray.",
+   "method_zh": "巴氏芽孢八叠球菌驱动微生物诱导碳酸钙沉淀（MICP），通过两步机器人喷涂在常温下把再生沙、木屑和碎石粘结在一起。",
+   "keywords": [
+    "Venice Architecture Biennale 2025",
+    "Matter Makes Sense",
+    "MICP",
+    "Sporosarcina pasteurii",
+    "biocementation",
+    "robotic fabrication",
+    "ETH Zurich",
+    "Medusoil"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MkCOL78KIjo"
+   },
+   "images": [
+    "https://dbt.arch.ethz.ch/wp-content/uploads/2025/12/251018_GeoBioForm-KaA_GerhardBliedung_SDIM0096-scaled.jpg",
+    "https://dbt.arch.ethz.ch/wp-content/uploads/2025/05/Low_GMF_VeniceBiennale%C2%A9Antorveza-01-1920x1080.jpg"
+   ],
+   "source_url": "https://dbt.arch.ethz.ch/project/geological-microbial-formations/",
+   "collections": [
+    "venice-architecture-biennale-2025"
+   ]
+  },
+  {
+   "id": "eduard-groutars--seasonal-biodesign",
+   "creator_ids": [
+    "eduard-groutars",
+    "iohanna-nicenboim",
+    "elvin-karana"
+   ],
+   "year": 2026,
+   "title": "Seasonal Biodesign: living artefacts for urban biodiversity",
+   "field": "bio",
+   "sub": "microbial",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Bacterial-cellulose artefacts were placed in urban gardens across all four seasons to attract and host local life; photography and DNA analysis revealed the many species that moved in.",
+   "description_zh": "研究者把细菌纤维素物件放进城市花园，历经四季，用来吸引并容纳本地生物；摄影和 DNA 分析揭示了搬进来的众多物种。",
+   "idea_en": "A biomaterial artefact can be designed as a seasonal habitat and judged by who comes to live in it.",
+   "idea_zh": "生物材料物件可以被设计成季节性栖息地，并以“谁来居住”来评价它。",
+   "method": "Field studies of bacterial-cellulose pieces are paired with lab experiments and eDNA sequencing to link material choices to the organisms they attract.",
+   "method_zh": "把细菌纤维素物件的野外研究与实验室实验和环境 DNA 测序结合，把材料选择与其吸引的生物联系起来。",
+   "keywords": [
+    "bacterial cellulose",
+    "habitability",
+    "urban garden",
+    "eDNA",
+    "multispecies",
+    "TU Delft"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100651",
+    "doi": "10.1017/s2977905726100651",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Seasonal biodesign: real-world studies with living artefacts for urban biodiversity"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260908234015917-0487:S2977905726100651:S2977905726100651_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260908234015917-0487:S2977905726100651:S2977905726100651_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "margot-beekhuizen--rootcraft",
+   "creator_ids": [
+    "margot-beekhuizen",
+    "gizem-oktay",
+    "bahareh-barati"
+   ],
+   "year": 2026,
+   "title": "Rootcraft",
+   "field": "bio",
+   "sub": "grown",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A practice-led study of shaping objects with grass roots in vertical moulds, where the designer reacts to how the roots grow instead of forcing them along a fixed path.",
+   "description_zh": "一项以实践为主导的研究：在竖直模具中用草根塑造物件，设计师根据根的生长作出回应，而不是强迫它们沿固定路径生长。",
+   "idea_en": "Design the growing phase as a conversation, not only the final mould.",
+   "idea_zh": "把生长阶段设计成一场对话，而不只设计最后的模具。",
+   "method": "Over four iterations, intermediate artefacts and open mould set-ups invite roots to deviate, and the designer adjusts tools and conditions in response.",
+   "method_zh": "经过四轮迭代，用中间物件和开放的模具设置引导根系“偏离”，设计师再据此调整工具和条件。",
+   "keywords": [
+    "grass roots",
+    "root weaving",
+    "designing-with",
+    "growing design",
+    "Eindhoven University of Technology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100857",
+    "doi": "10.1017/s2977905726100857",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Rootcraft: tuning encounters in designing-with grass roots"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260929051538531-0710:S2977905726100857:S2977905726100857_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260929051538531-0710:S2977905726100857:S2977905726100857_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "shahriar-akbari--opto-chromogenesis",
+   "creator_ids": [
+    "shahriar-akbari"
+   ],
+   "year": 2026,
+   "title": "Opto-chromogenesis",
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Projection mapping onto 3D-printed hydrogels full of cyanobacteria steers where the living material grows and which colour it turns, drawing patterns into it with light.",
+   "description_zh": "把投影映射打在充满蓝细菌的 3D 打印水凝胶上，引导这种活体材料在哪里生长、变成什么颜色——用光在其中“画”出图案。",
+   "idea_en": "Light can be a brush for growing and colouring living materials.",
+   "idea_zh": "光可以成为让活体材料生长和上色的画笔。",
+   "method": "A spectrally tunable projector, registered to 3D scans, sets light dose and colour across bioprinted Fremyella diplosiphon, which changes pigments by complementary chromatic acclimation.",
+   "method_zh": "经过三维扫描配准的可调光谱投影仪，控制照在生物打印的 Fremyella diplosiphon 上的光量和颜色；这种蓝细菌通过互补色适应改变色素。",
+   "keywords": [
+    "cyanobacteria",
+    "Fremyella diplosiphon",
+    "projection mapping",
+    "bioprinting",
+    "chromatic acclimation",
+    "CITA"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100274",
+    "doi": "10.1017/s2977905726100274",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Opto-chromogenesis: Projection mapping for controlling growth, photosynthesis and chromatic behavior of photosynthetically living organisms"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260831224220743-0655:S2977905726100274:S2977905726100274_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260831224220743-0655:S2977905726100274:S2977905726100274_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "roba-alfraih--glass-as-habitat",
+   "creator_ids": [
+    "roba-alfraih"
+   ],
+   "year": 2026,
+   "title": "Glass as Habitat",
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "algae",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Waste architectural glass is foamed, sintered and slump-cast into porous, translucent scaffolds in which algae, mosses and other photosynthetic life can colonise the inside of a facade, not just its surface.",
+   "description_zh": "把建筑废玻璃发泡、烧结和热弯铸造成多孔、半透明的支架，让藻类、苔藓等光合生物能在立面内部而不只是表面定殖。",
+   "idea_en": "The material that separates inside from outside can become a home for life.",
+   "idea_zh": "原本用来隔开室内外的材料，也可以成为生命的家园。",
+   "method": "Material tests measure water uptake, evaporation, light transmission and long-term growth in pore networks of recycled glass.",
+   "method_zh": "通过材料实验测量再生玻璃孔隙网络的吸水、蒸发、透光和长期生长保持能力。",
+   "keywords": [
+    "waste glass",
+    "bioreceptive facade",
+    "porous scaffold",
+    "multispecies",
+    "UCL"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s297790572610081x",
+    "doi": "10.1017/s297790572610081x",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Glass as habitat: cultivating multi-species ecologies in porous scaffolds"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115401999-0733:S297790572610081X:S297790572610081X_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115401999-0733:S297790572610081X:S297790572610081X_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "liv-tsim--pattern-2-1",
+   "creator_ids": [
+    "liv-tsim",
+    "thora-hafdis-arnardottir"
+   ],
+   "year": 2026,
+   "title": "Pattern 2.1: self-pigmenting bacterial cellulose",
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Pigment-producing and cellulose-producing microbes are grown together so that colour patterns form inside bacterial cellulose as it grows, instead of being dyed on afterwards.",
+   "description_zh": "让产色素的微生物和产纤维素的微生物一起生长，使颜色图案在细菌纤维素生长过程中就形成，而不是事后染上去。",
+   "idea_en": "Pattern can be a result of how microbes share space.",
+   "idea_zh": "图案可以来自微生物如何分享空间。",
+   "method": "Co-cultures are varied in strain ratio, inoculation layout and timing to map which pigment distributions and patterns self-organise.",
+   "method_zh": "改变共培养的菌株比例、接种布局和时间，以绘制哪些色素分布和图案会自组织形成。",
+   "keywords": [
+    "bacterial cellulose",
+    "co-culture",
+    "self-pigmenting",
+    "textile",
+    "Northumbria University",
+    "HBBE"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100948",
+    "doi": "10.1017/s2977905726100948",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Pattern 2.1: co-culturing self-pigmenting bacterial cellulose"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260908234046941-0999:S2977905726100948:S2977905726100948_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260908234046941-0999:S2977905726100948:S2977905726100948_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "clarice-risseeuw--flaviri",
+   "creator_ids": [
+    "clarice-risseeuw"
+   ],
+   "year": 2026,
+   "title": "Flaviri: designing with Flavobacteria",
+   "field": "bio",
+   "sub": "responsive",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A set of tools and living artefacts, ending in Flaviri, that let people swipe and tilt sealed colonies of iridescent Flavobacteria and watch their colours change in everyday settings.",
+   "description_zh": "一套工具和活体物件，最终成果是 Flaviri：人们可以滑动、倾斜密封的虹彩黄杆菌菌落，在日常环境中观察它们颜色的变化。",
+   "idea_en": "A living colour display needs habitats and gestures designed for the long term.",
+   "idea_zh": "活体颜色显示需要为长期使用设计的栖息环境和交互手势。",
+   "method": "Flavobacteria form structurally coloured colonies whose iridescence shifts with growth, viewing angle and touch-induced movement inside sterile containers.",
+   "method_zh": "黄杆菌形成具有结构色的菌落，其虹彩会随生长、观察角度以及在无菌容器内由触摸引起的移动而变化。",
+   "keywords": [
+    "Flavobacteria",
+    "structural colour",
+    "living colour",
+    "living artefact",
+    "demo",
+    "TU Delft"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100250",
+    "doi": "10.1017/s2977905726100250",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Designing with Flavobacteria: tools and artefacts for exploring and engaging with living colour"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260713160125664-0834:S2977905726100250:S2977905726100250_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260713160125664-0834:S2977905726100250:S2977905726100250_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "lucrezia-alessandroni--bio-enfleurage",
+   "creator_ids": [
+    "lucrezia-alessandroni",
+    "carole-collet"
+   ],
+   "year": 2026,
+   "title": "Bio-enfleurage",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "An 18th-century perfumery technique, enfleurage, is adapted to capture the smell of petrichor, the scent of rain on dry ground, directly from the soil bacterium Streptomyces griseus.",
+   "description_zh": "把 18 世纪的香水工艺“脂吸法”加以改造，直接从土壤细菌灰色链霉菌中捕获“雨后泥土味”（petrichor）。",
+   "idea_en": "Old craft techniques can be repurposed to harvest what microbes make.",
+   "idea_zh": "古老的手工技艺可以改作收获微生物产物的方法。",
+   "method": "Streptomyces griseus is grown so that the geosmin it releases is absorbed by a fat carrier, as flowers once were, and then extracted into a fragrance.",
+   "method_zh": "培养灰色链霉菌，让它释放的土臭素像过去的花香一样被油脂吸附，再提取成香料。",
+   "keywords": [
+    "Streptomyces griseus",
+    "geosmin",
+    "petrichor",
+    "perfume",
+    "enfleurage",
+    "Central Saint Martins"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100663",
+    "doi": "10.1017/s2977905726100663",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Bio-enfleurage: a new method for microbial-based scent extraction"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260910020853457-0028:S2977905726100663:S2977905726100663_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260910020853457-0028:S2977905726100663:S2977905726100663_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "maria-claudia-valverde-rojas--wild-bee-nesting-aids",
+   "creator_ids": [
+    "maria-claudia-valverde-rojas"
+   ],
+   "year": 2026,
+   "title": "3D-printed wild bee nesting aids for urban facades",
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "Porous nesting aids for cavity-nesting wild bees, 3D-printed from bio-based polymer, were mounted on a Stuttgart facade; their geometry kept nest tubes up to 1.6 K cooler than a reed nesting aid in summer.",
+   "description_zh": "用生物基聚合物 3D 打印的多孔筑巢辅助物，供在孔洞中筑巢的野生蜂使用，安装在斯图加特一座建筑的立面上；夏季其几何结构让巢管温度比芦苇筑巢物低最多 1.6 K。",
+   "idea_en": "Facade geometry can be tuned to the microclimate other species need.",
+   "idea_zh": "立面的几何形态可以按其他物种所需的微气候来调整。",
+   "method": "FDM-printed porous geometries were compared with reed bundles by logging internal nest-tube temperatures on a southeast facade in August 2024.",
+   "method_zh": "2024 年 8 月在东南向立面记录巢管内部温度，比较 FDM 打印的多孔几何体与芦苇束的表现。",
+   "keywords": [
+    "wild bees",
+    "nesting aid",
+    "3D printing",
+    "urban heat",
+    "building envelope",
+    "University of Stuttgart"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100079",
+    "doi": "10.1017/s2977905726100079",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Thermal regulation in urban surfaces: evaluating 3D-printed porous geometries for wild bee nesting aids"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260420122604550-0605:S2977905726100079:S2977905726100079_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260420122604550-0605:S2977905726100079:S2977905726100079_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "claudia-colmo--living-mycelium-membranes",
+   "creator_ids": [
+    "claudia-colmo"
+   ],
+   "year": 2026,
+   "title": "Living mycelium membranes",
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Sheets of pure, still-living Ganoderma lucidum mycelium thinner than 1 mm are tested for strength and selectively masked so that new aerial hyphae regrow in designed patterns.",
+   "description_zh": "测试厚度不到 1 毫米、仍然活着的纯灵芝菌丝膜的强度，并对它进行局部遮盖，让新的气生菌丝按设计好的图案重新长出来。",
+   "idea_en": "A material that stays alive can be patterned by telling it where to regrow.",
+   "idea_zh": "一种保持存活的材料，可以通过“告诉它在哪里重新生长”来做出图案。",
+   "method": "Tensile tests give a Young's modulus of about 1.3–1.5 MPa; masking experiments show selective regrowth of aerial hyphae.",
+   "method_zh": "拉伸测试显示杨氏模量约 1.3–1.5 MPa；遮盖实验展示了气生菌丝的选择性再生。",
+   "keywords": [
+    "Ganoderma lucidum",
+    "living mycelium",
+    "membrane",
+    "self-repair",
+    "Royal Danish Academy"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100900",
+    "doi": "10.1017/s2977905726100900",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Mechanical performance and surface patterning characterisation of pure living mycelium membranes"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115426331-0017:S2977905726100900:S2977905726100900_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115426331-0017:S2977905726100900:S2977905726100900_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "hasti-valipour-goudarzi--porous-ecologies",
+   "creator_ids": [
+    "hasti-valipour-goudarzi"
+   ],
+   "year": 2026,
+   "title": "Porous Ecologies",
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "insects",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A habitat for moisture-loving soil invertebrates that pairs a gyroid lattice printed from waste eggshell with a damp mycelium material designed to decay over time.",
+   "description_zh": "为喜湿的土壤无脊椎动物设计的栖息地：把用废蛋壳打印的螺旋二十四面体（gyroid）晶格与一种会随时间腐烂的潮湿菌丝材料组合在一起。",
+   "idea_en": "Design shelters for decomposers that are meant to decompose.",
+   "idea_zh": "为分解者设计本身就会被分解的庇护所。",
+   "method": "Eggshell-based triply periodic minimal surfaces set the porosity, while the mycelium layer holds moisture and buffers the microclimate.",
+   "method_zh": "蛋壳基三周期极小曲面决定孔隙度，菌丝层负责保湿并缓冲微气候。",
+   "keywords": [
+    "soil invertebrates",
+    "insect hotel",
+    "gyroid",
+    "eggshell",
+    "mycelium",
+    "decay"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100754",
+    "doi": "10.1017/s2977905726100754",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Porous ecologies: more-than-human decay, moisture and microclimate"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260910021030718-0870:S2977905726100754:S2977905726100754_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260910021030718-0870:S2977905726100754:S2977905726100754_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "thora-hafdis-arnardottir--formation-finding",
+   "creator_ids": [
+    "thora-hafdis-arnardottir"
+   ],
+   "year": 2025,
+   "title": "Formation Finding (EmbryOme 1)",
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Fabric moulds filled with sand are submerged in 'Water Kiln' bioreactors where bacteria cement them into stone-like parts, assembled into the column EmbryOme 1.",
+   "description_zh": "把装满沙子的织物模具浸入“水窑”生物反应器，让细菌把沙子胶结成类似石头的构件，再组装成柱体 EmbryOme 1。",
+   "idea_en": "Replace the hot kiln with a bath where microbes set the form.",
+   "idea_zh": "用一池水代替高温窑炉，让微生物来定形。",
+   "method": "Sporosarcina pasteurii drives microbially induced calcium-carbonate precipitation (MICP) in liquid, so mould, medium and microbes together shape macro-form and microstructure.",
+   "method_zh": "巴氏芽孢八叠球菌在液体中驱动微生物诱导碳酸钙沉淀（MICP），模具、培养液和微生物共同决定宏观形态和微观结构。",
+   "keywords": [
+    "MICP",
+    "Sporosarcina pasteurii",
+    "biocement",
+    "soft casting",
+    "Water Kiln",
+    "HBBE"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s297790572510005x",
+    "doi": "10.1017/s297790572510005x",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2025",
+    "title": "Formation finding: exploring soft cast MICP fabrication in a Water Kiln"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20251211142655010-0733:S297790572510005X:S297790572510005X_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20251211142655010-0733:S297790572510005X:S297790572510005X_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "madalina-nicolae--growmechanics",
+   "creator_ids": [
+    "madalina-nicolae",
+    "lining-yao"
+   ],
+   "year": 2026,
+   "title": "GrowMechanics",
+   "field": "bio",
+   "sub": "responsive",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A living joint made by growing bacterial cellulose between porous scaffolds, used to explore how the stiffness and fit of a mechanism can keep changing as it grows.",
+   "description_zh": "在多孔支架之间生长细菌纤维素，做成一个“活”的关节，用来探索机构的刚度和贴合度如何随生长不断变化。",
+   "idea_en": "Treat growth as a design parameter that keeps tuning a mechanism after fabrication.",
+   "idea_zh": "把生长当作设计参数，在制造完成后继续调整机构。",
+   "method": "Staged growth and interventions on bacterial cellulose produce repeatable trends in stiffness and geometry matching, plus geometry-dependent variation.",
+   "method_zh": "对细菌纤维素进行分阶段生长和干预，得到刚度和几何贴合度上可重复的趋势，以及随几何形态变化的差异。",
+   "keywords": [
+    "bacterial cellulose",
+    "biohybrid joint",
+    "growth as computation",
+    "research through design",
+    "Morphing Matter Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3813093",
+    "doi": "10.1145/3800645.3813093",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "GrowMechanics: Designing Non-Deterministic Mechanical Behavior through Biological Growth"
+   },
+   "collections": [
+    "acm-hci-living-organisms"
+   ]
+  },
+  {
+   "id": "eldy-lazaro-vasquez--bioactuated-tapestry",
+   "creator_ids": [
+    "eldy-lazaro-vasquez",
+    "viola-arduini",
+    "mirela-alistar"
+   ],
+   "year": 2026,
+   "title": "Bioactuated Tapestry",
+   "field": "bio",
+   "sub": "responsive",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "An installation in three zones: milk-based bioplastic samples that curl quickly when misted, a sample book of weaving trials, and a woven tapestry that slowly changes shape with the room's humidity.",
+   "description_zh": "一件分为三个区域的装置：喷雾后迅速卷曲的牛奶基生物塑料样品、一本记录编织试验的样本册，以及一幅随室内湿度缓慢变形的编织挂毯。",
+   "idea_en": "Weaving structure can set the tempo of a material's response.",
+   "idea_zh": "编织结构可以决定材料反应的节奏。",
+   "method": "Casein bioplastic swells reversibly with moisture; woven into textiles, it bends the fabric at speeds set by formulation and weave structure.",
+   "method_zh": "酪蛋白生物塑料遇湿可逆膨胀；织入织物后，按配方和组织结构所决定的速度带动织物弯曲。",
+   "keywords": [
+    "casein bioplastic",
+    "hygromorphic",
+    "weaving",
+    "tapestry",
+    "TEI 2026",
+    "Hybrid Ecologies Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3779152",
+    "doi": "10.1145/3731459.3779152",
+    "arxiv": "",
+    "venue": "TEI 2026",
+    "title": "Bioactuated Tapestry: An Installation Exploring Temporalities of Textile Craft and Moisture-Responsive Biomaterials"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/59adb5fd4d48591675e7fbab14aa3c3d9f5d09a2/500px/2-Figure2-1.png",
+    "https://figures.semanticscholar.org/59adb5fd4d48591675e7fbab14aa3c3d9f5d09a2/500px/3-Figure3-1.png"
+   ]
+  },
+  {
+   "id": "jeremy-chen--hygrometric",
+   "creator_ids": [
+    "jeremy-chen",
+    "lining-yao"
+   ],
+   "year": 2026,
+   "title": "HygroMetric",
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A design tool for 3D-printing flat sheets of wood-based filament that bend into two different doubly curved shapes when wetted and when dried again.",
+   "description_zh": "一个设计工具，用来 3D 打印木基线材的平板，使其在浸湿和再次干燥时分别弯成两种不同的双曲面形状。",
+   "idea_en": "Program wood's own swelling instead of steam-bending it by hand.",
+   "idea_zh": "为木材自身的膨胀“编程”，而不是用蒸汽手工弯木。",
+   "method": "Measured anisotropic swelling of printed wood calibrates a simulator that plans deposition toolpaths forward from primitives or inversely from a target surface.",
+   "method_zh": "测得的打印木材各向异性膨胀数据用来校准模拟器，模拟器可从基本形正向、或从目标曲面反向规划打印路径。",
+   "keywords": [
+    "hygromorphic",
+    "wood 3D printing",
+    "shape-morphing",
+    "inverse design",
+    "CHI 2026",
+    "Morphing Matter Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791333",
+    "doi": "10.1145/3772318.3791333",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "HygroMetric: A Computational Framework for Hygromorphic Shape-Morphing"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/56aa66f0ea392ab9c5d491ecebc4fde416541d26/500px/2-Figure2-1.png"
+   ]
+  },
+  {
+   "id": "fiona-bell--light-material-dialogues",
+   "creator_ids": [
+    "fiona-bell"
+   ],
+   "year": 2026,
+   "title": "Light-Material Dialogues",
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae",
+    "bacteria",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A series of table lamps, pendants and sconces built around algae bioplastic, SCOBY biofilm, reed and handmade paper, using light to bring out each biomaterial's texture, colour and translucency.",
+   "description_zh": "一系列台灯、吊灯和壁灯，围绕藻类生物塑料、康普茶菌膜、芦苇和手工纸设计，用光呈现每种生物材料的纹理、颜色和透光性。",
+   "idea_en": "Light is a good way to show what makes a biomaterial unlike plastic.",
+   "idea_zh": "光是展示生物材料与塑料不同之处的好方法。",
+   "method": "Sheets of cast algae bioplastic and grown bacterial cellulose are paired with sculptural frames and LED sources tuned to their opacity.",
+   "method_zh": "把浇铸的藻类生物塑料片和培养出的细菌纤维素与雕塑式框架以及适配其透光度的 LED 光源结合。",
+   "keywords": [
+    "algae bioplastic",
+    "SCOBY",
+    "luminaire",
+    "TEI 2026 Arts Track"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3779134",
+    "doi": "10.1145/3731459.3779134",
+    "arxiv": "",
+    "venue": "TEI 2026",
+    "title": "Light-Material Dialogues: A Series of Sustainable & Experimental Luminaires"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/7aef6ba9b9de16dee370b95fe57b1bd559d0f5f8/500px/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/7aef6ba9b9de16dee370b95fe57b1bd559d0f5f8/500px/2-Figure2-1.png"
+   ]
+  },
+  {
+   "id": "chao-zhong--fungal-living-textiles",
+   "creator_ids": [
+    "chao-zhong"
+   ],
+   "year": 2026,
+   "title": "Programmable fungal living textiles",
+   "field": "bio",
+   "sub": "biotextiles",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Cohesive textile films made of still-living Cordyceps militaris mycelium that regrow their surface when fed, and that can host engineered yeast to print colour or melanised fungi for built-in UV protection.",
+   "description_zh": "由仍然存活的蛹虫草菌丝制成的连续织物薄膜：喂养后表面会重新长出菌丝，还能容纳工程酵母来“印”出颜色，或容纳黑色素真菌来提供内置防紫外线功能。",
+   "idea_en": "Separate the living scaffold from the genetic function, so partners can be swapped in.",
+   "idea_zh": "把活体骨架和基因功能分开，就能像换零件一样换入不同的微生物伙伴。",
+   "method": "A low-energy process keeps C. militaris mycelium metabolically active in macroscale films; co-cultured Saccharomyces cerevisiae and Aspergillus niger add pigment patterns and UV shielding.",
+   "method_zh": "用低能耗工艺让蛹虫草菌丝在宏观尺度的薄膜中保持代谢活性；与酿酒酵母和黑曲霉共培养，加入色彩图案和紫外屏蔽。",
+   "keywords": [
+    "engineered living materials",
+    "Cordyceps militaris",
+    "living textile",
+    "co-culture",
+    "Shenzhen"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/sciadv.aed6937",
+    "doi": "10.1126/sciadv.aed6937",
+    "arxiv": "",
+    "venue": "Science Advances 2026",
+    "title": "A programmable fungal platform for engineered living textiles"
+   }
+  },
+  {
+   "id": "elise-elsacker--fungal-elm-taxonomy",
+   "creator_ids": [
+    "elise-elsacker"
+   ],
+   "year": 2025,
+   "title": "Gradients of Aliveness: a taxonomy of fungal engineered living materials",
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A classification of fungal living materials by how alive they are (dead, dormant or living), what scaffold they use and how much they are engineered, with a roadmap for multispecies and computationally designed fungal materials.",
+   "description_zh": "一套真菌活体材料分类法：按“活着的程度”（死亡、休眠或存活）、所用支架和工程改造程度来划分，并给出多物种和计算设计真菌材料的路线图。",
+   "idea_en": "Aliveness is a design variable on a spectrum, not a yes/no property.",
+   "idea_zh": "“活着”是一个连续谱上的设计变量，而不是非黑即白的属性。",
+   "method": "Published fungal ELM studies are mapped onto axes of biological state, scaffold composition and degree of engineering intervention.",
+   "method_zh": "把已发表的真菌活体材料研究，映射到生物状态、支架组成和工程干预程度三个维度上。",
+   "keywords": [
+    "engineered living materials",
+    "mycelium",
+    "taxonomy",
+    "review",
+    "Vrije Universiteit Brussel"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adma.202502728",
+    "doi": "10.1002/adma.202502728",
+    "arxiv": "",
+    "venue": "Advanced Materials 2025",
+    "title": "Gradients of Aliveness and Engineering: A Taxonomy of Fungal Engineered Living Materials"
+   }
+  },
+  {
+   "id": "shuting-liu--glowing-succulents",
+   "creator_ids": [
+    "shuting-liu"
+   ],
+   "year": 2025,
+   "title": "Sunlight-charged glowing succulents",
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Living succulents injected with afterglow phosphor particles glow red, green or blue for up to two hours after charging in sunlight; a wall of 56 plants was bright enough to light nearby objects.",
+   "description_zh": "注入余辉荧光颗粒的活多肉植物，在阳光下“充电”后能发出红、绿或蓝光，持续长达两小时；一面由 56 株植物组成的墙亮到足以照亮附近的物体。",
+   "idea_en": "Make a plant glow by engineering the material inside it instead of its genes.",
+   "idea_zh": "不改基因，而是改造植物体内的材料，让它发光。",
+   "method": "Afterglow phosphor particles about 7 µm across (likely strontium-aluminate type) are injected into the thick, open leaf tissue, spread evenly, store light by day and release it at night.",
+   "method_zh": "把直径约 7 微米的余辉荧光颗粒（很可能是铝酸锶类）注入多肉厚实疏松的叶片组织，颗粒均匀扩散，白天储存光能，夜里再释放。",
+   "keywords": [
+    "afterglow phosphor",
+    "luminescent plants",
+    "succulents",
+    "material-engineered living plants",
+    "South China Agricultural University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.matt.2025.102370",
+    "doi": "10.1016/j.matt.2025.102370",
+    "arxiv": "",
+    "venue": "Matter 2025",
+    "title": "Sunlight-powered multicolor and uniform luminescence in material-engineered living plants"
+   },
+   "images": [
+    "https://static.scientificamerican.com/dam/m/26f31cce28889663/original/sa0825_Glow_in_Dark_Succulent.jpg?m=1756387696.208&w=1200",
+    "https://physicsworld.com/wp-content/uploads/2025/09/succulents-05-09-2025.jpg"
+   ],
+   "source_url": "https://www.scientificamerican.com/article/glow-in-the-dark-succulents-created-by-scientists-shine-in-multiple-colors/"
+  },
+  {
+   "id": "benedetta-zuccarelli--algamatrix",
+   "creator_ids": [
+    "benedetta-zuccarelli"
+   ],
+   "year": 2026,
+   "title": "AlgaMatrix",
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "A modular indoor photobioreactor in which Chlorella microalgae circulate through welded transparent membranes on 3D-printed frames, sensing and lowering CO₂ near people in a room.",
+   "description_zh": "一种模块化室内光生物反应器：小球藻在 3D 打印框架上的焊接透明薄膜中循环，在人身边监测并降低室内二氧化碳。",
+   "idea_en": "Algae can be an interior wall panel, not only a facade experiment.",
+   "idea_zh": "藻类可以是室内墙板，而不只是立面实验。",
+   "method": "Ultrasonically welded thermoplastic membranes form channels shaped by fluid simulation to keep Chlorella vulgaris evenly mixed; embedded sensors track growth and local CO₂.",
+   "method_zh": "超声焊接的热塑性薄膜形成经流体模拟优化的通道，让小球藻均匀混合；内置传感器追踪生长和局部二氧化碳浓度。",
+   "keywords": [
+    "Chlorella vulgaris",
+    "photobioreactor",
+    "indoor air",
+    "membrane",
+    "Harvard GSD"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100560",
+    "doi": "10.1017/s2977905726100560",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "AlgaMatrix: A membrane-based microalgae photobioreactor for indoor bio-integrated systems"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115355035-0332:S2977905726100560:S2977905726100560_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115355035-0332:S2977905726100560:S2977905726100560_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "malgorzata-zboinska--designing-with-decay",
+   "creator_ids": [
+    "malgorzata-zboinska"
+   ],
+   "year": 2026,
+   "title": "Designing with Decay (yeast-cellulose biohydrogel)",
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi",
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "Robotically extruded building elements of a yeast–cellulose–alginate hydrogel were left in air, soil and water to record how they shrink, warp, crack and change colour, as a basis for designing with planned degradation.",
+   "description_zh": "把机器人挤出的酵母—纤维素—海藻酸盐水凝胶建筑构件分别放在空气、土壤和水中，记录它们如何收缩、变形、开裂和变色，作为“按计划降解”的设计依据。",
+   "idea_en": "Map how a biomaterial ages so that decay becomes part of the design.",
+   "idea_zh": "摸清生物材料如何老化，让腐烂成为设计的一部分。",
+   "method": "Mass loss, shrinkage, deformation, embrittlement and colour change are measured on manually and robotically extruded constructs under three exposure conditions.",
+   "method_zh": "在三种暴露条件下，测量手工和机器人挤出构件的质量损失、收缩、变形、脆化和颜色变化。",
+   "keywords": [
+    "yeast",
+    "cellulose",
+    "alginate",
+    "robotic extrusion",
+    "biodegradation",
+    "Chalmers"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100262",
+    "doi": "10.1017/s2977905726100262",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Designing with decay: from environmental transformation to programmed degradation in a yeast-cellulose biohydrogel for circular architectural applications"
+   },
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260708164329076-0264:S2977905726100262:S2977905726100262_fig1.png",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260708164329076-0264:S2977905726100262:S2977905726100262_fig2.png"
+   ],
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "wilfried-weber--genetic-shape-morphing",
+   "creator_ids": [
+    "wilfried-weber"
+   ],
+   "year": 2026,
+   "title": "Genetically programmed shape-morphing living materials",
+   "field": "bio",
+   "sub": "synbio",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria",
+    "cells",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "A two-layer hydrogel bends more than 80° and recovers when engineered bacteria or mammalian cells living in it switch on enzymes that tighten or loosen its network.",
+   "description_zh": "一种双层水凝胶在其中的工程细菌或哺乳动物细胞开启特定酶时弯曲超过 80°，并能恢复原状；这些酶会收紧或松开水凝胶网络。",
+   "idea_en": "Let a cell's genes decide when and how a material moves.",
+   "idea_zh": "让细胞的基因决定材料何时、如何运动。",
+   "method": "Opposing genetically encoded enzyme pairs crosslink or cut a peptide-linked PEG network, changing swelling and stiffness two- to five-fold in the active layer.",
+   "method_zh": "成对的、作用相反的基因编码酶对肽交联的 PEG 网络进行交联或切割，使活性层的溶胀和刚度改变 2 到 5 倍。",
+   "keywords": [
+    "engineered living materials",
+    "hydrogel actuator",
+    "enzymes",
+    "synthetic biology",
+    "INM Saarbrücken",
+    "Technion"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adfm.78503",
+    "doi": "10.1002/adfm.78503",
+    "arxiv": "",
+    "venue": "Advanced Functional Materials 2026",
+    "title": "Genetically Programmed Shape‐Morphing of Engineered Living Materials"
+   }
+  },
+  {
+   "id": "sofia-guridi--bio-based-etextiles",
+   "creator_ids": [
+    "sofia-guridi"
+   ],
+   "year": 2026,
+   "title": "Aesthetics of bio-based eTextiles",
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "plants",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "Five interactive electronic textiles made with biomaterials were handed to participants in an aesthetics-focused study, which found multisensory qualities, such as texture, smell and change over time, that conventional e-textiles lack.",
+   "description_zh": "研究者把五件用生物材料制作的可交互电子纺织品交给参与者，开展以美感为重点的研究，发现了常规电子纺织品所没有的多感官特质，例如质地、气味和随时间的变化。",
+   "idea_en": "Biomaterials can be chosen for the experience they give, not only for being circular.",
+   "idea_zh": "选择生物材料，可以是因为它带来的体验，而不只是因为它可循环。",
+   "method": "Bio-based conductive and textile materials (likely cellulose-based) are combined with textile techniques and electronics; user sessions surface aesthetic particularities and design recommendations.",
+   "method_zh": "把生物基导电材料和纺织材料（很可能以纤维素为基础）与纺织工艺和电子元件结合；通过用户研究总结其美学特点并提出设计建议。",
+   "keywords": [
+    "e-textiles",
+    "biomaterials",
+    "aesthetics",
+    "user study",
+    "Aalto University",
+    "DIS 2025 demo: Crafting Sustainable Interfaces"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812977",
+    "doi": "10.1145/3800645.3812977",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Harnessing the Aesthetic Potential of Bio-based eTextiles: An Empirical Study with Artefacts"
+   }
+  },
+  {
+   "id": "ivan-sukovic--terram-intelligere",
+   "creator_ids": [
+    "ivan-sukovic",
+    "dejan-todorovic",
+    "emir-sehanovic"
+   ],
+   "year": 2025,
+   "title": "Terram Intelligere: INTERSTITIUM",
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Montenegro's pavilion at the 2025 Venice Architecture Biennale: suspended transparent forms hold soil from the dry-stone boundary walls (međa) of the Montenegrin landscape, with native bacteria from that soil that can make pigments, nanocellulose and bioplastics.",
+   "description_zh": "2025 年威尼斯建筑双年展黑山馆：悬挂的透明形体中装着取自黑山乡间干砌石界墙（međa）的土壤，以及来自这些土壤、能够制造色素、纳米纤维素和生物塑料的本地细菌。",
+   "idea_en": "A boundary wall is also a habitat whose microbes could supply future building materials.",
+   "idea_zh": "一道界墙也是栖息地，墙里的微生物可能为未来提供建筑材料。",
+   "method": "Bacteria isolated from soil samples with the University of Belgrade's Institute of Molecular Genetics and Genetic Engineering are cultured and shown with maps and poetic fragments in suspended vessels.",
+   "method_zh": "与贝尔格莱德大学分子遗传学与基因工程研究所合作，从土壤样本中分离细菌并加以培养，与地图和诗歌片段一起陈列在悬挂的容器中。",
+   "keywords": [
+    "Venice Architecture Biennale 2025",
+    "Montenegro Pavilion",
+    "međa",
+    "dry-stone wall",
+    "soil bacteria",
+    "bio-pigments",
+    "nanocellulose",
+    "Ars Electronica 2026",
+    "IMGGE"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gxWnudc28-U"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/03-terram-intelligere-interstitium-a-ugo-carmeni.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/01-terram-intelligere-interstitium-a-dejan-todorovia.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0",
+   "collections": [
+    "venice-architecture-biennale-2025"
+   ]
+  },
+  {
+   "id": "rachel-armstrong--mi-hy-spika",
+   "creator_ids": [
+    "rachel-armstrong"
+   ],
+   "year": 2025,
+   "title": "Mi-Hy and SPIKA",
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "SPIKA is a six-metre living installation at the Triennale Milano, built in the EU project Mi-Hy, in which microbial fuel cells clean household wastewater and feed electricity and nutrients to a hydroponic garden of vegetables and herbs.",
+   "description_zh": "SPIKA 是一座六米高的活体装置，在米兰三年展展出，出自欧盟项目 Mi-Hy：微生物燃料电池净化家庭污水，并为种植蔬菜和香草的水培花园提供电力和养分。",
+   "idea_en": "A home can turn its wastewater into power, clean water and food if microbes are part of the building.",
+   "idea_zh": "只要让微生物成为建筑的一部分，家就能把污水变成电力、净水和食物。",
+   "method": "Bioreactors are chained: microbial fuel cells generate electricity from wastewater, and a 'prosthetic rhizosphere' of microbes and roots supplies nitrogen and phosphorus to hydroponic plants under LEDs.",
+   "method_zh": "把多个生物反应器串联：微生物燃料电池从污水中发电，由微生物和根系组成的“假体根际”为 LED 灯下的水培植物提供氮和磷。",
+   "keywords": [
+    "Mi-Hy",
+    "SPIKA",
+    "microbial fuel cell",
+    "hydroponics",
+    "prosthetic rhizosphere",
+    "Triennale Milano 2025",
+    "We the Bacteria",
+    "Falling Walls Art & Science 2026 finalist",
+    "KU Leuven",
+    "Biofaction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WJzJ_Hvenv0"
+   },
+   "images": [
+    "https://falling-walls.com/sites/default/files/medien/250/bilder/26_scsu_as_armstrong_spika.png"
+   ],
+   "source_url": "https://www.mi-hy.eu/",
+   "collections": [
+    "falling-walls-art-science"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Morphologically tunable mycelium chips for physical reservoir computing (Telhan et al., Sci Rep 2026)",
+   "why": "for latest-biocomp: fungal computing hardware; field biohybrid.",
+   "link": "https://doi.org/10.1038/s41598-026-55550-5",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Living mycelium anastomosis for digital fabrication (Gough et al., UIST 2025 Adjunct)",
+   "why": "for latest-biocomp: UIST source; growing mycelium parts that fuse into complex forms.",
+   "link": "https://doi.org/10.1145/3746058.3758428",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "A programmable living force sensor from a surface-engineered microbial network (Nat Commun 2026)",
+   "why": "for latest-biocomp: microbes as sensing material.",
+   "link": "https://doi.org/10.1038/s41467-026-75944-3",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Living Textiles and Microbiomes as Tangible Data Interfaces (Zolotovsky et al., TEI 2026 studio)",
+   "why": "for latest-biocomp: probiotic textiles as sensing interfaces; studio paper, no images found.",
+   "link": "https://doi.org/10.1145/3731459.3779049",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "SENSBIOM: biochemical computation for healthier futures (Biotechnology Design 2026)",
+   "why": "for latest-biocomp: biochemical computation with microbes.",
+   "link": "https://doi.org/10.1017/s2977905726100444",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Self-Regulating Mood Ecosystem (Ahn, Millett, Oh, CHI EA 2026)",
+   "why": "for latest-art-spec: installation on gut-microbe dynamics and mood; unclear whether live microbes are used.",
+   "link": "https://doi.org/10.1145/3772363.3799122",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ecovotive Chimeras (Clarissa Ribeiro, SIGGRAPH Asia 2025 Art Gallery)",
+   "why": "Already a work in latest-art-spec (SIGGRAPH Art Gallery source).",
+   "link": "https://doi.org/10.1145/3757368.3765558",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "LAB-ON-A-NAIL: microfluidic fingernails for biocosmetic interfaces (Lazaro Vasquez, Kahssay, Mayfield, Sun, Vega, DIS 2026)",
+   "why": "Human-only body-fluid sensing with colorimetric microfluidic nails; generic biomedicine, outside the more-than-human bar.",
+   "link": "https://doi.org/10.1145/3800645.3812815",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Alakaʻi 1777: immersive sound on nonhuman cultural extinction (Youngblood, Biotechnology Design 2026)",
+   "why": "for latest-art-spec: lost birdsong culture as sound work.",
+   "link": "https://doi.org/10.1017/s2977905726100109",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ambassador trees: prototypes toward AI-mediated ecosystem translation (Calvo, Biotechnology Design 2026)",
+   "why": "for latest-ai: AI as translator for trees.",
+   "link": "https://doi.org/10.1017/s2977905726100596",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Multispecies reconciliation principles in biodesign practice (Pollini et al., Biotechnology Design 2026)",
+   "why": "for latest-mth-hni: design principles / framework.",
+   "link": "https://doi.org/10.1017/s2977905726100316",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Designing with the undesired: giant hogweed and interspecies futures (Vackar, Biotechnology Design 2026)",
+   "why": "for latest-mth-hni: invasive species and interspecies futures.",
+   "link": "https://doi.org/10.1017/s2977905726100122",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rewilding young urban minds: mycelium-receptive artefacts toolkit (Behnke, Nicenboim, Parisi, Biotechnology Design 2026)",
+   "why": "for latest-mth-hni: nature-education toolkit with fungal artefacts.",
+   "link": "https://doi.org/10.1017/s2977905726100420",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The X_Heal Toolkit and Sensing Soil Habitability (IASDR 2025, Karana / Barati groups)",
+   "why": "for latest-mth-hni: IASDR source; self-healing living materials toolkit and soil multispecies data.",
+   "link": "https://doi.org/10.21606/iasdr.2025.304",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Can textiles be alive? microbial biosensors and textile fluidics (Zolotovsky, DRS 2026)",
+   "why": "for latest-mth-hni: DRS source.",
+   "link": "https://doi.org/10.21606/drs.2026.2613",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Intelligent Hives / BeeHUB (Sebastian Gorecki, James Dyson Award 2026 national runner-up, Poland)",
+   "why": "Hive monitoring with weight, sound and AI; common type of product, left out for this round.",
+   "link": "https://www.jamesdysonaward.org/en-GB/2026/project/intelligent-hives-a-digital-voice-for-bees/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Foremyc (James Dyson Award 2025 national winner, Austria)",
+   "why": "Sensing and digital twins of Alpine forests and bark beetles; hni candidate.",
+   "link": "https://www.jamesdysonaward.org/en-GB/2025/project/foremyc-forest-tech-startup-2/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Flowstate (College for Creative Studies, Biodesign Challenge 2026 overall winner)",
+   "why": "Food-waste pigment spray paint; strong winner but generic bio-based material, no living organism.",
+   "link": "https://www.biodesignchallenge.org/college-for-creative-studies-2026",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Beeline (Morris County School of Technology, BDC 2026 Outstanding High School Project)",
+   "why": "Zipline device spraying charged pollen bubbles to reduce reliance on trucked honeybees; technology substitute, no living matter.",
+   "link": "https://www.biodesignchallenge.org/morris-county-school-of-technology-2026",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "AeroCellutions (McGill, BDC 2026 runner-up)",
+   "why": "Hydrophobic biodegradable oil-spill sorbent; base material not stated online.",
+   "link": "https://www.biodesignchallenge.org/mcgill-university-2026",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Fit-to-Farm: models for biomanufacturing (Dutch Design Week 2025, Veenweide Atelier)",
+   "why": "Bacterial textile pigments powered by farm side streams and waste heat; no project page found.",
+   "link": "https://materialdistrict.com/article/what-not-to-miss-at-dutch-design-week-2025-biobased-materials/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Living Indigo by Blue Monkey (Dutch Design Week 2026)",
+   "why": "Amsterdam-grown indigo and textile waste as a local fashion system.",
+   "link": "https://ddw.nl/en/programme/living-indigo-by-blue-monkey",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Designing for the Leaky Body (Arduini, Lazaro Vasquez, Golla, Alistar, TEI 2026)",
+   "why": "Casein bioplastic that responds to bodily fluids; non-living biomaterial, left out.",
+   "link": "https://doi.org/10.1145/3731459.3774473",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Growing Matter(s) pavilion (Henning Larsen with Politecnico di Milano, Milan Design Week 2025)",
+   "why": "80 grown mycelium spheres; April 2025, before this round's window.",
+   "link": "https://henninglarsen.com/projects/growing-matters",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Searamica: seaweed-based antifungal retrofit (Biotechnology Design 2026)",
+   "why": "Seaweed biomaterial against indoor mould, robotically fabricated.",
+   "link": "https://doi.org/10.1017/s2977905726100419",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Global Grad Show 2025 and Milan Design Week 2026 bio projects",
+   "why": "Global Grad Show site unreachable (HTTP 526); no Milan 2026 living-material list found beyond Thai mycelium tiles at Superstudio.",
+   "link": "https://www.globalgradshow.com",
+   "found_via": "seed",
+   "status": "no_media"
+  }
+ ]
+}

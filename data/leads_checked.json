@@ -1,5 +1,13 @@
 [
  {
+  "name": "Christena Nippert-Eng",
+  "why": "Indiana University; direct observation for user-centred design with gorillas; ACI papers on animal willingness and choice/control language.",
+  "link": "https://www.youtube.com/watch?v=tuhYpJVOPj0",
+  "found_via": "clara-mancini",
+  "status": "covered",
+  "batch": "aci"
+ },
+ {
   "name": "Jérémy Barbay",
   "why": "Universidad de Chile; touchscreen 'digital life enrichment' apps for monk parakeets (ACI 2022, three papers).",
   "link": "https://doi.org/10.1145/3565995.3566040",
@@ -814,6 +822,254 @@
   "found_via": "hehe",
   "status": "no_media",
   "batch": "hni"
+ },
+ {
+  "name": "Katharina Kleiser et al. – Learning from Human-Dog Collaboration for SAR robots (HRI 2026 LBR)",
+  "why": "Interviews with search-and-rescue dog handlers to inform robot teaming; no figures found.",
+  "link": "https://doi.org/10.1145/3776734.3794545",
+  "found_via": "cristina-gena",
+  "status": "no_media",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Ilyena Hirskyj-Douglas – 'More Than Human-Robot Interaction' (HRI 2026 keynote)",
+  "why": "Keynote abstract only.",
+  "link": "https://doi.org/10.1145/3776734.3801734",
+  "found_via": "ilyena-hirskyj-douglas",
+  "status": "no_media",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Thomas Vogler et al. – thermal drone and scaring flags against fawn mowing deaths (Wildlife Biology 2025)",
+  "why": "Drone counts showed little effect of low-tech flags; pairs with Rehkitzrettung.",
+  "link": "https://doi.org/10.1002/wlb3.01450",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Fink, von Mammen, Kollmansberger et al. — real-time connectome-driven C. elegans simulation platform (ALIFE 2026)",
+  "why": "Open interactive worm simulation in Unity; add when a project page or video exists.",
+  "link": "https://doi.org/10.1162/isal.a.1049",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Earth Engine (Alice Bucknell, UCLA / SCI-Arc)",
+  "why": "Falling Walls Art & Science 2026 finalist: a game that puts the planet rather than the player at the centre, driven by real-time environmental data. Artist site is JS-only; needs images.",
+  "link": "https://falling-walls.com/finalists-2026",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "15th Shanghai Biennale: Does the flower hear the bee? (Kitty Scott, Nov 2025–Mar 2026)",
+  "why": "Biennale on interactions between life forms; candidates include Tania Candiani, Prologue II. Resonant Blossoms (2025), Kosen Ohtsubo, Linga Shanghai (2025), Allora & Calzadilla, Phantom Forest (2025). Power Station of Art site is JS-only; per-work images not found.",
+  "link": "https://www.e-flux.com/announcements/6785011/does-the-flower-hear-the-bee",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Sound of Norway sound art (I. Avery Bick)",
+  "why": "Sound pieces from bird detections in Norway's national passive acoustic monitoring network; Leonardo 2025 (10.1162/leon.a.2652); no media found.",
+  "link": "https://doi.org/10.1162/leon.a.2652",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Empathic Growth (Zi-Wei Wu, Meng Yang, Dan-Lu Fei, Jia-Qi Shi, Jon McCormack)",
+  "why": "Human-plant interaction artwork paper at Ars Electronica Expanded 2025 (10.1145/3749893.3749973); no abstract or media found.",
+  "link": "https://doi.org/10.1145/3749893.3749973",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Ecovotive Chimeras (Clarissa Ribeiro, SIGGRAPH Asia 2025 Art Gallery)",
+  "why": "Already a work in latest-art-spec (SIGGRAPH Art Gallery source).",
+  "link": "https://doi.org/10.1145/3757368.3765558",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "LAB-ON-A-NAIL: microfluidic fingernails for biocosmetic interfaces (Lazaro Vasquez, Kahssay, Mayfield, Sun, Vega, DIS 2026)",
+  "why": "Human-only body-fluid sensing with colorimetric microfluidic nails; generic biomedicine, outside the more-than-human bar.",
+  "link": "https://doi.org/10.1145/3800645.3812815",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Flowstate (College for Creative Studies, Biodesign Challenge 2026 overall winner)",
+  "why": "Food-waste pigment spray paint; strong winner but generic bio-based material, no living organism.",
+  "link": "https://www.biodesignchallenge.org/college-for-creative-studies-2026",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Beeline (Morris County School of Technology, BDC 2026 Outstanding High School Project)",
+  "why": "Zipline device spraying charged pollen bubbles to reduce reliance on trucked honeybees; technology substitute, no living matter.",
+  "link": "https://www.biodesignchallenge.org/morris-county-school-of-technology-2026",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "AeroCellutions (McGill, BDC 2026 runner-up)",
+  "why": "Hydrophobic biodegradable oil-spill sorbent; base material not stated online.",
+  "link": "https://www.biodesignchallenge.org/mcgill-university-2026",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Global Grad Show 2025 and Milan Design Week 2026 bio projects",
+  "why": "Global Grad Show site unreachable (HTTP 526); no Milan 2026 living-material list found beyond Thai mycelium tiles at Superstudio.",
+  "link": "https://www.globalgradshow.com",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Takeuchi lab: light-driven quadrupedal walking biohybrid robot (Adv. Robotics Research 2026) and spiral-spring crawling robot (Adv. Materials 2026)",
+  "why": "Two more 2026 muscle-ring robots; Wiley pages block image fetching, so only the Science Advances 2025 multijoint robot was added.",
+  "link": "https://doi.org/10.1002/adrr.202500203",
+  "found_via": "shoji-takeuchi",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Ritu Raman: 2D skeletal muscle thin-film actuators (Adv. Funct. Mater. 2026); 'Using electronics to build biohybrid robots with physical intelligence' (Nature Electronics 2026)",
+  "why": "Strong 2026 biohybrid-robot design work; no hotlinkable image found.",
+  "link": "https://doi.org/10.1002/adfm.78065",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Keisuke Morishima lab: cyborg insect terrain recognition and climbing (Device 2026); visual-perception navigation (Adv. Intell. Syst. 2025)",
+  "why": "Autonomous cyborg-insect navigation from Osaka University; not added for lack of media.",
+  "link": "https://doi.org/10.1016/j.device.2026.101277",
+  "found_via": "hirotaka-sato",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "qGOO – Quantum Global Organoid Orchestra (transLAB + n-D::StudioLab + Metaesthetica, Barcelona, April 2026)",
+  "why": "Organoid MEA activity turned into live sound and visuals with audience participation; only a promotional listing found, page now 404.",
+  "link": "https://load-gallery.com/exhibitions/global-fusion-barcelona/translab-n-d:StudioLab-metaesthetica",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Living Textiles and Microbiomes as Tangible Data Interfaces (TEI 2026 studio, Zolotovsky et al.)",
+  "why": "Studio paper on probiotic textiles; related work katia-zolotovsky--living-textiles already in latest-mth-hni; no images.",
+  "link": "https://doi.org/10.1145/3731459.3779049",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "TactTail: multimodal human–dog communication wearable (UIST 2025 Adjunct, Rachel Kim, Eunho Kim)",
+  "why": "ACI poster in a source this batch owns; no media or affiliation found.",
+  "link": "https://doi.org/10.1145/3746058.3758976",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Akyildiz et al.: molecular type division multiplexing via algae volatile organic compounds (ACM NanoCom 2026)",
+  "why": "Microalgae VOCs as a multi-channel molecular communication medium; paper only.",
+  "link": "https://doi.org/10.1145/3818305.3830272",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Designing \"FeltSight\": Feeling the World Like a Star-Nosed Mole (DIS 2026 pictorial, 10.1145/3800645.3812822)",
+  "why": "for latest-art-spec: second paper on danlin-huang--feltsight (already in latest-art-spec); attach as extra paper/DOI rather than a new work",
+  "link": "https://doi.org/10.1145/3800645.3812822",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "A Meat-Summer Night's Dream: tangible design fiction of eating biohybrid flying robots (CHI 2026, 10.1145/3772318.3790678)",
+  "why": "for latest-art-spec: speculation / design fiction (Ziming Wang, Morten Fjeld, University of Bergen); arXiv 2510.06507 has figures",
+  "link": "https://doi.org/10.1145/3772318.3790678",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "OceanChat: AI marine-creature agents for pro-environmental behaviour (CHI 2026, 10.1145/3772318.3791760)",
+  "why": "taken by latest-ai as a work; was for latest-ai: LLM agents as beluga, jellyfish and seahorse, N=900 (Pataranutaporn, Maes, MIT Media Lab); arXiv 2502.02863",
+  "link": "https://doi.org/10.1145/3772318.3791760",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "PlantWhisperer: conversational AI for plant care (CHI 2026 EA, 10.1145/3772363.3799270)",
+  "why": "taken by latest-ai as a work; was for latest-ai: chatbots let people 'talk' to their houseplants (Aalborg University); arXiv 2603.00598",
+  "link": "https://doi.org/10.1145/3772363.3799270",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Zenergy: LLM-generated Taoist nature imagery for meditation (CHI 2026, 10.1145/3772318.3790421)",
+  "why": "latest-ai declined; not added here either: generic wellbeing, AI-core nature-imagery app (Zhuying Li group); borderline hni",
+  "link": "https://doi.org/10.1145/3772318.3790421",
+  "found_via": "zhuying-li",
+  "status": "off_topic",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Generative AI as a Speculative Mediator in More-Than-Human Design (DIS 2026 companion, 10.1145/3802974.3809480)",
+  "why": "taken by latest-ai as a work; was for latest-ai: text-to-3D world generation as a probe for non-human perspectives (Aung Pyae)",
+  "link": "https://doi.org/10.1145/3802974.3809480",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "The Cat Fiction: situated AI storytelling for multispecies sense-making (DIS 2026, 10.1145/3800645.3812921)",
+  "why": "taken by latest-ai as a work; was for latest-aci: community cats and AI-enabled storytelling",
+  "link": "https://doi.org/10.1145/3800645.3812921",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "LAB-ON-A-NAIL: microfluidic fingernails for biocosmetic interfaces (DIS 2026, 10.1145/3800645.3812815)",
+  "why": "for latest-bio",
+  "link": "https://doi.org/10.1145/3800645.3812815",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Bio-based eTextiles aesthetics (DIS 2026, 10.1145/3800645.3812977) and Bioactuated Tapestry (TEI 2026, 10.1145/3731459.3779152)",
+  "why": "for latest-bio: biomaterial textiles",
+  "link": "https://doi.org/10.1145/3800645.3812977",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "The Blooming Archive: digital orchids with real DNA lineages (C&C 2026 art, 10.1145/3803784.3809255)",
+  "why": "owned source (C&C) but no images found; ecoart on orchid classification and colonial trade (Anca-Simona Horvath, Pan Hui)",
+  "link": "https://doi.org/10.1145/3803784.3809255",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-mth-hni"
  },
  {
   "name": "Jenna Sutela — From Hierarchy to Holarchy / Holobiont",

@@ -1,0 +1,2111 @@
+{
+ "batch": "latest-aci",
+ "creators": [
+  {
+   "id": "christena-nippert-eng",
+   "name": "Christena Nippert-Eng",
+   "kind": "person",
+   "role": "Professor of Informatics, Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington",
+   "based": "Bloomington, US",
+   "bio": "Sociologist and ethnographer who has written on privacy, boundary work and close observation of gorillas; her group studies how animals in zoos can be given choice and control.",
+   "why": "Her lab asks what 'choice' and 'control' actually mean when ACI designs for zoo, farm, lab and companion animals.",
+   "links": {},
+   "role_zh": "印第安纳大学布卢明顿分校 Luddy 信息、计算与工程学院信息学教授",
+   "based_zh": "布卢明顿，美国",
+   "bio_zh": "社会学家和民族志研究者，写过隐私、边界划分以及对大猩猩的近距离观察；她的团队研究如何让动物园里的动物拥有选择与控制。",
+   "why_zh": "她的实验室追问：当动物—计算机交互为动物园、农场、实验室和伴侣动物做设计时，“选择”和“控制”到底指什么。",
+   "connected_to": [
+    "christopher-flynn-martin",
+    "jake-peacock"
+   ],
+   "discovered_via": "christopher-flynn-martin"
+  },
+  {
+   "id": "jake-peacock",
+   "name": "Jake Peacock",
+   "kind": "person",
+   "role": "Researcher, Luddy School of Informatics, Indiana University",
+   "based": "Bloomington, US",
+   "bio": "ACI researcher working on laboratory-animal welfare and on computer vision for chimpanzee touchscreen tasks with the Indianapolis Zoo.",
+   "why": "He brings purpose-bred laboratory rats and mice, the animals ACI has mostly ignored, into animal-centred design.",
+   "links": {},
+   "role_zh": "印第安纳大学 Luddy 信息学院研究者",
+   "based_zh": "布卢明顿，美国",
+   "bio_zh": "动物—计算机交互研究者，研究实验动物福利，并与印第安纳波利斯动物园合作开发用于黑猩猩触屏任务的计算机视觉。",
+   "why_zh": "他把动物—计算机交互长期忽视的实验用大鼠和小鼠带进以动物为中心的设计。",
+   "connected_to": [
+    "christena-nippert-eng",
+    "christopher-flynn-martin"
+   ],
+   "discovered_via": "christena-nippert-eng"
+  },
+  {
+   "id": "jan-dunnweber",
+   "name": "Jan Dünnweber",
+   "kind": "person",
+   "role": "Professor of Computer Science, Ostbayerische Technische Hochschule (OTH) Regensburg",
+   "based": "Regensburg, Germany",
+   "bio": "Computer scientist working on distributed systems and software agents, applied with colleagues to early warning for bears entering villages and suburbs.",
+   "why": "He uses location theory and agents to keep bears out of towns without shooting them.",
+   "links": {},
+   "role_zh": "雷根斯堡东巴伐利亚应用技术大学计算机科学教授",
+   "based_zh": "雷根斯堡，德国",
+   "bio_zh": "计算机科学家，研究分布式系统和软件智能体，并与同事把它们用于熊进入村镇时的预警。",
+   "why_zh": "他用选址理论和智能体把熊引离城镇，而不是射杀它们。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kening-zhu",
+   "name": "Kening Zhu",
+   "kind": "person",
+   "role": "Associate Professor, School of Creative Media, City University of Hong Kong",
+   "based": "Hong Kong, China",
+   "bio": "HCI researcher working on tangible, haptic and wearable interfaces; his group co-designed Bondi, a tangible companion for people grieving a pet.",
+   "why": "His lab treats the end of a human–animal bond as a design problem, not only its everyday life.",
+   "links": {},
+   "role_zh": "香港城市大学创意媒体学院副教授",
+   "based_zh": "香港，中国",
+   "bio_zh": "人机交互研究者，研究实体、触觉和可穿戴界面；他的团队共同设计了 Bondi——一件陪伴宠物逝去后主人的实体装置。",
+   "why_zh": "他的实验室把人与动物关系的结束也当作设计问题，而不只关注日常相处。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "satoshi-nakamura",
+   "name": "Satoshi Nakamura",
+   "kind": "person",
+   "role": "Professor, School of Interdisciplinary Mathematical Sciences (Frontier Media Science), Meiji University",
+   "based": "Tokyo, Japan",
+   "bio": "HCI researcher known for playful interaction techniques; with Yuki Nakagawa he built a sketch-based system that lets aquarium visitors identify individual penguins.",
+   "why": "His penguin work turns individual animal identification into a drawing game that makes visitors look closely.",
+   "links": {},
+   "role_zh": "明治大学综合数理学部（先端媒体科学）教授",
+   "based_zh": "东京，日本",
+   "bio_zh": "以趣味交互技术见长的人机交互研究者；他与中川由贵合作开发了让水族馆游客通过画图认出每只企鹅的系统。",
+   "why_zh": "他的企鹅项目把辨认动物个体变成一个画画游戏，让游客真正仔细去看。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cristina-gena",
+   "name": "Cristina Gena",
+   "kind": "person",
+   "role": "Associate Professor of Computer Science, University of Turin",
+   "based": "Turin, Italy",
+   "bio": "Researcher in user modelling, adaptive systems and social robotics; she leads studies of how a humanoid robot can play with domestic dogs.",
+   "why": "She moves social robotics from human users to dogs, testing how robots should move and speak around them.",
+   "links": {},
+   "role_zh": "都灵大学计算机科学副教授",
+   "based_zh": "都灵，意大利",
+   "bio_zh": "研究用户建模、自适应系统和社交机器人；她主持了人形机器人如何与家养狗玩耍的研究。",
+   "why_zh": "她把社交机器人的研究对象从人扩展到狗，测试机器人在狗身边该如何动作和发声。",
+   "connected_to": [
+    "valentina-nisi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "megan-verdon",
+   "name": "Megan Verdon",
+   "kind": "person",
+   "role": "Animal welfare scientist, Tasmanian Institute of Agriculture, University of Tasmania",
+   "based": "Tasmania, Australia",
+   "bio": "Researcher of dairy cow behaviour and welfare who has run some of the main trials of virtual fencing for grazing cattle.",
+   "why": "Her trials test whether collar-based fencing and herding keep cows' welfare at least as good as fences and stockpeople.",
+   "links": {},
+   "role_zh": "塔斯马尼亚大学塔斯马尼亚农业研究所动物福利科学家",
+   "based_zh": "塔斯马尼亚，澳大利亚",
+   "bio_zh": "研究奶牛行为与福利，主持过多项放牧牛群虚拟围栏的重要试验。",
+   "why_zh": "她的试验检验项圈式围栏和赶牧能否让奶牛的福利至少不差于实体围栏和人工赶牛。",
+   "connected_to": [
+    "halter"
+   ],
+   "discovered_via": "halter"
+  },
+  {
+   "id": "stephanie-buijs",
+   "name": "Stephanie Buijs",
+   "kind": "person",
+   "role": "Animal welfare scientist, Agri-Food and Biosciences Institute (AFBI), Northern Ireland",
+   "based": "Northern Ireland, UK",
+   "bio": "Researcher of farm animal behaviour and welfare, including how dairy cows use automatic milking systems.",
+   "why": "Her work asks whether cows can learn a cue that invites them, rather than forces them, to the milking robot.",
+   "links": {},
+   "role_zh": "北爱尔兰农业食品与生物科学研究所（AFBI）动物福利科学家",
+   "based_zh": "北爱尔兰，英国",
+   "bio_zh": "研究农场动物的行为与福利，包括奶牛如何使用自动挤奶系统。",
+   "why_zh": "她的研究追问：奶牛能否学会一个“邀请”而非强迫它们走向挤奶机器人的信号。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hiroki-anzai",
+   "name": "Hiroki Anzai",
+   "kind": "person",
+   "role": "Researcher, Faculty of Agriculture, University of Miyazaki",
+   "based": "Miyazaki, Japan",
+   "bio": "Grazing-livestock researcher who tests drones and quadruped robots for herding Japanese Black cattle on pasture.",
+   "why": "His field trials measure how cattle respond to, and get used to, robot herders over days.",
+   "links": {},
+   "role_zh": "宫崎大学农学部研究者",
+   "based_zh": "宫崎，日本",
+   "bio_zh": "研究放牧家畜，测试用无人机和四足机器人在牧场上驱赶日本黑牛。",
+   "why_zh": "他的野外试验测量牛群在连续几天里如何回应、又如何习惯机器人“牧羊犬”。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paolo-baragli",
+   "name": "Paolo Baragli",
+   "kind": "person",
+   "role": "Associate Professor, Department of Veterinary Sciences, University of Pisa",
+   "based": "Pisa, Italy",
+   "bio": "Ethologist working on horse behaviour, emotions and human–horse interaction, including physiological measures such as heart-rate variability.",
+   "why": "With roboticists in Pisa he used the FACE android to show horses controlled human-like facial expressions.",
+   "links": {},
+   "role_zh": "比萨大学兽医科学系副教授",
+   "based_zh": "比萨，意大利",
+   "bio_zh": "动物行为学家，研究马的行为、情绪和人马互动，常用心率变异性等生理指标。",
+   "why_zh": "他与比萨的机器人学者合作，用 FACE 仿人机器人向马展示可控的人类面部表情。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "donato-romano",
+   "name": "Donato Romano",
+   "kind": "person",
+   "role": "Researcher, The BioRobotics Institute, Sant'Anna School of Advanced Studies",
+   "based": "Pisa, Italy",
+   "bio": "Biorobotics researcher who builds robots that join fish, insect and livestock groups to study and steer their behaviour.",
+   "why": "His animal–robot interaction work treats robots as social partners and sensors inside animal groups.",
+   "links": {},
+   "role_zh": "圣安娜高等研究院生物机器人研究所研究者",
+   "based_zh": "比萨，意大利",
+   "bio_zh": "生物机器人研究者，制作能加入鱼群、昆虫群和牲畜群的机器人，用来研究和引导它们的行为。",
+   "why_zh": "他的动物—机器人交互研究把机器人当作动物群体里的社交伙伴和传感器。",
+   "connected_to": [
+    "tim-landgraf"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "guy-theraulaz",
+   "name": "Guy Theraulaz",
+   "kind": "person",
+   "role": "CNRS Research Director, Centre de Recherches sur la Cognition Animale (CRCA), Université de Toulouse",
+   "based": "Toulouse, France",
+   "bio": "Ethologist of collective behaviour in ants and fish who builds data-driven models, robotic fish and virtual-reality setups to test how schools coordinate.",
+   "why": "His robotic and VR 'fake fish' let researchers take part in a school and test its rules directly.",
+   "links": {},
+   "role_zh": "法国国家科学研究中心（CNRS）研究主任，图卢兹大学动物认知研究中心",
+   "based_zh": "图卢兹，法国",
+   "bio_zh": "研究蚂蚁和鱼群集体行为的动物行为学家，用数据驱动模型、机器鱼和虚拟现实装置检验鱼群如何协调。",
+   "why_zh": "他的机器鱼和虚拟“假鱼”让研究者直接加入鱼群，检验鱼群遵循的规则。",
+   "connected_to": [
+    "tim-landgraf",
+    "donato-romano"
+   ],
+   "discovered_via": "tim-landgraf"
+  },
+  {
+   "id": "jie-gao",
+   "name": "Jie Gao",
+   "kind": "person",
+   "role": "Researcher, Hakubi Center for Advanced Research and Wildlife Research Center, Kyoto University",
+   "based": "Kyoto, Japan",
+   "bio": "Comparative cognition researcher who trains animals beyond primates, such as domestic goats at Kyoto City Zoo, to use touchscreens.",
+   "why": "Her step-by-step goat training shows how touchscreen tasks can reach farm animals.",
+   "links": {},
+   "role_zh": "京都大学白眉中心及野生动物研究中心研究员",
+   "based_zh": "京都，日本",
+   "bio_zh": "比较认知研究者，训练灵长类以外的动物（如京都市动物园的家山羊）使用触摸屏。",
+   "why_zh": "她对山羊的分步训练展示了触屏任务如何走向农场动物。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kelley-winship",
+   "name": "Kelley Winship",
+   "kind": "person",
+   "role": "Research scientist, National Marine Mammal Foundation",
+   "based": "San Diego, US",
+   "bio": "Marine mammal cognition researcher working on computerized enrichment for dolphins and sea lions in professional care.",
+   "why": "Her work links individual personality to how marine mammals play computer-based games.",
+   "links": {},
+   "role_zh": "美国国家海洋哺乳动物基金会研究科学家",
+   "based_zh": "圣迭戈，美国",
+   "bio_zh": "研究海洋哺乳动物认知，为人工照护下的海豚和海狮开发计算机化丰容。",
+   "why_zh": "她的研究把个体性格与海洋哺乳动物玩电脑游戏的方式联系起来。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dalila-bovet",
+   "name": "Dalila Bovet",
+   "kind": "person",
+   "role": "Professor of Ethology, Laboratoire Éthologie Cognition Développement (LECD), Université Paris Nanterre",
+   "based": "Nanterre, France",
+   "bio": "Ethologist of animal cognition and communication in parrots, dogs and other species.",
+   "why": "Her review frames vibration signals as a new channel between dogs and their handlers and asks what it costs the dogs.",
+   "links": {},
+   "role_zh": "巴黎南泰尔大学动物行为、认知与发展实验室动物行为学教授",
+   "based_zh": "南泰尔，法国",
+   "bio_zh": "研究鹦鹉、狗等动物的认知与交流。",
+   "why_zh": "她的综述把振动信号视为狗与训导员之间的新通道，并追问这对狗意味着什么。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alan-smeaton",
+   "name": "Alan Smeaton",
+   "kind": "person",
+   "role": "Professor of Computing, Dublin City University; Insight Research Ireland Centre for Data Analytics",
+   "based": "Dublin, Ireland",
+   "bio": "Computer scientist in multimedia and sensor data analytics; his team builds wearable sensing for assistance dogs.",
+   "why": "His group's collar turns a seizure-alert dog's trained spin into a machine-readable signal.",
+   "links": {},
+   "role_zh": "都柏林城市大学计算学教授；Insight 爱尔兰数据分析研究中心",
+   "based_zh": "都柏林，爱尔兰",
+   "bio_zh": "研究多媒体与传感数据分析的计算机科学家；他的团队为辅助犬开发可穿戴传感设备。",
+   "why_zh": "他的团队做的项圈把癫痫预警犬训练出的转圈动作变成机器能读懂的信号。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marie-verstraete",
+   "name": "Marie Verstraete",
+   "kind": "person",
+   "role": "Sociologist, Department of Sociology, Ghent University",
+   "based": "Ghent, Belgium",
+   "bio": "Sociologist studying nonhuman animal agency through interviews with dog guardians, including those whose dogs use soundboard buttons.",
+   "why": "She gives empirical ground to claims about dog agency and to what button-based 'talking' changes.",
+   "links": {},
+   "role_zh": "根特大学社会学系社会学研究者",
+   "based_zh": "根特，比利时",
+   "bio_zh": "社会学研究者，通过访谈狗的监护人（包括让狗使用按钮发声板的人）研究动物的能动性。",
+   "why_zh": "她为“狗有能动性”的说法和按钮“说话”带来的改变提供了实证基础。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tsuyoshi-shimmura",
+   "name": "Tsuyoshi Shimmura",
+   "kind": "person",
+   "role": "Researcher, Faculty of Agriculture, Tokyo University of Agriculture and Technology",
+   "based": "Tokyo, Japan",
+   "bio": "Poultry behaviour and neuroscience researcher; with acoustic engineers he develops systems that answer chicks' calls the way a hen would.",
+   "why": "His chick–computer interaction work replaces a missing mother hen with a responsive sound system.",
+   "links": {},
+   "role_zh": "东京农工大学农学部研究者",
+   "based_zh": "东京，日本",
+   "bio_zh": "研究家禽行为与神经科学；他与声学工程师合作，开发像母鸡一样回应小鸡叫声的系统。",
+   "why_zh": "他的“小鸡—计算机交互”研究用一个会回应的声音系统替代缺席的母鸡。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yiwen-dong",
+   "name": "Yiwen Dong",
+   "kind": "person",
+   "role": "Researcher, University of Illinois Urbana-Champaign",
+   "based": "Urbana, US",
+   "bio": "Researcher building multimodal sensing systems for smart farms that infer what animals need, not only what they do.",
+   "why": "Her Behav2Need framework uses ethology to read hunger or cold from piglets' sensed behaviour.",
+   "links": {},
+   "role_zh": "伊利诺伊大学厄巴纳-香槟分校研究者",
+   "based_zh": "厄巴纳，美国",
+   "bio_zh": "为智慧农场构建多模态传感系统的研究者，目标是推断动物需要什么，而不只是识别它们在做什么。",
+   "why_zh": "她的 Behav2Need 框架借助动物行为学，从传感到的仔猪行为中读出饥饿或寒冷。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-she",
+   "name": "James She",
+   "kind": "person",
+   "role": "Faculty member, Computational Media and Arts, The Hong Kong University of Science and Technology (Guangzhou)",
+   "based": "Guangzhou, China",
+   "bio": "Researcher in computational media whose group surveys how AI reshapes the bond between companion animals and people.",
+   "why": "His group's framework traces pet technology from one-way monitoring to two-way empowerment.",
+   "links": {},
+   "role_zh": "香港科技大学（广州）计算媒体与艺术学域教员",
+   "based_zh": "广州，中国",
+   "bio_zh": "计算媒体研究者，他的团队梳理人工智能如何重塑伴侣动物与人的关系。",
+   "why_zh": "他的团队提出的框架描绘了宠物技术从单向监测走向双向赋能的路径。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "dirk-van-der-linden--community-notes-urban-wildlife",
+   "creator_ids": [
+    "dirk-van-der-linden"
+   ],
+   "title": "Community Notes for Urban Wildlife",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An online experiment showed people mock X posts about gulls, foxes, rats and hedgehogs behaving naturally in cities, with or without a Community Note explaining the behaviour; the note cut negative reactions, by 75% for hedgehogs.",
+   "description_zh": "一项在线实验给参与者看关于海鸥、狐狸、老鼠和刺猬在城市里正常活动的模拟 X 帖子，其中一半附有解释这种行为的“社区笔记”；附注明显减少了负面反应，对刺猬的负面反应减少了 75%。",
+   "idea_en": "A platform's fact-check box can be redesigned as a short lesson in animal behaviour that softens hostility toward urban wildlife.",
+   "idea_zh": "平台的事实核查框可以变成一则简短的动物行为说明，缓和人们对城市野生动物的敌意。",
+   "method": "Between-groups survey experiment with mock tweets, Likert attitude scales and lexical-framing variants for gulls, plus thematic analysis of free-text answers.",
+   "method_zh": "组间问卷实验：使用模拟推文、李克特态度量表，并对海鸥测试不同措辞框架，再对开放回答做主题分析。",
+   "keywords": [
+    "Community Notes",
+    "X / Twitter",
+    "urban wildlife",
+    "attitude change",
+    "gulls",
+    "hedgehogs",
+    "Northumbria University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768540",
+    "doi": "10.1145/3768539.3768540",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Using Community Notes to Enact Attitudinal Change towards Urban Wildlife"
+   },
+   "also": [
+    "hni"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/174944775ab767796dd7f398c70060b216b99945/7-Figure2-1.png",
+    "https://figures.semanticscholar.org/174944775ab767796dd7f398c70060b216b99945/8-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "shuyi-sun--diabeticat",
+   "creator_ids": [
+    "shuyi-sun",
+    "katia-vega"
+   ],
+   "title": "DiabetiCAT",
+   "year": 2025,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A litter box with an electrochemical glucose sensor and a water bowl on a scale monitor a diabetic cat's urine glucose and drinking at home, sending the data to a vet-facing app.",
+   "description_zh": "一个装有电化学葡萄糖传感器的猫砂盆和一个放在秤上的水碗，在家中持续监测糖尿病猫的尿糖和饮水量，并把数据发送到给兽医看的应用。",
+   "idea_en": "Put the sensor where the animal already goes, so health monitoring needs no needle, sample or extra effort from the cat.",
+   "idea_zh": "把传感器放在动物本来就会去的地方，健康监测就不需要针头、采样，也不打扰猫。",
+   "method": "Chronoamperometric glucose biosensors and a potentiostat in a rinsing litter-box funnel, a load cell under the bowl, wireless upload to a database and a veterinary dashboard; tested with glucose solutions, real urine and a two-week case study.",
+   "method_zh": "猫砂盆漏斗中装有计时电流法葡萄糖生物传感器和恒电位仪，并可自动冲洗；水碗下有称重传感器；数据无线上传到数据库和兽医仪表板；用葡萄糖溶液、真实尿样和为期两周的个案测试。",
+   "keywords": [
+    "feline diabetes",
+    "biosensing litter box",
+    "urine glucose",
+    "hydration",
+    "smart water fountain",
+    "UC Davis",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768543",
+    "doi": "10.1145/3768539.3768543",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "DiabetiCAT: Animal Biosensing Computing with Feline Urine Glucose Biosensing and Hydration Monitoring"
+   },
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/5-Figure4-1.png",
+    "https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/6-Figure5-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "christena-nippert-eng--choice-control-aci-review",
+   "creator_ids": [
+    "christena-nippert-eng"
+   ],
+   "title": "'Choice' and 'Control' in ACI Publications",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A review of 94 live-animal papers from the ACI conference (2016–2024) found that only 37% used the words 'choice' or 'control', and that use varied with context: every zoo study mentioned them, about half of companion and working-animal studies did.",
+   "description_zh": "这篇综述分析了动物—计算机交互会议 2016–2024 年间 94 篇涉及活体动物的论文，发现只有 37% 明确使用“选择”或“控制”一词；用法随场景而变：所有动物园研究都提到了，伴侣动物和工作动物研究只有约一半提到。",
+   "idea_en": "Check which words a field uses for animal agency: the zoo, the farm and the home each carry a different idea of what an animal may decide.",
+   "idea_zh": "看看一个领域用什么词描述动物的能动性：动物园、农场和家庭各自对动物能决定什么有不同的设想。",
+   "method": "Systematic review and keyword coding of ACI proceedings papers by relational context (zoo and sanctuary, companion, working, farming, lab, wild).",
+   "method_zh": "对动物—计算机交互会议论文做系统综述，并按关系场景（动物园与庇护所、伴侣、工作、养殖、实验室、野外）编码关键词。",
+   "keywords": [
+    "choice",
+    "control",
+    "animal agency",
+    "systematic review",
+    "relational context",
+    "Indiana University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768544",
+    "doi": "10.1145/3768539.3768544",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "‘Choice’ and ‘Control’ in ACI Publications: A Systematic Review of Language Use Across Relational Contexts"
+   },
+   "also": [
+    "mth"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/629279506defbf61ccc084219870e603712687c4/8-Figure2-1.png",
+    "https://figures.semanticscholar.org/629279506defbf61ccc084219870e603712687c4/9-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "david-l-roberts--osteoarthritis-dog-pain-imu",
+   "creator_ids": [
+    "david-l-roberts",
+    "alper-bozkurt"
+   ],
+   "title": "Wearable Pain Evaluation for Osteoarthritic Dogs",
+   "year": 2025,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Dogs with and without osteoarthritis wore an inertial sensor during set tasks such as stairs; machine learning on the movement data separated painful from healthy dogs with up to 89% accuracy, pointing to pain screening owners could run at home.",
+   "description_zh": "患骨关节炎和健康的狗在走楼梯等指定任务中佩戴惯性传感器；对运动数据做机器学习后，区分疼痛狗与健康狗的准确率最高达 89%，有望让主人在家中完成疼痛筛查。",
+   "idea_en": "A dog's gait can report chronic pain that the dog cannot tell and a vet sees only in a short visit.",
+   "idea_zh": "狗的步态可以说出它自己说不出的慢性疼痛，而兽医在短暂的门诊里往往看不到。",
+   "method": "High-frequency IMU data from 28 dogs, manifold learning for clustering, and both hand-crafted-feature classifiers and a 1D CNN on raw signals.",
+   "method_zh": "采集 28 只狗的高频惯性测量数据，用流形学习聚类，并比较手工特征分类器和基于原始信号的一维卷积神经网络。",
+   "keywords": [
+    "osteoarthritis",
+    "chronic pain",
+    "IMU",
+    "gait",
+    "machine learning",
+    "NC State University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768545",
+    "doi": "10.1145/3768539.3768545",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Toward Automated Pain Evaluation in Osteoarthritic Dogs Through Inertial Data and Machine Learning"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/96f928f7c341fbd68cd0b5965816e538908212dc/4-Figure1-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "jan-dunnweber--bears-suburbs-agents",
+   "creator_ids": [
+    "jan-dunnweber"
+   ],
+   "title": "Driving Bears out of the Suburbs with Location Theory",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Instead of more shooting permits, this software tracks the shifting geometric centre of recent bear sightings to warn residents early, simulates bear movement between habitats with agents, and picks where repelling devices work best; it was applied to data from Romania and Fukushima.",
+   "description_zh": "这套软件不增加狩猎许可，而是追踪近期熊目击点不断移动的几何中心，提前提醒居民；再用智能体模拟熊在栖息地之间的迁移，找出驱熊装置最有效的位置。它已用罗马尼亚和福岛的数据做了案例分析。",
+   "idea_en": "Treat bears near towns as a coordination problem to be steered, not a population to be cut.",
+   "idea_zh": "把出没在城镇边缘的熊当作需要引导的协调问题，而不是需要削减的数量。",
+   "method": "Weiszfeld's algorithm on time-windowed sighting data for early warning, plus an agent-based simulation of migration between habitats to place repelling facilities.",
+   "method_zh": "对按时间窗口划分的目击数据应用 Weiszfeld 算法做预警，并用基于智能体的模拟预测熊在栖息地间的迁移，以确定驱熊设施的位置。",
+   "keywords": [
+    "bears",
+    "Romania",
+    "Fukushima",
+    "human–wildlife conflict",
+    "Weiszfeld algorithm",
+    "geometric median",
+    "early warning",
+    "intelligent agents",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768546",
+    "doi": "10.1145/3768539.3768546",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Driving out the Bears from the Suburbs by Means of Location Theory and Intelligent Agents"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a710764e8f47c5d6c1e4698c6fac038b8bacffe0/3-Figure2-1.png",
+    "https://figures.semanticscholar.org/a710764e8f47c5d6c1e4698c6fac038b8bacffe0/4-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "haruka-kasuga--design-fiction-animal-robot",
+   "creator_ids": [
+    "haruka-kasuga"
+   ],
+   "title": "Design Fiction for Animal–Robot Interaction",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A one-day ACI 2025 workshop grouped participants by target animal to write design fictions about social robots that might mediate between people and companion animals or care for animals, then debated the benefits and ethical risks; a follow-up workshop on AI-enabled animal–robot interaction runs at ACI 2026.",
+   "description_zh": "ACI 2025 的一天工作坊按目标动物把参与者分组，撰写关于社交机器人的设计虚构：机器人如何在人与伴侣动物之间斡旋，或照顾动物；随后讨论其好处与伦理风险。ACI 2026 将举办关于 AI 驱动的动物—机器人交互的后续工作坊。",
+   "idea_en": "Before robots for animals arrive, write their futures species by species and argue about them.",
+   "idea_zh": "在面向动物的机器人到来之前，先按物种逐一写出它们的未来，再展开争论。",
+   "method": "Workshop with keynotes on animal–robot interaction and AI ethics, CV-based grouping by species, and design-fiction scenario writing.",
+   "method_zh": "工作坊包括动物—机器人交互和 AI 伦理的主题演讲，按参与者简历中的物种专长分组，并撰写设计虚构情景。",
+   "keywords": [
+    "design fiction",
+    "animal–robot interaction",
+    "AI ethics",
+    "workshop",
+    "Hokkaido University",
+    "ACI 2025",
+    "ACI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768549",
+    "doi": "10.1145/3768539.3768549",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Design Fiction for Animal-Robot Interaction: In the New Era of Artificial Intelligence"
+   },
+   "also": [
+    "speculation"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "rebecca-kleinberger--what-is-an-animal",
+   "creator_ids": [
+    "rebecca-kleinberger"
+   ],
+   "title": "What Is an \"Animal\" Anyways?",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A philosophical paper arguing that ACI often treats species, breeds and labels like 'wild animal' as fixed natural kinds, and that a social-constructionist view would let animal technology reveal, rather than reinforce, how such categories are made.",
+   "description_zh": "一篇哲学论文，指出动物—计算机交互常把物种、品种以及“野生动物”这类标签当作固定的自然类别；如果采用社会建构论视角，动物技术就能揭示而不是强化这些类别是如何被制造出来的。",
+   "idea_en": "The categories we design for, such as 'dog' or 'zoo animal', are partly made by our technologies and can be remade by them.",
+   "idea_zh": "我们为之设计的类别，例如“狗”或“动物园动物”，部分是被技术制造的，也可以被技术重新塑造。",
+   "method": "Conceptual analysis using Sally Haslanger's and Ian Hacking's methods for socially constructed categories, applied to ACI research.",
+   "method_zh": "借用 Sally Haslanger 和 Ian Hacking 分析社会建构类别的方法，对动物—计算机交互研究做概念分析。",
+   "keywords": [
+    "social construction",
+    "essentialism",
+    "species categories",
+    "Haslanger",
+    "Hacking",
+    "INTERACT Animal Lab",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768554",
+    "doi": "10.1145/3768539.3768554",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "What is An \"Animal\" Anyways?: From Essentialism to Social Construction Through Research on ACI"
+   },
+   "also": [
+    "mth"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "christena-nippert-eng--zoo-choice-control-interviews",
+   "creator_ids": [
+    "christena-nippert-eng"
+   ],
+   "title": "Choice and Control at the Zoo: Expert Interviews",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Interviews with 14 zoo-industry experts describe how giving zoo animals choice and control depends less on any single device than on public expectations, welfare science, shifting stakeholder priorities and how well zoo departments work together.",
+   "description_zh": "对 14 位动物园行业专家的访谈显示：让动物园动物拥有选择与控制，与其说取决于某个装置，不如说取决于公众期望、福利科学、利益相关者优先级的变化，以及动物园各部门的协作。",
+   "idea_en": "A choice-giving device for zoo animals only works if it fits the zoo as an organisation.",
+   "idea_zh": "给动物园动物提供选择的装置，只有融入动物园这个组织才能真正发挥作用。",
+   "method": "Semi-structured interviews with zoo professionals, analysed for contextual factors relevant to ACI projects.",
+   "method_zh": "对动物园从业者进行半结构化访谈，分析与动物—计算机交互项目相关的情境因素。",
+   "keywords": [
+    "zoo",
+    "choice and control",
+    "animal agency",
+    "expert interviews",
+    "stakeholders",
+    "Indiana University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768556",
+    "doi": "10.1145/3768539.3768556",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Providing choice and control at the zoo: a preliminary review of contextual factors based on expert interviews"
+   },
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "jake-peacock--parallel-animal-centered-ethics",
+   "creator_ids": [
+    "jake-peacock",
+    "christena-nippert-eng"
+   ],
+   "title": "Parallel Animal-Centered Ethics",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A review of 32 recent laboratory-animal welfare papers on rats and mice finds a move toward animal-centred ethics happening parallel to, and unaware of, ACI; half already use technologies ACI could build on, while 47% remain ethically incompatible with ACI.",
+   "description_zh": "这篇综述梳理了 32 篇近期关于大鼠和小鼠的实验动物福利论文，发现实验动物科学正在独立于动物—计算机交互、并行地走向以动物为中心的伦理；其中一半已在使用可供动物—计算机交互借鉴的技术，另有 47% 在伦理上与之不相容。",
+   "idea_en": "Laboratory rodents, the most numerous research animals, are a missing user group for animal-centred design.",
+   "idea_zh": "实验啮齿动物是数量最多的研究动物，却是以动物为中心的设计里缺席的用户群体。",
+   "method": "Investigatory literature review of laboratory animal science journals, coding each paper on a spectrum from animal-centred to anthropocentric.",
+   "method_zh": "对实验动物科学期刊做探索性文献综述，并把每篇论文放在从“以动物为中心”到“以人为中心”的光谱上编码。",
+   "keywords": [
+    "laboratory rats",
+    "mice",
+    "enriched housing",
+    "animal-centred ethics",
+    "3Rs",
+    "Indiana University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768557",
+    "doi": "10.1145/3768539.3768557",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Parallel Animal-Centered Ethics"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/304d5cd1ddf5d368277780d78ccb874971e643fd/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/304d5cd1ddf5d368277780d78ccb874971e643fd/6-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "christopher-flynn-martin--chimpanzee-touchscreen-face-id",
+   "creator_ids": [
+    "christopher-flynn-martin",
+    "jake-peacock"
+   ],
+   "title": "Chimpanzee Face ID for Zoo Touchscreens",
+   "year": 2025,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "At the Indianapolis Zoo, a camera embedded in the chimpanzees' public touchscreen recognises which chimpanzee is playing, so each ape's choices and progress can be logged without tags or keepers.",
+   "description_zh": "在印第安纳波利斯动物园，嵌在黑猩猩公开触摸屏里的摄像头能认出正在玩的是哪只黑猩猩，于是无需标签或饲养员就能记录每只猩猩的选择和进展。",
+   "idea_en": "Let the enrichment device recognise who is using it, so a shared screen becomes a personal record for each animal.",
+   "idea_zh": "让丰容设备认出使用者，共享的屏幕就成了每只动物的个人记录。",
+   "method": "YOLOv8 face detector and fine-tuned ConvNeXt classifier on embedded-camera video, with a confidence-weighted sliding window to smooth noisy frames.",
+   "method_zh": "在嵌入式摄像头视频上使用 YOLOv8 人脸检测器和微调的 ConvNeXt 分类器，并用置信度加权滑动窗口平滑噪声帧。",
+   "keywords": [
+    "chimpanzee",
+    "touchscreen",
+    "face recognition",
+    "YOLOv8",
+    "ConvNeXt",
+    "Indianapolis Zoo",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768558",
+    "doi": "10.1145/3768539.3768558",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "A Computer Vision Pipeline to Augment Touchscreen Tasks for Chimpanzees"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/6f1c62fd1ce173537ce3f7f3cc22f197bca9ee5c/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/6f1c62fd1ce173537ce3f7f3cc22f197bca9ee5c/3-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "melody-moore-jackson--keeping-it-trunky",
+   "creator_ids": [
+    "melody-moore-jackson",
+    "thad-starner"
+   ],
+   "title": "Keeping it Trunky",
+   "year": 2025,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A smartphone camera watches a wall of holes used for interactive enrichment by four African elephants at Zoo Atlanta and detects when a trunk reaches in, a step toward replacing fragile physical sensors.",
+   "description_zh": "一部智能手机摄像头对准亚特兰大动物园四头非洲象使用的带孔丰容墙，识别象鼻何时伸进孔里，以期替代容易损坏的物理传感器。",
+   "idea_en": "For strong animals, sense from a distance: a camera survives where a buried switch breaks.",
+   "idea_zh": "面对力气很大的动物，远距离感知更可靠：摄像头能在埋设开关坏掉的地方继续工作。",
+   "method": "Background subtraction and region-based motion detection running on a Google Pixel phone mounted by the enrichment wall.",
+   "method_zh": "在装于丰容墙旁的 Google Pixel 手机上运行背景减除和基于区域的运动检测。",
+   "keywords": [
+    "African elephant",
+    "Loxodonta africana",
+    "enrichment",
+    "computer vision",
+    "Zoo Atlanta",
+    "Georgia Tech",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768559",
+    "doi": "10.1145/3768539.3768559",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Keeping it Trunky: Engineering Improvements for Enabling Long Term Interactive Enrichment for Elephants"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/38e8ab709f934aaf36efde1301adb759e4338c2f/2-Figure2-1.png",
+    "https://figures.semanticscholar.org/38e8ab709f934aaf36efde1301adb759e4338c2f/3-Figure3-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "melody-moore-jackson--hippotherapy-bareback-pad",
+   "creator_ids": [
+    "melody-moore-jackson",
+    "thad-starner"
+   ],
+   "title": "Sensing Bareback Pad for Hippotherapy",
+   "year": 2025,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Air bladders with barometric sensors inside a bareback pad measure how a client leans and shifts weight while riding in therapy that uses the horse's movement.",
+   "description_zh": "在无鞍骑垫里放入带气压传感器的气囊，测量患者在利用马匹运动进行治疗时如何倾斜和转移重心。",
+   "idea_en": "Instrument the shared surface between rider and horse to make a therapy horse's work measurable.",
+   "idea_zh": "在骑手与马之间的接触面上加装传感，让治疗马的工作变得可以量化。",
+   "method": "Off-the-shelf barometers sealed in custom inflated bladders, multiplexed to a microcontroller; lean detected by thresholding rolling sums of pressure change.",
+   "method_zh": "把现成气压计封装进定制充气气囊，经多路复用接到微控制器；通过对压力变化滚动求和后取阈值来检测身体倾斜。",
+   "keywords": [
+    "hippotherapy",
+    "equine-assisted therapy",
+    "bareback pad",
+    "pressure sensing",
+    "Georgia Tech",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768561",
+    "doi": "10.1145/3768539.3768561",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Detection of Weight Distribution With an Electronically Augmented Bareback Pad During Therapy Using Equine Movement"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/93f2a2b62573fceee849d43323c91a0f5cb57644/3-Figure4-1.png",
+    "https://figures.semanticscholar.org/93f2a2b62573fceee849d43323c91a0f5cb57644/3-Figure5-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "alper-bozkurt--guide-dog-pull-pace-harness",
+   "creator_ids": [
+    "alper-bozkurt",
+    "david-l-roberts"
+   ],
+   "title": "Guide Dog Pull and Pace Harness",
+   "year": 2025,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A guide-dog harness with force sensors and a motion sensor records how hard and how evenly each dog pulls and how fast it walks, to help match dogs with blind handlers.",
+   "description_zh": "一副装有力传感器和运动传感器的导盲犬挽具，记录每只狗拉力的大小、左右是否均衡以及步速，帮助为盲人匹配合适的导盲犬。",
+   "idea_en": "Measure the dog's side of the handle, so dog–handler matching rests on data as well as trainer judgment.",
+   "idea_zh": "测量把手另一端狗的那一侧，让人犬匹配既靠训导员判断，也有数据支撑。",
+   "method": "Modified harness with left/right load cells, a 6-axis IMU and BLE microcontroller; pull compared with professional profiles, gait checked against commercial gait-analysis equipment.",
+   "method_zh": "改装挽具，配左右称重传感器、六轴惯性测量单元和蓝牙微控制器；拉力与专业评估对比，步态用商用步态分析设备校验。",
+   "keywords": [
+    "guide dog",
+    "harness",
+    "pull force",
+    "gait",
+    "IMU",
+    "NC State University",
+    "ACI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768563",
+    "doi": "10.1145/3768539.3768563",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "An Integrated Wearable Sensor System for Simultaneous Pull and Pace Characterization in Guide Dogs"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a80c7b90d6c4dc5886ce3a6d108d15898c6cfab1/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/a80c7b90d6c4dc5886ce3a6d108d15898c6cfab1/3-Figure2-1.png"
+   ],
+   "collections": [
+    "aci-conference"
+   ]
+  },
+  {
+   "id": "kening-zhu--bondi",
+   "creator_ids": [
+    "kening-zhu"
+   ],
+   "title": "Bondi",
+   "year": 2026,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A soft tangible object co-designed with bereaved pet owners that plays a late pet's own sounds, wags a tail-like part and glows, helping people keep a bond with an animal that has died; it was lived with for three weeks.",
+   "description_zh": "与失去宠物的主人共同设计的柔软实体物件，能播放已故宠物自己的声音、摆动类似尾巴的部件并发光，帮助人们与已离世的动物保持联结；参与者与它共同生活了三周。",
+   "idea_en": "Design for the end of a human–animal relationship too: grief for a pet deserves its own objects.",
+   "idea_zh": "也为人与动物关系的结束而设计：对宠物的哀悼值得拥有专属的物件。",
+   "method": "Survey of 611 pet owners, participatory design with 10, and a three-week field deployment of a customisable prototype with touch sensing, audio, servo-driven tail and LEDs.",
+   "method_zh": "对 611 位宠物主人做问卷，与 10 人进行参与式设计，并把可定制原型（触摸感应、音频、舵机驱动尾巴和 LED）在现场部署三周。",
+   "keywords": [
+    "pet loss",
+    "bereavement",
+    "continuing bonds",
+    "tangible interface",
+    "City University of Hong Kong",
+    "CHI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791971",
+    "doi": "10.1145/3772318.3791971",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Bondi: Designing Tangible and Multimodal Interfaces for Continuing Bonds in Pet Bereavement"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/10-Figure3-1.png",
+    "https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/11-Figure4-1.png",
+    "https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/6-Figure2-1.png"
+   ]
+  },
+  {
+   "id": "satoshi-nakamura--penguin-sketch-identification",
+   "creator_ids": [
+    "satoshi-nakamura"
+   ],
+   "title": "Drawing Attention: Sketching Penguins to Know Them",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Aquarium visitors draw the spot pattern they see on a penguin's chest in an app, which retrieves that individual's name and profile; in a field study with 167 visitor groups it led to longer stays and talk about penguins by name.",
+   "description_zh": "水族馆游客在应用里画下自己看到的企鹅胸前斑点，系统就能找出这只企鹅的名字和资料；在 167 组游客参与的现场研究中，游客停留更久，并开始叫着企鹅的名字聊天。",
+   "idea_en": "Make the visitor do the noticing: drawing an animal's markings turns a crowd of penguins into individuals.",
+   "idea_zh": "让游客自己去观察：画下动物的斑纹，一群企鹅就变成了一个个个体。",
+   "method": "Survey of 25 zoos and aquariums, a drawing-based retrieval algorithm adapted to partial views, and an in-situ mobile system deployed at an aquarium.",
+   "method_zh": "调查 25 家动物园和水族馆，改进可处理部分视角的手绘检索算法，并在水族馆现场部署移动系统。",
+   "keywords": [
+    "penguin",
+    "individual identification",
+    "sketch-based retrieval",
+    "aquarium",
+    "visitor engagement",
+    "Meiji University",
+    "CHI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791401",
+    "doi": "10.1145/3772318.3791401",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Drawing Attention: A Field Study of Sketch-Based Penguin Identification for Aquarium Visitor Engagement"
+   },
+   "also": [
+    "hni"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/4d671bf7d06a7f152f3752fc478d28cb782e53bc/9-Figure8-1.png",
+    "https://figures.semanticscholar.org/4d671bf7d06a7f152f3752fc478d28cb782e53bc/12-Figure10-1.png"
+   ]
+  },
+  {
+   "id": "cristina-gena--of-dogs-and-robots",
+   "creator_ids": [
+    "cristina-gena"
+   ],
+   "title": "Of Dogs and Robots",
+   "year": 2026,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A humanoid robot tuned with veterinary advice on voice, gesture and movement met six dogs at home with their owners; some dogs were curious and engaged, others avoided it or showed fear.",
+   "description_zh": "一台根据兽医建议调整了声音、手势和动作的人形机器人，在主人陪同下与六只狗见面；有的狗好奇并互动，有的回避甚至害怕。",
+   "idea_en": "Robots entering homes will meet dogs first; design their manners for the dog, not only for the human.",
+   "idea_zh": "进入家庭的机器人会先遇到狗；它的“礼仪”要为狗设计，而不只为人设计。",
+   "method": "Exploratory study with six dogs and their owners, using a humanoid robot programmed with dog-appropriate vocalisation, gestures and movement adaptation.",
+   "method_zh": "对六只狗及其主人的探索性研究，人形机器人被编程为使用适合狗的发声、手势和动作调整。",
+   "keywords": [
+    "animal–robot interaction",
+    "dogs",
+    "humanoid robot",
+    "playful design",
+    "University of Turin",
+    "HRI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3776734.3794455",
+    "doi": "10.1145/3776734.3794455",
+    "arxiv": "",
+    "venue": "HRI 2026 (Companion)",
+    "title": "Of Dogs and Robots: More Than Human Interactions at Play?"
+   }
+  },
+  {
+   "id": "tram-thi-minh-tran--animals-autonomous-mobility",
+   "creator_ids": [
+    "tram-thi-minh-tran",
+    "martin-tomitsch"
+   ],
+   "title": "Animals and Autonomous Mobility",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A study of how animals meet self-driving cars, delivery robots, robot mowers and drones, combining 45 papers, 39 online videos, Reddit threads and 8 expert interviews; it names five concerns, from collisions and stress to service-animal access and urban disturbance.",
+   "description_zh": "研究动物如何遭遇自动驾驶汽车、配送机器人、割草机器人和无人机，综合了 45 篇论文、39 个网络视频、Reddit 讨论和 8 位专家访谈，归纳出从碰撞、应激到服务动物通行和城市扰动的五类问题。",
+   "idea_en": "Autonomous machines in streets and gardens have nonhuman users too; design their sensing and behaviour for them.",
+   "idea_zh": "街道和花园里的自动化机器也有非人类“用户”，它们的感知和行为也应为这些动物设计。",
+   "method": "Scoping review, online ethnography of YouTube and Reddit, and expert interviews, synthesised into design and policy directions.",
+   "method_zh": "结合范围综述、对 YouTube 和 Reddit 的线上民族志以及专家访谈，提炼设计与政策方向。",
+   "keywords": [
+    "autonomous vehicles",
+    "delivery robots",
+    "robot lawnmowers",
+    "drones",
+    "multispecies coexistence",
+    "University of Sydney",
+    "AutomotiveUI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3744333.3747834",
+    "doi": "10.1145/3744333.3747834",
+    "arxiv": "",
+    "venue": "AutomotiveUI 2025",
+    "title": "Animal Interaction with Autonomous Mobility Systems: Designing for Multi-Species Coexistence"
+   },
+   "also": [
+    "mth"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/d32ab5c5faadfe3a9e41f154b00d971f971f4eb1/6-Figure2-1.png",
+    "https://figures.semanticscholar.org/d32ab5c5faadfe3a9e41f154b00d971f971f4eb1/9-Figure3-1.png"
+   ]
+  },
+  {
+   "id": "megan-verdon--halter-dairy-cow-welfare",
+   "creator_ids": [
+    "megan-verdon",
+    "halter"
+   ],
+   "title": "Welfare of Cows under Halter Virtual Fencing",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A 44-day trial compared 160 dairy cows managed either with electric fences and stockpeople or with Halter collars, which confine cows to a pasture and herd them to milking with sound and vibration cues, backed by a mild shock if a cue is ignored.",
+   "description_zh": "一项为期 44 天的试验比较了 160 头奶牛：一部分用电围栏和人工赶牛管理，另一部分用 Halter 项圈管理；项圈用声音和振动提示把牛限制在草场内并引导它们去挤奶，若提示被忽略才施加轻微电击。",
+   "idea_en": "When an interface steers animals every day, its welfare has to be measured against the old way, not assumed.",
+   "idea_zh": "当一个界面每天都在引导动物，它对福利的影响必须与旧方式比较测量，而不能想当然。",
+   "method": "Four groups of 40 cows over adjustment, 10-day training and 28-day management periods; milk cortisol, human-approach tests, grazing, rumination, production and body condition compared between systems.",
+   "method_zh": "四组各 40 头奶牛，经历适应期、10 天训练期和 28 天管理期；比较两种系统下的乳汁皮质醇、人类接近测试、采食、反刍、产奶量和体况。",
+   "keywords": [
+    "virtual fencing",
+    "virtual herding",
+    "Halter",
+    "dairy cows",
+    "animal welfare",
+    "aversive cue",
+    "University of Tasmania"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.animal.2026.101817",
+    "doi": "10.1016/j.animal.2026.101817",
+    "arxiv": "",
+    "venue": "animal 2026",
+    "title": "The welfare of dairy cows managed with Halter virtual fencing and herding technology compared with those managed with electric fencing and stockperson herding"
+   },
+   "images": [
+    "https://ars.els-cdn.com/content/image/1-s2.0-S1751731126000649-gr1.jpg"
+   ]
+  },
+  {
+   "id": "stephanie-buijs--cows-come-when-called",
+   "creator_ids": [
+    "stephanie-buijs"
+   ],
+   "title": "Do Cows Come When Called?",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Twenty-eight dairy cows on pasture were trained to walk to the milking robot when they received a sound and touch cue; most learned part of the five-step plan and 20 answered the cue at least once, but none reliably.",
+   "description_zh": "28 头放牧奶牛接受训练，在收到声音加触碰提示时走向挤奶机器人；多数完成了五步训练计划中的一部分，20 头至少回应过一次，但没有一头能稳定回应。",
+   "idea_en": "Invite animals to a machine with a learned cue instead of pushing them, and expect individual differences.",
+   "idea_zh": "用习得的提示“邀请”动物走向机器，而不是驱赶它们，并预期个体之间会有差异。",
+   "method": "Associative training with an audio and tactile cue in two batches, feed-choice tests, and GLMMs relating responses to location, light and weather.",
+   "method_zh": "分两批进行声音与触觉提示的联想训练，做饲料偏好测试，并用广义线性混合模型分析回应与位置、光照和天气的关系。",
+   "keywords": [
+    "automatic milking system",
+    "milking robot",
+    "dairy cows",
+    "cue training",
+    "associative learning",
+    "voluntary traffic"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.applanim.2025.106674",
+    "doi": "10.1016/j.applanim.2025.106674",
+    "arxiv": "",
+    "venue": "Applied Animal Behaviour Science 2025",
+    "title": "Do cows come when called? Training cows to visit the milking robot in response to a cue"
+   },
+   "images": [
+    "https://ars.els-cdn.com/content/image/1-s2.0-S0168159125001728-gr2.jpg"
+   ]
+  },
+  {
+   "id": "hiroki-anzai--cattle-robot-vs-drone-herding",
+   "creator_ids": [
+    "hiroki-anzai"
+   ],
+   "title": "Herding Cattle with a Quadruped Robot",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Grazing Japanese Black cattle were approached by a drone and by a four-legged robot playing dog barks or an air horn; cows moved away from the robot twice as often, herding worked better with it, and the cows habituated over consecutive days.",
+   "description_zh": "无人机和四足机器人分别播放狗吠或气笛声，接近放牧中的日本黑牛；牛避开机器人的几率是无人机的两倍，用机器人赶牛更成功，但牛在连续几天里逐渐习惯了它。",
+   "idea_en": "A robot herder is a stimulus animals learn; plan for habituation as much as for the first reaction.",
+   "idea_zh": "机器人“牧羊犬”是动物会逐渐熟悉的刺激，设计时要像考虑第一反应一样考虑习惯化。",
+   "method": "Field trials with 22 and 24 cows (over 1,000 approach events) analysed with binomial GLMMs, including a 24-day pause to test recovery.",
+   "method_zh": "对 22 头和 24 头牛进行野外试验（超过 1000 次接近事件），用二项广义线性混合模型分析，并在中间停顿 24 天以测试反应恢复。",
+   "keywords": [
+    "robotic herding",
+    "quadruped robot",
+    "drone",
+    "Japanese Black cattle",
+    "habituation",
+    "University of Miyazaki",
+    "bioRxiv"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.64898/2026.08.12.744347",
+    "doi": "10.64898/2026.08.12.744347",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "Grazing cattle respond more strongly to a quadruped robot than to a drone but habituate over consecutive days"
+   },
+   "images": [
+    "https://www.biorxiv.org/content/biorxiv/early/2026/08/17/2026.08.12.744347/F1.large.jpg",
+    "https://www.biorxiv.org/content/biorxiv/early/2026/08/17/2026.08.12.744347/F2.large.jpg"
+   ]
+  },
+  {
+   "id": "paolo-baragli--horses-android-faces",
+   "creator_ids": [
+    "paolo-baragli"
+   ],
+   "title": "Face to FACE: Horses Meet an Android",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Twelve mares spent two-minute sessions with the FACE android robot as it showed surprise, happiness, anger or a neutral face; the expressions raised arousal and attention, but the horses did not tell positive from negative faces.",
+   "description_zh": "12 匹母马与 FACE 仿人机器人分别相处两分钟，机器人展示惊讶、开心、愤怒或中性表情；这些表情提高了马的唤醒和注意，但马并没有区分正面和负面表情。",
+   "idea_en": "A face alone may not carry emotion across species; horses seem to need voice, body and context too.",
+   "idea_zh": "仅凭一张脸可能无法跨物种传递情绪；马似乎还需要声音、身体和情境。",
+   "method": "Randomised exposures to android expressions with heart-rate variability (ECG), EquiFACS facial coding and behaviour, analysed with statistics and machine-learning classification.",
+   "method_zh": "随机呈现仿人机器人的表情，同时记录心率变异性（心电）、EquiFACS 面部编码和行为，并用统计和机器学习分类分析。",
+   "keywords": [
+    "horses",
+    "android robot",
+    "FACE",
+    "facial expressions",
+    "EquiFACS",
+    "heart-rate variability",
+    "University of Pisa"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.applanim.2026.106998",
+    "doi": "10.1016/j.applanim.2026.106998",
+    "arxiv": "",
+    "venue": "Applied Animal Behaviour Science 2026",
+    "title": "Face to FACE® – Investigating horses' perception of facial expressions performed by an android robot"
+   },
+   "images": [
+    "https://ars.els-cdn.com/content/image/1-s2.0-S0168159126000894-gr1.jpg",
+    "https://ars.els-cdn.com/content/image/1-s2.0-S0168159126000894-ga1.jpg"
+   ]
+  },
+  {
+   "id": "donato-romano--robot-dog-livestock-behaviour",
+   "creator_ids": [
+    "donato-romano"
+   ],
+   "title": "Robot Dog that Reads Livestock Behaviour",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A quadruped robot walks among cows and chickens and recognises their actions in real time on board, so it can react to what the animals are doing during animal–robot interaction.",
+   "description_zh": "一台四足机器人在牛群和鸡群中行走，并在机身上实时识别动物的动作，以便在动物—机器人互动中根据动物的行为做出反应。",
+   "idea_en": "A robot among animals should watch before it acts: on-board behaviour recognition makes interaction two-way.",
+   "idea_zh": "身处动物之间的机器人应先观察再行动：机身上的行为识别让互动成为双向的。",
+   "method": "YOLO-Cow and YOLO-Chicken detectors plus DARTEMIS, a distilled animal action-recognition model, linked through Redis and run entirely on the robot.",
+   "method_zh": "YOLO-Cow 和 YOLO-Chicken 检测器加上蒸馏后的动物动作识别模型 DARTEMIS，通过 Redis 连接，全部在机器人上运行。",
+   "keywords": [
+    "animal–robot interaction",
+    "legged robot",
+    "robot dog",
+    "cows",
+    "chickens",
+    "action recognition",
+    "Sant'Anna School of Advanced Studies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/rob.70123",
+    "doi": "10.1002/rob.70123",
+    "arxiv": "",
+    "venue": "Journal of Field Robotics 2025",
+    "title": "Real‐Time Behavior Recognition Using a Legged Robot for Animal–Robot Interaction"
+   }
+  },
+  {
+   "id": "guy-theraulaz--closed-loop-robotic-fish",
+   "creator_ids": [
+    "guy-theraulaz"
+   ],
+   "title": "Closed-Loop Robotic Fish in a Living School",
+   "year": 2026,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A robotic fish that tracks real rummy-nose tetras in real time and moves by rules learned from their trajectories joined live schools and kept them coordinating; responding only to its single most influential neighbour was enough.",
+   "description_zh": "一条机器鱼实时追踪真实的红鼻剪刀鱼，并按照从鱼群轨迹中学到的规则游动；它加入活鱼群后，鱼群依然保持协调，而它只需回应影响最大的那一个邻居就足够了。",
+   "idea_en": "Let a robot join the group and follow the group's own rules to test what those rules really are.",
+   "idea_zh": "让机器人加入群体、遵循群体自己的规则，才能检验这些规则到底是什么。",
+   "method": "Autonomous closed-loop robotic lure driven by real-time tracking and a data-driven interaction model (attraction, alignment, wall avoidance), compared across fish-only, biohybrid and simulated groups.",
+   "method_zh": "由实时追踪和数据驱动交互模型（吸引、对齐、避墙）驱动的自主闭环机器鱼，在纯鱼群、生物—机器混合群和模拟群之间比较。",
+   "keywords": [
+    "robotic fish",
+    "Hemigrammus rhodostomus",
+    "collective motion",
+    "biohybrid group",
+    "closed loop",
+    "CNRS Toulouse",
+    "EPFL MOBOTS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.64898/2026.08.03.742553",
+    "doi": "10.64898/2026.08.03.742553",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "Closed-loop robotic interactions reveal dynamic social filtering in schooling fish"
+   },
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://www.biorxiv.org/content/biorxiv/early/2026/08/05/2026.08.03.742553/F1.large.jpg"
+   ]
+  },
+  {
+   "id": "guy-theraulaz--fish-virtual-reality-partner",
+   "creator_ids": [
+    "guy-theraulaz"
+   ],
+   "title": "Virtual Partner Fish in Immersive VR",
+   "year": 2026,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Freely swimming rummy-nose tetras were shown a single virtual fish circling at set speeds in an immersive VR tank; they followed it and matched its speed, and faster partners weakened attraction while strengthening alignment.",
+   "description_zh": "让自由游动的红鼻剪刀鱼在沉浸式虚拟现实水缸里看到一条以设定速度绕圈的虚拟鱼；它们会跟随并匹配速度，而伙伴游得越快，吸引越弱、对齐越强。",
+   "idea_en": "Virtual reality can be built for fish: a controllable fake companion isolates one social cue at a time.",
+   "idea_zh": "虚拟现实也可以为鱼而造：一个可控的虚拟同伴能一次只隔离出一种社交线索。",
+   "method": "Open-loop immersive VR projecting a virtual conspecific, combined with a data-driven 3D model of fish interactions.",
+   "method_zh": "开环沉浸式虚拟现实投射虚拟同类，并结合数据驱动的三维鱼类交互模型。",
+   "keywords": [
+    "virtual reality for animals",
+    "fish",
+    "Hemigrammus rhodostomus",
+    "social interaction",
+    "schooling",
+    "CNRS Toulouse"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rspb.2026.0146",
+    "doi": "10.1098/rspb.2026.0146",
+    "arxiv": "",
+    "venue": "Proceedings of the Royal Society B 2026",
+    "title": "Swimming speed of schooling fish controls social interaction strength in open-loop immersive virtual reality"
+   }
+  },
+  {
+   "id": "tim-landgraf--robofish-approach-avoidance",
+   "creator_ids": [
+    "tim-landgraf"
+   ],
+   "title": "Fish Learn to Dodge an Approaching Robofish",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A fish-like robot repeatedly approached live fish at different speeds; over exposures the fish avoided it more often, sometimes freezing or turning sharply, and their escapes depended on both distance and approach speed.",
+   "description_zh": "一条外形像鱼的机器人以不同速度反复接近活鱼；随着接触次数增加，鱼越来越常躲开它，有时会僵住或急转，而逃避与否同时取决于距离和接近速度。",
+   "idea_en": "A conspecific-looking robot can steer animals by how it moves, a gentle alternative to predator replicas.",
+   "idea_zh": "外形像同类的机器人可以靠移动方式引导动物，比模仿捕食者更温和。",
+   "method": "Free-swimming setup with a programmable conspecific-like robot, varied approach speeds and automated tracking of evasive kinematics.",
+   "method_zh": "在自由游动环境中使用可编程的类同类机器人，改变接近速度，并自动追踪逃避动作的运动学特征。",
+   "keywords": [
+    "Robofish",
+    "guppies",
+    "avoidance",
+    "biomimetic robot",
+    "behaviour guidance",
+    "Freie Universität Berlin",
+    "Ghent University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-026-44115-1",
+    "doi": "10.1038/s41598-026-44115-1",
+    "arxiv": "",
+    "venue": "Scientific Reports 2026",
+    "title": "Fish adapt and dynamically avoid an approaching robotic fish across repeated exposures"
+   },
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-44115-1/MediaObjects/41598_2026_44115_Fig1_HTML.jpg"
+   ]
+  },
+  {
+   "id": "jie-gao--goat-touchscreen",
+   "creator_ids": [
+    "jie-gao"
+   ],
+   "title": "Touchscreens for Domestic Goats",
+   "year": 2025,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Four naive goats at Kyoto City Zoo were trained step by step to touch a screen with their noses and then took odd-item search tests, showing that touchscreen tasks can extend to farm animals.",
+   "description_zh": "京都市动物园的四只从未接触过触屏的山羊被一步步训练用鼻子触碰屏幕，随后完成“找不同”测试，表明触屏任务可以扩展到农场动物。",
+   "idea_en": "Touchscreens built for primates can reach farm animals if training is broken into small, documented steps.",
+   "idea_zh": "为灵长类设计的触摸屏也能用于农场动物，只要把训练拆成清楚记录的小步骤。",
+   "method": "Shaping protocol for touchscreen use, then odd-item search with increasing numbers of distractors.",
+   "method_zh": "先用塑形训练让山羊学会使用触摸屏，再进行干扰项逐步增加的“找不同”测试。",
+   "keywords": [
+    "domestic goats",
+    "Capra hircus",
+    "touchscreen",
+    "cognitive testing",
+    "Kyoto City Zoo",
+    "Kyoto University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani15142115",
+    "doi": "10.3390/ani15142115",
+    "arxiv": "",
+    "venue": "Animals 2025",
+    "title": "Touchscreen Tasks for Cognitive Testing in Domestic Goats (Capra hircus): A Pilot Study Using Odd-Item Search Training"
+   },
+   "images": [
+    "https://pub.mdpi-res.com/animals/animals-15-02115/article_deploy/html/images/animals-15-02115-g001.png"
+   ]
+  },
+  {
+   "id": "kelley-winship--sea-lion-computer-game",
+   "creator_ids": [
+    "kelley-winship"
+   ],
+   "title": "Personality and Computer Games for Sea Lions",
+   "year": 2025,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "California sea lions played a computerized game by pressing buttons in front of a screen; trainers' personality ratings predicted how fast and efficiently each animal played and how it changed over sessions.",
+   "description_zh": "加州海狮在屏幕前按按钮玩电脑游戏；训练员给出的性格评分能预测每只海狮玩得多快、多有效率，以及在多次游戏中如何变化。",
+   "idea_en": "Match enrichment to the individual: personality data can tune a game to each animal.",
+   "idea_zh": "让丰容匹配个体：性格数据可以把游戏调整到适合每只动物。",
+   "method": "Validated trainer personality surveys, hierarchical clustering of traits, and logged performance from a button-and-screen enrichment device.",
+   "method_zh": "使用经过验证的训练员性格问卷，对性状做层次聚类，并记录按钮加屏幕丰容设备上的表现数据。",
+   "keywords": [
+    "California sea lion",
+    "Zalophus californianus",
+    "computerized enrichment",
+    "personality",
+    "Sea Life Park Hawai'i",
+    "National Marine Mammal Foundation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani15203007",
+    "doi": "10.3390/ani15203007",
+    "arxiv": "",
+    "venue": "Animals 2025",
+    "title": "Linking Personality and Performance in California Sea Lions (Zalophus californianus) During Computerized Cognitive Enrichment"
+   },
+   "images": [
+    "https://pub.mdpi-res.com/animals/animals-15-03007/article_deploy/html/images/animals-15-03007-g001.png",
+    "https://pub.mdpi-res.com/animals/animals-15-03007/article_deploy/html/images/animals-15-03007-g002.png"
+   ]
+  },
+  {
+   "id": "dalila-bovet--handler-dog-haptic-signals",
+   "creator_ids": [
+    "dalila-bovet"
+   ],
+   "title": "Haptic Signals between Handlers and Dogs",
+   "year": 2026,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A review of vibration-based devices that let handlers send silent commands to working dogs and could help deaf or blind dogs, covering what dogs can feel and tell apart and what the tools may do to their welfare.",
+   "description_zh": "这篇综述梳理了让训导员向工作犬发送无声指令的振动设备，它们也可能帮助失聪或失明的狗；文章讨论了狗能感知和区分哪些振动，以及这些工具可能对狗的福利产生什么影响。",
+   "idea_en": "Touch is a channel to dogs that works in silence and darkness, but the signal must be designed for the dog's skin, not the handler's convenience.",
+   "idea_zh": "触觉是在寂静和黑暗中也能通向狗的渠道，但信号要为狗的皮肤而设计，而不只是方便训导员。",
+   "method": "Systematic literature review of haptic dog–handler communication devices and canine vibrotactile perception.",
+   "method_zh": "对狗与训导员之间的触觉通信设备以及犬类振动触觉感知做系统文献综述。",
+   "keywords": [
+    "haptic communication",
+    "vibration collar",
+    "working dogs",
+    "deaf dogs",
+    "dog–handler",
+    "Université Paris Nanterre"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani16020323",
+    "doi": "10.3390/ani16020323",
+    "arxiv": "",
+    "venue": "Animals 2026",
+    "title": "Haptic Signals as a Communication Tool Between Handlers and Dogs: Review of a New Field"
+   }
+  },
+  {
+   "id": "alan-smeaton--seizure-alert-dog-collar",
+   "creator_ids": [
+    "alan-smeaton"
+   ],
+   "title": "Seizure-Alert Dog Collar",
+   "year": 2025,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Assistance dogs trained to alert to epileptic seizures with two quick spins wear a motion-sensing collar that recognises the spin and could pass the alert on; across six dogs it detected spins with up to 92% accuracy.",
+   "description_zh": "受过训练、在癫痫发作前以快速转两圈示警的辅助犬佩戴运动感应项圈，项圈能识别转圈并可转发警报；在六只狗身上，识别准确率最高达 92%。",
+   "idea_en": "Standardise the animal's signal, then let a wearable relay it: the dog's alert becomes something others can receive.",
+   "idea_zh": "先把动物的信号标准化，再由可穿戴设备转发：狗的警报就能被更多人接收。",
+   "method": "IMU collar recording 135 labelled spin events from six trained dogs, with machine-learning classifiers evaluated across dogs.",
+   "method_zh": "惯性测量单元项圈记录六只受训犬的 135 次标注转圈事件，并用机器学习分类器做跨个体评估。",
+   "keywords": [
+    "seizure alert dog",
+    "assistance dog",
+    "epilepsy",
+    "IMU collar",
+    "machine learning",
+    "Dublin City University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani15213081",
+    "doi": "10.3390/ani15213081",
+    "arxiv": "",
+    "venue": "Animals 2025",
+    "title": "Development and Validation of an IMU Sensor-Based Behaviour-Alert Detection Collar for Assistance Dogs: A Proof-of-Concept Study"
+   }
+  },
+  {
+   "id": "marie-verstraete--dog-agency-soundboards",
+   "creator_ids": [
+    "marie-verstraete"
+   ],
+   "title": "Dog Agency and Soundboard Buttons",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Interviews with dog guardians, some whose dogs use recordable soundboard buttons, show dogs acting on their own needs and preferences; guardians say the buttons give dogs more ways to show this and make them pay closer attention.",
+   "description_zh": "对狗监护人的访谈（其中部分人的狗会使用可录音的发声板按钮）显示，狗会依据自身需要和偏好行动；监护人认为按钮让狗有更多方式表达这一点，也让人更留心狗的想法。",
+   "idea_en": "Button boards may matter less as 'language' than as a prompt for humans to notice what dogs want.",
+   "idea_zh": "按钮板的意义也许不在于“语言”，而在于促使人注意狗想要什么。",
+   "method": "Semi-structured interviews with guardians with and without Augmentative Interspecies Communication (AIC) technology, analysed sociologically.",
+   "method_zh": "对使用和不使用“增强型跨物种交流”（AIC）技术的监护人进行半结构化访谈，并做社会学分析。",
+   "keywords": [
+    "Augmentative Interspecies Communication",
+    "AIC",
+    "soundboard",
+    "talking buttons",
+    "dog agency",
+    "Ghent University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1163/15685306-bja10279",
+    "doi": "10.1163/15685306-bja10279",
+    "arxiv": "",
+    "venue": "Society & Animals 2026",
+    "title": "Exploring Dog Agency: an Inquiry into Dog Agency and Augmentative Interspecies Communication Technology"
+   },
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "anna-zamansky--guide-dog-training-chatbot",
+   "creator_ids": [
+    "anna-zamansky"
+   ],
+   "title": "Guide Dog Training Chatbot",
+   "year": 2026,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A multi-agent chatbot lets guide-dog trainers ask plain questions such as 'how does this dog compare with similar past dogs?' and answers from the school's behavioural records and a success-prediction model.",
+   "description_zh": "一个多智能体聊天机器人让导盲犬训导员直接提问，例如“这只狗和以往相似的狗相比如何？”，并根据训练学校的行为档案和成功率预测模型作答。",
+   "idea_en": "Put the data about animals into a conversation, so the people who know the dogs can actually use it.",
+   "idea_zh": "把关于动物的数据放进对话里，让最了解狗的人真正用得上这些数据。",
+   "method": "LLM-based multi-agent dialogue interface wrapping the Israel Guide Dog Center's Behavior Checklist data and a predictive model, evaluated in a formative study with trainers.",
+   "method_zh": "基于大语言模型的多智能体对话界面，封装以色列导盲犬中心的行为检查表数据和预测模型，并与训导员进行形成性评估。",
+   "keywords": [
+    "guide dogs",
+    "chatbot",
+    "LLM",
+    "decision support",
+    "Behavior Checklist",
+    "Israel Guide Dog Center",
+    "University of Haifa",
+    "IUI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3742414.3794717",
+    "doi": "10.1145/3742414.3794717",
+    "arxiv": "",
+    "venue": "IUI 2026 (Companion)",
+    "title": "From Data to Dialogue: A Multi-Agent Chatbot Interface for Decision Support in Guide Dog Training"
+   },
+   "also": [
+    "ai"
+   ]
+  },
+  {
+   "id": "anna-zamansky--guide-dog-career-prediction",
+   "creator_ids": [
+    "anna-zamansky"
+   ],
+   "title": "Predicting Guide Dog Careers from Trainer Notes",
+   "year": 2026,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Behaviour checklists and trainers' written comments on 990 young dogs were combined to predict which dogs will qualify as guide dogs; adding the free-text notes clearly improved prediction, and the model explains its forecasts in words.",
+   "description_zh": "把 990 只幼犬的行为检查表与训导员的文字评语结合起来，预测哪些狗能成为导盲犬；加入文字评语后预测明显变好，模型还能用文字解释自己的判断。",
+   "idea_en": "Trainers' informal notes hold knowledge about animals that checklists miss.",
+   "idea_zh": "训导员随手写下的评语，包含着检查表遗漏的关于动物的知识。",
+   "method": "Machine-learning models on structured Behavior Checklist data plus LLM-processed trainer comments, with explanations rated by experienced trainers.",
+   "method_zh": "在结构化行为检查表数据上训练机器学习模型，并用大语言模型处理训导员评语，生成的解释由资深训导员评估。",
+   "keywords": [
+    "guide dogs",
+    "career prediction",
+    "large language models",
+    "trainer comments",
+    "Israel Guide Dog Center",
+    "University of Haifa"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-026-48238-3",
+    "doi": "10.1038/s41598-026-48238-3",
+    "arxiv": "",
+    "venue": "Scientific Reports 2026",
+    "title": "Predicting guide dog career success using machine learning and large language models"
+   },
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-48238-3/MediaObjects/41598_2026_48238_Fig1_HTML.png"
+   ]
+  },
+  {
+   "id": "anna-zamansky--detection-dog-tail-ai",
+   "creator_ids": [
+    "anna-zamansky"
+   ],
+   "title": "When the Nose Knows, the Tail Shows",
+   "year": 2025,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Computer vision tracked the tails of eight detection dogs searching an odour wall; dogs wagged with more left-sided amplitude near the target, and an AI model read this better than 190 professional dog handlers.",
+   "description_zh": "计算机视觉追踪八只搜爆犬在气味墙前搜索时的尾巴；靠近目标时，狗尾向左摆动的幅度更大，而 AI 模型读懂这一信号的能力超过了 190 位专业训导员。",
+   "idea_en": "Small body signals can be a readout of what a working dog perceives, before it formally alerts.",
+   "idea_zh": "在正式示警之前，细微的身体信号就能透露工作犬感知到了什么。",
+   "method": "Pose landmarks and tail kinematics extracted from video, a time-series classifier, and comparison with handlers' judgments collected online.",
+   "method_zh": "从视频中提取姿态关键点和尾巴运动学特征，用时间序列分类器判断，并与在线收集的训导员判断比较。",
+   "keywords": [
+    "detection dogs",
+    "tail wagging",
+    "lateralization",
+    "computer vision",
+    "odour detection",
+    "University of Haifa",
+    "University of Parma"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rsos.250399",
+    "doi": "10.1098/rsos.250399",
+    "arxiv": "",
+    "venue": "Royal Society Open Science 2025",
+    "title": "Does the tail show when the nose knows? Artificial intelligence outperforms human experts at predicting detection dogs finding their target through tail kinematics"
+   },
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/e1bd6254006dd8bdf71872f374aeb77676b14e4e/5-Figure2-1.png",
+    "https://figures.semanticscholar.org/e1bd6254006dd8bdf71872f374aeb77676b14e4e/4-Figure1-1.png"
+   ]
+  },
+  {
+   "id": "anna-zamansky--cattle-pain-video-ai",
+   "creator_ids": [
+    "anna-zamansky",
+    "dirk-van-der-linden"
+   ],
+   "title": "AI and Vets Assess Cattle Pain",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Deep-learning models that watch videos of cattle faces were compared with trained veterinarians at recognising pain; the models reached similar accuracy, with some advantages on video.",
+   "description_zh": "让观看牛面部视频的深度学习模型与受过训练的兽医比较识别疼痛的能力；模型达到相近的准确率，在视频评估上还有一些优势。",
+   "idea_en": "Video-based pain screening could give farmed animals a constant, impartial observer.",
+   "idea_zh": "基于视频的疼痛筛查可以为农场动物提供一个持续而公正的观察者。",
+   "method": "Frame embeddings from cropped cattle-face video aggregated for pain classification, benchmarked against veterinarians scoring the same clips.",
+   "method_zh": "对裁剪后的牛脸视频提取帧嵌入并聚合用于疼痛分类，再与兽医对相同片段的评分对比。",
+   "keywords": [
+    "cattle",
+    "pain recognition",
+    "deep learning",
+    "veterinarians",
+    "animal welfare",
+    "University of Haifa",
+    "São Paulo State University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-026-39604-2",
+    "doi": "10.1038/s41598-026-39604-2",
+    "arxiv": "",
+    "venue": "Scientific Reports 2026",
+    "title": "Comparing the performance of deep learning video-based models and trained veterinarians in cattle pain assessment"
+   },
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-39604-2/MediaObjects/41598_2026_39604_Fig1_HTML.jpg"
+   ]
+  },
+  {
+   "id": "ilyena-hirskyj-douglas--biocentric-research-interfaces",
+   "creator_ids": [
+    "ilyena-hirskyj-douglas"
+   ],
+   "title": "Biocentric Design for Animal Cognition Research",
+   "year": 2026,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An argument that comparative cognition research has fitted animals to human-designed screens and tasks, with a ten-step iterative process for building test apparatus around each species' own behaviour and senses.",
+   "description_zh": "这篇文章指出，比较认知研究长期让动物去适应为人设计的屏幕和任务，并提出一个十步迭代流程，围绕每个物种自身的行为和感官来打造测试装置。",
+   "idea_en": "Design the test for the animal's body and habits first; data quality and welfare both improve.",
+   "idea_zh": "先按动物的身体和习性设计测试，数据质量和福利都会更好。",
+   "method": "Critical review plus an iterative-design framework (requirements, ideation, prototyping with animal feedback, testing) for biocentric computer apparatus.",
+   "method_zh": "批判性综述加迭代设计框架（需求、构思、根据动物反馈做原型、测试），用于打造以生物为中心的计算机装置。",
+   "keywords": [
+    "biocentric design",
+    "animal cognition",
+    "research interfaces",
+    "touchscreens",
+    "iterative design",
+    "University of Glasgow"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s10071-026-02069-x",
+    "doi": "10.1007/s10071-026-02069-x",
+    "arxiv": "",
+    "venue": "Animal Cognition 2026",
+    "title": "Designing research interfaces for non-human minds: a biocentric design approach for animal cognition research"
+   },
+   "also": [
+    "mth"
+   ],
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10071-026-02069-x/MediaObjects/10071_2026_2069_Fig1_HTML.png",
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10071-026-02069-x/MediaObjects/10071_2026_2069_Fig2_HTML.png"
+   ]
+  },
+  {
+   "id": "dirk-van-der-linden--mog-on-the-tyne",
+   "creator_ids": [
+    "dirk-van-der-linden"
+   ],
+   "title": "Mog on the Tyne: Cats as Neighbourhood Messengers",
+   "year": 2026,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Interviews in North East England show free-roaming cats carrying information between households, and residents curious about technology that could share where neighbourhood cats go.",
+   "description_zh": "在英格兰东北部的访谈显示，自由走动的猫在各户人家之间传递信息，居民也对能分享邻里猫行踪的技术感兴趣。",
+   "idea_en": "Pet tracking need not stop at the owner: a cat's routes could connect a whole street.",
+   "idea_zh": "宠物追踪不必只服务主人：一只猫的路线可以把整条街连在一起。",
+   "method": "Reflexive thematic analysis of semi-structured interviews across different human–cat relationships, framed by the idea of a 'catscape'.",
+   "method_zh": "对不同人猫关系的半结构化访谈做反身性主题分析，并以“猫景”（catscape）概念组织讨论。",
+   "keywords": [
+    "free-roaming cats",
+    "cat tracking",
+    "catscape",
+    "neighbourhood",
+    "Northumbria University",
+    "Society & Animals"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1163/15685306-bja10276",
+    "doi": "10.1163/15685306-bja10276",
+    "arxiv": "",
+    "venue": "Society & Animals 2026",
+    "title": "Mog on the Tyne: Cat Location Information and Human-Cat Relationships in North East England"
+   }
+  },
+  {
+   "id": "hill-hiroki-kobayashi--fukushima-wildlife-iot",
+   "creator_ids": [
+    "hill-hiroki-kobayashi"
+   ],
+   "title": "Interactive IoT for Wildlife in Post-Disaster Fukushima",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "In Fukushima's 'difficult-to-return' zone, field stations and wearable sensors stream sound and images of boars, raccoon dogs and other wildlife and play deterrent stimuli to keep them from homes, while letting distant residents perceive the landscape.",
+   "description_zh": "在福岛“返回困难区域”，固定站点和可穿戴传感器传回野猪、貉等野生动物的声音和影像，并播放驱离刺激让它们远离住宅，同时让远方的居民感知这片土地。",
+   "idea_en": "A wildlife deterrent can also be a window: the same sensors that push animals away can connect people to an abandoned place.",
+   "idea_zh": "驱赶野生动物的装置也可以是一扇窗：把动物引开的同一套传感器，也能把人与被遗弃的地方连起来。",
+   "method": "Fixed IoT nodes with cameras, microphones and displays plus wearable sensors, remote streaming and wildlife-tailored audiovisual stimuli, tested in the field.",
+   "method_zh": "由带摄像头、麦克风和显示屏的物联网节点与可穿戴传感器组成，支持远程传输和针对野生动物的声光刺激，并做了野外测试。",
+   "keywords": [
+    "Fukushima",
+    "human–wildlife conflict",
+    "IoT",
+    "bioacoustics",
+    "post-disaster landscape",
+    "University of Tokyo"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/r10-htc63995.2025.11394684",
+    "doi": "10.1109/r10-htc63995.2025.11394684",
+    "arxiv": "",
+    "venue": "IEEE R10-HTC 2025",
+    "title": "Smart Interactive IoT for Post Nuclear Disaster Landscapes: Towards Sustainable Human-Wildlife Coexistence"
+   },
+   "also": [
+    "hni"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/9526a4a31aa5eb31237565025e76de0864c582df/3-Figure2-1.png",
+    "https://figures.semanticscholar.org/9526a4a31aa5eb31237565025e76de0864c582df/3-Figure1-1.png"
+   ]
+  },
+  {
+   "id": "tsuyoshi-shimmura--chick-call-system",
+   "creator_ids": [
+    "tsuyoshi-shimmura"
+   ],
+   "title": "A Mother-Hen System for Chicks",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Farm chicks grow up without hens and panic at noise; this work detects chick calls amid footsteps and fan noise so that a system can answer them with hen-like calls, which are known to calm chicks and help them feed.",
+   "description_zh": "养殖场的小鸡在没有母鸡的环境中长大，容易被噪声惊吓；这项研究在脚步声和风扇噪声中识别小鸡的叫声，让系统能像母鸡一样回应它们，而这种回应已知能让小鸡平静并更好地进食。",
+   "idea_en": "Where farming removed a mother, an interactive system can return the conversation she used to provide.",
+   "idea_zh": "在养殖业拿走母亲的地方，一个交互系统可以把她原本提供的“对话”还给小鸡。",
+   "method": "Call detection using the frequency characteristics of chick calls with suppression of farm noise, as the input stage of a chick–computer interaction system.",
+   "method_zh": "利用小鸡叫声的频率特征识别叫声并抑制养殖场噪声，作为“小鸡—计算机交互”系统的输入环节。",
+   "keywords": [
+    "chicks",
+    "hen calls",
+    "poultry welfare",
+    "bioacoustics",
+    "chick–computer interaction",
+    "Tokyo University of Agriculture and Technology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1121/10.0041049",
+    "doi": "10.1121/10.0041049",
+    "arxiv": "",
+    "venue": "Journal of the Acoustical Society of America 2025",
+    "title": "Chick call detection for animal–computer interaction system promoting growth of chicks"
+   }
+  },
+  {
+   "id": "yiwen-dong--behav2need",
+   "creator_ids": [
+    "yiwen-dong"
+   ],
+   "title": "Behav2Need",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Sensors in eight farrowing crates watched 82 piglets for 960 hours, and an ethology-based causal model inferred needs such as hunger or cold from their behaviour and predicted what they would do next.",
+   "description_zh": "8 个产仔栏中的传感器对 82 头仔猪观察了 960 小时，一个基于动物行为学的因果模型从行为中推断饥饿、寒冷等需要，并预测它们接下来的行为。",
+   "idea_en": "Ask why an animal behaves, not only what it does: modelling needs lets a building respond to them.",
+   "idea_zh": "要问动物为什么这样做，而不只是做了什么：对需要建模，建筑才能回应这些需要。",
+   "method": "Dynamic Causal Bayesian Network built from ethological principles, with priors from multimodal sensor data refined over time.",
+   "method_zh": "依据动物行为学原理构建动态因果贝叶斯网络，先验来自多模态传感数据，并随时间不断修正。",
+   "keywords": [
+    "piglets",
+    "smart farm",
+    "animal needs",
+    "Dynamic Causal Bayesian Network",
+    "ethology",
+    "USDA ARS",
+    "BuildSys 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3744256.3812554",
+    "doi": "10.1145/3744256.3812554",
+    "arxiv": "",
+    "venue": "BuildSys 2026",
+    "title": "Behav2Need: Ethology-Driven Animal Need Understanding via Multimodal Sensing on Smart Farms"
+   }
+  },
+  {
+   "id": "james-she--ai-companion-animal-framework",
+   "creator_ids": [
+    "james-she"
+   ],
+   "title": "From Observation to Agency: AI in Companion Animal Life",
+   "year": 2026,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A survey that sorts AI pet technologies into three stages, monitoring, interpretation and empowerment, and reads them through Haraway's idea of 'significant otherness' as a shift from watching animals to interacting with them both ways.",
+   "description_zh": "这篇综述把面向宠物的 AI 技术分为监测、解读和赋能三个阶段，并借 Haraway 的“重要他者性”概念，把它们解读为从观察动物走向双向互动的转变。",
+   "idea_en": "Ask of any pet technology whether it only watches the animal or also gives the animal something to act with.",
+   "idea_zh": "对任何宠物技术都可以问：它只是在看动物，还是也给了动物可以行动的东西？",
+   "method": "Literature survey organised by core tasks, with a philosophical framing and a discussion of ethical, methodological and technical challenges for ACI.",
+   "method_zh": "按核心任务组织文献综述，结合哲学框架，并讨论动物—计算机交互面临的伦理、方法和技术挑战。",
+   "keywords": [
+    "companion animals",
+    "pet technology",
+    "significant otherness",
+    "Haraway",
+    "survey",
+    "HKUST (Guangzhou)",
+    "ACM TOMM"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3819589",
+    "doi": "10.1145/3819589",
+    "arxiv": "",
+    "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications 2026",
+    "title": "From Observation to Agency: The Role of AI in Companion Animal-Human Interaction"
+   },
+   "also": [
+    "ai"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "ACI 2026 accepted papers (Brugg-Windisch, 2–5 Dec 2026)",
+   "why": "Decisions went out July–Sept 2026 but no accepted-paper list is public yet; the site says details come in November 2026. Sweep the ACM proceedings once out.",
+   "link": "https://www.aciconf.org/conference-program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "ACI 2026 workshop: Audio for Animals (Ramey, Gilliland, Jackson, Starner)",
+   "why": "Full-day workshop on acoustic technologies in animal–computer interaction; will appear in ACI 2026 proceedings.",
+   "link": "https://www.aciconf.org/conference-program",
+   "found_via": "melody-moore-jackson",
+   "status": "open"
+  },
+  {
+   "name": "ACI 2026 workshop: Animal Centered Research (ACR) framework (Paci, Nannoni, Mancini)",
+   "why": "Brings animal-centred principles into ethical review of animal research; the ACR framework itself may be published separately.",
+   "link": "https://www.aciconf.org/conference-program",
+   "found_via": "clara-mancini",
+   "status": "open"
+  },
+  {
+   "name": "Rehkitzrettung Schweiz",
+   "why": "Swiss volunteer network using thermal drones to find fawns before mowing; gives a drone demo at ACI 2026. Possible org record.",
+   "link": "https://www.rehkitzrettung.ch",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sam Gowland & Dirk van der Linden – 'Weeds or Careful Cultivars?' (ACI 2025)",
+   "why": "Systematic review of social media in urban wildlife research (59 papers); not added, review only.",
+   "link": "https://doi.org/10.1145/3768539.3768542",
+   "found_via": "dirk-van-der-linden",
+   "status": "open"
+  },
+  {
+   "name": "Katharina Kleiser et al. – Learning from Human-Dog Collaboration for SAR robots (HRI 2026 LBR)",
+   "why": "Interviews with search-and-rescue dog handlers to inform robot teaming; no figures found.",
+   "link": "https://doi.org/10.1145/3776734.3794545",
+   "found_via": "cristina-gena",
+   "status": "no_media"
+  },
+  {
+   "name": "Stella Kyratzi et al. – Trust in the Wild: dairy-farm milking robots (HRI 2026)",
+   "why": "Practice-based study of how advisors mediate farmers' trust in robotic milking; cows are present but not the focus.",
+   "link": "https://doi.org/10.1145/3776734.3794413",
+   "found_via": "stephanie-buijs",
+   "status": "open"
+  },
+  {
+   "name": "Ilyena Hirskyj-Douglas – 'More Than Human-Robot Interaction' (HRI 2026 keynote)",
+   "why": "Keynote abstract only.",
+   "link": "https://doi.org/10.1145/3776734.3801734",
+   "found_via": "ilyena-hirskyj-douglas",
+   "status": "no_media"
+  },
+  {
+   "name": "Donato Romano & Cesare Stefanini – locust–robot–pathogen hybrid interaction",
+   "why": "Robotic locusts carrying a fungal pathogen to study social immunity; first published online March 2025, before this round's window.",
+   "link": "https://doi.org/10.1002/aisy.202400763",
+   "found_via": "donato-romano",
+   "status": "open"
+  },
+  {
+   "name": "Thomas Schmickl / RoboRoyale – open-source observation hive and robotic comb mapping",
+   "why": "Biology Open 2026 and Computers and Electronics in Agriculture 2025; groundwork for robots that tend the honeybee queen. Fits biohybrid.",
+   "link": "https://doi.org/10.1242/bio.062523",
+   "found_via": "donato-romano",
+   "status": "open"
+  },
+  {
+   "name": "Aalborg Zoo – olfactory enrichment of pygmy hippos with SLEAP tracking (Animals 2026)",
+   "why": "Scent enrichment plus automated pose tracking for an endangered species; good images, held back as less inventive.",
+   "link": "https://doi.org/10.3390/ani16030385",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Thomas Vogler et al. – thermal drone and scaring flags against fawn mowing deaths (Wildlife Biology 2025)",
+   "why": "Drone counts showed little effect of low-tech flags; pairs with Rehkitzrettung.",
+   "link": "https://doi.org/10.1002/wlb3.01450",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "for latest-mth-hni: Ashley Boone et al. – bird–building collision citizen science (CSCW 2025)",
+   "why": "Charismatic Data and Material Traces: monitoring bird collisions through citizen science; hni / citizen-science.",
+   "link": "https://doi.org/10.1145/3757402",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "for latest-mth-hni: Mathilde Gouin et al. – Critter Connect (DIS 2025)",
+   "why": "Wearable for place-based, multisensory encounters with three species; hni.",
+   "link": "https://doi.org/10.1145/3715336.3735426",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "for latest-biocomp: Thomas Schmickl et al. – 'Reimagining the beehive as a biohybrid superorganism' (Nature Reviews Materials 2025)",
+   "why": "Perspective on hives as biohybrid systems.",
+   "link": "https://doi.org/10.1038/s41578-025-00862-7",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "for latest-biocomp: Donato Romano – 'Electroecology for biohybrid and robotic systems' (Nature Reviews Bioengineering 2026)",
+   "why": "Review linking animal electroreception and robotics.",
+   "link": "https://doi.org/10.1038/s44222-026-00481-z",
+   "found_via": "donato-romano",
+   "status": "open"
+  },
+  {
+   "name": "for latest-ai: AI-generated synthetic vocalizations played to free-moving marmosets (IEEE CyberSciTech 2025)",
+   "why": "Generative playback experiment with primates; AI-core communication.",
+   "link": "https://doi.org/10.1109/CyberSciTech68397.2025.00122",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "for latest-ai: Hill Hiroki Kobayashi et al. – cross-species birdcall conversion (Expert Systems with Applications 2026)",
+   "why": "Discrete representation framework for converting bird calls across species.",
+   "link": "https://doi.org/10.1016/j.eswa.2026.132715",
+   "found_via": "hill-hiroki-kobayashi",
+   "status": "open"
+  },
+  {
+   "name": "for latest-ai: 'A Preview of Computational Animal Linguistics' (ACM Computing Surveys 2026)",
+   "why": "Survey of computational approaches to animal communication.",
+   "link": "https://doi.org/10.1145/3850160",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,2289 @@
+{
+ "batch": "latest-art-spec",
+ "creators": [
+  {
+   "id": "paula-gaetano-adi",
+   "name": "Paula Gaetano Adi",
+   "kind": "person",
+   "role": "Artist; professor at Rhode Island School of Design (RISD)",
+   "based": "Providence, US",
+   "bio": "Argentine artist who builds robots and performances that question how machines, bodies and territories are tied to colonial histories. Her Guanaquerx project won the 2025 Golden Nica for Artificial Life & Intelligence.",
+   "why": "She designs robots as allies of the Earth and its beings rather than as tools of extraction, drawing on Andean cosmotechnics.",
+   "links": {
+    "site": "https://www.guanaquerx.com/"
+   },
+   "role_zh": "艺术家；罗德岛设计学院（RISD）教授",
+   "bio_zh": "阿根廷艺术家，用机器人和表演追问机器、身体与土地如何与殖民历史缠结在一起。她的 Guanaquerx 项目获得 2025 年 Prix Ars Electronica“人工生命与智能”类金尼卡奖。",
+   "why_zh": "她把机器人设计成地球与众生的同盟，而不是开采的工具，并从安第斯的宇宙技术中汲取思路。",
+   "based_zh": "普罗维登斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ecorove",
+   "name": "EcoRove",
+   "kind": "studio",
+   "role": "Research and film studio founded in 2020 by Jumanah Abbas, Iyad Abou Gaida and Em Joseph",
+   "based": "Lebanon / international",
+   "bio": "Collaborative multimedia research studio that makes documentaries, animation and data work about the politics of critical zones and the humans and other species that live in them.",
+   "why": "It retells the Lebanese cedar as a living, endangered being rather than a national emblem.",
+   "links": {
+    "site": "https://www.ecorove.com/en"
+   },
+   "role_zh": "2020 年由 Jumanah Abbas、Iyad Abou Gaida 和 Em Joseph 创立的研究与影像工作室",
+   "bio_zh": "一个协作式多媒体研究工作室，用纪录片、动画和数据作品讨论“关键带”的政治，以及生活在其中的人和其他物种。",
+   "why_zh": "它把黎巴嫩雪松重新讲述为一个濒危的生命，而不是国家符号。",
+   "based_zh": "黎巴嫩 / 国际",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laura-colmenares-guerra",
+   "name": "Laura Colmenares Guerra",
+   "kind": "person",
+   "role": "Artist working with installation, VR and 3D-printed ceramics",
+   "based": "Brussels, BE",
+   "bio": "Colombian artist who turns environmental and topographic data into immersive, sensor-based works about living ecosystems, territory and extractivism. Her Ríos Trilogy (2018–2024) follows the Amazon basin through its rivers.",
+   "why": "She maps the Amazon by river basins rather than national borders, treating rivers as ancestors and the structure of territory.",
+   "links": {
+    "site": "https://ulara.org/"
+   },
+   "role_zh": "从事装置、虚拟现实和 3D 打印陶瓷的艺术家",
+   "bio_zh": "哥伦比亚艺术家，把环境与地形数据转化为沉浸式、传感驱动的作品，讨论生命生态系统、领土与开采主义。她的“河流三部曲”（2018–2024）沿着河流穿越亚马孙流域。",
+   "why_zh": "她按流域而不是国界去绘制亚马孙，把河流当作祖先和领土的结构。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fiona-mcdonald",
+   "name": "Fiona McDonald",
+   "kind": "person",
+   "role": "Media artist working with ecology, sensors and code",
+   "based": "Dublin, IE",
+   "bio": "Irish media artist trained in biological chemistry, fine art and multimedia systems. She works for years alongside ecologists in Ireland's rewetted peatlands, turning carbon-flux data into slow drawings, sculptures and performances.",
+   "why": "Her 'small-file' practice uses low-resolution data and low energy to match ecological time instead of computational speed.",
+   "links": {
+    "site": "http://www.fionamcdonald.digital/"
+   },
+   "role_zh": "关注生态、传感器与代码的媒体艺术家",
+   "bio_zh": "爱尔兰媒体艺术家，受过生物化学、美术和多媒体系统训练。她多年与生态学家一起在爱尔兰重新湿化的泥炭地工作，把碳通量数据转化为缓慢的绘画、雕塑和表演。",
+   "why_zh": "她的“小文件”方法用低分辨率数据和低能耗去贴合生态时间，而不是计算速度。",
+   "based_zh": "都柏林，爱尔兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "disnovation-org",
+   "name": "DISNOVATION.ORG",
+   "kind": "studio",
+   "role": "Art and research collective led by Nicolas Maigret and Maria Roszkowska",
+   "based": "Paris, FR",
+   "bio": "Collective that mixes contemporary art, research and hacking to stage eco-social debates about energy, ecology and economics as large laboratory-like installations. Co-editors of A Bestiary of the Anthropocene.",
+   "why": "They turn photosynthesis and other nonhuman metabolisms into units for rethinking economics.",
+   "links": {
+    "site": "https://disnovation.org/"
+   },
+   "role_zh": "由 Nicolas Maigret 与 Maria Roszkowska 主持的艺术与研究团体",
+   "bio_zh": "这个团体把当代艺术、研究与黑客实践结合起来，用类似大型实验室的装置讨论能源、生态与经济的社会生态议题。他们也是《人类世动物寓言集》（A Bestiary of the Anthropocene）的合编者。",
+   "why_zh": "他们把光合作用等非人类代谢变成重新思考经济的单位。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xin-liu",
+   "name": "Xin Liu",
+   "kind": "person",
+   "role": "Artist and engineer; founding Arts Curator of the MIT Media Lab Space Exploration Initiative",
+   "based": "London, UK",
+   "bio": "Artist and engineer born in Xinjiang, China, whose sculptures, films and experiments deal with outer space, extraterrestrial exploration and 'cosmic metabolism'. Artist-in-residence at the SETI Institute.",
+   "why": "She stages engineered organisms and enzymes as actors in myths about permanence and consumption.",
+   "links": {
+    "site": "https://xinliu.art/"
+   },
+   "role_zh": "艺术家、工程师；MIT 媒体实验室太空探索计划的创始艺术策展人",
+   "bio_zh": "出生于中国新疆的艺术家和工程师，她的雕塑、影像和实验关注外太空、地外探索与“宇宙代谢”。她也是 SETI 研究所的驻留艺术家。",
+   "why_zh": "她把工程生物和酶放进关于“永恒”与“消耗”的神话里，让它们成为主角。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "shijia-huang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yana-zschiedrich",
+   "name": "Yana Zschiedrich",
+   "kind": "person",
+   "role": "Artist and researcher; lead of the HYBRIS research initiative",
+   "based": "Leipzig, DE",
+   "bio": "Artist working between art, architecture and ecology on sustainable material development. Since 2019 she has worked with mealworms that digest polystyrene, developing GEOBRIS, a building material made from their excrement.",
+   "why": "She treats insects as co-producers of materials and asks what architecture could be built with their waste.",
+   "links": {
+    "site": "https://hybris.tech"
+   },
+   "role_zh": "艺术家、研究者；HYBRIS 研究计划负责人",
+   "bio_zh": "在艺术、建筑与生态之间工作的艺术家，关注可持续材料开发。自 2019 年起，她与能消化聚苯乙烯的黄粉虫合作，开发出用它们的排泄物制成的建筑材料 GEOBRIS。",
+   "why_zh": "她把昆虫当作材料的共同生产者，并追问：用它们的排泄物能建造怎样的建筑？",
+   "based_zh": "莱比锡，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vanessa-amoah-opoku",
+   "name": "Vanessa Amoah Opoku",
+   "kind": "person",
+   "role": "Artist working with mixed reality, 3D scanning and sculpture",
+   "based": "Berlin, DE",
+   "bio": "German-Ghanaian artist who uses 3D scans, video, sculpture and sound to explore history, digitality and marginalised narratives. Member of the PARA collective.",
+   "why": "She questions the category of 'invasive' plants by giving them a new world in mixed reality.",
+   "links": {
+    "site": "https://vanessaopoku.com/"
+   },
+   "role_zh": "从事混合现实、三维扫描与雕塑的艺术家",
+   "bio_zh": "德国—加纳裔艺术家，用三维扫描、影像、雕塑和声音探讨历史、数字性与被边缘化的叙事。她是 PARA 团体的成员。",
+   "why_zh": "她在混合现实中给“入侵”植物一个新世界，以此质疑这种分类。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "victoria-vesna",
+   "name": "Victoria Vesna",
+   "kind": "person",
+   "role": "Artist; professor at UCLA Department of Design Media Arts and director of the UCLA Art|Sci Center",
+   "based": "Los Angeles, US",
+   "bio": "Media artist who has worked with scientists for decades on works about networks, nanotechnology, water and bees, exploring how art and science shape perception and collective experience.",
+   "why": "Her collaborations put plants, bees and physics side by side to show shared patterns of energy and growth.",
+   "links": {
+    "site": "https://victoriavesna.com/"
+   },
+   "role_zh": "艺术家；加州大学洛杉矶分校设计媒体艺术系教授、UCLA Art|Sci 中心主任",
+   "bio_zh": "媒体艺术家，几十年来与科学家合作，创作关于网络、纳米技术、水和蜜蜂的作品，探讨艺术与科学如何塑造感知和集体经验。",
+   "why_zh": "她的合作把植物、蜜蜂和物理学放在一起，展示能量与生长的共同模式。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "inferstudio",
+   "name": "Inferstudio",
+   "kind": "studio",
+   "role": "Digital worldbuilding and investigative design studio founded in 2017 by Bethany Edgoose and Nathan Su",
+   "based": "London, UK",
+   "bio": "Studio that makes immersive films and images of fictional futures and visualisations of environmental realities, around ecology, land and oceanscapes and extended reality.",
+   "why": "They use science-based fiction to rehearse ocean governance and protection before it happens.",
+   "links": {
+    "site": "https://www.inferstudio.com/"
+   },
+   "role_zh": "2017 年由 Bethany Edgoose 和 Nathan Su 创立的数字世界构建与调查设计工作室",
+   "bio_zh": "工作室制作关于虚构未来的沉浸式影像，也把环境现实做成可视化，主题围绕生态、陆地与海洋景观以及扩展现实。",
+   "why_zh": "他们用基于科学的虚构，预先排练海洋治理与保护。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emilia-sanchez-chiquetti",
+   "name": "Emilia Sánchez Chiquetti",
+   "kind": "person",
+   "role": "Director and producer; founder of Presencias",
+   "based": "Argentina / Brazil",
+   "bio": "Argentine-Brazilian director and producer of audiovisual, theatre and XR projects, shown in festivals, museums, national parks and education settings across the Americas and Europe.",
+   "why": "She co-creates VR with Indigenous narrators so that forest cosmologies, not outside observers, guide the experience.",
+   "links": {
+    "site": "https://www.presencias.info"
+   },
+   "role_zh": "导演、制片人；Presencias 创始人",
+   "bio_zh": "阿根廷—巴西导演和制片人，制作影像、剧场和扩展现实项目，在美洲和欧洲的电影节、博物馆、国家公园和教育场景中展出。",
+   "why_zh": "她与原住民讲述者共同创作 VR，让森林的宇宙观而不是外来观察者来引导体验。",
+   "based_zh": "阿根廷 / 巴西",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ana-vogelfang-julieta-garcia-vazquez",
+   "name": "Ana Vogelfang & Julieta García Vázquez",
+   "kind": "studio",
+   "role": "Artist duo; founders of the Museo Ocasional de un Paisaje Increíble (MOPI)",
+   "based": "Argentina",
+   "bio": "Argentine artists working together since 2018 between painting, architecture and social practice. In 2021 they founded MOPI, a nomadic museum held in Latin American wetlands.",
+   "why": "They turn museum-making into a one-day collective practice that helps communities care for threatened wetlands.",
+   "links": {
+    "site": "https://mopi-museo.weebly.com"
+   },
+   "role_zh": "艺术家二人组；“一个不可思议风景的临时博物馆”（MOPI）创始人",
+   "bio_zh": "两位阿根廷艺术家自 2018 年起合作，工作横跨绘画、建筑与社会实践。2021 年她们创立 MOPI，一个在拉丁美洲湿地中举办的游牧博物馆。",
+   "why_zh": "她们把“做博物馆”变成为期一天的集体实践，帮助社区照护受威胁的湿地。",
+   "based_zh": "阿根廷",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "brendan-harmon",
+   "name": "Brendan Harmon",
+   "kind": "person",
+   "role": "Landscape architect; faculty at the Robert Reich School of Landscape Architecture, Louisiana State University",
+   "based": "Baton Rouge, US",
+   "bio": "Landscape architect who works with laser scanning, simulation and tangible interfaces to model landscapes and how they change.",
+   "why": "He brings terrestrial laser scanning and landscape modelling into artworks about old trees.",
+   "links": {},
+   "role_zh": "景观设计师；路易斯安那州立大学 Robert Reich 景观建筑学院教师",
+   "bio_zh": "景观设计师，用激光扫描、模拟和可触界面为景观及其变化建模。",
+   "why_zh": "他把地面激光扫描和景观建模带进关于古树的艺术作品。",
+   "based_zh": "巴吞鲁日，美国",
+   "connected_to": [
+    "hye-yeon-nam"
+   ],
+   "discovered_via": "hye-yeon-nam"
+  },
+  {
+   "id": "clarissa-ribeiro",
+   "name": "Clarissa Ribeiro",
+   "kind": "person",
+   "role": "Artist and researcher; Department of Fine Arts, School of Communications and Arts, University of São Paulo",
+   "based": "São Paulo, BR",
+   "bio": "Brazilian artist and researcher working across bio art, generative media and augmented reality, with works about microbiomes, climate and hybrid bodies.",
+   "why": "Her tactile, AR-animated objects turn ecological grief over burned biomes into something people can hold.",
+   "links": {
+    "site": "https://www.clarissaribeiro.com/"
+   },
+   "role_zh": "艺术家、研究者；圣保罗大学传播与艺术学院美术系",
+   "bio_zh": "巴西艺术家和研究者，作品横跨生物艺术、生成媒体和增强现实，关注微生物组、气候和混合身体。",
+   "why_zh": "她用可触摸、带 AR 动画的物件，把人们对被烧毁生物群落的生态哀伤变成可以握在手里的东西。",
+   "based_zh": "圣保罗，巴西",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "danlin-huang",
+   "name": "Danlin Huang",
+   "kind": "person",
+   "role": "Designer and researcher, China Academy of Art",
+   "based": "Hangzhou, CN",
+   "bio": "Designer and researcher who builds wearable and mixed-reality experiences that borrow the senses of other animals, often with Reality Design Lab.",
+   "why": "Her work lets people feel the world through the senses of other animals, such as the star-nosed mole's touch.",
+   "links": {},
+   "role_zh": "中国美术学院设计师、研究者",
+   "bio_zh": "设计师和研究者，常与 Reality Design Lab 合作，制作借用其他动物感官的可穿戴和混合现实体验。",
+   "why_zh": "她的作品让人借其他动物的感官去感受世界，比如星鼻鼹的触觉。",
+   "based_zh": "杭州，中国",
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "chiaochi-chou",
+   "name": "Chiaochi Chou",
+   "kind": "person",
+   "role": "Artist and PhD researcher, International Intercollegiate PhD Program, National Tsing Hua University",
+   "based": "Hsinchu, TW",
+   "bio": "Artist-researcher working on interspecies music and biosignal-based performance with collaborators at the University of Tokyo and KAIST.",
+   "why": "Her performances treat plants as co-performers whose signals change what the human musician plays.",
+   "links": {},
+   "role_zh": "艺术家；台湾清华大学跨院国际博士学位学程研究者",
+   "bio_zh": "艺术家与研究者，与东京大学、KAIST 的合作者一起，研究跨物种音乐和基于生物信号的表演。",
+   "why_zh": "她的表演把植物当作共同演奏者，植物的信号会改变人类乐手的演奏。",
+   "based_zh": "新竹，中国台湾",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "inter-american-court-of-human-rights",
+   "name": "Inter-American Court of Human Rights",
+   "kind": "lab",
+   "role": "Regional human rights court of the Organization of American States",
+   "based": "San José, CR",
+   "bio": "Judicial body that interprets and applies the American Convention on Human Rights for the states that accept its jurisdiction, issuing contentious rulings and advisory opinions.",
+   "why": "In 2025 it became the first international court to recognise nature as a subject of rights.",
+   "links": {
+    "site": "https://www.corteidh.or.cr/"
+   },
+   "role_zh": "美洲国家组织下属的区域人权法院",
+   "bio_zh": "解释和适用《美洲人权公约》的司法机构，对接受其管辖的国家作出诉讼判决和咨询意见。",
+   "why_zh": "2025 年，它成为第一个承认自然是权利主体的国际法院。",
+   "based_zh": "圣何塞，哥斯达黎加",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nga-iwi-o-taranaki",
+   "name": "Ngā Iwi o Taranaki",
+   "kind": "lab",
+   "role": "The eight Māori iwi (tribes) of Taranaki, who negotiated the Taranaki Maunga collective redress with the Crown",
+   "based": "Taranaki, NZ",
+   "bio": "Ngāti Tama, Ngāti Mutunga, Te Atiawa, Ngāti Maru, Taranaki, Ngāruahine, Ngāti Ruanui and Ngaa Rauru Kiitahi, the iwi whose ancestor is the mountain Taranaki.",
+   "why": "Their settlement made a mountain and its surrounding peaks a legal person, following the model of the Whanganui River.",
+   "links": {},
+   "role_zh": "塔拉纳基的八个毛利部落（iwi），与新西兰王室谈判达成塔拉纳基山集体补偿协议",
+   "bio_zh": "Ngāti Tama、Ngāti Mutunga、Te Atiawa、Ngāti Maru、Taranaki、Ngāruahine、Ngāti Ruanui 和 Ngaa Rauru Kiitahi，这些部落把塔拉纳基山视为祖先。",
+   "why_zh": "他们的和解协议让一座山及其周围的山峰成为法律人格主体，延续了旺格努伊河的模式。",
+   "based_zh": "塔拉纳基，新西兰",
+   "connected_to": [
+    "whanganui-iwi"
+   ],
+   "discovered_via": "whanganui-iwi"
+  },
+  {
+   "id": "huaynakana-kamatahuara-kana",
+   "name": "Huaynakana Kamatahuara Kana",
+   "kind": "lab",
+   "role": "Kukama Indigenous women's association, led by Mari Luz Canaquiri Murayari",
+   "based": "Loreto, PE",
+   "bio": "Association of Kukama women from the Marañón River in the Peruvian Amazon who brought the rights-of-nature case for the river after repeated oil spills. Its president Mari Luz Canaquiri Murayari received the 2025 Goldman Environmental Prize.",
+   "why": "They won Peru's first court recognition of a river as a subject of rights, with the Kukama named as its guardians.",
+   "links": {
+    "site": "https://www.goldmanprize.org/recipient/mari-luz-canaquiri-murayari/"
+   },
+   "role_zh": "库卡马原住民妇女协会，由 Mari Luz Canaquiri Murayari 领导",
+   "bio_zh": "来自秘鲁亚马孙马拉尼翁河流域的库卡马妇女协会，在多次石油泄漏之后为这条河提起自然权利诉讼。协会主席 Mari Luz Canaquiri Murayari 获得 2025 年戈德曼环境奖。",
+   "why_zh": "她们赢得了秘鲁法院第一次承认一条河流是权利主体的判决，库卡马人被认定为它的守护者。",
+   "based_zh": "洛雷托，秘鲁",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maki-ueda",
+   "name": "Maki Ueda",
+   "kind": "person",
+   "role": "Olfactory artist and educator; 2025 artist fellow at Civic Creative Base Tokyo (CCBT)",
+   "based": "Japan / Netherlands",
+   "bio": "Pioneering olfactory artist who builds immersive works about smell, space and movement, from olfactory labyrinths to scent maps. Her current research, Olfacto-Politics, treats air as a medium shared equally by humans, animals and plants.",
+   "why": "She uses smell, the sense humans neglect most, to let people enter the chemical worlds of moths, bats and dogs.",
+   "links": {
+    "site": "https://ueda.nl"
+   },
+   "role_zh": "嗅觉艺术家和教育者；东京市民创意基地（CCBT）2025 年度驻留艺术家",
+   "bio_zh": "嗅觉艺术的先行者，从嗅觉迷宫到气味地图，创作关于气味、空间和移动的沉浸式作品。她目前的研究“嗅觉政治”（Olfacto-Politics）把空气看作人类、动物和植物平等共享的媒介。",
+   "why_zh": "她用人类最忽视的感官——嗅觉——让人进入飞蛾、蝙蝠和狗的化学世界。",
+   "based_zh": "日本 / 荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adrien-lucca",
+   "name": "Adrien Lucca",
+   "kind": "person",
+   "role": "Visual artist working with colour, light and custom optical technology",
+   "based": "Brussels, BE",
+   "bio": "Artist born in Paris in 1983 who since 2009 has investigated colour and light between art, physics, perception and biology, building custom lighting systems for installations and public artworks. His recent research focuses on non-human visual worlds and the ecological effects of artificial light.",
+   "why": "He uses calibrated light to translate an insect's colour vision into something humans can see.",
+   "links": {
+    "site": "https://adrienlucca.net"
+   },
+   "role_zh": "研究色彩、光与定制光学技术的视觉艺术家",
+   "bio_zh": "1983 年生于巴黎的艺术家，自 2009 年起在艺术、物理、知觉与生物学之间研究色彩与光，为装置和公共艺术开发定制照明系统。他近期关注非人类的视觉世界，以及人造光的生态影响。",
+   "why_zh": "他用经过校准的光，把一种昆虫的色觉转译成人能看到的景象。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sikau-pubalova",
+   "name": "sikau/půbalová",
+   "kind": "studio",
+   "role": "Queer-feminist artist duo of Lea Luka Sikau and Denisa Půbalová",
+   "based": "Germany / Netherlands",
+   "bio": "Since 2020, opera singer and sound scholar Lea Luka Sikau and artist-coder Denisa Půbalová have made multisensory sound environments at the meeting point of vibroacoustic ethnography, media art and new opera, commissioned by ZKM, STARTS, STUDIOTOPIA and Mediamatic.",
+   "why": "They build kinship through touch, sound and fermentation, treating microbes as relatives rather than tools.",
+   "links": {
+    "site": "https://sikau-pubalova.com"
+   },
+   "role_zh": "由 Lea Luka Sikau 和 Denisa Půbalová 组成的酷儿女性主义艺术二人组",
+   "bio_zh": "自 2020 年起，歌剧演唱者、声音学者 Lea Luka Sikau 与艺术家、程序员 Denisa Půbalová 合作，在振动声学民族志、媒体艺术和新歌剧的交汇处创作多感官声音环境，委托方包括 ZKM、STARTS、STUDIOTOPIA 和 Mediamatic。",
+   "why_zh": "她们通过触觉、声音和发酵建立亲缘，把微生物当作亲属而不是工具。",
+   "based_zh": "德国 / 荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dennis-siering",
+   "name": "Dennis Siering",
+   "kind": "person",
+   "role": "Artist working between art and science",
+   "based": "Germany",
+   "bio": "German artist who designs speculative scenarios about how nature, technology and society interact, with a recent focus on collaboration between species.",
+   "why": "He imagines birds as political allies by teaching them human protest songs.",
+   "links": {
+    "site": "https://dennissiering.com"
+   },
+   "role_zh": "在艺术与科学之间工作的艺术家",
+   "bio_zh": "德国艺术家，设计关于自然、技术与社会如何相互作用的思辨情境，近期尤其关注物种之间的协作。",
+   "why_zh": "他通过教鸟唱人类的抗议歌曲，把鸟想象成政治盟友。",
+   "based_zh": "德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-burr",
+   "name": "Peter Burr",
+   "kind": "person",
+   "role": "Artist working with games, cinema, software and operating-system interventions",
+   "based": "New York, US",
+   "bio": "American artist whose expanded animations, games and 'experimental malware' have been shown at MoMA, the Whitney Museum and the Centre Pompidou. NATURAL CONTACTS was made with Mark Fingerhut, Bridget DeFranco and Matthew D Gantt.",
+   "why": "He hands a personal computer over to a slow, decaying ecosystem for a day.",
+   "links": {
+    "site": "https://peterburr.org/"
+   },
+   "role_zh": "用游戏、电影、软件和操作系统介入进行创作的艺术家",
+   "bio_zh": "美国艺术家，他的扩展动画、游戏和“实验性恶意软件”曾在 MoMA、惠特尼美术馆和蓬皮杜中心展出。NATURAL CONTACTS 由他与 Mark Fingerhut、Bridget DeFranco 和 Matthew D Gantt 共同完成。",
+   "why_zh": "他把一台个人电脑交给一个缓慢腐烂的生态系统，整整一天。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tania-candiani",
+   "name": "Tania Candiani",
+   "kind": "person",
+   "role": "Artist working with sound, translation and the politics of listening",
+   "based": "Mexico City, MX",
+   "bio": "Mexican artist (b. 1974) whose research-based, site-specific works translate between visual, sound, textual and symbolic languages, drawing on oral traditions and ancestral knowledge, and grounded in a feminist ethics of care.",
+   "why": "She composes for what lies below human perception, such as root networks and the hidden life of soil.",
+   "links": {},
+   "role_zh": "从事声音、翻译与“聆听的政治”的艺术家",
+   "bio_zh": "墨西哥艺术家（1974 年生），她的在地研究型作品在视觉、声音、文字和符号语言之间转译，借助口述传统和祖先知识，并以女性主义关怀伦理为基础。",
+   "why_zh": "她为人类感知之下的东西作曲，比如根系网络和土壤中隐藏的生命。",
+   "based_zh": "墨西哥城，墨西哥",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "juan-zamora",
+   "name": "Juan Zamora",
+   "kind": "person",
+   "role": "Artist working between science, technology and art on plant intelligence",
+   "based": "Spain",
+   "bio": "Spanish artist (b. 1982) who studies how plants relate to their environments and the philosophical questions raised by plant intelligence, often working with scientists on bioluminescence and microorganisms.",
+   "why": "He treats plants, air and microbes as active participants and gives them a light of their own.",
+   "links": {},
+   "role_zh": "在科学、技术与艺术之间研究植物智能的艺术家",
+   "bio_zh": "西班牙艺术家（1982 年生），研究植物与环境的关系以及植物智能引出的哲学问题，常与科学家合作研究生物发光和微生物。",
+   "why_zh": "他把植物、空气和微生物当作积极的参与者，并给它们自己的光。",
+   "based_zh": "西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-rosero-contreras",
+   "name": "Paul Rosero Contreras",
+   "kind": "person",
+   "role": "Multimedia artist working with speculative realism, science and biomaterials",
+   "based": "Quito, EC",
+   "bio": "Ecuadorian artist (b. 1982) who mixes Indigenous thought, the history of science and fiction, and develops experimental biomaterials such as mycelium and bioplastics for installations about interspecies reciprocity.",
+   "why": "He imagines military architecture overtaken by the island species that already live around it.",
+   "links": {},
+   "role_zh": "从事思辨实在论、科学与生物材料的多媒体艺术家",
+   "bio_zh": "厄瓜多尔艺术家（1982 年生），把原住民思想、科学史与虚构交织在一起，并自行开发菌丝体、生物塑料等实验性生物材料，创作关于物种间互惠的装置。",
+   "why_zh": "他想象军事建筑被原本就生活在周围的岛上物种重新占据。",
+   "based_zh": "基多，厄瓜多尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kati-roover",
+   "name": "Kati Roover",
+   "kind": "person",
+   "role": "Artist working with moving image on environmental change and hydrofeminism",
+   "based": "Finland / Estonia",
+   "bio": "Estonian-Finnish artist (b. 1982) whose poetic video works address the coexistence of humans and non-human worlds, natural science, decolonisation, mythopoetic narratives and hydrofeminism.",
+   "why": "She rewrites old sea myths to help people imagine whale cultures and their own place in the ocean.",
+   "links": {},
+   "role_zh": "以影像探讨环境变化与“水女性主义”的艺术家",
+   "bio_zh": "爱沙尼亚—芬兰艺术家（1982 年生），她诗意的影像作品讨论人类与非人类世界的共存、自然科学、去殖民、神话诗学叙事和水女性主义。",
+   "why_zh": "她改写古老的海洋神话，帮助人们想象鲸的文化和人类在海洋中的位置。",
+   "based_zh": "芬兰 / 爱沙尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tehanu",
+   "name": "Tehanu",
+   "kind": "company",
+   "role": "Interspecies money venture led by writer and futurist Jonathan Ledgard",
+   "based": "International",
+   "bio": "Venture that gives wild species digital identities and wallets, uses AI to infer their interests, and pays people who meet those interests. It completed what it calls the first cross-species payment with the government of Rwanda in 2024.",
+   "why": "It treats animals as economic participants with accounts, not as natural capital owned by others.",
+   "links": {},
+   "role_zh": "由作家、未来学家 Jonathan Ledgard 领导的“跨物种货币”项目",
+   "bio_zh": "这个项目为野生物种建立数字身份和钱包，用 AI 推断它们的利益，并向满足这些利益的人付款。它称与卢旺达政府在 2024 年完成了第一笔跨物种支付。",
+   "why_zh": "它把动物当作拥有账户的经济参与者，而不是归别人所有的自然资本。",
+   "based_zh": "国际",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wye-catchment-partnership",
+   "name": "Wye Catchment Partnership",
+   "kind": "lab",
+   "role": "Cross-border partnership of community groups, environmental organisations and public bodies caring for the River Wye catchment",
+   "based": "Wales and England, UK",
+   "bio": "Partnership working across the Welsh–English border on the health of the River Wye. Its members, with the Wye Catchment Nutrient Management Board and Herefordshire councillor Elissa Swinglehurst, drafted the Charter for the Rights of the River Wye in 2025.",
+   "why": "It turned a local pollution crisis into the UK's first source-to-sea rights framework for a river.",
+   "links": {},
+   "role_zh": "跨越英格兰与威尔士边界、照护瓦伊河流域的社区团体、环保组织和公共机构的合作网络",
+   "bio_zh": "这个合作网络跨越威尔士与英格兰边界，致力于瓦伊河的健康。2025 年，其成员与瓦伊河流域营养物管理委员会以及赫里福德郡议员 Elissa Swinglehurst 一起起草了《瓦伊河权利宪章》。",
+   "why_zh": "它把一场地方性的污染危机，变成了英国第一个从源头到入海口的河流权利框架。",
+   "based_zh": "威尔士与英格兰，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-macfarlane",
+   "name": "Robert Macfarlane",
+   "kind": "person",
+   "role": "Writer; Professor of Literature and the Environmental Humanities, University of Cambridge",
+   "based": "Cambridge, UK",
+   "bio": "British nature writer whose books, including The Old Ways, Underland and Is a River Alive?, explore landscape, language and the living world.",
+   "why": "His 2025 book carried the rights-of-rivers movement to a wide public through stories from Ecuador, India and Canada.",
+   "links": {},
+   "role_zh": "作家；剑桥大学文学与环境人文学教授",
+   "bio_zh": "英国自然文学作家，著有《古道》《深时之旅》和《河流是活的吗？》等书，探讨风景、语言与生命世界。",
+   "why_zh": "他 2025 年的这本书通过厄瓜多尔、印度和加拿大的故事，把河流权利运动带给了广大读者。",
+   "based_zh": "剑桥，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ars-electronica-futurelab",
+   "name": "Ars Electronica Futurelab",
+   "kind": "lab",
+   "role": "Art-and-technology research lab of Ars Electronica",
+   "based": "Linz, AT",
+   "bio": "Interdisciplinary lab of artists, designers and engineers that has developed prototypes, installations and research projects with industry and science partners since 1996.",
+   "why": "Its Interbeing Lab stages conversations beyond the human, including with ravens, as installations for a wide public.",
+   "links": {
+    "site": "https://ars.electronica.art/futurelab/en/"
+   },
+   "role_zh": "Ars Electronica 的艺术与科技研究实验室",
+   "bio_zh": "一个由艺术家、设计师和工程师组成的跨学科实验室，自 1996 年起与产业和科研伙伴一起开发原型、装置和研究项目。",
+   "why_zh": "它的 Interbeing Lab 把超越人类的对话——包括与渡鸦的对话——做成面向大众的装置。",
+   "based_zh": "林茨，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "paula-gaetano-adi--guanaquerx",
+   "creator_ids": [
+    "paula-gaetano-adi"
+   ],
+   "title": "Guanaquerx",
+   "year": 2024,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A four-legged robot modelled on the guanaco crossed the Andes in seven days in January 2024, retracing San Martín's 1817 liberation route with artists, engineers, local muleteers and 58 mules and horses. On its chest it carries 'Pluriversal Laws of Robotics' that pledge loyalty to the Earth and all its beings, not only to humans.",
+   "description_zh": "一只以原驼为原型的四足机器人在 2024 年 1 月用七天穿越安第斯山脉，沿着 1817 年圣马丁解放军的路线前行，同行的有艺术家、工程师、当地赶骡人和 58 匹骡马。它胸前挂着“多元世界机器人定律”，誓言效忠的不只是人类，而是地球和所有生命。",
+   "idea_en": "Rewrite the laws of robotics so that machines owe loyalty to the Earth and other beings, and build them with local hands and materials.",
+   "idea_zh": "改写机器人定律，让机器对地球和其他生命负有义务，并用本地的手艺和材料来造它。",
+   "method": "A quadruped rover developed with Hyundai's New Horizons Studio, built partly from caña colihue bamboo and dressed in Andean textiles, records sound and images, emits a synthetic whinny and beats a drum with its tail during a multi-day horseback expedition.",
+   "method_zh": "这台四足探测机器人与现代汽车 New Horizons Studio 合作开发，部分用 caña colihue 竹子制成，披着安第斯织物；在多日的马背远征中，它录制声音和影像，发出合成的马嘶声，并用尾巴敲鼓。",
+   "keywords": [
+    "guanaco",
+    "Andes",
+    "Yastay",
+    "cosmotechnics",
+    "Pluriversal Laws of Robotics",
+    "decolonial robotics",
+    "Golden Nica 2025",
+    "Artificial Life & Intelligence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hv0hiugjvTo"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3849576/preview/",
+    "https://archive.aec.at/asset/3849577/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/303077/",
+   "collections": [
+    "prix-ars-hybrid-art"
+   ]
+  },
+  {
+   "id": "ecorove--cedar-exodus",
+   "creator_ids": [
+    "ecorove"
+   ],
+   "title": "Cedar Exodus",
+   "year": 2023,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A research project of an experimental documentary, Where Can We Be Found?, and two animated drawings, Trapped and Exploited, about the endangered Lebanese cedar (Cedrus libani). It traces how the tree went from vast forests to isolated reserves through ancient logging, colonial extraction, tourism and climate change.",
+   "description_zh": "一个研究项目，包括实验纪录片《我们能在哪里被找到？》和两部动画绘画《被困》《被开采》，讲述濒危的黎巴嫩雪松（Cedrus libani）如何从广袤森林萎缩为零散保护区：古代砍伐、殖民开采、旅游和气候变化都在其中。",
+   "idea_en": "A national symbol can hide a dying species; give the tree back its agency as a living being.",
+   "idea_zh": "国家符号可能遮住一个正在消失的物种；要把雪松还原为一个有能动性的生命。",
+   "method": "Combines landscape footage, interviews, 2D and 3D animation and archival research across Lebanon's cedar reserves.",
+   "method_zh": "在黎巴嫩各处雪松保护区拍摄风景和访谈，并结合二维、三维动画与档案研究。",
+   "keywords": [
+    "Lebanese cedar",
+    "Cedrus libani",
+    "political ecology",
+    "documentary",
+    "Where Can We Be Found?",
+    "Prix Ars Electronica 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6LDVE0OoRNw"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3850431/preview/",
+    "https://archive.aec.at/asset/3850433/preview/"
+   ],
+   "source_url": "https://www.ecorove.com/en/projects/where-can-we-be-found",
+   "collections": [
+    "prix-ars-hybrid-art"
+   ]
+  },
+  {
+   "id": "laura-colmenares-guerra--reverse",
+   "creator_ids": [
+    "laura-colmenares-guerra"
+   ],
+   "title": "R€¥€R$€ (Ríos, Chapter 3)",
+   "year": 2024,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A 30-minute VR work that floats the viewer along Amazon rivers on whose surface the names of Indigenous peoples appear, then opens six interactive maps of deforestation, oil and gas blocks, mining, dams, roads and fire across nine countries. The maps follow river basins rather than national borders.",
+   "description_zh": "一部 30 分钟的虚拟现实作品：观众沿亚马孙的河流漂浮，水面上浮现原住民族的名字；随后打开六张互动地图，呈现九个国家的毁林、油气区块、采矿、水坝、道路和火灾。地图按流域而不是国界来组织。",
+   "idea_en": "Draw territory the way water does: rivers as the living structure that holds a place together.",
+   "idea_zh": "像水那样划分领土：河流是把一个地方连在一起的活结构。",
+   "method": "Real-time Unreal Engine environments combined with archival film and open geospatial data from the RAISG network, made with the Indigenous organisation COICA.",
+   "method_zh": "用 Unreal Engine 实时环境结合档案影像，以及 RAISG 网络的开放地理数据，并与原住民组织 COICA 合作。",
+   "keywords": [
+    "Amazon",
+    "rivers",
+    "extractivism",
+    "RAISG",
+    "COICA",
+    "virtual reality",
+    "Ríos Trilogy",
+    "Prix Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2XDNeDP8b0o"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3906033/preview/",
+    "https://archive.aec.at/asset/3906024/preview/"
+   ],
+   "source_url": "https://ulara.org/selected-work/rios-chapter-n3",
+   "collections": [
+    "prix-ars-electronica",
+    "ars-electronica-negotiating-beyond-humanity-2026"
+   ]
+  },
+  {
+   "id": "fiona-mcdonald--inhale-exhale",
+   "creator_ids": [
+    "fiona-mcdonald"
+   ],
+   "title": "Inhale Exhale – Ecologies that Refuse to Behave",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A constellation of drawings, sculptures, greenhouse-gas chambers, wearable CO₂ receivers and performances driven by the 'breathing' of a rewetted cutaway bog at All Saints, County Offaly. Over four years the artist watched the bog's carbon data slowly settle as the peatland refilled with rainwater.",
+   "description_zh": "一组由泥炭地“呼吸”驱动的绘画、雕塑、温室气体箱、可穿戴二氧化碳接收器和表演，数据来自奥法利郡 All Saints 一块重新湿化的采后泥炭沼。四年里，艺术家看着随着雨水回灌，泥炭地的碳数据慢慢平稳下来。",
+   "idea_en": "Turn climate-science instruments toward intimacy: let a recovering bog set the rhythm of breath.",
+   "idea_zh": "把气候科学仪器转向亲密：让一片正在恢复的沼泽来设定呼吸的节奏。",
+   "method": "Algorithms fetch eddy-covariance flux-tower CO₂ data every 30 minutes and translate it into breathing rhythms, low-power drawings and kinetic forms, developed with Ireland's National Parks and Wildlife Service.",
+   "method_zh": "程序每 30 分钟读取涡度相关通量塔的二氧化碳数据，转换为呼吸节奏、低功耗绘图和动态形态；项目与爱尔兰国家公园与野生动物管理局合作。",
+   "keywords": [
+    "peatland",
+    "bog",
+    "carbon flux",
+    "eddy covariance",
+    "rewetting",
+    "small-file methodology",
+    "Ireland",
+    "Prix Ars Electronica 2026"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3904834/preview/",
+    "https://archive.aec.at/asset/3904835/preview/"
+   ],
+   "source_url": "http://www.fionamcdonald.digital/#/inhale-exhale/",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "kasia-molga--chronicles-from-in-between",
+   "creator_ids": [
+    "kasia-molga"
+   ],
+   "title": "Chronicles from In-between 495 to 570 nm",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Discarded copper parts from processors and graphics cards are corroded into verdigris, which the artist grinds into watercolour to paint extinct and endangered plants from regions damaged by copper mining. The same plants return as animated 3D still-life bouquets made with the CGI tools whose supply chain the work traces.",
+   "description_zh": "艺术家把废弃处理器和显卡里的铜件腐蚀出铜绿，研磨成水彩颜料，用来描绘因铜矿开采而受损地区的灭绝或濒危植物。同样的植物又以三维动画静物花束的形式出现，用的正是这条供应链所支撑的 CGI 工具。",
+   "idea_en": "Paint lost plants with the residue of the machines that helped erase them.",
+   "idea_zh": "用帮助抹去这些植物的机器残渣，去描绘这些消失的植物。",
+   "method": "A bespoke corrosion process harvests verdigris pigment from e-waste copper; botanical paintings, 3D renderings and recorded memories of elderly witnesses address 'landscape amnesia'.",
+   "method_zh": "用定制的腐蚀工艺从电子垃圾铜件上收集铜绿颜料；植物绘画、三维渲染和老年见证者的口述记忆一起回应“景观失忆”。",
+   "keywords": [
+    "verdigris",
+    "copper mining",
+    "e-waste",
+    "extinct plants",
+    "landscape amnesia",
+    "CGI",
+    "V2_Lab",
+    "Prix Ars Electronica 2026"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3882888/preview/",
+    "https://archive.aec.at/asset/3882889/preview/"
+   ],
+   "source_url": "https://studiomolga.com/art_CFIB.html",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "disnovation-org--the-solar-share",
+   "creator_ids": [
+    "disnovation-org"
+   ],
+   "title": "The Solar Share – An Edible Solar Currency",
+   "year": 2024,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "An installation with a one-square-metre spirulina bioreactor that proposes a new economic unit, the 'Solar Share': the average biomass that photosynthesis produces on one square metre of Earth in a day. The edible algae can be eaten, exchanged or stored like money.",
+   "description_zh": "一件以一平方米螺旋藻生物反应器为核心的装置，提出一种新的经济单位“太阳股份”：地球表面每平方米每天通过光合作用产生的平均生物量。这些可食用的藻类可以被吃掉、交换或像货币一样储存。",
+   "idea_en": "Base an economy on what photosynthetic organisms actually produce each day, not on endless growth.",
+   "idea_zh": "让经济以光合生物每天真实产出的东西为基础，而不是无限增长。",
+   "method": "Automated spirulina cultivation, live streaming and custom software estimate planetary photosynthetic income; developed with photosynthesis researchers at ICFO Barcelona.",
+   "method_zh": "通过自动化螺旋藻培养、直播和定制软件估算地球的光合“收入”；项目与巴塞罗那 ICFO 的光合作用研究者合作。",
+   "keywords": [
+    "photosynthesis",
+    "spirulina",
+    "microalgae",
+    "planetary economics",
+    "interspecies economics",
+    "proof of work",
+    "S+T+ARTS Prize 2025"
+   ],
+   "video": {
+    "url": "https://vimeo.com/994532886"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/the_solar_share2-c-disnovation.org_.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/the_solar_share12-c-bram-versteeg.jpg"
+   ],
+   "source_url": "https://tss.earth",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "xin-liu--the-permanent-and-insatiable",
+   "creator_ids": [
+    "xin-liu"
+   ],
+   "title": "The Permanent and Insatiable",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "Miniature cityscapes of downtown Houston and Lower Manhattan, made from post-consumer PET plastic, sit in transparent bioreactors where lab-grown enzymes slowly dissolve them, compressing centuries of urban decay into weeks.",
+   "description_zh": "用回收 PET 塑料做成的休斯敦市中心和曼哈顿下城微缩城市，被浸在透明生物反应器里，由实验室培养的酶慢慢溶解，把几百年的城市衰败压缩到几周之内。",
+   "idea_en": "We make materials that never die and then engineer organisms to eat them: who is the insatiable one?",
+   "idea_zh": "我们制造永不消亡的材料，又改造生物去吃掉它们：到底谁才贪得无厌？",
+   "method": "Plastic-degrading enzymes act on PET models in bioreactors; it builds on MicroPET, the artist's bioreactor for enzymatic plastic degradation tested on the International Space Station.",
+   "method_zh": "可降解塑料的酶在生物反应器中分解 PET 模型；作品延续艺术家的 MicroPET 项目，那是一台在国际空间站上测试过的酶解塑料生物反应器。",
+   "keywords": [
+    "PET",
+    "plastic-degrading enzymes",
+    "bioreactor",
+    "MicroPET",
+    "Erika Erickson",
+    "Moody Center for the Arts",
+    "S+T+ARTS Prize 2025",
+    "Falling Walls 2025 finalist"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=atPc3G_hDmE"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/the_permanent_and_insatiable_250306_xinliu_5-c-management-gallery-new-york.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/the_permanent_and_insatiable_250306_xinliu-c-management-gallery-new-york.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/the-permanent-and-insatiable/",
+   "collections": [
+    "starts-prize",
+    "falling-walls-art-science"
+   ]
+  },
+  {
+   "id": "yana-zschiedrich--hybris",
+   "creator_ids": [
+    "yana-zschiedrich"
+   ],
+   "title": "HYBRIS",
+   "year": 2024,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "insects",
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "Mealworms eat polystyrene insulation boards, carving sculptural reliefs, and excrete it as harmless matter. With the Fraunhofer Institute for Building Physics the artist mixed this excrement into GEOBRIS, a geopolymer that can be 3D-printed into building parts in place of sand.",
+   "description_zh": "黄粉虫啃食聚苯乙烯保温板，在上面刻出雕塑般的浮雕，再把它排出为无害物质。艺术家与弗劳恩霍夫建筑物理研究所合作，把这些排泄物混入一种地聚合物 GEOBRIS，可以 3D 打印成建筑构件，替代沙子。",
+   "idea_en": "Let insects digest our waste and build with what they leave behind.",
+   "idea_zh": "让昆虫消化我们的垃圾，再用它们留下的东西来建造。",
+   "method": "Gut bacteria of mealworms break down flame-retardant-treated polystyrene; the frass is analysed and bound in a geopolymer recipe for large-scale 3D printing.",
+   "method_zh": "黄粉虫肠道细菌分解含阻燃剂的聚苯乙烯；虫粪经过成分分析后，被配进一种地聚合物，用于大尺度 3D 打印。",
+   "keywords": [
+    "mealworms",
+    "Tenebrio molitor",
+    "polystyrene",
+    "GEOBRIS",
+    "geopolymer",
+    "Fraunhofer IBP",
+    "3D printing",
+    "S+T+ARTS Prize 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2BW9RdM_61s"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/hyb-instal-2024-01_yz_04.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/hyb-doku-2024-01_3_zy.jpg"
+   ],
+   "source_url": "https://hybris.tech",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "vanessa-amoah-opoku--light-touch-root",
+   "creator_ids": [
+    "vanessa-amoah-opoku"
+   ],
+   "title": "Light, Touch, Root (Hybrid)",
+   "year": 2024,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "So-called invasive plants are scanned with near-infrared LiDAR and reimagined as point clouds in a science-fiction world with two suns, then returned to the gallery as 3D-printed wax reliefs and UV photograms that visitors can touch.",
+   "description_zh": "所谓的“入侵”植物被近红外激光雷达扫描，变成点云，被重新放进一个有两个太阳的科幻世界；之后又以 3D 打印的蜡浮雕和紫外线影像的形式回到展厅，观众可以触摸。",
+   "idea_en": "Give 'invasive' species a world of their own to unsettle human ideas of belonging and borders.",
+   "idea_zh": "给“入侵物种”一个属于它们的世界，动摇人类关于归属与边界的观念。",
+   "method": "800 nm LiDAR scans whose simulated infrared reflection reveals water and inner structure of the plants, made in a residency with the CataLight photocatalysis research consortium at the University of Ulm.",
+   "method_zh": "用 800 纳米激光雷达扫描植物，并模拟红外反射来显示植物内部的水分和结构；作品在乌尔姆大学 CataLight 光催化研究联盟驻留期间完成。",
+   "keywords": [
+    "invasive plants",
+    "Robinia",
+    "LiDAR",
+    "point cloud",
+    "photogram",
+    "mixed reality",
+    "Künstlerische Tatsachen",
+    "S+T+ARTS Prize 2025"
+   ],
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/light_touch_root_hybrid-c-vanessa-amoah-opoku-1-print-rgb-30x40-2mmbleed.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/light_touch_root_hybrid-c-vanessa-amoah-opoku-3-print-rgb-30x40-2mmbleed.jpg"
+   ],
+   "source_url": "https://vanessaopoku.com/lighttouchroot",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "victoria-vesna--sunflower-plasma",
+   "creator_ids": [
+    "victoria-vesna"
+   ],
+   "title": "SUN[Flower] Plasma",
+   "year": 2024,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "plants",
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "A two-channel video and 8-channel sound installation that sets sunflower fields, bees and microscopic sunflower cells beside plasma experiments and Alfvén waves moving through the Sun's corona, mixing plasma data, NASA Parker Solar Probe recordings and beehive sound.",
+   "description_zh": "一件双屏影像和八声道声音装置，把向日葵田、蜜蜂和显微镜下的向日葵细胞，与等离子体实验以及穿过日冕的阿尔文波并置；声音混合了等离子体数据、NASA 帕克太阳探测器的录音和蜂巢声。",
+   "idea_en": "Read a sunflower and the Sun as two scales of the same energy story.",
+   "idea_zh": "把一朵向日葵和太阳读成同一个能量故事的两个尺度。",
+   "method": "Footage of UCLA's Large Plasma Device with plasma physicist Walter Gekelman, sunflower microscopy by biomedical engineer Haley Marks, and a soundscape mixed with composer Kevin Ramsay at Harvestworks.",
+   "method_zh": "影像来自与等离子体物理学家 Walter Gekelman 合作拍摄的 UCLA 大型等离子体装置，以及生物医学工程师 Haley Marks 的向日葵显微成像；声音景观与作曲家 Kevin Ramsay 在 Harvestworks 混音完成。",
+   "keywords": [
+    "sunflower",
+    "bees",
+    "plasma physics",
+    "Alfvén waves",
+    "Parker Solar Probe",
+    "solar maximum",
+    "S+T+ARTS Prize 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qOOlf9lUoHU"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/sunflowerplasma_main-c-victoriavesna.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/sunflowerplasma_main2-c-victoriavesna.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/sunflower-plasma/",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "inferstudio--ocean-futurisms",
+   "creator_ids": [
+    "inferstudio"
+   ],
+   "title": "Ocean Futurisms",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "design-fiction",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "Three animated short films set in science-based ocean futures: M.A.N.A. follows a noise-pollution analyst for an alliance of island states, Havsrå an activist group live-streaming its fight against illegal deep-sea mining, and Matsya a converted cargo ship that roams the oceans as an ark for creatures and their genetic diversity.",
+   "description_zh": "三部设定在基于科学的海洋未来里的动画短片：《M.A.N.A.》讲一位为岛国联盟工作的海洋噪声污染分析师；《Havsrå》讲一个直播自己阻止非法深海采矿行动的行动者团体；《Matsya》讲一艘改装货轮作为方舟周游大洋，拯救生物并保存海洋的遗传多样性。",
+   "idea_en": "Use science-fiction prototyping to rehearse ocean policy before the futures arrive.",
+   "idea_zh": "用科幻原型法，在未来到来之前先排练海洋政策。",
+   "method": "Scenarios co-written with Stockholm Resilience Centre researchers of Radical Ocean Futures and produced by TBA21–Academy, rendered as 3D animation.",
+   "method_zh": "情景与斯德哥尔摩韧性中心 Radical Ocean Futures 的研究者共同编写，由 TBA21–Academy 出品，以三维动画呈现。",
+   "keywords": [
+    "ocean governance",
+    "deep-sea mining",
+    "ocean noise",
+    "science fiction prototyping",
+    "TBA21–Academy",
+    "Radical Ocean Futures",
+    "S+T+ARTS Prize 2026"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1107460594"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/header_ocean-futurisms_film-poster_matsya_by-inferstudio.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/ocean-futurisms_film-still_matsya_inferstudio.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3774847.3803003",
+    "doi": "10.1145/3774847.3803003",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2026 Computer Animation Festival",
+    "title": "Ocean Futurisms: MANA"
+   },
+   "source_url": "https://www.inferstudio.com/ocean-futurisms",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "emilia-sanchez-chiquetti--origen",
+   "creator_ids": [
+    "emilia-sanchez-chiquetti"
+   ],
+   "title": "Origen, A Journey into the Heart of the Amazon Rainforest",
+   "year": 2024,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An interactive VR journey through the Amazon in which a mythological boa guides the viewer through memories, teachings and origin stories of the Shipibo people, while showing how the territory and its forest have changed.",
+   "description_zh": "一段穿越亚马孙的互动 VR 旅程：一条神话中的蟒蛇带着观众，穿过希皮博人的记忆、教诲和起源故事，同时展示这片土地与森林经历的变化。",
+   "idea_en": "Let an Indigenous cosmology, voiced by its own narrators, be the guide into the forest.",
+   "idea_zh": "让原住民的宇宙观，由他们自己的讲述者来引导人们进入森林。",
+   "method": "First chapter of a VR series co-created with Shipibo narrator Mokán Rono and others; first-person interactions in a 25-minute experience developed through the Biennale College VR programme.",
+   "method_zh": "这是与希皮博讲述者 Mokán Rono 等人共同创作的 VR 系列第一章；25 分钟的第一人称互动体验，曾参与威尼斯双年展 Biennale College VR 计划。",
+   "keywords": [
+    "Amazon",
+    "Shipibo-Konibo",
+    "virtual reality",
+    "boa",
+    "Indigenous cosmology",
+    "Presencias",
+    "S+T+ARTS Prize 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xRRSQAT-Jog"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/origen-a-journey_heroe-origen-1.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/origen-a-journey.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/origen-a-journey/",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "marco-barotti--fossilized-futures",
+   "creator_ids": [
+    "marco-barotti",
+    "robertina-sebjanic"
+   ],
+   "title": "Fossilized Futures",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An immersive digital opera that links the Devonian fossil species Studiella devonica with the Atlantic salmon of the Meuse River, whose fight to return reflects the river's history of disturbance. Multichannel sound, river data and the voices of the Chamber Choir of Namur carry the story.",
+   "description_zh": "一部沉浸式数字歌剧，把泥盆纪化石物种 Studiella devonica 与默兹河的大西洋鲑联系起来，鲑鱼艰难的洄游映照出这条河被干扰的历史。多声道声音、河流数据和那慕尔室内合唱团的歌声共同讲述这个故事。",
+   "idea_en": "Let a fossil and a struggling fish carry a river's memory across deep time.",
+   "idea_zh": "让一块化石和一条艰难求生的鱼，跨越深时，承载一条河的记忆。",
+   "method": "AI tools and the artists work through an archive of scientific data, river histories and natural heritage to build an audiovisual installation with choir; produced by KIKK for the Creative Europe project Co-Vision.",
+   "method_zh": "艺术家与 AI 工具一起梳理科学数据、河流历史和自然遗产的档案，做成一件带合唱的视听装置；由 KIKK 为欧盟“创意欧洲”项目 Co-Vision 制作。",
+   "keywords": [
+    "Meuse",
+    "Atlantic salmon",
+    "Studiella devonica",
+    "Devonian",
+    "digital opera",
+    "KIKK",
+    "Namur",
+    "S+T+ARTS Prize 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1UoL2RfWcNE"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/fossilized-futures_4-fossilised-futures-by-marco-barotti-robertina-sebjanic-photo-photo-courtesy-of-artist.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/video_fossilized-futures.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/fossilized-futures/",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "ana-vogelfang-julieta-garcia-vazquez--mopi",
+   "creator_ids": [
+    "ana-vogelfang-julieta-garcia-vazquez"
+   ],
+   "title": "Museo Ocasional de un Paisaje Increíble (MOPI)",
+   "year": 2021,
+   "field": "ecoart",
+   "sub": "restoration",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A nomadic, one-day museum set up in threatened Latin American wetlands, from Isla Clusellas (2021) and Majorlândia (2023) to Salinas Grandes (2025), where scientists, artists and local people reimagine their landscape through shared stories and borrowed objects.",
+   "description_zh": "一座游牧式、只开放一天的博物馆，搭建在受威胁的拉丁美洲湿地里，从 Isla Clusellas（2021）、Majorlândia（2023）到 Salinas Grandes（2025）。科学家、艺术家和当地居民通过共享的故事和借来的物件，重新想象他们的风景。",
+   "idea_en": "A museum can be a temporary gathering that helps a community care for its wetland.",
+   "idea_zh": "博物馆可以是一次临时的聚集，帮助社区照护它的湿地。",
+   "method": "Site-specific participatory interventions with evolving artistic protocols, made with regional museums, universities and environmental NGOs such as FLACSO and FARN.",
+   "method_zh": "通过不断演变的艺术协议进行在地参与式介入，合作方包括地方博物馆、大学以及 FLACSO、FARN 等环境组织。",
+   "keywords": [
+    "wetlands",
+    "nomadic museum",
+    "community conservation",
+    "Salinas Grandes",
+    "Argentina",
+    "Brazil",
+    "S+T+ARTS Prize 2025"
+   ],
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/06/museo_ocasional_de_un_paisaje_increible-c-gustavoarrellaga04.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/06/museo_ocasional_de_un_paisaje_increible06-c-ana-vogelfang-and-julieta-garcia-vazquez.jpg"
+   ],
+   "source_url": "https://mopi-museo.weebly.com",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "hye-yeon-nam--heritage-trees",
+   "creator_ids": [
+    "hye-yeon-nam",
+    "brendan-harmon"
+   ],
+   "title": "Heritage Trees",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An installation that preserves ancient trees with layered cultural and ecological histories as point clouds, 3D-printed artefacts, immersive soundscapes and interactive environments, so visitors meet each tree as an archive of memory, biodiversity and place.",
+   "description_zh": "一件装置：把承载着文化与生态历史的古树，保存为点云、3D 打印物件、沉浸式声景和互动环境，让观众把每棵树当作记忆、生物多样性和地方的档案来认识。",
+   "idea_en": "Treat old trees as living archives and translate them into forms people can walk around, hear and touch.",
+   "idea_zh": "把古树当作活的档案，转译成人可以绕行、聆听和触摸的形式。",
+   "method": "Terrestrial laser scanning in the field, volumetric modelling and simulation, 3D printing and spatial audio.",
+   "method_zh": "野外地面激光扫描、体积建模与模拟、3D 打印和空间音频。",
+   "keywords": [
+    "heritage trees",
+    "laser scanning",
+    "point cloud",
+    "3D printing",
+    "soundscape",
+    "SIGGRAPH 2025 Art Gallery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8KGY3rtbSQo"
+   },
+   "images": [
+    "https://blog.siggraph.org/wp-content/uploads/2026/01/54720498026_54bca297e3_k.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3721249.3731629",
+    "doi": "10.1145/3721249.3731629",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2025 Art Gallery",
+    "title": "Heritage Trees"
+   },
+   "source_url": "https://blog.siggraph.org/2026/02/heritage-trees.html/",
+   "collections": [
+    "siggraph-art-gallery"
+   ]
+  },
+  {
+   "id": "haru-ji-graham-wakefield--we-are-entanglement",
+   "creator_ids": [
+    "haru-ji-graham-wakefield"
+   ],
+   "title": "We Are Entanglement",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "fungi",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An immersive installation inspired by a forest and its underground fungal network: procedurally grown trees, generative AI that 'dreams' images of forests, and real-time simulations that link tree roots and visitors' bodies through fungal, bacterial and neural-network-like dynamics. It extends the artists' earlier Entanglement (2023).",
+   "description_zh": "一件以森林及其地下真菌网络为灵感的沉浸式装置：程序生成的树木、会“梦见”森林图像的生成式 AI，以及把树根和观众身体通过类似真菌、细菌和神经网络的动力学连接起来的实时模拟。它延续了艺术家 2023 年的作品《Entanglement》。",
+   "idea_en": "Make visitors one more node in a forest's hidden network instead of its centre.",
+   "idea_zh": "让观众成为森林隐秘网络中的又一个节点，而不是中心。",
+   "method": "Four-channel projection with LiDAR sensing of visitors, procedural tree modelling, generative image feedback and agent-based complex dynamic systems in custom software.",
+   "method_zh": "四通道投影，用激光雷达感知观众，结合程序化树木建模、生成式图像反馈和基于智能体的复杂动力系统，均为自研软件。",
+   "keywords": [
+    "mycorrhizal network",
+    "wood wide web",
+    "artificial nature",
+    "generative AI",
+    "LiDAR",
+    "SIGGRAPH 2025 Art Gallery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=efAH6yUpw6U"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3721249.3731635",
+    "doi": "10.1145/3721249.3731635",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2025 Art Gallery",
+    "title": "We Are Entanglement"
+   },
+   "source_url": "https://signals.digibc.org/?p=1043",
+   "collections": [
+    "siggraph-art-gallery"
+   ]
+  },
+  {
+   "id": "clarissa-ribeiro--ecovotive-chimeras",
+   "creator_ids": [
+    "clarissa-ribeiro"
+   ],
+   "title": "Ecovotive Chimeras",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Fifteen small 'chimeric' entities, like carbonised votive offerings, sit on a table to be held; scanning each with a phone opens AR animations of burned bodies melting into one another, recalling fires in the Amazon, Brazil's wetlands, California, Congo, Australia and Mongolia.",
+   "description_zh": "十五个小小的“嵌合体”，像碳化的还愿供品一样摆在桌上，可以拿在手里；用手机扫描每一个，就会打开 AR 动画，看到被烧焦的身体彼此融化，令人想起亚马孙、巴西湿地、加州、刚果、澳大利亚和蒙古的大火。",
+   "idea_en": "Ecological grief needs objects you can hold, not only images you can watch.",
+   "idea_zh": "生态哀伤需要可以握在手里的物件，而不只是可以观看的图像。",
+   "method": "Hand-held sculptural objects with embedded AR markers trigger generative-AI morphogenesis sequences on a mobile device.",
+   "method_zh": "手持雕塑物件里嵌有 AR 标记，在手机上触发生成式 AI 制作的形态发生动画。",
+   "keywords": [
+    "ecological grief",
+    "wildfire",
+    "votive",
+    "augmented reality",
+    "generative AI",
+    "SIGGRAPH Asia 2025 Art Gallery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QxXbXku-eSo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3757368.3765558",
+    "doi": "10.1145/3757368.3765558",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2025 Art Gallery",
+    "title": "Ecovotive Chimeras"
+   },
+   "source_url": "https://www.clarissaribeiro.com/",
+   "collections": [
+    "siggraph-art-gallery"
+   ]
+  },
+  {
+   "id": "danlin-huang--feltsight",
+   "creator_ids": [
+    "danlin-huang",
+    "botao-amber-hu"
+   ],
+   "title": "FeltSight: Becoming Mole",
+   "year": 2025,
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Inspired by the star-nosed mole, splayed soft haptic gloves paired with Apple Vision Pro let wearers feel nearby surfaces, such as tree bark and leaves, before touching them. Vision fades to darkness and only small clouds of light appear around the hands as they explore.",
+   "description_zh": "受星鼻鼹启发，一副张开的柔性触觉手套配合 Apple Vision Pro，让佩戴者在真正碰到之前就能感觉到身边的表面，比如树皮和叶子。视觉退入黑暗，只有手周围会出现一小团光点。",
+   "idea_en": "Let touch, not sight, lead exploration, the way a mole feels its world into view.",
+   "idea_zh": "让触觉而不是视觉引领探索，像鼹鼠那样把世界“摸”出来。",
+   "method": "Audio-driven vibration actuators in the gloves render textures at a distance; a mixed-reality 'reduced reality' shows nearby objects as point clouds only where the hands reach.",
+   "method_zh": "手套里的振动执行器由音频驱动，在一定距离外模拟材质；混合现实只呈现“削减的现实”，附近物体只在手伸到的地方以点云出现。",
+   "keywords": [
+    "star-nosed mole",
+    "haptics",
+    "Apple Vision Pro",
+    "mixed reality",
+    "tentacular thinking",
+    "Umwelt",
+    "SIGGRAPH Asia 2025 Art Papers",
+    "DIS 2026 pictorial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7Pq6s3VnD0A"
+   },
+   "images": [
+    "https://reality.design/media/feltsight-cover-forest-closeup.webp",
+    "https://reality.design/media/feltsight-danlin-22.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767605",
+    "doi": "10.1145/3757369.3767605",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "title": "Becoming Mole with \"FeltSight\": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves"
+   },
+   "source_url": "https://reality.design/project/feltsight"
+  },
+  {
+   "id": "chiaochi-chou--streams-in-the-veins",
+   "creator_ids": [
+    "chiaochi-chou"
+   ],
+   "title": "Streams in the Veins",
+   "year": 2024,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An interspecies music performance in which a human pianist and plants compose together: the plants' biosignals are translated into sound on a second piano and lasers, and the pianist improvises in response, in a continuous loop.",
+   "description_zh": "一场跨物种音乐表演：人类钢琴家和植物一起即兴作曲。植物的生物信号被转译成第二台钢琴和激光的声音与光，钢琴家再据此回应，形成不断循环的对话。",
+   "idea_en": "Interactive composing does not need a human at both ends; let a plant's quirks steer the music.",
+   "idea_zh": "互动作曲不一定两端都是人；让植物的“怪癖”来引导音乐。",
+   "method": "Plant biosignals are converted to MIDI and passed through deep-learning timbre transfer on a platform of two pianos and lasers; developed by researchers at NTHU, the University of Tokyo and KAIST.",
+   "method_zh": "植物生物信号被转为 MIDI，再经深度学习音色迁移，输出到由两台钢琴和激光组成的平台；由台湾清华大学、东京大学和 KAIST 的研究者共同开发。",
+   "keywords": [
+    "interspecies music",
+    "plant biosignals",
+    "interactive composing",
+    "timbre transfer",
+    "MIDI",
+    "Leonardo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D3PzqI5b8ig"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/leon.a.2736",
+    "doi": "10.1162/leon.a.2736",
+    "arxiv": "",
+    "venue": "Leonardo 2026",
+    "title": "Streams in the Veins: Harmonic Cycle of Multimodal Signals for Interspecies Interactive Composing"
+   },
+   "source_url": "https://doi.org/10.1162/leon.a.2736",
+   "collections": [
+    "leonardo-journal"
+   ]
+  },
+  {
+   "id": "ziming-wang--meat-summer-nights-dream",
+   "creator_ids": [
+    "ziming-wang"
+   ],
+   "title": "A Meat-Summer Night's Dream",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "design-fiction",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "animals",
+    "cells"
+   ],
+   "kind": "speculative",
+   "description": "A dinner theatre staged as a Paris restaurant in 2052, where diners eat a biohybrid flying robot in place of the banned ortolan bunting. Six guests from creative industries played roles and debated whether such a dish could be sentient, sacred or simply sustainable.",
+   "description_zh": "一场被设定在 2052 年巴黎餐厅的晚餐剧场：食客们吃下一只生物混合飞行机器人，用来替代已被禁止的圃鹀。六位来自创意行业的客人扮演角色，争论这道菜是否有感知、是否神圣，还是仅仅更可持续。",
+   "idea_en": "Stage speculation as a meal: eating a fictional creature makes the ethics of post-natural food felt in the body.",
+   "idea_zh": "把思辨做成一顿饭：吃下一只虚构生物，让后自然食物的伦理在身体里被感受到。",
+   "method": "Tangible design fiction combining a crafted edible prop, performance, ritual and multisensory immersion, followed by qualitative analysis of participants' responses.",
+   "method_zh": "可触的设计虚构，把精心制作的可食道具、表演、仪式和多感官沉浸结合起来，并对参与者的反应做质性分析。",
+   "keywords": [
+    "design fiction",
+    "biohybrid robot",
+    "ortolan",
+    "dinner theatre",
+    "post-natural food",
+    "CHI 2026"
+   ],
+   "images": [
+    "https://arxiv.org/html/2510.06507v2/Figures/coverpic.jpg",
+    "https://arxiv.org/html/2510.06507v2/Figures/propob_lowrslt.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790678",
+    "doi": "10.1145/3772318.3790678",
+    "arxiv": "2510.06507",
+    "venue": "CHI 2026",
+    "title": "A Meat-Summer Night's Dream: A Tangible Design Fiction Exploration of Eating Biohybrid Flying Robots"
+   },
+   "source_url": "https://arxiv.org/abs/2510.06507"
+  },
+  {
+   "id": "inter-american-court-of-human-rights--oc-32-25",
+   "creator_ids": [
+    "inter-american-court-of-human-rights"
+   ],
+   "title": "Advisory Opinion OC-32/25: Climate Emergency and Human Rights",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "Answering a request from Chile and Colombia, the Inter-American Court of Human Rights recognised a human right to a healthy climate and stated that nature and its components can be subjects of rights, the first time an international court has done so. Its consultation drew more than 260 written submissions from about 600 actors.",
+   "description_zh": "应智利和哥伦比亚的请求，美洲人权法院承认人人享有健康气候的权利，并指出自然及其组成部分可以成为权利主体，这是国际法院第一次作出这样的表述。咨询过程收到约 600 个主体提交的 260 多份书面意见。",
+   "idea_en": "International law can start to treat ecosystems as holders of rights, not only as resources people have a right to.",
+   "idea_zh": "国际法可以开始把生态系统当作权利的持有者，而不只是人享有权利的资源。",
+   "method": "An advisory opinion interpreting the American Convention on Human Rights, notified on 3 July 2025, that guides how member states write and apply environmental law.",
+   "method_zh": "一份解释《美洲人权公约》的咨询意见，于 2025 年 7 月 3 日公布，为成员国制定和适用环境法提供指引。",
+   "keywords": [
+    "rights of nature",
+    "OC-32/25",
+    "Corte IDH",
+    "climate emergency",
+    "advisory opinion",
+    "Chile",
+    "Colombia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9T0XM3ZQNKQ"
+   },
+   "source_url": "https://www.corteidh.or.cr/"
+  },
+  {
+   "id": "nga-iwi-o-taranaki--te-kahui-tupua",
+   "creator_ids": [
+    "nga-iwi-o-taranaki"
+   ],
+   "title": "Te Kāhui Tupua: Legal Personhood for Taranaki Maunga",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "On 30 January 2025 New Zealand's Parliament passed the Taranaki Maunga collective redress law, which recognises Mount Taranaki and its surrounding peaks and lands as Te Kāhui Tupua, a living and indivisible whole with the rights of a legal person, and returns the mountain's name to the national park.",
+   "description_zh": "2025 年 1 月 30 日，新西兰议会通过塔拉纳基山集体补偿法，承认塔拉纳基山及其周围的山峰和土地为 Te Kāhui Tupua：一个有生命、不可分割的整体，享有法律人格的权利；国家公园也恢复了以这座山命名。",
+   "idea_en": "A mountain can be an ancestor in law, with a shared voice of iwi and Crown appointees to speak for it.",
+   "idea_zh": "一座山可以在法律上成为祖先，由部落和王室共同任命的代表替它发声。",
+   "method": "Treaty settlement legislation that creates a legal person and a joint entity, Te Tōpuni Ngārahu, of iwi and Crown members to act as its face and voice.",
+   "method_zh": "通过条约和解立法创设一个法律人格，并设立由部落与王室成员组成的联合机构 Te Tōpuni Ngārahu，作为它的面孔与声音。",
+   "keywords": [
+    "rights of nature",
+    "legal personhood",
+    "Taranaki Maunga",
+    "Māori",
+    "Te Kāhui Tupua",
+    "New Zealand",
+    "mountain"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sGe-gx0rIrU"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mount_Taranaki_or_Mount_Egmont%2C_New_Zealand.jpg/1280px-Mount_Taranaki_or_Mount_Egmont%2C_New_Zealand.jpg"
+   ],
+   "source_url": "https://www.legislation.govt.nz/"
+  },
+  {
+   "id": "huaynakana-kamatahuara-kana--maranon-river-rights",
+   "creator_ids": [
+    "huaynakana-kamatahuara-kana"
+   ],
+   "title": "Rights of the Marañón River",
+   "year": 2024,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "In March 2024 a court in Nauta, Peru, recognised the Marañón River as a subject of rights, including the right to flow freely and to be free of contamination, after a case brought by Kukama women. It ordered the state to prevent further oil spills and to make a basin protection plan, and named the Kukama as the river's guardians.",
+   "description_zh": "2024 年 3 月，秘鲁瑙塔的一家法院在库卡马妇女提起的诉讼中，承认马拉尼翁河是权利主体，包括自由流动和免受污染的权利。法院责令国家防止再发生石油泄漏、制定流域保护计划，并认定库卡马人为这条河的守护者。",
+   "idea_en": "A river can win its own case when the people who live with it speak for it in court.",
+   "idea_zh": "当与河流共同生活的人在法庭上替它发声时，河流可以赢下属于自己的官司。",
+   "method": "Strategic litigation by an Indigenous women's association with legal partners, grounded in Kukama cosmology in which the river is home to underwater beings and ancestors.",
+   "method_zh": "原住民妇女协会与法律伙伴发起的策略性诉讼，依据的是库卡马的宇宙观：河流是水下生灵和祖先的家。",
+   "keywords": [
+    "rights of nature",
+    "Marañón River",
+    "Kukama",
+    "Peru",
+    "oil spills",
+    "Mari Luz Canaquiri Murayari",
+    "Goldman Prize 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZOUGQCo9fww"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/R%C3%ADo_Mara%C3%B1%C3%B3n_06012011.jpg/1280px-R%C3%ADo_Mara%C3%B1%C3%B3n_06012011.jpg"
+   ],
+   "source_url": "https://www.goldmanprize.org/recipient/mari-luz-canaquiri-murayari/"
+  },
+  {
+   "id": "maki-ueda--olfactory-biome",
+   "creator_ids": [
+    "maki-ueda"
+   ],
+   "title": "Olfactory Biome",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "insects",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A participatory installation set in a nocturnal forest where each visitor chooses to be a moth or a bat and wears scents that attract or repel the other. As people move, the soundscape shifts to echo the chases and escapes that moths and bats perform in the dark.",
+   "description_zh": "一件设定在夜间森林里的参与式装置：每位观众选择扮演飞蛾或蝙蝠，身上带着吸引或驱赶对方的气味。人们移动时，声景随之变化，呼应飞蛾和蝙蝠在黑暗中的追逐与逃脱。",
+   "idea_en": "Air is a shared medium of communication; role-play through scent lets people feel how other species read it.",
+   "idea_zh": "空气是共享的交流媒介；通过气味进行角色扮演，让人感受其他物种如何“阅读”空气。",
+   "method": "Wearable scents act as chemical signals while movement-responsive sound evokes echolocation and evasion; part of the artist's Olfacto-Politics project at CCBT.",
+   "method_zh": "可佩戴的气味充当化学信号，随动作变化的声音唤起回声定位与躲避；属于艺术家在 CCBT 的“嗅觉政治”项目。",
+   "keywords": [
+    "olfactory art",
+    "moths",
+    "bats",
+    "echolocation",
+    "chemical communication",
+    "Olfacto-Politics",
+    "CCBT",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qOAkGc4tjYA"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/olfactory-biome-an-olfacto-politics-project_3ajumpei-saito-1.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/olfactory-biome-an-olfacto-politics-project_1ajumpei-saito.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/olfactory-biome-38f38ddb450c81aca236f0e4ef957bae",
+   "collections": [
+    "ars-electronica-negotiating-beyond-humanity-2026"
+   ]
+  },
+  {
+   "id": "maki-ueda--dogs-nose",
+   "creator_ids": [
+    "maki-ueda"
+   ],
+   "title": "Dog's Nose",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "also": [
+    "aci",
+    "hni"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "The artist walked her dog Chiyoko through a Tokyo neighbourhood while a sensor collected the air the dog sniffed. Visitors crawl along the dog's route printed in scent on a map, sniffing red dots and watching the recorded molecular patterns play back in sequence.",
+   "description_zh": "艺术家带着她的狗千代子在东京街区散步，同时用传感器采集狗嗅过的空气。观众沿着用气味印在地图上的狗的路线爬行，嗅闻红点，并观看按时间回放的分子图谱。",
+   "idea_en": "Biologging can record a walk the way a dog experiences it: as a sequence of smells, not sights.",
+   "idea_zh": "生物记录可以按狗的体验方式记下一次散步：一连串气味，而不是一连串景象。",
+   "method": "Ricoh's Field Asymmetric Ion Mobility Spectrometry (FAIMS) samples airborne molecules in real time along the dog's route; scents and visuals are replayed and the route is scent-printed onto a map.",
+   "method_zh": "用理光的场不对称离子迁移谱（FAIMS）技术沿狗的路线实时采集空气分子；气味和影像按时间回放，路线则用气味打印在地图上。",
+   "keywords": [
+    "dog",
+    "olfaction",
+    "smellscape",
+    "biologging",
+    "FAIMS",
+    "Ricoh",
+    "Olfacto-Politics",
+    "CCBT",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mHkhpA_2Isw"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/dogs-nose_1ajumpei-saito.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/dogs-nose_3amasashi-otsuto.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/dogs-nose-38f38ddb450c81778164c1b8b95920c4",
+   "collections": [
+    "ars-electronica-negotiating-beyond-humanity-2026"
+   ]
+  },
+  {
+   "id": "adrien-lucca--parallel-world",
+   "creator_ids": [
+    "adrien-lucca"
+   ],
+   "title": "Parallel World (Moth Colour Vision)",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "insects",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A living garden under a computer-controlled LED system. At intervals the light turns bluish: green foliage goes dark or brown and flowers jump out, evoking how the elephant hawkmoth (Deilephila elpenor) might see the same plants when it searches for nectar.",
+   "description_zh": "一座置于电脑控制 LED 系统下的活体花园。光线会定时变成偏蓝：绿叶变暗或发褐，花朵则跳了出来，让人想象象鹰蛾（Deilephila elpenor）寻找花蜜时，眼中的这些植物是什么样子。",
+   "idea_en": "Change the light, not the garden, to show how the same world looks to another animal.",
+   "idea_zh": "不改变花园，只改变光，就能展示同一个世界在另一种动物眼中的样子。",
+   "method": "Custom spectral LED lighting calibrated from colour science and insect-vision research, developed with colour scientist Ali Aiman Raza, scientist Colas Schretter and insect-vision biologist Marko Ilić.",
+   "method_zh": "根据色彩科学和昆虫视觉研究校准的定制光谱 LED 照明，与色彩科学家 Ali Aiman Raza、科学家 Colas Schretter 和昆虫视觉生物学家 Marko Ilić 合作开发。",
+   "keywords": [
+    "elephant hawkmoth",
+    "Deilephila elpenor",
+    "insect colour vision",
+    "LED",
+    "sensory ecology",
+    "STUDIOTOPIA",
+    "Ars Electronica 2026"
+   ],
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/parallel-w-gdansk-2026.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/parallel-w-gdansk-2-2026.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/parallel-world-39f38ddb450c81029789d5dc2654f8ef",
+   "collections": [
+    "ars-electronica-negotiating-beyond-humanity-2026"
+   ]
+  },
+  {
+   "id": "sikau-pubalova--smells-like-kin",
+   "creator_ids": [
+    "sikau-pubalova"
+   ],
+   "title": "Smells Like Kin / jakmile ladíme (as we synch)",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A suspended, touchable sound environment of wrinkled membranes that weaves together Asturian traditions of blood fermentation with lab cultures meant to make a vegan 'fake blood' taste. Touching the surfaces plays microbial gurgles, folk patterns of blood-stirring and kitchen and lab conversations about kin.",
+   "description_zh": "一个悬挂着、可以触摸的声音环境，由起皱的薄膜构成，把阿斯图里亚斯传统的血液发酵与实验室菌种结合起来，后者用来制造素食的“假血”味道。触摸表面会播放微生物的咕噜声、搅血的民间节奏，以及在厨房和实验室里关于亲缘的对话。",
+   "idea_en": "Kinship can be built through shared fermentation and sensory synchronisation with microbes, not only through blood.",
+   "idea_zh": "亲缘不只来自血缘，也可以通过共同发酵、与微生物的感官同步来建立。",
+   "method": "Vibroacoustic transducers in membrane sculptures play compositions made with microbiologist Felipe Lombó (University of Oviedo); developed in a STUDIOTOPIA residency at LABoral, Gijón.",
+   "method_zh": "膜状雕塑中的振动声学换能器播放与微生物学家 Felipe Lombó（奥维耶多大学）合作的作品；项目在希洪 LABoral 的 STUDIOTOPIA 驻留中完成。",
+   "keywords": [
+    "fermentation",
+    "microbial kinship",
+    "vibroacoustics",
+    "blood fermentation",
+    "Asturias",
+    "LABoral",
+    "STUDIOTOPIA",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mI8E11GN4v0"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/jakmile-ladime-dscf2567.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/jakmile-ladime-dscf2569.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/jakmile-ladime-39438ddb450c8138bc15db805c18820f",
+   "collections": [
+    "ars-electronica-negotiating-beyond-humanity-2026"
+   ]
+  },
+  {
+   "id": "dennis-siering--radical-climate-action-bird",
+   "creator_ids": [
+    "dennis-siering"
+   ],
+   "title": "Radical Climate Action Bird",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Anti-fascist protest songs are turned into artificial birdsongs and broadcast in public spaces, so that local songbirds, above all the blackbird, a strong vocal learner, might pick up the melodies and carry them in their own repertoire.",
+   "description_zh": "反法西斯的抗议歌曲被改编成人工鸟鸣，在公共空间播放，希望本地鸣禽——尤其是学习能力很强的乌鸫——学会这些旋律，并把它们带进自己的曲目。",
+   "idea_en": "Resistance could spread across species if birds learn our songs of protest.",
+   "idea_zh": "如果鸟学会了我们的抗议之歌，抵抗也许可以跨越物种传播。",
+   "method": "Composition and sound design with bioacoustic field research and AI tools shape protest melodies into blackbird-like phrases played from outdoor speakers.",
+   "method_zh": "结合生物声学野外研究和 AI 工具进行作曲与声音设计，把抗议旋律改写成类似乌鸫的乐句，由户外扬声器播放。",
+   "keywords": [
+    "blackbird",
+    "birdsong",
+    "vocal learning",
+    "interspecies communication",
+    "protest songs",
+    "Studiotopia",
+    "Ars Electronica 2026"
+   ],
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/radical-climate-action-bird-installation-view-3.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/radical-climate-action-bird-dennis-siering-installation-view-antifascist-bird-communication-system-v1.01-2025-1.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/radical-climate-action-bird-38938ddb450c81449c72ced8f34d5e9a"
+  },
+  {
+   "id": "gabriela-munguia--transplanetary-frequencies-station",
+   "creator_ids": [
+    "gabriela-munguia"
+   ],
+   "title": "Transplanetary Frequencies Station",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "myth-ritual",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A participatory sound performance staged as a nomadic 'geocosmic laboratory', with deep listening, collective readings and invocations, site-specific sound interventions and radio activations, which embeds human and more-than-human sounds into light transmissions meant to be sent into deep space. It has been activated in Chile, Argentina, Colombia and Peru.",
+   "description_zh": "一场参与式声音表演，以游牧式“地质—宇宙实验室”的形式进行：深度聆听、集体朗读与祈请、在地声音介入和无线电活动，把人类与非人类的声音嵌入准备发往深空的光信号中。它已在智利、阿根廷、哥伦比亚和秘鲁多地举行。",
+   "idea_en": "Speaking to the cosmos can be a way of re-rooting ourselves on a wounded Earth.",
+   "idea_zh": "向宇宙发声，也可以是让自己重新扎根于受伤地球的一种方式。",
+   "method": "Open-source radio and light-sound transmission experiments, field recordings of other species and collective listening rituals, developed through residencies such as LiquenLab's Radicante programme.",
+   "method_zh": "开源无线电和光—声传输实验、其他物种的野外录音以及集体聆听仪式，通过 LiquenLab 的 Radicante 等驻留计划发展而来。",
+   "keywords": [
+    "deep listening",
+    "radio art",
+    "interstellar communication",
+    "cosmotechnics",
+    "Latin America",
+    "Prix Ars Electronica 2025",
+    "Digital Musics & Sound Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HTcrBhsxRe8"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3849686/preview/",
+    "https://archive.aec.at/asset/3849687/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/303092/",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "peter-burr--natural-contacts",
+   "creator_ids": [
+    "peter-burr"
+   ],
+   "title": "NATURAL CONTACTS",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "Benign malware that takes over a computer for 24 hours and turns the desktop into a garden where a full year passes in a day. Around a slowly rotting corpse, seasons change, birds scatter at the cursor, flies gather and old files drift like leaves, while email and spreadsheets still run underneath.",
+   "description_zh": "一款“善意”的恶意软件，接管电脑 24 小时，把桌面变成一座花园，一天之内走完一整年。围绕一具慢慢腐烂的尸体，季节更替，鸟群被光标惊散，苍蝇聚集，旧文件像落叶一样飘动，而邮件和表格仍在下面照常运行。",
+   "idea_en": "Make digital work share the screen with slow cycles of decay and renewal, like a prepared piano for the desktop.",
+   "idea_zh": "让数字工作与缓慢的腐烂和再生循环共享屏幕，就像为桌面准备的“预置钢琴”。",
+   "method": "A procedural ecosystem simulation with seasonal cycles, generated vines, birds and flies runs as an operating-system intervention, inspired by John Cage's prepared piano.",
+   "method_zh": "一个带季节循环、生成藤蔓、鸟和苍蝇的程序化生态模拟，以操作系统介入的方式运行，灵感来自约翰·凯奇的预置钢琴。",
+   "keywords": [
+    "malware",
+    "digital ecosystem",
+    "decomposition",
+    "prepared desktop",
+    "John Cage",
+    "Prix Ars Electronica 2025",
+    "New Animation Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5XBLffk3QL4"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3844887/preview/",
+    "https://archive.aec.at/asset/3844888/preview/"
+   ],
+   "source_url": "https://peterburr.org/natural.php",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "tania-candiani--subterra",
+   "creator_ids": [
+    "tania-candiani"
+   ],
+   "title": "Subterra (Subterranean)",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "plants",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation about the hidden underground connections in forests: live roots hang in glass vessels like cocoons, a video is made from scans of growing roots, and a sound composition reaches beyond the range of human hearing. Glass sculptures made from earth minerals sit alongside.",
+   "description_zh": "一件关于森林地下隐秘连接的装置：活的根系悬挂在玻璃容器中，像一个个茧；一段影像由生长中根系的扫描制成；一段声音作品延伸到人耳听不到的范围。旁边是用地球矿物烧制的玻璃雕塑。",
+   "idea_en": "Compose for the life below ground and centre non-human presence instead of the human listener.",
+   "idea_zh": "为地下的生命作曲，让非人类的存在而不是人类听者成为中心。",
+   "method": "Living roots in hand-blown glass, scientific root imaging edited into video, and original sound compositions; made for Vallisaari Island at the Helsinki Biennial 2025.",
+   "method_zh": "手工吹制玻璃中的活体根系、剪辑成影像的科学根系成像，以及原创声音作品；为 2025 年赫尔辛基双年展的 Vallisaari 岛创作。",
+   "keywords": [
+    "roots",
+    "underground networks",
+    "sound composition",
+    "glass",
+    "Vallisaari",
+    "Helsinki Biennial 2025"
+   ],
+   "images": [
+    "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/04220208/Tania-Candiani_Subterra.jpg",
+    "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/17104135/Tania-Candiani_Subterra-II.jpg"
+   ],
+   "source_url": "https://helsinkibiennaali.fi/en/artist/tania-candiani/",
+   "collections": [
+    "helsinki-biennial-2025"
+   ]
+  },
+  {
+   "id": "juan-zamora--to-embody-an-island",
+   "creator_ids": [
+    "juan-zamora"
+   ],
+   "title": "To Embody an Island",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "plants",
+    "algae",
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "Dead leaves from Vallisaari Island are decellularised, injected with a bioluminescent fluid made from luminescent phytoplankton extracts and sealed in plant-based resin, so they glow in a former artillery battery. Air samples from around the island grow as microbial cultures in hanging petri dishes during the biennial.",
+   "description_zh": "Vallisaari 岛上的枯叶经过脱细胞处理，注入用发光浮游植物提取物制成的生物发光液，再封入植物基树脂，在一座旧炮台里发出光来。岛上各处采集的空气样本，在悬挂的培养皿中长成微生物菌落，贯穿整个双年展。",
+   "idea_en": "Let leaves, air and microbes show themselves in their own light, as participants rather than scenery.",
+   "idea_zh": "让叶子、空气和微生物以自己的光显现自己，作为参与者而不是背景。",
+   "method": "A bioluminescent fluid of organic phosphorus and phytoplankton protein extracts, developed with Spain's Instituto de Salud Carlos III, plus air-sampled microbial cultures and bioluminescent drawings.",
+   "method_zh": "与西班牙卡洛斯三世健康研究所合作开发的生物发光液（由有机磷和浮游植物蛋白提取物组成），加上从空气采样培养的微生物和用生物发光液绘制的图画。",
+   "keywords": [
+    "bioluminescence",
+    "phytoplankton",
+    "decellularised leaves",
+    "plant intelligence",
+    "airborne microbes",
+    "Vallisaari",
+    "Helsinki Biennial 2025"
+   ],
+   "images": [
+    "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/05/03160038/Juan-Zamora_Saaren-ruumiillistuma.jpg"
+   ],
+   "source_url": "https://helsinkibiennaali.fi/en/artist/juan-zamora/",
+   "collections": [
+    "helsinki-biennial-2025"
+   ]
+  },
+  {
+   "id": "paul-rosero-contreras--garden-of-forking-paths",
+   "creator_ids": [
+    "paul-rosero-contreras"
+   ],
+   "title": "The Garden of Forking Paths",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "plants",
+    "insects",
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "Two rooms of a former artillery battery are imagined as overtaken by the island's other residents: giant linden flowers cover the floor beside moth eggs, an outsized tree slug leaves a shimmering trail, and a mycelium sculpture echoes both the gunpowder magazines and the Andean cushion plant Azorella compacta.",
+   "description_zh": "一座旧炮台的两个房间被想象成已被岛上的其他居民占领：巨大的椴树花铺满地面，旁边是蛾卵；一只放大的树蛞蝓留下闪亮的黏液痕迹；一件菌丝体雕塑既像火药库，又像安第斯的垫状植物 Azorella compacta。",
+   "idea_en": "Picture military ruins reclaimed by the species that already share the island, at their own scale.",
+   "idea_zh": "按照它们自己的尺度，想象军事遗迹被早已共居此岛的物种重新占领。",
+   "method": "Supersized sculptures of linden, snails, moths and larvae made with 3D printing, bioplastics and self-developed mycelium biomaterials.",
+   "method_zh": "用 3D 打印、生物塑料和艺术家自行开发的菌丝体材料，制作超大尺寸的椴树、蜗牛、蛾子和幼虫雕塑。",
+   "keywords": [
+    "linden",
+    "moths",
+    "slug",
+    "mycelium",
+    "bioplastics",
+    "military ruins",
+    "Vallisaari",
+    "Helsinki Biennial 2025"
+   ],
+   "images": [
+    "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/04215733/Paul-Rosero-Contreras_Haarautuvien-polkujen-puutarha.jpg"
+   ],
+   "source_url": "https://helsinkibiennaali.fi/en/artist/paul-rosero-contreras/",
+   "collections": [
+    "helsinki-biennial-2025"
+   ]
+  },
+  {
+   "id": "kati-roover--songs-in-the-ocean",
+   "creator_ids": [
+    "kati-roover"
+   ],
+   "title": "Songs in the Ocean",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "myth-ritual",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A video installation about whale culture and the bond between whales and humans, retelling the myth of Leviathan: the sea monster of chaos is now humanity itself, disrupting oceans with noise, pollution, warming and acidification, while the work asks people to learn to 'become oceanic'.",
+   "description_zh": "一件关于鲸的文化以及鲸与人之间联系的影像装置，重述利维坦神话：如今的混沌海怪正是人类自己，用噪声、污染、升温和酸化扰乱海洋；作品邀请人们学习“成为海洋”。",
+   "idea_en": "Turn an old sea myth around so that humans, not whales, are the monster.",
+   "idea_zh": "把一个古老的海洋神话翻转过来：怪物是人类，而不是鲸。",
+   "method": "Moving-image installation combining whale imagery, scientific themes on water and evolution, and a mythopoetic narrative.",
+   "method_zh": "结合鲸的影像、关于水与进化的科学主题和神话诗学叙事的影像装置。",
+   "keywords": [
+    "whales",
+    "Leviathan",
+    "ocean noise",
+    "hydrofeminism",
+    "myth",
+    "Vallisaari",
+    "Helsinki Biennial 2025"
+   ],
+   "images": [
+    "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/04214742/Kati-Roover_Lauluja-meressa.jpg"
+   ],
+   "source_url": "https://helsinkibiennaali.fi/en/artist/kati-roover/",
+   "collections": [
+    "helsinki-biennial-2025"
+   ]
+  },
+  {
+   "id": "tehanu--interspecies-money",
+   "creator_ids": [
+    "tehanu"
+   ],
+   "title": "Interspecies Money: Mountain Gorilla Wallets",
+   "year": 2024,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "In August 2024 a family of mountain gorillas in Rwanda's Volcanoes National Park received a digital identity and a wallet. Acting as trustee, Tehanu used AI to infer the gorillas' interests and made mobile payments to nearby people who met them, in what it calls the first cross-species payment, made with the Rwandan government.",
+   "description_zh": "2024 年 8 月，卢旺达火山国家公园的一个山地大猩猩家族获得了数字身份和钱包。作为受托人，Tehanu 用 AI 推断大猩猩的利益，并向满足这些利益的周边居民发出移动支付；项目称这是与卢旺达政府合作完成的第一笔跨物种支付。",
+   "idea_en": "Give wild animals their own money, held in trust, so their interests can pay people directly.",
+   "idea_zh": "给野生动物属于它们自己的钱，由受托人代管，让它们的利益可以直接付钱给人。",
+   "method": "Digital identities and wallets for animals, AI inference from sensor and field data about their needs, and mobile-money payouts to local communities; funded by payments from institutions whose activities affect nature.",
+   "method_zh": "为动物建立数字身份和钱包，利用传感器和野外数据，用 AI 推断它们的需求，再通过移动支付向当地社区付款；资金来自其活动影响自然的机构。",
+   "keywords": [
+    "interspecies money",
+    "mountain gorillas",
+    "Rwanda",
+    "digital wallet",
+    "Jonathan Ledgard",
+    "Tehanu",
+    "interspecies economics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Bj6AUz_KSGU"
+   },
+   "images": [
+    "https://www.brookings.edu/wp-content/uploads/2024/11/baby-gorilla-eating-leaves-rwanda.jpg?quality=75"
+   ],
+   "source_url": "https://www.brookings.edu/articles/interspecies-money-is-here/"
+  },
+  {
+   "id": "wye-catchment-partnership--river-wye-charter",
+   "creator_ids": [
+    "wye-catchment-partnership"
+   ],
+   "title": "Charter for the Rights of the River Wye",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "Launched at Hay-on-Wye on 24 May 2026, the charter recognises the whole 130-mile River Wye, from the Cambrian Mountains to the Bristol Channel, as a living ecosystem with rights to flow, to biodiversity, to be free from pollution, to a healthy catchment, to regenerate and to representation. Herefordshire, Powys and Forest of Dean councils have adopted it.",
+   "description_zh": "2026 年 5 月 24 日在海伊镇发布的这份宪章，承认全长 130 英里、从坎布里亚山脉到布里斯托尔海峡的整条瓦伊河是一个有生命的生态系统，享有流动、生物多样性、免受污染、拥有健康流域、再生和被代表的权利。赫里福德郡、波伊斯郡和迪恩森林区议会已经采纳。",
+   "idea_en": "A river can be given rights across a political border when the councils along it agree to speak for its whole catchment.",
+   "idea_zh": "当沿岸各地议会同意为整个流域发声时，一条河可以跨越政治边界获得权利。",
+   "method": "A non-statutory rights-of-nature charter adopted by council motions and executive decisions, which commit councils to embed its six rights into local policy and planning.",
+   "method_zh": "一份非法定的自然权利宪章，通过议会动议和行政决定采纳，各议会承诺把其中六项权利纳入地方政策与规划。",
+   "keywords": [
+    "rights of nature",
+    "River Wye",
+    "river charter",
+    "Wales",
+    "England",
+    "Herefordshire",
+    "Powys",
+    "pollution"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F0CDXAEFrB8"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_River_Wye_at_Hay-on-Wye_-_geograph.org.uk_-_1924178.jpg/1280px-The_River_Wye_at_Hay-on-Wye_-_geograph.org.uk_-_1924178.jpg"
+   ],
+   "source_url": "https://ecojurisprudence.org/initiatives/herefordshire-uk-council-motion-charter-for-the-rights-of-the-river-wye/"
+  },
+  {
+   "id": "robert-macfarlane--is-a-river-alive",
+   "creator_ids": [
+    "robert-macfarlane"
+   ],
+   "title": "Is a River Alive?",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A book that follows three rivers and the people defending them, in the cloud forest of Los Cedros in Ecuador, the polluted waterways of Chennai in India and the Mutehekau Shipu (Magpie River) in Quebec, which was granted legal personhood in 2021, to ask what changes when we treat a river as alive.",
+   "description_zh": "一本跟随三条河流以及守护它们的人的书：厄瓜多尔 Los Cedros 云雾林、印度金奈被污染的水道，以及 2021 年获得法律人格的魁北克 Mutehekau Shipu（喜鹊河），追问当我们把河流当作有生命的存在时，会改变什么。",
+   "idea_en": "Calling a river alive is not a metaphor but a shift in how law, language and care are organised.",
+   "idea_zh": "说一条河是活的，不只是比喻，而是法律、语言与照护方式的转变。",
+   "method": "Long-form narrative non-fiction built on journeys, interviews with activists, scientists and Indigenous leaders, and the legal history of river personhood.",
+   "method_zh": "长篇叙事非虚构写作，基于旅行、对行动者、科学家和原住民领袖的访谈，以及河流法律人格的历史。",
+   "keywords": [
+    "rights of rivers",
+    "Los Cedros",
+    "Chennai",
+    "Mutehekau Shipu",
+    "Magpie River",
+    "legal personhood",
+    "nature writing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ly8pY4Xefzs"
+   },
+   "source_url": "https://doi.org/10.1162/leon.r.2685"
+  },
+  {
+   "id": "ars-electronica-futurelab--corpus-corax",
+   "creator_ids": [
+    "ars-electronica-futurelab"
+   ],
+   "title": "Corpus Corax: Speculative Human-Raven Translator",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "design-fiction",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "An installation in the Interbeing Lab of the Ars Electronica Center that stages conversations between visitors and ravens through a speculative translation system. It does not aim for accurate translation; it brings out the misunderstandings, assumptions and gaps that appear when two very different ways of describing the world meet.",
+   "description_zh": "Ars Electronica 中心 Interbeing Lab 里的一件装置：通过一个思辨性的翻译系统，让观众与渡鸦“对话”。它不追求准确翻译，而是把两种截然不同的描述世界的方式相遇时出现的误解、预设和空白呈现出来。",
+   "idea_en": "Design an animal translator that makes misunderstanding visible instead of promising perfect understanding.",
+   "idea_zh": "设计一个让误解变得可见的动物翻译器，而不是承诺完美的理解。",
+   "method": "A speculative translation interface between human speech and raven vocal and behavioural cues, presented as part of the Hello Worlds! exhibition (likely using language models; details not published).",
+   "method_zh": "一个在人类语言与渡鸦的鸣叫和行为线索之间进行思辨翻译的界面，作为 Hello Worlds! 展览的一部分展出（可能使用了语言模型，细节未公开）。",
+   "keywords": [
+    "ravens",
+    "Corvus corax",
+    "interspecies communication",
+    "translation",
+    "Interbeing Lab",
+    "Hello Worlds!",
+    "Ars Electronica 2026"
+   ],
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/09/20260907_1334_vog_4527_4500x3001_mobile.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/corpus-corax-speculative-human-raven-translator-3d438ddb450c806c9d55ce831b6e0a5d"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Terram Intelligere: INTERSTITIUM (Ivan Šuković, Dejan Todorović, Emir Šehanović)",
+   "why": "for latest-bio: Montenegro Pavilion, Venice Architecture Biennale 2025 — native soil bacteria producing pigments, nanocellulose and bioplastics in dry-stone boundaries; also shown at Ars Electronica 2026 (Negotiating Beyond Humanity). Good images on the festival page.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0",
+   "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+   "status": "open"
+  },
+  {
+   "name": "The Cat Fiction (Zhen-Chi Lai, Janet Yi-Ching Huang, Rung-Huei Liang)",
+   "why": "for latest-ai: DIS 2026 full paper on situated AI-enabled storytelling for multispecies sense-making with street cats (DOI 10.1145/3800645.3812921).",
+   "link": "https://doi.org/10.1145/3800645.3812921",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Entangled Histories Radio (Supratim Pait, Michael Nitsche, Heidi Biggs)",
+   "why": "for latest-mth-hni: TEI 2026 tangible radio on ecological justice and civil-rights histories (DOI 10.1145/3731459.3779353).",
+   "link": "https://doi.org/10.1145/3731459.3779353",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mi-Hy (Rachel Armstrong, KU Leuven)",
+   "why": "for latest-bio: Falling Walls Art & Science 2026 finalist — household wastewater turned into electricity, clean water and nutrients with microbes; no project media found yet.",
+   "link": "https://falling-walls.com/finalists-2026",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Earth Engine (Alice Bucknell, UCLA / SCI-Arc)",
+   "why": "Falling Walls Art & Science 2026 finalist: a game that puts the planet rather than the player at the centre, driven by real-time environmental data. Artist site is JS-only; needs images.",
+   "link": "https://falling-walls.com/finalists-2026",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Smart Skin Farm (Boram Soh)",
+   "why": "Speculative skin shop where personal data become fermented tea, microbes and bioleather; shown at Ars Electronica 2026 but first shown 2024 in Korea, so left out of this round. Strong design fiction with good images.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/smart-skin-farm-38b38ddb450c8123adb9e450242d00bf",
+   "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+   "status": "open"
+  },
+  {
+   "name": "Entangled Landscape (Studio Above&Below: Daria Jelonek, Perry-James Sugden)",
+   "why": "Mixed-reality sculpture driven by ML agents trained on mycorrhizal mutualism and live soil data; shown at Ars Electronica 2026 but dates from a 2022 STARTS residency.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/entangled-landscape-3a938ddb450c81e7b64bd6fb784dd948",
+   "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+   "status": "open"
+  },
+  {
+   "name": "Flying Cream (aniara rodado)",
+   "why": "Prix Ars Electronica 2025 Honorary Mention (Artificial Life & Intelligence): witches' flying ointment, psychoactive plants and censored knowledge; series began c. 2020, first-showing year unclear.",
+   "link": "https://archive.aec.at/prix/303297/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Band of Weeds (Kalle Hamm, Olli Aarni, Lauri Ainala, Hermanni Keko)",
+   "why": "Plant-music collective since 2016; The Weep of Trees (2021–23) turns VOC stress signals of thinned forest trees into music. Shown at Helsinki Biennial 2025; not in the gallery at all.",
+   "link": "https://helsinkibiennaali.fi/en/artist/band-of-weeds/",
+   "found_via": "helsinki-biennial-2025",
+   "status": "open"
+  },
+  {
+   "name": "Tamara Henderson — Worm Affair (2023)",
+   "why": "Live audio feed of compost worms digesting matter (Helsinki Biennial 2025); artist not in the gallery.",
+   "link": "https://helsinkibiennaali.fi/en/artist/tamara-henderson/",
+   "found_via": "helsinki-biennial-2025",
+   "status": "open"
+  },
+  {
+   "name": "Laura Põld — Külmking. Tassel of the Dead, Root of the Living (2025)",
+   "why": "Plant-dyed wool tapestries and ceramics around Külmking, the Estonian folklore protector of forests and peatlands (Helsinki Biennial 2025). Myth-ritual candidate.",
+   "link": "https://helsinkibiennaali.fi/en/artist/laura-pold/",
+   "found_via": "helsinki-biennial-2025",
+   "status": "open"
+  },
+  {
+   "name": "Saskia Calderón — Sonata Vallisaari (2025)",
+   "why": "Soprano composing from listening to the non-human spirits of an island, after Amazonian (Siona, Cofán, Secoya) practice (Helsinki Biennial 2025). Myth-ritual candidate.",
+   "link": "https://helsinkibiennaali.fi/en/artist/saskia-calderon/",
+   "found_via": "helsinki-biennial-2025",
+   "status": "open"
+  },
+  {
+   "name": "15th Shanghai Biennale: Does the flower hear the bee? (Kitty Scott, Nov 2025–Mar 2026)",
+   "why": "Biennale on interactions between life forms; candidates include Tania Candiani, Prologue II. Resonant Blossoms (2025), Kosen Ohtsubo, Linga Shanghai (2025), Allora & Calzadilla, Phantom Forest (2025). Power Station of Art site is JS-only; per-work images not found.",
+   "link": "https://www.e-flux.com/announcements/6785011/does-the-flower-hear-the-bee",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Beauty ([phylum]: Carlos Castellanos, Johnny DiBlasi)",
+   "why": "Deep-RL agent that steers pattern-forming bacteria toward 'beauty' while remediating contaminated soil; Leonardo 2026 paper (10.1162/leon.a.2756) but the work dates from 2020.",
+   "link": "https://ccastellanos.com/projects/beauty/",
+   "found_via": "carlos-castellanos",
+   "status": "open"
+  },
+  {
+   "name": "Pemadashkodeyong / Rice Lake personhood (Alderville First Nation)",
+   "why": "Alderville First Nation effort (council resolution reported Nov 2025) to recognise Rice Lake, Ontario as a legal person; facts need checking.",
+   "link": "https://www.youtube.com/watch?v=YILCztR_1Iw",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Cybroc and FungiSync (Reality Design Lab)",
+   "why": "Broccoli 'cyborgs' performing longevity rituals while rotting (2024) and a fungal-network MR work (2024); neither is in the gallery.",
+   "link": "https://reality.design/project/cybroc",
+   "found_via": "botao-amber-hu",
+   "status": "open"
+  },
+  {
+   "name": "Sound of Norway sound art (I. Avery Bick)",
+   "why": "Sound pieces from bird detections in Norway's national passive acoustic monitoring network; Leonardo 2025 (10.1162/leon.a.2652); no media found.",
+   "link": "https://doi.org/10.1162/leon.a.2652",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Uzbekistan Pavilion — The Aural Sea (Venice Biennale Arte 2026)",
+   "why": "Pavilion on the vanished Aral Sea with Xin Liu, A.A. Murakami and others; the only clearly ecological pavilion found in Venice 2026.",
+   "link": "https://biennialfoundation.org/2026/04/national-pavilions-and-collateral-events-at-the-venice-biennale-2026/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Komorebi (Matteo Holyoke Marangoni, Dieter Vandoren)",
+   "why": "Swarm of artificial creatures making music from sun and tree shadows, Ars Electronica 2026 Festival Walk.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Empathic Growth (Zi-Wei Wu, Meng Yang, Dan-Lu Fei, Jia-Qi Shi, Jon McCormack)",
+   "why": "Human-plant interaction artwork paper at Ars Electronica Expanded 2025 (10.1145/3749893.3749973); no abstract or media found.",
+   "link": "https://doi.org/10.1145/3749893.3749973",
+   "found_via": "seed",
+   "status": "no_media"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "neurips-ai-animal-comms-2025",
+  "type": "venue",
+  "en": "NeurIPS 2025 Workshop: AI for Non-Human Animal Communication",
+  "zh": "NeurIPS 2025“非人类动物交流 AI”研讨会",
+  "desc_en": "The first workshop on animal communication at a major machine-learning conference (San Diego, 6 December 2025), co-organised by Earth Species Project, Google DeepMind, ENES Lab Saint-Étienne and Naturalis. Works presented there.",
+  "desc_zh": "主要机器学习会议上首个关于动物交流的研讨会（2025 年 12 月 6 日，圣迭戈），由 Earth Species Project、Google DeepMind、圣艾蒂安 ENES 实验室和 Naturalis 共同组织。收录在会上发表的作品。",
+  "url": "https://aiforanimalcomms.org/"
+ },
+ {
+  "id": "alife-conference",
+  "type": "venue",
+  "en": "ALIFE — Artificial Life Conference (2025–)",
+  "zh": "ALIFE 国际人工生命大会（2025 年起）",
+  "desc_en": "Annual conference of the International Society for Artificial Life (ALIFE 2025 'Ciphers of Life', Kyoto; ALIFE 2026). Artificial-life works presented there from 2025 on.",
+  "desc_zh": "国际人工生命学会年会（ALIFE 2025“生命密码”，京都；ALIFE 2026）。收录 2025 年起在会上发表的人工生命作品。",
+  "url": "https://alife.org/"
+ }
+]

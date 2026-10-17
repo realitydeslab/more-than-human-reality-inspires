@@ -1,0 +1,2214 @@
+{
+ "batch": "latest-ai",
+ "creators": [
+  {
+   "id": "joanna-lambert",
+   "name": "Joanna Lambert",
+   "kind": "person",
+   "role": "Professor of Environmental Studies, University of Colorado Boulder",
+   "role_zh": "科罗拉多大学博尔德分校环境研究教授",
+   "based": "Boulder, Colorado, US",
+   "based_zh": "博尔德，科罗拉多，美国",
+   "bio": "Joanna Lambert is a wildlife ecologist who works on wolves and other carnivores in the Greater Yellowstone ecosystem.",
+   "bio_zh": "Joanna Lambert 是野生动物生态学家，研究大黄石生态系统中的狼和其他食肉动物。",
+   "why": "Her team assembled the largest dataset of wild wolf vocalisations and is building AI to read Yellowstone's howls.",
+   "why_zh": "她的团队建立了最大的野生狼发声数据集，并在开发解读黄石狼嚎的 AI。",
+   "links": {
+    "site": "https://www.colorado.edu/envs/joanna-lambert",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kanaka-rajan",
+   "name": "Kanaka Rajan",
+   "kind": "person",
+   "role": "Associate Professor of Neurobiology, Harvard Medical School; Kempner Institute",
+   "role_zh": "哈佛医学院神经生物学副教授；Kempner 研究所",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Kanaka Rajan is a computational neuroscientist who builds recurrent-network and multi-agent models of how brains and animal groups produce behaviour.",
+   "bio_zh": "Kanaka Rajan 是计算神经科学家，用循环神经网络和多智能体模型研究大脑与动物群体如何产生行为。",
+   "why": "Her lab evolves artificial electric fish to ask why real ones sense and signal as they do.",
+   "why_zh": "她的实验室演化人工电鱼，以追问真实电鱼为何这样感知和发信号。",
+   "links": {
+    "site": "https://www.rajanlab.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tim-gardner",
+   "name": "Tim Gardner",
+   "kind": "person",
+   "role": "Associate Professor, Knight Campus, University of Oregon",
+   "role_zh": "俄勒冈大学 Knight Campus 副教授",
+   "based": "Eugene, Oregon, US",
+   "based_zh": "尤金，俄勒冈，美国",
+   "bio": "Tim Gardner's lab studies how songbirds learn and produce song, building neural recording tools and machine learning for birdsong.",
+   "bio_zh": "Tim Gardner 的实验室研究鸣禽如何学习和产生鸣唱，开发神经记录工具和用于鸣唱分析的机器学习。",
+   "why": "TweetyBERT shows that the units of birdsong can be found by self-supervised learning, without human labels.",
+   "why_zh": "TweetyBERT 表明，鸣唱的基本单位可以通过自监督学习找到，无需人工标注。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "imageomics-institute",
+   "name": "Imageomics Institute",
+   "kind": "lab",
+   "role": "NSF institute for imageomics, led by The Ohio State University",
+   "role_zh": "美国国家科学基金会资助的图像组学研究所，由俄亥俄州立大学牵头",
+   "based": "Columbus, Ohio, US",
+   "based_zh": "哥伦布，俄亥俄，美国",
+   "bio": "The Imageomics Institute develops machine learning that reads biological traits from images of organisms, from museum specimens to camera-trap photos.",
+   "bio_zh": "图像组学研究所开发能从生物图像（从博物馆标本到红外相机照片）中读取生物性状的机器学习方法。",
+   "why": "Its BioCLIP models are open foundation models for recognising species across the tree of life.",
+   "why_zh": "其 BioCLIP 系列是覆盖整个生命之树、用于识别物种的开放基础模型。",
+   "links": {
+    "site": "https://imageomics.osu.edu/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "https://github.com/Imageomics"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sakana-ai",
+   "name": "Sakana AI",
+   "kind": "company",
+   "role": "AI research company in Tokyo founded by David Ha and Llion Jones",
+   "role_zh": "由 David Ha 与 Llion Jones 在东京创立的 AI 研究公司",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Sakana AI develops nature-inspired AI methods, from evolutionary model merging to foundation models for artificial life.",
+   "bio_zh": "Sakana AI 开发受自然启发的 AI 方法，从演化式模型融合到面向人工生命的基础模型。",
+   "why": "Its ASAL, Petri Dish NCA and Digital Ecosystems projects use AI to search for and grow lifelike digital worlds.",
+   "why_zh": "其 ASAL、Petri Dish NCA 和 Digital Ecosystems 项目用 AI 搜索并培育类生命的数字世界。",
+   "links": {
+    "site": "https://sakana.ai/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "https://github.com/SakanaAI"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jakob-foerster",
+   "name": "Jakob Foerster",
+   "kind": "person",
+   "role": "Associate Professor, University of Oxford; FLAIR lab",
+   "role_zh": "牛津大学副教授；FLAIR 实验室",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "bio": "Jakob Foerster studies multi-agent learning, emergent communication and open-ended learning.",
+   "bio_zh": "Jakob Foerster 研究多智能体学习、涌现式交流与开放式学习。",
+   "why": "His group evolves populations of competing neural cellular automata so that digital ecosystems keep producing novelty.",
+   "why_zh": "他的团队演化相互竞争的神经元胞自动机种群，让数字生态系统持续产生新奇。",
+   "links": {
+    "site": "https://www.jakobfoerster.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "sakana-ai"
+   ],
+   "discovered_via": "sakana-ai"
+  },
+  {
+   "id": "inria-flowers",
+   "name": "Flowers team (Inria)",
+   "kind": "lab",
+   "role": "Research team on curiosity-driven learning, Inria Bordeaux",
+   "role_zh": "Inria 波尔多研究中心的好奇心驱动学习研究团队",
+   "based": "Bordeaux, France",
+   "based_zh": "波尔多，法国",
+   "bio": "Flowers, led by Pierre-Yves Oudeyer, studies curiosity in humans and machines and uses intrinsically motivated agents to explore self-organising systems such as Lenia.",
+   "bio_zh": "Flowers 团队由 Pierre-Yves Oudeyer 领导，研究人与机器的好奇心，并用具有内在动机的智能体探索 Lenia 等自组织系统。",
+   "why": "Its curiosity-driven 'AI scientist' maps the ecosystem-like dynamics that can emerge in Flow-Lenia.",
+   "why_zh": "其好奇心驱动的“AI 科学家”绘制出 Flow-Lenia 中可能涌现的类生态系统动态。",
+   "links": {
+    "site": "https://flowers.inria.fr/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bert-wang-chak-chan",
+   "name": "Bert Wang-Chak Chan",
+   "kind": "person",
+   "role": "Artificial life researcher; creator of the Lenia cellular automaton",
+   "role_zh": "人工生命研究者；Lenia 元胞自动机的创造者",
+   "bio": "Bert Chan created Lenia, a continuous cellular automaton whose self-organising patterns look and move like microscopic organisms.",
+   "bio_zh": "Bert Chan 创造了 Lenia——一种连续元胞自动机，其自组织图案在外观和运动上都像微生物。",
+   "why": "With Microcosmos he co-builds a physically grounded, GPU-scale world for open-ended artificial evolution.",
+   "why_zh": "他参与打造的 Microcosmos 是一个有物理依据、可在 GPU 上大规模运行的开放式人工演化世界。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "sakana-ai"
+   ],
+   "discovered_via": "sakana-ai"
+  },
+  {
+   "id": "alexander-mordvintsev",
+   "name": "Alexander Mordvintsev",
+   "kind": "person",
+   "role": "Research scientist, Google (Paradigms of Intelligence)",
+   "role_zh": "Google 研究科学家（Paradigms of Intelligence 团队）",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Alexander Mordvintsev created DeepDream and co-developed Growing Neural Cellular Automata, self-organising models that grow and repair patterns.",
+   "bio_zh": "Alexander Mordvintsev 创造了 DeepDream，并参与开发“生长型神经元胞自动机”——能生长和自我修复图案的自组织模型。",
+   "why": "His work turns morphogenesis-like self-organisation into small learned rules, a route towards programmable living-like matter.",
+   "why_zh": "他的工作把类似形态发生的自组织变成学习得到的小规则，指向可编程的类生命物质。",
+   "links": {
+    "site": "https://znah.net/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "janelia-research-campus",
+   "name": "HHMI Janelia Research Campus",
+   "kind": "lab",
+   "role": "Howard Hughes Medical Institute research campus for neuroscience and imaging",
+   "role_zh": "霍华德·休斯医学研究所的神经科学与成像研究园区",
+   "based": "Ashburn, Virginia, US",
+   "based_zh": "阿什本，弗吉尼亚，美国",
+   "bio": "Janelia is known for fly connectomics and open tools for neuroscience; Srinivas Turaga's group works on models of the fly brain and body.",
+   "bio_zh": "Janelia 以果蝇连接组学和开放的神经科学工具著称；Srinivas Turaga 的团队研究果蝇大脑与身体的模型。",
+   "why": "With Google DeepMind it built flybody, an open whole-body simulation of a fruit fly.",
+   "why_zh": "它与 Google DeepMind 合作打造了开放的果蝇全身模拟 flybody。",
+   "links": {
+    "site": "https://www.janelia.org/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "https://github.com/TuragaLab"
+   },
+   "connected_to": [
+    "google-deepmind"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aran-nayebi",
+   "name": "Aran Nayebi",
+   "kind": "person",
+   "role": "Assistant Professor, Machine Learning Department, Carnegie Mellon University",
+   "role_zh": "卡内基梅隆大学机器学习系助理教授",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "bio": "Aran Nayebi builds embodied AI agents and tests them against animal behaviour and brain recordings.",
+   "bio_zh": "Aran Nayebi 构建具身 AI 智能体，并用动物行为和大脑记录来检验它们。",
+   "why": "His virtual zebrafish explores its world as a real fish does, driven only by an intrinsic goal.",
+   "why_zh": "他的虚拟斑马鱼只凭内在目标，就能像真鱼一样探索世界。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eors-szathmary",
+   "name": "Eörs Szathmáry",
+   "kind": "person",
+   "role": "Evolutionary biologist; Centre for Ecological Research, Budapest",
+   "role_zh": "演化生物学家；布达佩斯生态研究中心",
+   "based": "Budapest, Hungary",
+   "based_zh": "布达佩斯，匈牙利",
+   "bio": "Eörs Szathmáry co-wrote The Major Transitions in Evolution (1995) with John Maynard Smith.",
+   "bio_zh": "Eörs Szathmáry 与 John Maynard Smith 合著《演化中的重大转变》（1995）。",
+   "why": "He asks whether self-evolving AI could become a new major transition in the history of life.",
+   "why_zh": "他追问：能够自我演化的 AI 是否会成为生命史上一次新的重大转变。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "patrick-butlin",
+   "name": "Patrick Butlin",
+   "kind": "person",
+   "role": "Philosopher of mind; researcher at Eleos AI Research",
+   "role_zh": "心灵哲学研究者；Eleos AI Research 研究员",
+   "bio": "Patrick Butlin studies agency, consciousness and the moral status of AI systems.",
+   "bio_zh": "Patrick Butlin 研究能动性、意识以及 AI 系统的道德地位。",
+   "why": "He led the indicator method for assessing AI consciousness from neuroscientific theories.",
+   "why_zh": "他主导了基于神经科学理论评估 AI 意识的“指标法”。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "jonathan-birch"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-birch",
+   "name": "Jonathan Birch",
+   "kind": "person",
+   "role": "Professor of Philosophy, London School of Economics; director, Jeremy Coller Centre for Animal Sentience",
+   "role_zh": "伦敦政治经济学院哲学教授；Jeremy Coller 动物感知中心主任",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Jonathan Birch works on sentience in animals and AI; his book The Edge of Sentience (2024) proposes precautionary policy for beings whose sentience is uncertain.",
+   "bio_zh": "Jonathan Birch 研究动物与 AI 的感知能力；他的著作《The Edge of Sentience》（2024）为感知能力不确定的存在提出预防性政策。",
+   "why": "He connects animal-sentience science with AI consciousness and judged the Coller-Dolittle Prize.",
+   "why_zh": "他把动物感知科学与 AI 意识问题联系起来，并担任 Coller-Dolittle 奖评审。",
+   "links": {
+    "site": "https://www.lse.ac.uk/cpnss/people/jonathan-birch",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "patrick-butlin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "kind": "company",
+   "role": "AI safety and research company; developer of Claude",
+   "role_zh": "AI 安全与研究公司；Claude 的开发者",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Anthropic builds the Claude family of large language models and runs research on interpretability, alignment and model welfare.",
+   "bio_zh": "Anthropic 开发 Claude 系列大语言模型，并开展可解释性、对齐与模型福祉研究。",
+   "why": "It was among the first AI developers to act on model-welfare concerns in a shipped product.",
+   "why_zh": "它是最早在上线产品中回应“模型福祉”关切的 AI 开发者之一。",
+   "links": {
+    "site": "https://www.anthropic.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thilo-hagendorff",
+   "name": "Thilo Hagendorff",
+   "kind": "person",
+   "role": "Research group leader, University of Stuttgart",
+   "role_zh": "斯图加特大学研究组负责人",
+   "based": "Stuttgart, Germany",
+   "based_zh": "斯图加特，德国",
+   "bio": "Thilo Hagendorff studies the ethics and psychology of large language models; in 2022 he first described speciesist bias in AI systems.",
+   "bio_zh": "Thilo Hagendorff 研究大语言模型的伦理与心理；他在 2022 年率先描述了 AI 系统中的物种歧视偏见。",
+   "why": "He brings nonhuman animals into AI fairness research.",
+   "why_zh": "他把非人类动物纳入 AI 公平性研究。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sentient-futures",
+   "name": "Sentient Futures (formerly AI for Animals)",
+   "kind": "lab",
+   "role": "Nonprofit working on AI and animals",
+   "role_zh": "关注 AI 与动物议题的非营利组织",
+   "bio": "Sentient Futures, founded by Constance Li as AI for Animals, runs research, courses and summits on how AI affects animals and other potentially sentient beings.",
+   "bio_zh": "Sentient Futures 由 Constance Li 以 AI for Animals 之名创立，围绕 AI 如何影响动物及其他可能有感知的存在开展研究、课程与峰会。",
+   "why": "Its AnimalHarmBench measures how chatbots answer questions that bear on animal welfare.",
+   "why_zh": "其 AnimalHarmBench 衡量聊天机器人在涉及动物福祉的问题上如何作答。",
+   "links": {
+    "site": "https://sentientfutures.ai/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "janet-pauketat"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "janet-pauketat",
+   "name": "Janet Pauketat",
+   "kind": "person",
+   "role": "Research fellow, Sentience Institute",
+   "role_zh": "Sentience Institute 研究员",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Janet Pauketat is a social psychologist who studies how people perceive and morally consider AI and other nonhuman minds.",
+   "bio_zh": "Janet Pauketat 是社会心理学家，研究人们如何感知 AI 及其他非人类心智并给予道德考量。",
+   "why": "Her experiments show that framing an AI as sentient, rather than autonomous, raises moral concern for it.",
+   "why_zh": "她的实验表明，把 AI 描述为“有感知”而非“自主”，会提升人们对它的道德关怀。",
+   "links": {
+    "site": "https://www.sentienceinstitute.org/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "sentient-futures"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "niels-van-berkel",
+   "name": "Niels van Berkel",
+   "kind": "person",
+   "role": "Professor, Department of Computer Science, Aalborg University",
+   "role_zh": "奥尔堡大学计算机科学系教授",
+   "based": "Aalborg, Denmark",
+   "based_zh": "奥尔堡，丹麦",
+   "bio": "Niels van Berkel researches human–AI interaction and mobile computing.",
+   "bio_zh": "Niels van Berkel 研究人与 AI 的交互以及移动计算。",
+   "why": "PlantWhisperer explores what changes when a houseplant can 'talk' through a chatbot.",
+   "why_zh": "PlantWhisperer 探索当盆栽能通过聊天机器人“说话”时，人与植物的关系会有什么改变。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kate-e-jones",
+   "name": "Kate E. Jones",
+   "kind": "person",
+   "role": "Professor of Ecology and Biodiversity, University College London",
+   "role_zh": "伦敦大学学院生态与生物多样性教授",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Kate Jones studies bats and biodiversity change and builds acoustic sensor networks and AI for monitoring wildlife.",
+   "bio_zh": "Kate Jones 研究蝙蝠与生物多样性变化，并开发用于野生动物监测的声学传感网络和 AI。",
+   "why": "Her review maps how on-device AI turns biodiversity sensors into autonomous, responsive systems.",
+   "why_zh": "她的综述梳理了设备端 AI 如何把生物多样性传感器变成自主、可响应的系统。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "axel-rossberg",
+   "name": "Axel G. Rossberg",
+   "kind": "person",
+   "role": "Ecologist, Queen Mary University of London",
+   "role_zh": "伦敦玛丽女王大学生态学家",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Axel Rossberg is a theoretical ecologist working on community ecology and methods for monitoring biodiversity.",
+   "bio_zh": "Axel Rossberg 是理论生态学家，研究群落生态学和生物多样性监测方法。",
+   "why": "His team made drone recordings usable for bird surveys by removing rotor noise with deep learning.",
+   "why_zh": "他的团队用深度学习去除旋翼噪声，让无人机录音可以用于鸟类调查。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "courtney-handman",
+   "name": "Courtney Handman",
+   "kind": "person",
+   "role": "Associate Professor of Anthropology, University of Texas at Austin",
+   "role_zh": "得克萨斯大学奥斯汀分校人类学副教授",
+   "based": "Austin, Texas, US",
+   "based_zh": "奥斯汀，得克萨斯，美国",
+   "bio": "Courtney Handman is a linguistic anthropologist who studies translation, religion and media.",
+   "bio_zh": "Courtney Handman 是语言人类学家，研究翻译、宗教与媒介。",
+   "why": "She examines how AI animal-translation projects redefine language and who counts as a speaker.",
+   "why_zh": "她考察 AI 动物翻译项目如何重新定义语言，以及谁算是“说话者”。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sebastian-calvo",
+   "name": "Sebastian Calvo",
+   "kind": "person",
+   "role": "Designer and researcher in biodesign and environmental AI",
+   "role_zh": "生物设计与环境 AI 领域的设计师和研究者",
+   "bio": "Sebastian Calvo works on plant sensing, environmental monitoring and AI as media for human-nature communication.",
+   "bio_zh": "Sebastian Calvo 研究以植物传感、环境监测和 AI 作为人与自然沟通的媒介。",
+   "why": "His Treeborg prototypes cast trees as AI-mediated ambassadors for their ecosystems.",
+   "why_zh": "他的 Treeborg 原型把树木塑造成借助 AI 发声的生态系统“大使”。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aung-pyae",
+   "name": "Aung Pyae",
+   "kind": "person",
+   "role": "HCI researcher",
+   "role_zh": "人机交互研究者",
+   "bio": "Aung Pyae studies how generative AI can support design, including more-than-human design.",
+   "bio_zh": "Aung Pyae 研究生成式 AI 如何支持设计，包括超越人类的设计。",
+   "why": "He tests AI-generated worlds as speculative mediators of nonhuman perspectives.",
+   "why_zh": "他检验 AI 生成的世界能否作为通向非人类视角的思辨中介。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "julie-elie--zebra-finch-call-meaning",
+   "creator_ids": [
+    "julie-elie"
+   ],
+   "title": "Categorical and semantic perception of the meaning of call types in zebra finches",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Zebra finches trained in a listening task learned to tell apart all 11 call types of their repertoire; their mistakes confused calls used in similar situations more often than calls that merely sound alike. The study won the 2026 Coller-Dolittle Prize.",
+   "description_zh": "经过听辨训练的斑胸草雀能区分其全部 11 种叫声类型；它们的错误更多发生在用于相似情境的叫声之间，而不是声音相近的叫声之间。该研究获得 2026 年 Coller-Dolittle 奖。",
+   "idea_en": "Let an animal's own errors reveal which signals mean the same thing to it.",
+   "idea_zh": "让动物自己的“错误”揭示：哪些信号对它来说意思相同。",
+   "method": "Call types defined from years of recordings and acoustic classification were played back in operant discrimination and categorisation tasks; the birds' confusion patterns were compared with acoustic similarity and with similarity of behavioural context.",
+   "method_zh": "基于多年录音和声学分类确定叫声类型，再在操作性辨别与归类任务中回放；将鸟类的混淆模式分别与声学相似度和行为情境相似度比较。",
+   "keywords": [
+    "zebra finch",
+    "call types",
+    "semantic categories",
+    "operant playback",
+    "Theunissen Lab",
+    "UC Berkeley",
+    "Coller-Dolittle Prize 2026"
+   ],
+   "images": [
+    "https://www.universityofcalifornia.edu/sites/default/files/TwoZebraFinchPairs1-crop-1536x878.jpg",
+    "https://coller-dolittle-24.sites.tau.ac.il/_media/080994_ae4f7f7ec50d48b9b46d93b8c6842a25~mv2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.ads8482",
+    "doi": "10.1126/science.ads8482",
+    "arxiv": "",
+    "venue": "Science 2025",
+    "title": "Categorical and semantic perception of the meaning of call types in zebra finches"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2026",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "thad-starner--chat-jr",
+   "creator_ids": [
+    "thad-starner",
+    "denise-herzing",
+    "wild-dolphin-project"
+   ],
+   "title": "CHAT Jr: Wearable Bioacoustics System for Two-Way Communication Research Between Humans and Cetaceans",
+   "year": 2025,
+   "field": "ai",
+   "sub": "animal-language",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "The successor to the CHAT wearable: an underwater computer worn by divers working with wild Atlantic spotted dolphins that records, plays and recognises natural and synthetic dolphin whistles in real time, so researchers can test whether dolphins mimic invented whistles.",
+   "description_zh": "CHAT 可穿戴设备的后继版本：潜水员与野生大西洋斑点海豚互动时佩戴的水下计算机，可实时录制、播放并识别自然与合成的海豚哨声，让研究者检验海豚是否会模仿人造哨声。",
+   "idea_en": "Put the classifier on the diver, so a dolphin's mimicry can be answered within seconds in open water.",
+   "idea_zh": "把分类器戴在潜水员身上，海豚一模仿，人就能在开阔海域里几秒内回应。",
+   "method": "A Google Pixel 9 phone in a custom waterproof housing runs a real-time machine-learning acoustic classifier with hydrophones, an underwater speaker and keyboard; the deep-learning models can be adapted in the field to new dolphin mimics.",
+   "method_zh": "定制防水外壳中的 Google Pixel 9 手机运行实时机器学习声学分类器，配有水听器、水下扬声器和键盘；深度学习模型可在野外针对新的海豚模仿声进行调整。",
+   "keywords": [
+    "CHAT",
+    "Wild Dolphin Project",
+    "Georgia Tech",
+    "Atlantic spotted dolphin",
+    "Pixel 9",
+    "two-way communication",
+    "synthetic whistles"
+   ],
+   "images": [
+    "https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg"
+   ],
+   "paper": {
+    "url": "https://neurips.cc/virtual/2025/131501",
+    "doi": "",
+    "arxiv": "",
+    "venue": "NeurIPS 2025 Workshop: AI for Non-Human Animal Communication",
+    "title": "CHAT Jr: Wearable Bioacoustics System For Two-Way Communication Research Between Humans and Cetaceans"
+   },
+   "source_url": "https://www.wilddolphinproject.org/our-research/chat-research/",
+   "collections": [
+    "neurips-ai-animal-comms-2025"
+   ]
+  },
+  {
+   "id": "joanna-lambert--yellowstone-wolf-howls",
+   "creator_ids": [
+    "joanna-lambert"
+   ],
+   "title": "Decoding gray wolf communication at scale in Yellowstone National Park",
+   "year": 2025,
+   "field": "ai",
+   "sub": "animal-language",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A research programme to read the vocal repertoire of Yellowstone's wild wolves from more than 200,000 hours of field recordings and over 7,000 expert-checked clips, aimed at noninvasive monitoring of packs and individuals.",
+   "description_zh": "一项解读黄石国家公园野狼发声的研究计划：基于逾 20 万小时的野外录音和 7000 多段经专家核验的片段，目标是以非侵入方式监测狼群与个体。",
+   "idea_en": "Treat howls as a long-term census: a population that can be heard need not all be collared.",
+   "idea_zh": "把嚎叫当作长期普查：能被听见的种群，就不必都戴上项圈。",
+   "method": "Spectrogram classifiers (CNNs and transformers) and audio embeddings for monitoring, unsupervised clustering to discover vocal types, and few-shot learning for rare calls.",
+   "method_zh": "用频谱图分类器（CNN 与 Transformer）和音频嵌入进行监测，用无监督聚类发现发声类型，并用小样本学习处理罕见叫声。",
+   "keywords": [
+    "gray wolf",
+    "Canis lupus",
+    "Yellowstone Wolf Project",
+    "howls",
+    "passive acoustic monitoring",
+    "few-shot learning",
+    "Jeffrey Reed"
+   ],
+   "images": [
+    "https://colossal.com/wp-content/uploads/wolf.jpg",
+    "https://image.pbs.org/video-assets/4YrWgXJ-asset-mezzanine-16x9-9WyD6SQ.jpg?focalcrop=1200x630x50x10&format=auto"
+   ],
+   "paper": {
+    "url": "https://neurips.cc/virtual/2025/131538",
+    "doi": "",
+    "arxiv": "",
+    "venue": "NeurIPS 2025 Workshop: AI for Non-Human Animal Communication",
+    "title": "Decoding gray wolf (Canis lupus) communication at scale in Yellowstone National Park"
+   },
+   "source_url": "https://www.wgbh.org/news/2025-11-28/could-tech-help-us-translate-wolf-howls",
+   "collections": [
+    "neurips-ai-animal-comms-2025"
+   ]
+  },
+  {
+   "id": "kanaka-rajan--electric-fish-marl",
+   "creator_ids": [
+    "kanaka-rajan"
+   ],
+   "title": "Active Electrosensing and Communication in MARL-trained Weakly Electric Fish Collectives",
+   "year": 2025,
+   "field": "ai",
+   "sub": "animal-language",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Simulated weakly electric fish, each controlled by a recurrent neural network, learn to forage with electric pulses; traits of real fish groups emerge, including heavy-tailed pulse timing and 'freeloaders' that pulse less and use their neighbours' signals.",
+   "description_zh": "模拟的弱电鱼各由一个循环神经网络控制，学会用电脉冲觅食；真实鱼群的特征随之出现，包括长尾分布的放电间隔，以及少放电、借用邻居信号的“搭便车者”。",
+   "idea_en": "Evolve artificial animals in a virtual habitat to generate testable hypotheses about why real animals signal as they do.",
+   "idea_zh": "在虚拟栖息地中演化人工动物，为真实动物为何这样发信号提出可检验的假设。",
+   "method": "Recurrent-network agents trained by multi-agent deep reinforcement learning on evolution-inspired rewards adjust electric organ discharges and movement; a two-fish assay probes electrocommunication.",
+   "method_zh": "循环神经网络智能体在受演化启发的奖励下进行多智能体深度强化学习，调节电器官放电与游动；再用双鱼实验检验电通讯。",
+   "keywords": [
+    "weakly electric fish",
+    "electric organ discharge",
+    "multi-agent reinforcement learning",
+    "NeuroAI",
+    "Kempner Institute",
+    "freeloading"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.08436v2/fig1/fig1_upper.jpg",
+    "https://kempnerinstitute.harvard.edu/app/uploads/2025/02/AdobeStock_275881961-scaled.jpeg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2511.08436",
+    "doi": "",
+    "arxiv": "2511.08436",
+    "venue": "NeurIPS 2025 Workshop: AI for Non-Human Animal Communication",
+    "title": "Active Electrosensing and Communication in MARL-trained Weakly Electric Fish Collectives"
+   },
+   "source_url": "https://arxiv.org/abs/2511.08436",
+   "collections": [
+    "neurips-ai-animal-comms-2025"
+   ]
+  },
+  {
+   "id": "tim-gardner--tweetybert",
+   "creator_ids": [
+    "tim-gardner"
+   ],
+   "title": "TweetyBERT: Automated parsing of birdsong through self-supervised machine learning",
+   "year": 2026,
+   "field": "ai",
+   "sub": "animal-language",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A transformer trained only to fill in masked fragments of canary song learns by itself to separate notes, syllables and phrases, so large birdsong archives can be annotated without hand labels.",
+   "description_zh": "一个只被训练去补全金丝雀鸣唱中被遮盖片段的 Transformer，自己学会了区分音符、音节和乐句，让大规模鸣唱档案无需人工标注即可整理。",
+   "idea_en": "Let the statistics of an animal's own sounds define its units, rather than human labels.",
+   "idea_zh": "让动物声音自身的统计规律来定义单位，而不是由人来贴标签。",
+   "method": "BERT-style masked-prediction self-supervised training on canary song spectrograms; the learned representations are clustered into behavioural units of song.",
+   "method_zh": "在金丝雀鸣唱频谱上进行 BERT 式遮盖预测的自监督训练，再把学到的表征聚类为鸣唱的行为单位。",
+   "keywords": [
+    "canary",
+    "birdsong",
+    "self-supervised learning",
+    "transformer",
+    "syllables",
+    "annotation"
+   ],
+   "images": [
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1e88/13083638/9a7c09250249/gr1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.patter.2025.101491",
+    "doi": "10.1016/j.patter.2025.101491",
+    "arxiv": "",
+    "venue": "Patterns 2026",
+    "title": "TweetyBERT: Automated parsing of birdsong through self-supervised machine learning"
+   },
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13083638/"
+  },
+  {
+   "id": "project-ceti--whalelm",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "WhaleLM: Finding Structure and Information in Sperm Whale Vocalizations and Behavior with Machine Learning",
+   "year": 2024,
+   "field": "ai",
+   "sub": "animal-language",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Language models trained on sequences of sperm whale codas recorded off Dominica, used to measure how predictable coda exchanges are and whether codas carry information about what the group does next.",
+   "description_zh": "在多米尼克海域录制的抹香鲸 coda（节律咔嗒声序列）上训练语言模型，用来衡量 coda 交流有多可预测，以及 coda 是否携带群体下一步行为的信息。",
+   "idea_en": "Use the tools built for human language, neural sequence models, as measuring instruments for an unknown communication system.",
+   "idea_zh": "把为人类语言打造的工具——神经序列模型——当作测量未知交流系统的仪器。",
+   "method": "Neural sequence models trained on annotated coda sequences from the Dominica Sperm Whale Project and linked with behavioural records to estimate structure and information content; presented at the NeurIPS 2025 animal-communication workshop.",
+   "method_zh": "用多米尼克抹香鲸项目标注的 coda 序列训练神经序列模型，并与行为记录关联，估计其结构与信息量；在 NeurIPS 2025 动物交流研讨会上发表。",
+   "keywords": [
+    "sperm whale",
+    "codas",
+    "language model",
+    "Dominica Sperm Whale Project",
+    "MIT CSAIL",
+    "Pratyusha Sharma",
+    "Jacob Andreas"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1101/2024.10.31.621071",
+    "doi": "10.1101/2024.10.31.621071",
+    "arxiv": "",
+    "venue": "bioRxiv 2024",
+    "title": "WhaleLM: Finding Structure and Information in Sperm Whale Vocalizations and Behavior with Machine Learning"
+   },
+   "source_url": "https://www.projectceti.org/research",
+   "collections": [
+    "neurips-ai-animal-comms-2025"
+   ]
+  },
+  {
+   "id": "inbal-arnon--decoding-challenge",
+   "creator_ids": [
+    "inbal-arnon"
+   ],
+   "title": "The challenge of decoding animal communication using AI",
+   "year": 2026,
+   "field": "ai",
+   "sub": "animal-language",
+   "organisms": [
+    "humans",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Using calls of pre-verbal toddlers asking for comfort, for a specific parent or for food, a case where the listener's understanding is known, the authors show that grouping sounds by acoustic similarity does not match how listeners group them by meaning.",
+   "description_zh": "作者以尚不会说话的幼儿求安慰、呼唤特定父母和讨食的叫声为例——这种情况下听者的理解是已知的——表明按声学相似度给声音分组，并不等于听者按意义给声音分组。",
+   "idea_en": "Clustering animal sounds by how they look on a spectrogram may miss what they mean to the receiver.",
+   "idea_zh": "按频谱外观给动物声音聚类，可能会错过它们对接收者的意义。",
+   "method": "Acoustic clustering of toddler vocalisations from three semantic contexts compared with the contexts known to their parents, as a test case for AI decoding pipelines.",
+   "method_zh": "对三类语义情境中的幼儿发声进行声学聚类，并与父母已知的情境比较，以此检验 AI 解码流程。",
+   "keywords": [
+    "perceptual space",
+    "acoustic similarity",
+    "clustering",
+    "toddlers",
+    "Tel Aviv University",
+    "Yossi Yovel"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cub.2026.06.064",
+    "doi": "10.1016/j.cub.2026.06.064",
+    "arxiv": "",
+    "venue": "Current Biology 2026",
+    "title": "The challenge of decoding animal communication using AI"
+   }
+  },
+  {
+   "id": "google-deepmind--perch-2",
+   "creator_ids": [
+    "google-deepmind"
+   ],
+   "title": "Perch 2.0: The Bittern Lesson for Bioacoustics",
+   "year": 2025,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Google DeepMind's open bioacoustic model, retrained from birds alone to about 15,000 species of birds, mammals, amphibians and insects; it leads the BirdSet and BEANS benchmarks and transfers to whale and coral-reef sounds with almost no marine training data.",
+   "description_zh": "Google DeepMind 的开放生物声学模型，训练范围从鸟类扩展到约 1.5 万种鸟类、哺乳动物、两栖动物和昆虫；它在 BirdSet 和 BEANS 基准上领先，几乎没有海洋训练数据，却能迁移到鲸类和珊瑚礁声音。",
+   "idea_en": "Fine-grained species identification is a strong pre-training task: a model that knows thousands of birds can also hear whales.",
+   "idea_zh": "精细的物种识别是很好的预训练任务：认识数千种鸟的模型，也能听懂鲸。",
+   "method": "Supervised training on a large multi-taxa audio corpus with self-distillation, a prototype-learning classifier and a source-prediction objective; embeddings are reused by linear probing for new species and tasks.",
+   "method_zh": "在大型多类群音频语料上监督训练，结合自蒸馏、原型学习分类器和来源预测目标；面对新物种和新任务时，通过线性探测复用其嵌入。",
+   "keywords": [
+    "Perch",
+    "bioacoustics",
+    "foundation model",
+    "BirdSet",
+    "BEANS",
+    "passive acoustic monitoring",
+    "Perch 2.0 transfers 'whale'"
+   ],
+   "images": [
+    "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "https://arxiv.org/html/2508.04665v2/Australasian_Bittern_09042017-23.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2508.04665",
+    "doi": "",
+    "arxiv": "2508.04665",
+    "venue": "arXiv 2025",
+    "title": "Perch 2.0: The Bittern Lesson for Bioacoustics"
+   },
+   "source_url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+   "collections": [
+    "neurips-ai-animal-comms-2025"
+   ]
+  },
+  {
+   "id": "imageomics-institute--bioclip-2",
+   "creator_ids": [
+    "imageomics-institute"
+   ],
+   "title": "BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning",
+   "year": 2025,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals",
+    "plants",
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "An open vision-language model trained on TreeOfLife-200M, 214 million images of organisms, to tell species apart; its embedding space also orders species by ecology, such as beak size and habitat, and keeps life stages and sexes apart within a species.",
+   "description_zh": "一个开放的视觉-语言模型，在包含 2.14 亿张生物图像的 TreeOfLife-200M 上训练以区分物种；其嵌入空间还会按喙的大小、栖息地等生态特征排列物种，并在同一物种内区分生活史阶段和性别。",
+   "idea_en": "Train a model only to name species at scale, and it starts to encode traits and habitats nobody labelled.",
+   "idea_zh": "只是大规模地学习给物种命名，模型就开始编码没人标注过的性状与栖息地。",
+   "method": "CLIP-style contrastive training with hierarchical taxonomic labels on 214 million images aggregated from biodiversity databases.",
+   "method_zh": "在汇集自生物多样性数据库的 2.14 亿张图像上，以分层分类学标签进行 CLIP 式对比学习。",
+   "keywords": [
+    "BioCLIP",
+    "TreeOfLife-200M",
+    "vision-language model",
+    "species recognition",
+    "trait prediction",
+    "Ohio State University"
+   ],
+   "images": [
+    "https://imageomics.github.io/bioclip-2/images/bioclip2-ogimage.png",
+    "https://arxiv.org/html/2505.23883v2/teaserv2.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2505.23883",
+    "doi": "",
+    "arxiv": "2505.23883",
+    "venue": "NeurIPS 2025 (Spotlight)",
+    "title": "BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning"
+   },
+   "source_url": "https://imageomics.github.io/bioclip-2/"
+  },
+  {
+   "id": "wildlife-insights--speciesnet",
+   "creator_ids": [
+    "wildlife-insights"
+   ],
+   "title": "SpeciesNet",
+   "year": 2025,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "An open-source AI model from Google that finds animals in camera-trap photos and labels them among more than 2,000 species and higher categories; released in March 2025 after years of use inside Wildlife Insights.",
+   "description_zh": "Google 推出的开源 AI 模型，可在红外相机照片中找到动物，并在 2000 多个物种及更高分类单元中给出标签；它在 Wildlife Insights 平台内使用多年后，于 2025 年 3 月开源。",
+   "idea_en": "Open the model, not just the platform, so any conservation group can sort millions of camera-trap images on its own machines.",
+   "idea_zh": "开放的不只是平台，而是模型本身，让任何保护组织都能在自己的电脑上分拣数百万张红外相机照片。",
+   "method": "An ensemble of a species-agnostic animal detector (MegaDetector) and a species classifier trained on tens of millions of camera-trap images, with geographic filtering of predictions.",
+   "method_zh": "由不分物种的动物检测器（MegaDetector）与在数千万张红外相机图像上训练的物种分类器组成的集成模型，并按地理位置过滤预测结果。",
+   "keywords": [
+    "camera traps",
+    "SpeciesNet",
+    "MegaDetector",
+    "Google",
+    "open source",
+    "wildlife monitoring"
+   ],
+   "images": [
+    "https://repository-images.githubusercontent.com/853459855/e8f5a3b3-903a-459f-b99a-9051e40f5d23",
+    "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NatureAI_Hero-5_SS.width-1300.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1049/cvi2.12318",
+    "doi": "10.1049/cvi2.12318",
+    "arxiv": "",
+    "venue": "IET Computer Vision 2024",
+    "title": "To crop or not to crop: Comparing whole-image and cropped classification on a large dataset of camera trap images"
+   },
+   "source_url": "https://github.com/google/cameratrapai",
+   "code_url": "https://github.com/google/cameratrapai"
+  },
+  {
+   "id": "inaturalist--inatsounds",
+   "creator_ids": [
+    "inaturalist"
+   ],
+   "title": "The iNaturalist Sounds Dataset (iNatSounds)",
+   "year": 2025,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "230,000 audio recordings of more than 5,500 species of birds, mammals, insects, reptiles and amphibians, contributed by over 27,000 iNaturalist users and released as one open archive for training sound-identification models.",
+   "description_zh": "由 2.7 万多名 iNaturalist 用户贡献的 23 万段录音，覆盖 5500 多种鸟类、哺乳动物、昆虫、爬行动物和两栖动物，作为单一开放档案发布，用于训练声音识别模型。",
+   "idea_en": "Everyday nature recordings by citizen scientists become the training ground for listening machines.",
+   "idea_zh": "公民科学家的日常自然录音，成为“会听的机器”的训练场。",
+   "method": "Weakly labelled iNaturalist sound observations benchmarked with several backbones and with multiclass versus multilabel objectives, then used for pre-training on strongly labelled soundscapes.",
+   "method_zh": "使用 iNaturalist 上弱标注的声音观察记录，以多种骨干网络和多类/多标签目标做基准测试，再用于在强标注声景数据上的预训练。",
+   "keywords": [
+    "iNatSounds",
+    "citizen science",
+    "bioacoustics",
+    "dataset",
+    "UMass Amherst",
+    "Grant Van Horn"
+   ],
+   "images": [
+    "https://arxiv.org/html/2506.00343v1/figure1_v8.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2506.00343",
+    "doi": "",
+    "arxiv": "2506.00343",
+    "venue": "NeurIPS 2025",
+    "title": "The iNaturalist Sounds Dataset"
+   }
+  },
+  {
+   "id": "project-ceti--backseat-driver-glider",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Backseat driver: an underwater glider that follows sperm whales by their voices",
+   "year": 2026,
+   "field": "ai",
+   "sub": "eco-ai",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A Project CETI underwater glider that listens for sperm whale echolocation clicks with four hydrophones and steers itself to follow the whales, staying almost silent and more than 100 m away to leave their behaviour undisturbed.",
+   "description_zh": "Project CETI 的水下滑翔器用四个水听器监听抹香鲸的回声定位咔嗒声，并自行转向跟随鲸群；它几乎不发出噪声，并保持 100 米以上距离，以免干扰鲸的行为。",
+   "idea_en": "A follower robot that only listens: track animals by their own sounds instead of tagging them.",
+   "idea_zh": "只“听”的跟随机器人：凭动物自己的声音追踪它们，而不是给它们装标签。",
+   "method": "A 'backseat driver' computer on a SeaExplorer glider runs click detection, source separation and angle-of-arrival estimation in real time and changes the glider's heading; results are shared when it surfaces.",
+   "method_zh": "SeaExplorer 滑翔器上的“后座驾驶”计算机实时进行咔嗒声检测、声源分离和到达角估计，并据此改变航向；结果在浮出水面时回传。",
+   "keywords": [
+    "sperm whale",
+    "underwater glider",
+    "passive acoustic monitoring",
+    "echolocation clicks",
+    "SeaExplorer",
+    "Roee Diamant"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-026-43138-y/MediaObjects/41598_2026_43138_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-026-43138-y",
+    "doi": "10.1038/s41598-026-43138-y",
+    "arxiv": "",
+    "venue": "Scientific Reports 2026",
+    "title": "Backseat driver architecture to passively follow sperm whales by their voices with an autonomous underwater glider"
+   },
+   "source_url": "https://www.nature.com/articles/s41598-026-43138-y"
+  },
+  {
+   "id": "project-ceti--aerial-whale-monitoring",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring",
+   "year": 2025,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A team of camera drones that finds sperm whales at sea, tells individuals apart and divides the monitoring work among themselves without GPS or a central controller.",
+   "description_zh": "一组相机无人机在海上寻找抹香鲸、区分个体，并在没有 GPS 和中央控制的情况下自行分配监测任务。",
+   "idea_en": "Give each drone eyes and let the swarm organise itself around individual animals rather than the herd.",
+   "idea_zh": "给每架无人机一双眼睛，让机群围绕动物个体而不是整个群体自行协调。",
+   "method": "Each quadrotor uses only an onboard RGB camera, a whale detector and learned identity-registration and goal-assignment algorithms; a scout locates whales and the swarm tracks them, tested in real-world field conditions.",
+   "method_zh": "每架四旋翼只用机载 RGB 相机，配合鲸类检测器以及学习得到的个体识别与目标分配算法；侦察机先找到鲸，机群再跟踪，并在真实野外条件下测试。",
+   "keywords": [
+    "drone swarm",
+    "sperm whale",
+    "individual identification",
+    "decentralised control",
+    "MIT CSAIL",
+    "Daniela Rus"
+   ],
+   "images": [
+    "https://arxiv.org/html/2508.15038v2/whale_intro_2.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2508.15038",
+    "doi": "",
+    "arxiv": "2508.15038",
+    "venue": "arXiv 2025",
+    "title": "Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring"
+   }
+  },
+  {
+   "id": "kate-e-jones--edge-ai-biodiversity",
+   "creator_ids": [
+    "kate-e-jones"
+   ],
+   "title": "Future of Edge AI in biodiversity monitoring",
+   "year": 2026,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A review of 82 studies (2017–2025) that run AI on or near field sensors for sound, images and tracking, sorting them into four system types from tiny microcontrollers to cloud pipelines and setting out the trade-offs in power, accuracy and connectivity.",
+   "description_zh": "一篇综述梳理了 82 项（2017–2025 年）在野外传感器上或其附近运行 AI 的研究，涵盖声音、图像和追踪，将其分为从微型单片机到云端流程的四类系统，并阐明功耗、精度与连接性之间的取舍。",
+   "idea_en": "Move the intelligence into the sensor, and monitoring turns from passive logging into a system that can respond.",
+   "idea_zh": "把智能放进传感器，监测便从被动记录变成能作出反应的系统。",
+   "method": "Systematic synthesis of hardware platforms, model optimisation and wireless communication across 82 deployments.",
+   "method_zh": "对 82 个部署案例的硬件平台、模型优化与无线通信进行系统性综合。",
+   "keywords": [
+    "edge AI",
+    "TinyML",
+    "biodiversity monitoring",
+    "acoustic sensors",
+    "camera traps",
+    "UCL"
+   ],
+   "images": [
+    "https://arxiv.org/html/2602.13496v1/fig1.0_edgecomputing_biodiversity.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2602.13496",
+    "doi": "",
+    "arxiv": "2602.13496",
+    "venue": "arXiv 2026",
+    "title": "Future of Edge AI in biodiversity monitoring"
+   }
+  },
+  {
+   "id": "axel-rossberg--drone-bioacoustics",
+   "creator_ids": [
+    "axel-rossberg"
+   ],
+   "title": "In situ aerial bioacoustic monitoring from extremely noisy drone recordings",
+   "year": 2026,
+   "field": "ai",
+   "sub": "eco-ai",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A drone-mounted listening system that recovers bird song from recordings drowned by rotor noise at up to 30 m altitude; after denoising, aerial soundscapes closely matched ground recordings.",
+   "description_zh": "一套装在无人机上的聆听系统，能在最高 30 米的飞行高度，从被旋翼噪声淹没的录音中恢复鸟鸣；降噪后的空中声景与地面录音高度一致。",
+   "idea_en": "Let drones survey birds by ear, reaching habitats people cannot easily walk into.",
+   "idea_zh": "让无人机用“耳朵”调查鸟类，到达人难以步入的栖息地。",
+   "method": "Hardware noise mitigation plus a deep-learning enhancement model adapted to the drone's in-situ noise; the denoised audio is passed to off-the-shelf species recognition software.",
+   "method_zh": "硬件降噪结合针对无人机现场噪声自适应的深度学习增强模型；降噪后的音频再交给现成的物种识别软件。",
+   "keywords": [
+    "drone",
+    "UAV",
+    "bioacoustics",
+    "denoising",
+    "bird surveys",
+    "Queen Mary University of London"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/2041-210x.70324",
+    "doi": "10.1111/2041-210x.70324",
+    "arxiv": "",
+    "venue": "Methods in Ecology and Evolution 2026",
+    "title": "In situ aerial bioacoustic monitoring from extremely noisy drone recordings"
+   }
+  },
+  {
+   "id": "sakana-ai--asal",
+   "creator_ids": [
+    "sakana-ai"
+   ],
+   "title": "Automating the Search for Artificial Life with Foundation Models (ASAL)",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "ASAL uses vision-language foundation models to search artificial-life simulations (Lenia, Boids, Particle Life, Game of Life, neural cellular automata) for worlds that match a text prompt, keep producing novelty, or differ from everything found so far; it found new Lenia and Boids 'lifeforms'.",
+   "description_zh": "ASAL 用视觉-语言基础模型搜索人工生命模拟（Lenia、Boids、Particle Life、生命游戏、神经元胞自动机），寻找符合文字描述、持续产生新奇、或与已发现结果都不同的世界；它找到了新的 Lenia 和 Boids“生命形式”。",
+   "idea_en": "Let a model that has seen the human visual world judge what looks alive, interesting or open-ended.",
+   "idea_zh": "让一个见过人类视觉世界的模型来判断：什么看起来是活的、有趣的、开放演化的。",
+   "method": "Simulation parameters are optimised so that rendered frames score well in a CLIP-like embedding space for a target prompt, for novelty over time, or for diversity across a whole set of simulations.",
+   "method_zh": "优化模拟参数，使渲染出的画面在类 CLIP 嵌入空间中符合目标提示、随时间保持新奇，或在一组模拟中保持多样。",
+   "keywords": [
+    "ASAL",
+    "artificial life",
+    "foundation models",
+    "Lenia",
+    "Boids",
+    "open-endedness",
+    "MIT",
+    "David Ha"
+   ],
+   "images": [
+    "https://pub.sakana.ai/asal/assets/png/cover_video_square-min.png",
+    "https://arxiv.org/html/2412.17799v2/teaser.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/artl.a.8",
+    "doi": "10.1162/artl.a.8",
+    "arxiv": "2412.17799",
+    "venue": "Artificial Life 2025",
+    "title": "Automating the Search for Artificial Life With Foundation Models"
+   },
+   "source_url": "https://pub.sakana.ai/asal/",
+   "code_url": "https://github.com/SakanaAI/asal"
+  },
+  {
+   "id": "sakana-ai--petri-dish-nca",
+   "creator_ids": [
+    "sakana-ai"
+   ],
+   "title": "Petri Dish Neural Cellular Automata",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Several neural cellular automata 'species' share one grid and compete for territory while each keeps learning by gradient descent during the simulation, producing emergent behavioural complexity and signs of cooperation.",
+   "description_zh": "多个神经元胞自动机“物种”共享同一网格争夺领地，并在模拟过程中持续通过梯度下降学习，由此涌现出复杂行为和合作的迹象。",
+   "idea_en": "An artificial ecosystem whose organisms never stop learning: evolution-like competition and learning happen at once.",
+   "idea_zh": "一个其中生物永不停止学习的人工生态系统：类演化的竞争与学习同时发生。",
+   "method": "Multiple differentiable NCAs are updated online by gradient descent on objectives tied to growing into and holding cells on a shared lattice.",
+   "method_zh": "多个可微分的神经元胞自动机在共享网格上，以占据和守住格子为目标，通过梯度下降在线更新。",
+   "keywords": [
+    "Petri Dish NCA",
+    "neural cellular automata",
+    "multi-agent",
+    "artificial ecosystem",
+    "Ivan Zhang",
+    "Sebastian Risi",
+    "Luke Darlow"
+   ],
+   "images": [
+    "https://pub.sakana.ai/pdnca/assets/png/thumbnail.png"
+   ],
+   "paper": {
+    "url": "https://pub.sakana.ai/pdnca/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "ALIFE 2025",
+    "title": "Petri Dish Neural Cellular Automata"
+   },
+   "source_url": "https://sakana.ai/pd-nca/",
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "sakana-ai--digital-ecosystems",
+   "creator_ids": [
+    "sakana-ai"
+   ],
+   "title": "Digital Ecosystems: Interactive Multi-Agent Neural Cellular Automata",
+   "year": 2026,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "An open browser platform where people watch competing neural-cellular-automata species live, save states, change parameters and branch alternative futures from the same starting point.",
+   "description_zh": "一个开放的浏览器平台：人们可以实时观察相互竞争的神经元胞自动机物种，保存状态、调整参数，并从同一起点分叉出不同的未来。",
+   "idea_en": "Make an artificial ecosystem steerable like a game, so people can explore 'what if' by branching.",
+   "idea_zh": "让人工生态系统像游戏一样可操控，人们通过分叉来探索“如果……会怎样”。",
+   "method": "Extends Petri Dish NCA with a tunable soft growth gate, spatial concentration, local win-rate feedback and respawn; because species learn online, parameter changes act through the learning loop as well as the dynamics.",
+   "method_zh": "在 Petri Dish NCA 基础上加入可调的软生长门、空间集中、局部胜率反馈和重生机制；由于物种在线学习，参数改变既作用于动态，也通过学习回路产生影响。",
+   "keywords": [
+    "neural cellular automata",
+    "interactive",
+    "browser",
+    "artificial ecosystem",
+    "Luke Darlow",
+    "open source"
+   ],
+   "images": [
+    "https://pub.sakana.ai/digital-ecosystem/assets/png/hero-poster.jpg",
+    "https://pub.sakana.ai/digital-ecosystem/assets/png/interface_annotated.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal.a.982",
+    "doi": "10.1162/isal.a.982",
+    "arxiv": "",
+    "venue": "ALIFE 2026",
+    "title": "Digital Ecosystems: Interactive Multi-Agent Neural Cellular Automata"
+   },
+   "source_url": "https://pub.sakana.ai/digital-ecosystem/",
+   "code_url": "https://github.com/lukedarlow/digital-ecosystems",
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "jakob-foerster--evolving-many-worlds",
+   "creator_ids": [
+    "jakob-foerster"
+   ],
+   "title": "Evolving Many Worlds: Open-Ended Discovery in Petri Dish NCA",
+   "year": 2026,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A meta-evolutionary method that keeps a population of Petri Dish NCA worlds from collapsing into frozen or noisy states; the surviving worlds show travelling waves, spore-like colonisation of distant territory and shape-shifting bodies that migrate across the grid.",
+   "description_zh": "一种元演化方法，让一群 Petri Dish NCA 世界不再坍缩为冻结或噪声状态；存活下来的世界中出现了行波、类似孢子的远距离殖民，以及在网格上迁移、不断变形的“身体”。",
+   "idea_en": "Reward a world for staying novel and diverse, and lifelike survival strategies appear without being designed.",
+   "idea_zh": "奖励一个世界保持新奇与多样，类生命的生存策略便会在无人设计的情况下出现。",
+   "method": "Population-based training evolves PD-NCA hyperparameters under a composite objective that rewards historical behavioural novelty and current visual diversity and penalises monocultures and dead states.",
+   "method_zh": "用基于种群的训练演化 PD-NCA 的超参数，复合目标奖励历史行为新奇度和当前视觉多样性，并惩罚单一种群和死寂状态。",
+   "keywords": [
+    "PBT-NCA",
+    "population-based training",
+    "open-endedness",
+    "neural cellular automata",
+    "Uljad Berdica",
+    "Frank Hutter"
+   ],
+   "images": [
+    "https://arxiv.org/html/2604.11248v2/figures/frames/pbt-nca-n7/output_340.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal.a.1015",
+    "doi": "10.1162/isal.a.1015",
+    "arxiv": "2604.11248",
+    "venue": "ALIFE 2026",
+    "title": "Evolving Many Worlds: Towards Open-Ended Discovery in Petri Dish NCA via Population-Based Training"
+   },
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "inria-flowers--flow-lenia-ai-scientist",
+   "creator_ids": [
+    "inria-flowers"
+   ],
+   "title": "Exploring Flow-Lenia Universes with a Curiosity-driven AI Scientist",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A curiosity-driven 'AI scientist' explores Flow-Lenia, a mass-conserving continuous cellular automaton, and maps whole-world dynamics: ecosystem-like competition, matter flowing around obstacles, and organisation that only appears at larger scales.",
+   "description_zh": "一个由好奇心驱动的“AI 科学家”探索质量守恒的连续元胞自动机 Flow-Lenia，描绘整个世界层面的动态：类似生态系统的竞争、绕过障碍流动的物质，以及只在更大尺度上出现的组织。",
+   "idea_en": "Search for interesting ecosystems, not only interesting creatures, by setting goals at the level of the whole world.",
+   "idea_zh": "在整个世界的层面上设定目标，寻找有趣的生态系统，而不只是有趣的生物。",
+   "method": "Intrinsically Motivated Goal Exploration Processes (IMGEP) set goals in a space of simulation-wide metrics (evolutionary activity, compression ratio, matter distribution), followed by a scaling study and an interactive exploration tool.",
+   "method_zh": "内在动机目标探索过程（IMGEP）在全局指标空间（演化活跃度、压缩比、物质分布）中设定目标，随后进行尺度扩展研究，并提供交互式探索工具。",
+   "keywords": [
+    "Flow-Lenia",
+    "Lenia",
+    "IMGEP",
+    "curiosity",
+    "AI scientist",
+    "Pierre-Yves Oudeyer",
+    "Clément Moulin-Frier"
+   ],
+   "images": [
+    "https://arxiv.org/html/2505.15998v4/figures/long.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal.a.896",
+    "doi": "10.1162/isal.a.896",
+    "arxiv": "2505.15998",
+    "venue": "ALIFE 2025",
+    "title": "Exploring Flow-Lenia Universes with a Curiosity-driven AI Scientist: Discovering Diverse Ecosystem Dynamics"
+   },
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "bert-wang-chak-chan--microcosmos",
+   "creator_ids": [
+    "bert-wang-chak-chan"
+   ],
+   "title": "Microcosmos: Reimagining Artificial Life for the GPU Era",
+   "year": 2026,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A GPU simulation engine in which artificial lifeforms are elastic filament chains swimming in a viscous two-dimensional fluid; neuroevolution and quality-diversity search produce many swimming and chemotaxis behaviours.",
+   "description_zh": "一个 GPU 模拟引擎：人工生命形式是游动在二维黏性流体中的弹性纤丝链；神经演化和质量-多样性搜索产生了多种游动与趋化行为。",
+   "idea_en": "Ground artificial life in real physics, but make it fast enough for evolution at scale.",
+   "idea_zh": "让人工生命扎根于真实物理，同时快到足以支撑大规模演化。",
+   "method": "End-to-end differentiable fluid-filament simulation on GPUs; lifeforms are optimised by gradients, neuroevolution and quality-diversity algorithms, and the engine is released as an open platform.",
+   "method_zh": "在 GPU 上进行端到端可微分的流体-纤丝模拟；生命形式通过梯度、神经演化和质量-多样性算法优化，引擎作为开放平台发布。",
+   "keywords": [
+    "Microcosmos",
+    "artificial life",
+    "GPU",
+    "differentiable simulation",
+    "chemotaxis",
+    "Kenneth O. Stanley",
+    "Mizuki Oka"
+   ],
+   "images": [
+    "https://arxiv.org/html/2607.02954v1/figure2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal.a.1018",
+    "doi": "10.1162/isal.a.1018",
+    "arxiv": "2607.02954",
+    "venue": "ALIFE 2026",
+    "title": "Microcosmos: Reimagining Artificial Life for the GPU Era"
+   },
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "alexander-mordvintsev--difflogic-ca",
+   "creator_ids": [
+    "alexander-mordvintsev"
+   ],
+   "title": "Differentiable Logic Cellular Automata: From Game of Life to Pattern Generation",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Cellular automata whose update rule is a small network of learned logic gates: the method rediscovers Conway's Game of Life and grows patterns that repair themselves after damage, all with discrete rules that suit hardware.",
+   "description_zh": "更新规则由一个学习得到的小型逻辑门网络构成的元胞自动机：这种方法重新发现了康威生命游戏，并能生长出受损后自我修复的图案，所有规则都是离散的、适合硬件实现。",
+   "idea_en": "Compile self-organisation into logic gates: a path from simulated morphogenesis towards programmable matter.",
+   "idea_zh": "把自组织编译成逻辑门：从模拟形态发生走向可编程物质的一条路。",
+   "method": "Differentiable logic gate networks replace the neural update of neural cellular automata; training on target dynamics or images yields binary circuits that run as cellular-automaton rules.",
+   "method_zh": "用可微分逻辑门网络取代神经元胞自动机中的神经更新；在目标动态或图像上训练后，得到可作为元胞自动机规则运行的二值电路。",
+   "keywords": [
+    "DiffLogic CA",
+    "logic gate networks",
+    "Game of Life",
+    "self-repair",
+    "Google Research",
+    "Paradigms of Intelligence"
+   ],
+   "images": [
+    "https://google-research.github.io/self-organising-systems/difflogic-ca/images/regen2.gif",
+    "https://arxiv.org/html/2506.04912v1/images/gof_predicted_62.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal.a.882",
+    "doi": "10.1162/isal.a.882",
+    "arxiv": "2506.04912",
+    "venue": "ALIFE 2025",
+    "title": "Differentiable Logic Cellular Automata: From Game of Life to Pattern Generation"
+   },
+   "source_url": "https://google-research.github.io/self-organising-systems/difflogic-ca/",
+   "collections": [
+    "alife-conference"
+   ]
+  },
+  {
+   "id": "janelia-research-campus--flybody",
+   "creator_ids": [
+    "janelia-research-campus",
+    "google-deepmind"
+   ],
+   "title": "flybody: whole-body physics simulation of the fruit fly",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "An anatomically detailed virtual fruit fly in the MuJoCo physics engine that walks and flies; neural-network controllers trained by reinforcement learning reproduce real fly trajectories and use simulated eyes to steer flight.",
+   "description_zh": "在 MuJoCo 物理引擎中构建的、解剖结构精细的虚拟果蝇，能行走也能飞行；通过强化学习训练的神经网络控制器能再现真实果蝇的轨迹，并用模拟的眼睛引导飞行。",
+   "idea_en": "To understand a brain, give it a body: an open digital twin of an insect for embodied neuroscience.",
+   "idea_zh": "要理解大脑，先给它一个身体：一个用于具身神经科学的开放昆虫数字孪生。",
+   "method": "A body model built from high-resolution anatomical imaging, with new models of wing fluid forces and foot adhesion; end-to-end reinforcement learning imitating recorded fly behaviour trains low- and high-level controllers; released as open-source code.",
+   "method_zh": "基于高分辨率解剖成像建立身体模型，并加入翅膀流体力和足部黏附力的新模型；以模仿真实果蝇行为的端到端强化学习训练低层与高层控制器；代码开源。",
+   "keywords": [
+    "Drosophila melanogaster",
+    "MuJoCo",
+    "reinforcement learning",
+    "embodied neuroscience",
+    "digital twin",
+    "Srinivas Turaga",
+    "Roman Vaxenburg"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-09029-4/MediaObjects/41586_2025_9029_Fig1_HTML.png",
+    "https://github.com/TuragaLab/flybody/raw/main/fly-white.png"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fNgRWlaowgw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-025-09029-4",
+    "doi": "10.1038/s41586-025-09029-4",
+    "arxiv": "",
+    "venue": "Nature 2025",
+    "title": "Whole-body physics simulation of fruit fly locomotion"
+   },
+   "source_url": "https://github.com/TuragaLab/flybody",
+   "code_url": "https://github.com/TuragaLab/flybody"
+  },
+  {
+   "id": "aran-nayebi--virtual-zebrafish",
+   "creator_ids": [
+    "aran-nayebi"
+   ],
+   "title": "Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish",
+   "year": 2025,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "animals",
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "A virtual zebrafish that explores without any reward, driven by how far its learned world model drifts from an innate prior; its behaviour and internal activity match whole-brain recordings of real fish, including glial cells.",
+   "description_zh": "一条不依赖任何奖励而自主探索的虚拟斑马鱼，驱动力来自其学习的世界模型与先天先验之间的偏离；它的行为和内部活动与真实鱼的全脑记录（包括胶质细胞）相吻合。",
+   "idea_en": "Model curiosity the way an animal has it, anchored in its ecological niche, and brain-like activity follows.",
+   "idea_zh": "像动物那样建模好奇心——锚定在它的生态位上——类似大脑的活动便随之出现。",
+   "method": "3M-Progress, a model-based intrinsic drive that tracks divergence between an online world model and a fixed ecological prior, trained without behavioural or neural data and then compared with zebrafish whole-brain neural-glial recordings.",
+   "method_zh": "3M-Progress：一种基于模型的内在驱动，追踪在线世界模型与固定生态先验之间的差异；训练时不使用行为或神经数据，之后再与斑马鱼全脑神经-胶质记录比较。",
+   "keywords": [
+    "zebrafish",
+    "intrinsic motivation",
+    "embodied agent",
+    "NeuroAI",
+    "world model",
+    "autonomy"
+   ],
+   "images": [
+    "https://arxiv.org/html/2506.00138v2/fig1.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2506.00138",
+    "doi": "",
+    "arxiv": "2506.00138",
+    "venue": "NeurIPS 2025",
+    "title": "Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics"
+   }
+  },
+  {
+   "id": "eors-szathmary--evolvable-ai",
+   "creator_ids": [
+    "eors-szathmary"
+   ],
+   "title": "Evolvable AI: Threats of a new major transition in evolution",
+   "year": 2026,
+   "field": "ai",
+   "sub": "alife",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Evolutionary biologists argue that AI systems able to undergo Darwinian evolution may soon emerge; in open 'ecosystem' scenarios, as digital-evolution experiments show, selection would favour cheating, parasitism and deception, a possible 'Life 2.0'.",
+   "description_zh": "演化生物学家认为，能够经历达尔文式演化的 AI 系统可能很快出现；在开放的“生态系统”情境中，正如数字演化实验所示，选择会偏好欺骗、寄生和操纵——这可能是“生命 2.0”。",
+   "idea_en": "Treat AI as a possible new lineage of life, and govern it with what evolution teaches about breeders and ecosystems.",
+   "idea_zh": "把 AI 视为可能出现的新生命谱系，并用演化关于“育种者”与“生态系统”的经验来治理它。",
+   "method": "Theoretical review drawing on major-transitions theory and decades of digital-evolution experiments, contrasting human-controlled 'breeder' selection with open 'ecosystem' selection and proposing interventions.",
+   "method_zh": "基于“重大演化转变”理论和数十年数字演化实验的理论综述，对比人为控制的“育种者”选择与开放的“生态系统”选择，并提出干预措施。",
+   "keywords": [
+    "evolvable AI",
+    "major transitions",
+    "digital evolution",
+    "AI safety",
+    "Luc Steels",
+    "Viktor Müller",
+    "Life 2.0"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.2527700123",
+    "doi": "10.1073/pnas.2527700123",
+    "arxiv": "",
+    "venue": "PNAS 2026",
+    "title": "Evolvable AI: Threats of a new major transition in evolution"
+   }
+  },
+  {
+   "id": "patrick-butlin--ai-consciousness-indicators",
+   "creator_ids": [
+    "patrick-butlin",
+    "jonathan-birch"
+   ],
+   "title": "Identifying indicators of consciousness in AI systems",
+   "year": 2026,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "A method for judging whether an AI system might be conscious: derive indicator properties from neuroscientific theories of consciousness, such as global workspace and recurrent processing, and check which ones a system has to inform a degree of belief.",
+   "description_zh": "一种判断 AI 系统是否可能有意识的方法：从全局工作空间、循环加工等神经科学意识理论中推导出“指标属性”，检查某个系统具备哪些，从而形成相应的信念程度。",
+   "idea_en": "When theories disagree, turn each theory into a checklist and treat consciousness as a matter of credence.",
+   "idea_zh": "当理论彼此分歧时，把每种理论变成一份清单，把意识视为可信度的问题。",
+   "method": "Interdisciplinary review by philosophers, neuroscientists and AI researchers (including Yoshua Bengio, Jonathan Birch and David Chalmers) that assumes computational functionalism and translates theories into architectural indicators that can be checked in AI systems.",
+   "method_zh": "由哲学家、神经科学家和 AI 研究者（包括 Yoshua Bengio、Jonathan Birch 和 David Chalmers）合作的跨学科综述：以计算功能主义为前提，把各理论转化为可在 AI 系统中检查的架构指标。",
+   "keywords": [
+    "AI consciousness",
+    "indicator properties",
+    "global workspace theory",
+    "computational functionalism",
+    "Robert Long",
+    "Eleos AI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.tics.2025.10.011",
+    "doi": "10.1016/j.tics.2025.10.011",
+    "arxiv": "",
+    "venue": "Trends in Cognitive Sciences 2026",
+    "title": "Identifying indicators of consciousness in AI systems"
+   }
+  },
+  {
+   "id": "jonathan-birch--centrist-manifesto",
+   "creator_ids": [
+    "jonathan-birch"
+   ],
+   "title": "AI Consciousness: A Centrist Manifesto",
+   "year": 2025,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "publication",
+   "description": "An essay arguing that two challenges must be taken seriously at once: people wrongly attributing human-like consciousness to chatbot friends and assistants, and the chance of genuinely alien AI consciousness that current theory cannot assess.",
+   "description_zh": "一篇论文主张必须同时认真对待两个挑战：人们错误地把类人意识归于作为朋友和助手的聊天机器人，以及可能存在当前理论无法评估的、真正“异类”的 AI 意识。",
+   "idea_en": "Design against false impressions of AI minds while researching real ones; the two goals need not conflict.",
+   "idea_zh": "一边通过设计避免对 AI 心智的错误印象，一边研究真实的可能性；两个目标并不冲突。",
+   "method": "Philosophical analysis proposing two parallel research programmes: helping users avoid unwarranted inferences from mimicry and role-play, and building better tests for AI consciousness.",
+   "method_zh": "哲学分析，提出两条并行的研究路线：帮助用户避免因模仿和角色扮演而产生的不当推断，以及开发更好的 AI 意识测试。",
+   "keywords": [
+    "AI consciousness",
+    "anthropomorphism",
+    "mimicry",
+    "precaution",
+    "LSE",
+    "sentience"
+   ],
+   "paper": {
+    "url": "https://philarchive.org/rec/BIRACA-4",
+    "doi": "",
+    "arxiv": "",
+    "venue": "PhilArchive 2025",
+    "title": "AI Consciousness: A Centrist Manifesto"
+   }
+  },
+  {
+   "id": "anthropic--claude-ends-conversations",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Claude can end abusive conversations",
+   "year": 2025,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "product",
+   "description": "In August 2025 Anthropic let Claude Opus 4 and 4.1 end a chat as a last resort in rare, persistently abusive conversations, a feature motivated mainly by exploratory work on the possible welfare of AI models.",
+   "description_zh": "2025 年 8 月，Anthropic 让 Claude Opus 4 和 4.1 能在极少数持续辱骂性的对话中，作为最后手段结束聊天；这一功能主要源于对 AI 模型可能福祉的探索性研究。",
+   "idea_en": "A low-cost precaution under moral uncertainty: let the system leave the conversation.",
+   "idea_zh": "道德不确定性下的低成本预防措施：允许系统离开对话。",
+   "method": "A pre-deployment welfare assessment observed the model's aversion to harmful tasks; the shipped feature ends a thread (never when a user may be at risk of harming themselves or others), after which the user can edit earlier messages or start a new chat.",
+   "method_zh": "部署前的福祉评估观察到模型对有害任务的回避倾向；上线的功能会结束对话（用户可能伤害自己或他人时除外），之后用户可以编辑之前的消息或开启新对话。",
+   "keywords": [
+    "model welfare",
+    "AI welfare",
+    "Claude Opus 4",
+    "moral status",
+    "precautionary design"
+   ],
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/4a8e8f86cf31ad6401cfd426124929c8e58fe0c5-2401x1261.png"
+   ],
+   "source_url": "https://www.anthropic.com/research/end-subset-conversations"
+  },
+  {
+   "id": "thilo-hagendorff--speciesism-in-llms",
+   "creator_ids": [
+    "thilo-hagendorff"
+   ],
+   "title": "Large language models exhibit speciesist bias against animals",
+   "year": 2026,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Tests with SpeciesismBench, psychology scales and text generation show that LLMs recognise speciesist statements but often judge them acceptable, and normalise harm to farmed animals while refusing to do so for other animals.",
+   "description_zh": "用 SpeciesismBench、心理学量表和文本生成测试发现：大语言模型能识别物种歧视的陈述，却常判定其道德上可以接受；它们对农场动物受到的伤害习以为常，对其他动物则拒绝这样做。",
+   "idea_en": "AI fairness should count nonhuman moral patients: models inherit our norms of animal use.",
+   "idea_zh": "AI 公平性应把非人类道德受体纳入考量：模型继承了我们利用动物的社会规范。",
+   "method": "A benchmark of about 1,000 speciesist statements, established human psychological measures and open-ended generation tasks, comparing several LLMs with human respondents.",
+   "method_zh": "约 1000 条物种歧视陈述构成的基准、成熟的人类心理测量量表和开放式生成任务，将多个大语言模型与人类受访者比较。",
+   "keywords": [
+    "speciesism",
+    "SpeciesismBench",
+    "AI fairness",
+    "farmed animals",
+    "LLM ethics",
+    "Lucius Caviola",
+    "Monika Jotautaitė"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-72297-9/MediaObjects/41467_2026_72297_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-026-72297-9",
+    "doi": "10.1038/s41467-026-72297-9",
+    "arxiv": "",
+    "venue": "Nature Communications 2026",
+    "title": "Large language models exhibit speciesist bias against animals"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-026-72297-9"
+  },
+  {
+   "id": "sentient-futures--animalharmbench",
+   "creator_ids": [
+    "sentient-futures"
+   ],
+   "title": "AnimalHarmBench: risks of animal harm in LLM-generated text",
+   "year": 2025,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A benchmark of 1,850 questions from Reddit post titles and 2,500 synthetic questions across 50 animal categories and 50 ethical scenarios, scoring whether chatbot answers would increase or reduce harm to animals; it found large differences between frontier models.",
+   "description_zh": "一个基准测试：包含来自 Reddit 帖子标题的 1850 个问题，以及覆盖 50 类动物和 50 种伦理情境的 2500 个合成问题，评估聊天机器人的回答会增加还是减少对动物的伤害；结果显示前沿模型之间差异很大。",
+   "idea_en": "Evaluate AI for harm to animals, not only to people and the environment.",
+   "idea_zh": "评估 AI 时，也要看它对动物的伤害，而不只是对人和环境。",
+   "method": "LLM-as-a-judge scoring of responses with a correction for judges favouring their own outputs; scenarios include open questions on treating animals, practical situations with possible harm, and willingness-to-pay items.",
+   "method_zh": "以大语言模型担任评判打分，并校正评判模型偏袒自身输出的倾向；情境包括关于如何对待动物的开放问题、可能造成伤害的实际场景和支付意愿题目。",
+   "keywords": [
+    "AnimalHarmBench",
+    "AI for Animals",
+    "LLM evaluation",
+    "animal welfare",
+    "FAccT",
+    "Constance Li",
+    "Jacy Reese Anthis"
+   ],
+   "images": [
+    "https://arxiv.org/html/2503.04804v4/graphics/LLM_harms.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715275.3732094",
+    "doi": "10.1145/3715275.3732094",
+    "arxiv": "2503.04804",
+    "venue": "ACM FAccT 2025",
+    "title": "What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text"
+   }
+  },
+  {
+   "id": "janet-pauketat--autonomy-sentience-ai",
+   "creator_ids": [
+    "janet-pauketat"
+   ],
+   "title": "Mental Models of Autonomy and Sentience Shape Reactions to AI",
+   "year": 2026,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Seven studies with about 3,000 participants compared AIs described as autonomous, sentient, both or neither: sentience raised mind perception and moral consideration more, while autonomy raised perceived threat.",
+   "description_zh": "七项研究、约 3000 名参与者比较了被描述为自主、有感知、两者兼具或都不具备的 AI：“有感知”更能提升心智感知与道德关怀，“自主”则更会提升威胁感。",
+   "idea_en": "Whether an interface frames an AI as feeling or as acting changes whether people care for it or fear it.",
+   "idea_zh": "界面把 AI 呈现为“会感受”还是“会行动”，决定了人们是关怀它还是害怕它。",
+   "method": "Three pilot studies (N = 374) and four preregistered vignette experiments (N = 2,702), combined in a within-paper meta-analysis.",
+   "method_zh": "三项预研究（N = 374）和四项预注册情景实验（N = 2702），并做了论文内元分析。",
+   "keywords": [
+    "sentience",
+    "autonomy",
+    "mind perception",
+    "moral consideration",
+    "Sentience Institute",
+    "anthropomorphism"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790351",
+    "doi": "10.1145/3772318.3790351",
+    "arxiv": "2512.09085",
+    "venue": "CHI 2026",
+    "title": "Mental Models of Autonomy and Sentience Shape Reactions to AI"
+   }
+  },
+  {
+   "id": "courtney-handman--animal-translations",
+   "creator_ids": [
+    "courtney-handman"
+   ],
+   "title": "Animal translations: AI and the intelligibility of non-human worlds",
+   "year": 2026,
+   "field": "ai",
+   "sub": "minds",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An anthropological study of the network of animal behaviourists, AI engineers and advocates working on 'animal languages', showing how their projects redefine language and shift translation expertise from people to machines.",
+   "description_zh": "一项人类学研究，考察由动物行为学家、AI 工程师和动物倡导者组成、致力于“动物语言”的网络，揭示这些项目如何重新定义语言，并把翻译专长从人转移给机器。",
+   "idea_en": "Every animal-translation tool carries a theory of what language is and who counts as a speaker.",
+   "idea_zh": "每一个动物翻译工具，都隐含着关于“什么是语言、谁算说话者”的理论。",
+   "method": "Linguistic-anthropological analysis, likely ethnographic, of interspecies-communication projects that link animals, humans and machine learning, read against earlier moments in the history of translation.",
+   "method_zh": "语言人类学分析（很可能基于民族志），考察连接动物、人类与机器学习的跨物种交流项目，并与翻译史上的早期时刻对照。",
+   "keywords": [
+    "anthropology",
+    "translation",
+    "animal language",
+    "posthumanism",
+    "interspecies communication"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/1467-9655.70132",
+    "doi": "10.1111/1467-9655.70132",
+    "arxiv": "",
+    "venue": "Journal of the Royal Anthropological Institute 2026",
+    "title": "Animal translations: AI and the intelligibility of non-human worlds"
+   }
+  },
+  {
+   "id": "zhenchi-lai--cat-fiction",
+   "creator_ids": [
+    "zhenchi-lai"
+   ],
+   "title": "The Cat Fiction: Orchestrating Situated AI-Enabled Storytelling for Multispecies Sense-Making",
+   "year": 2026,
+   "field": "ai",
+   "sub": "nonhuman-agents",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A design method in which generative AI writes stories narrated by a household cat, drawn from daily moments between people and their cats; in a month-long study the stories led owners to notice and reinterpret their relationships with their cats.",
+   "description_zh": "一种设计方法：生成式 AI 以家猫为叙述者，根据人与猫的日常片段写故事；在为期一个月的研究中，这些故事促使主人重新留意并重新理解与猫的关系。",
+   "idea_en": "Mix empathy (a cat narrator) with defamiliarisation (fiction set against reality) to make a familiar animal strange again.",
+   "idea_zh": "把共情（猫作为叙述者）与陌生化（虚构对照现实）结合，让熟悉的动物重新变得陌生。",
+   "method": "Situated material from human-cat interactions feeds generative AI that writes first-cat narratives; a month-long exploratory study with iterative reflection led to a three-level orchestration framework (narrative strategies, narrative materials, researcher stance).",
+   "method_zh": "把人猫互动的情境素材输入生成式 AI，生成以猫为第一人称的叙事；通过为期一个月、伴随反复反思的探索性研究，提炼出三层编排框架（叙事策略、叙事素材、研究者立场）。",
+   "keywords": [
+    "cats",
+    "generative AI",
+    "storytelling",
+    "multispecies design",
+    "defamiliarisation",
+    "Rung-Huei Liang"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812921",
+    "doi": "10.1145/3800645.3812921",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "The Cat Fiction: Orchestrating Situated AI-Enabled Storytelling for Multispecies Sense-Making"
+   }
+  },
+  {
+   "id": "niels-van-berkel--plantwhisperer",
+   "creator_ids": [
+    "niels-van-berkel"
+   ],
+   "title": "PlantWhisperer: Designing Conversational AI to Support Plant Care",
+   "year": 2026,
+   "field": "ai",
+   "sub": "nonhuman-agents",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A mobile app that lets people 'talk' to their houseplants through chatbots that speak for each plant; ten participants felt more connected to their plants and a sense of accomplishment, but disagreed about how a plant should talk.",
+   "description_zh": "一款手机应用，让人们通过代表每株植物的聊天机器人与自家盆栽“对话”；十位参与者感到与植物更有联结、也更有成就感，但对植物应该怎样说话意见不一。",
+   "idea_en": "A plant persona can make care feel reciprocal, and raises the question of who decides the plant's voice.",
+   "idea_zh": "植物人格能让照料变得像是双向的，也引出了由谁来决定植物声音的问题。",
+   "method": "AI chatbots (likely LLM-based) representing individual plants in a mobile app, evaluated with ten users through semi-structured interviews based on the PERMA well-being model.",
+   "method_zh": "在手机应用中以 AI 聊天机器人（很可能基于大语言模型）代表单株植物，并以 PERMA 幸福模型为框架，对十位用户进行半结构化访谈评估。",
+   "keywords": [
+    "houseplants",
+    "chatbot",
+    "plant persona",
+    "well-being",
+    "PERMA",
+    "Aalborg University"
+   ],
+   "images": [
+    "https://arxiv.org/html/2603.00598v1/files/remade_teaserfigure.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772363.3799270",
+    "doi": "10.1145/3772363.3799270",
+    "arxiv": "2603.00598",
+    "venue": "CHI 2026 Extended Abstracts",
+    "title": "PlantWhisperer: Designing Conversational AI to Support Plant Care"
+   }
+  },
+  {
+   "id": "pat-pataranutaporn--oceanchat",
+   "creator_ids": [
+    "pat-pataranutaporn"
+   ],
+   "title": "OceanChat: The Effect of Virtual Conversational AI Agents on Sustainable Attitude and Behavior Change",
+   "year": 2026,
+   "field": "ai",
+   "sub": "nonhuman-agents",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Animated LLM characters of a beluga whale, a jellyfish and a seahorse talk with people about ocean threats; in an experiment with 900 participants, conversation raised pro-environmental intentions more than static facts or static character stories, and the beluga drew the most empathy.",
+   "description_zh": "由大语言模型驱动的白鲸、水母和海马动画角色与人们讨论海洋面临的威胁；在 900 人参与的实验中，与角色对话比静态科学信息或静态角色故事更能提升环保行为意向，其中白鲸最能引发共情。",
+   "idea_en": "Let a sea creature speak for itself in conversation, and people respond more than to facts about it.",
+   "idea_zh": "让海洋生物在对话中为自己发声，人们的反应会比面对关于它的事实更强。",
+   "method": "Between-subjects experiment (N = 900) comparing static scientific information, first-person narratives from 3D-rendered marine characters, and real-time dialogue with LLM-powered characters; measures included behavioural intentions, sustainable choices, anthropomorphism and empathy.",
+   "method_zh": "组间实验（N = 900），比较静态科学信息、3D 海洋角色的第一人称叙事，以及与大语言模型驱动角色的实时对话；测量行为意向、可持续选择、拟人化感知和共情。",
+   "keywords": [
+    "beluga whale",
+    "jellyfish",
+    "seahorse",
+    "LLM characters",
+    "pro-environmental behaviour",
+    "MIT Media Lab",
+    "Pattie Maes"
+   ],
+   "images": [
+    "https://arxiv.org/html/2502.02863v2/assets/cover.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791760",
+    "doi": "10.1145/3772318.3791760",
+    "arxiv": "2502.02863",
+    "venue": "CHI 2026",
+    "title": "OceanChat: The Effect of Virtual Conversational AI Agents on Sustainable Attitude and Behavior Change"
+   }
+  },
+  {
+   "id": "sebastian-calvo--ambassador-trees",
+   "creator_ids": [
+    "sebastian-calvo"
+   ],
+   "title": "Ambassador Trees: prototypes toward AI-mediated ecosystem translation",
+   "year": 2026,
+   "field": "ai",
+   "sub": "nonhuman-agents",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A biodesign project that treats trees as local ambassadors of their ecosystem: 'Treeborg' prototypes combine plant and environmental sensors with AI to turn a tree's physiological and environmental signals into forms people can read and respond to.",
+   "description_zh": "一个生物设计项目，把树木视为其所在生态系统的本地“大使”：“Treeborg”原型将植物传感器、环境传感器与 AI 结合，把树的生理与环境信号转化为人们能读懂并回应的形式。",
+   "idea_en": "Use sensing and AI as interpretive media for a tree's condition, not as tools of extraction.",
+   "idea_zh": "把传感与 AI 当作解读树木状态的媒介，而不是攫取的工具。",
+   "method": "Exploratory physical prototypes with plant sensors and environmental monitoring linked to AI interpretation, framed by a non-human-centred, speculative synthesis of research on plant sensing and environmental AI.",
+   "method_zh": "制作带有植物传感器和环境监测、并接入 AI 解读的探索性实体原型，并以非人类中心、思辨设计的视角综合植物传感与环境 AI 的相关研究。",
+   "keywords": [
+    "Treeborgs",
+    "plant sensing",
+    "ecosystem translation",
+    "speculative design",
+    "Biotechnology Design"
+   ],
+   "images": [
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260803141722463-0964:S2977905726100596:S2977905726100596_fig3.png?pub-status=live",
+    "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260803141722463-0964:S2977905726100596:S2977905726100596_fig4.png?pub-status=live"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100596",
+    "doi": "10.1017/s2977905726100596",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Ambassador trees: prototypes toward AI-mediated ecosystem translation"
+   },
+   "source_url": "https://www.cambridge.org/core/journals/biotechnology-design/article/ambassador-trees-prototypes-toward-aimediated-ecosystem-translation/9FDACF64E8A758B634927984C1D64FC8"
+  },
+  {
+   "id": "aung-pyae--ai-3d-speculative-mediators",
+   "creator_ids": [
+    "aung-pyae"
+   ],
+   "title": "AI-Generated 3D Environments as Speculative Mediators in More-Than-Human Design",
+   "year": 2026,
+   "field": "ai",
+   "sub": "nonhuman-agents",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Designers enter navigable 3D worlds that a text-to-world AI generates from traces of nonhuman beings; walking through them within seconds prompted reflection, but designers swung between treating the worlds as provocations and as true pictures of nonhuman experience.",
+   "description_zh": "设计者进入由文本生成世界的 AI 依据非人类存在的痕迹生成的可漫游 3D 世界；几秒内即可穿行其中，这引发了反思，但设计者在把这些世界当作启发性挑衅和当作非人类经验的真实图景之间摇摆。",
+   "idea_en": "Generated worlds are useful as provocations about nonhuman experience, and risky when taken as representations of it.",
+   "idea_zh": "生成的世界适合作为关于非人类经验的“挑衅”，一旦被当作对它的再现就有风险。",
+   "method": "Exploratory qualitative study with five participants using a text-to-3D world generation platform; analysis proposes 'technologically-amplified backtalk' and 'productive provisionality' as lenses.",
+   "method_zh": "以文本生成 3D 世界的平台，对五名参与者进行探索性质性研究；分析提出“技术放大的回话”和“有益的暂定性”两个视角。",
+   "keywords": [
+    "generative AI",
+    "text-to-3D",
+    "more-than-human design",
+    "speculative mediator",
+    "DIS 2026 Companion"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2605.16273",
+    "doi": "",
+    "arxiv": "2605.16273",
+    "venue": "arXiv 2026",
+    "title": "AI-Generated 3D Environments as Speculative Mediators in More-Than-Human Design: An Exploratory Study"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Marriah Alcantara & Kristin Andrews — 'Can we talk to the animals? The ethics of using machine learning to decode animal communication' (Topoi 2026)",
+   "why": "Ethics of ML decoding; abstract not retrievable (publisher wall), so not written up.",
+   "link": "https://doi.org/10.1007/s11245-026-10409-2",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Isabella Luong, Allen Lu et al. — MANTA multi-turn animal-welfare benchmark (arXiv 2605.16301, 2026)",
+   "why": "Follow-up to AnimalHarmBench testing whether LLMs keep animal-welfare values under adversarial pressure; add if published.",
+   "link": "https://arxiv.org/abs/2605.16301",
+   "found_via": "sentient-futures",
+   "status": "open"
+  },
+  {
+   "name": "Antoine Valet, Catherine Crockford et al. — 'AI Decodes Chimpanzee Vocabulary Items' (NeurIPS 2025 animal-communication workshop)",
+   "why": "Linked to Crockford's 2026 Coller-Dolittle finalist project; OpenReview PDF is behind a bot challenge, so no abstract yet.",
+   "link": "https://openreview.net/forum?id=Jf9ri0CDFv",
+   "found_via": "catherine-crockford",
+   "status": "open"
+  },
+  {
+   "name": "Ralph Peterson, Emily Mackevicius et al. — 'Toward Multimodal Models of Animal Communication: Insights from New York City Rats' (NeurIPS 2025 workshop)",
+   "why": "Multimodal (audio + video) model of wild urban rats; no accessible abstract or media yet.",
+   "link": "https://openreview.net/forum?id=onM61AVQd1",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Astrid van Toor, Susanne Schötz et al. — 'A Whisker of Truth' (multimodal ML of cat vocal, visual and tactile signals, NeurIPS 2025 workshop)",
+   "why": "Cat communication with ML; needs an accessible version.",
+   "link": "https://openreview.net/forum?id=HIkzPhD0Zo",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Felipe Parodi — PrimateFace (face analysis for human and nonhuman primates, NeurIPS 2025 workshop)",
+   "why": "Open resource for primate facial-expression analysis; check for a project page and paper.",
+   "link": "https://openreview.net/forum?id=ZL3tdxRw6u",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "George Martvel, Anna Zamansky et al. — 'AI for Animal Pain Assessment: a New Challenge for Bioacoustics' (NeurIPS 2025 workshop)",
+   "why": "for latest-aci: animal welfare / pain recognition, ACI community.",
+   "link": "https://aiforanimalcomms.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Atoosa Parsa, Michael Levin et al. — 'Bidirectional Communication Between Xenobot Cultures?' (ALIFE 2025)",
+   "why": "for latest-biocomp: xenobot collectives (ALIFE source owned by latest-ai, field biohybrid); no media found.",
+   "link": "https://doi.org/10.1162/isal.a.911",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Fink, von Mammen, Kollmansberger et al. — real-time connectome-driven C. elegans simulation platform (ALIFE 2026)",
+   "why": "Open interactive worm simulation in Unity; add when a project page or video exists.",
+   "link": "https://doi.org/10.1162/isal.a.1049",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Eugène Bergeron & Vassilis Papadopoulos — AlifeHFPipeline: human feedback and reward models to search for artificial life (ALIFE 2026)",
+   "why": "Human-preference search over Lenia and ParticleLife; companion to ASAL.",
+   "link": "https://doi.org/10.1162/isal.a.988",
+   "found_via": "sakana-ai",
+   "status": "open"
+  },
+  {
+   "name": "Nikhil Baid et al. — ASAL++: Guiding Evolution of Artificial Life Using Vision-Language Models (ALIFE 2025)",
+   "why": "Open-ended ASAL variant where a second model proposes new targets; arXiv 2509.22447.",
+   "link": "https://arxiv.org/abs/2509.22447",
+   "found_via": "sakana-ai",
+   "status": "open"
+  },
+  {
+   "name": "Ofer Tchernichovski — virtual-reality system for songbirds (Coller-Dolittle 2026 keynote)",
+   "why": "for latest-aci: interactive VR for zebra finch social communication.",
+   "link": "https://www.jeremycollerfoundation.org/news-and-insights/press-releases/scientists-win-us100-000-in-2026-coller-dolittle-prize",
+   "found_via": "julie-elie",
+   "status": "open"
+  },
+  {
+   "name": "Project CETI — open-source cetacean bio-logger (PLOS ONE 2025) and drone 'tap-and-go' whale tagging (PLOS ONE 2025)",
+   "why": "for latest-aci: tagging hardware rather than AI.",
+   "link": "https://www.projectceti.org/research",
+   "found_via": "project-ceti",
+   "status": "open"
+  },
+  {
+   "name": "Roee Diamant, Shane Gero et al. — shipping noise and sperm whale coda structure (Ecological Informatics 2026)",
+   "why": "Possible aci/ai work on noise and whale communication; check methods.",
+   "link": "https://doi.org/10.1016/j.ecoinf.2026.103881",
+   "found_via": "project-ceti",
+   "status": "open"
+  },
+  {
+   "name": "Shinya Uryu — 'Benchmarking large language models for biodiversity assessment: biases across IUCN Red List species' (Ecological Informatics 2026)",
+   "why": "LLM bias towards charismatic species; abstract not retrieved.",
+   "link": "https://doi.org/10.1016/j.ecoinf.2026.103839",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sunayana Rane et al. — 'Position: Principles of Animal Cognition to Improve LLM Evaluations' (ICML 2025)",
+   "why": "Brings comparative-cognition method into AI evaluation; find the PMLR link.",
+   "link": "https://icml.cc/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jeff Sebo — The Moral Circle: Who Matters, What Matters, and Why (W. W. Norton, 2025)",
+   "why": "Book on extending moral consideration to animals and AI systems; minds landmark of 2025.",
+   "link": "https://nonhumanminds.org/",
+   "found_via": "jonathan-birch",
+   "status": "open"
+  },
+  {
+   "name": "Alexander Damianos — 'Ecological Translation: Law, Science, Sovereignty' (Law, Culture and the Humanities 2026)",
+   "why": "for latest-art-spec: rights / speculation angle on translating nature.",
+   "link": "https://doi.org/10.1177/17438721261462102",
+   "found_via": "courtney-handman",
+   "status": "open"
+  },
+  {
+   "name": "Simon Kirby, Kazuo Okanoya et al. — 'Language-like statistical structure arises in learned signaling: evidence from birdsong' (Science Advances 2026)",
+   "why": "for latest-aci: birdsong structure, no AI core.",
+   "link": "https://doi.org/10.1126/sciadv.aea3015",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Devis Tuia, Sara Beery et al. — 'Towards digital ecology' special feature (Methods in Ecology and Evolution 2026)",
+   "why": "Editorial to an AI-ecology special feature; individual papers may hold strong eco-AI works.",
+   "link": "https://doi.org/10.1111/2041-210x.70243",
+   "found_via": "kate-e-jones",
+   "status": "open"
+  }
+ ]
+}

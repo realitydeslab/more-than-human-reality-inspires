@@ -3,8 +3,7 @@
 Project: **More than Human Inspire** — a bilingual (English / Simplified Chinese) gallery at more-than-human.reality.design
 of works in nine fields — More-than-Human Design, Animal–Computer Interaction, Human–Nature Interaction, Bio Design, Biocomputing,
 Organoid Computing, Eco Art, Speculation & Politics and AI × Nonhuman — made by
-Reality Design Lab as idea material for designers, researchers and students. Working dir:
-`/Users/amber/Projects/HoloKit/HoloKit2/mth-inspire`.
+Reality Design Lab as idea material for designers, researchers and students. Working dir: the repository root.
 
 Read first: `data/SCHEMA.md` (JSON format, language rule) and `data/taxonomy.json` (field / sub / organisms / kind ids).
 

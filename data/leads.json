@@ -8,14 +8,6 @@
   "batch": "aci"
  },
  {
-  "name": "Christena Nippert-Eng",
-  "why": "Indiana University; direct observation for user-centred design with gorillas; ACI papers on animal willingness and choice/control language.",
-  "link": "https://www.youtube.com/watch?v=tuhYpJVOPj0",
-  "found_via": "clara-mancini",
-  "status": "open",
-  "batch": "aci"
- },
- {
   "name": "Orit Hirsch-Matsioulas",
   "why": "University of Haifa; urban dog–leash–human entanglements, politicising ACI, dog shelters.",
   "link": "https://doi.org/10.1145/3493842.3493889",
@@ -1726,6 +1718,782 @@
   "found_via": "yuichiro-takeuchi",
   "status": "open",
   "batch": "ikeya-2025"
+ },
+ {
+  "name": "ACI 2026 accepted papers (Brugg-Windisch, 2–5 Dec 2026)",
+  "why": "Decisions went out July–Sept 2026 but no accepted-paper list is public yet; the site says details come in November 2026. Sweep the ACM proceedings once out.",
+  "link": "https://www.aciconf.org/conference-program",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "ACI 2026 workshop: Audio for Animals (Ramey, Gilliland, Jackson, Starner)",
+  "why": "Full-day workshop on acoustic technologies in animal–computer interaction; will appear in ACI 2026 proceedings.",
+  "link": "https://www.aciconf.org/conference-program",
+  "found_via": "melody-moore-jackson",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "ACI 2026 workshop: Animal Centered Research (ACR) framework (Paci, Nannoni, Mancini)",
+  "why": "Brings animal-centred principles into ethical review of animal research; the ACR framework itself may be published separately.",
+  "link": "https://www.aciconf.org/conference-program",
+  "found_via": "clara-mancini",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Rehkitzrettung Schweiz",
+  "why": "Swiss volunteer network using thermal drones to find fawns before mowing; gives a drone demo at ACI 2026. Possible org record.",
+  "link": "https://www.rehkitzrettung.ch",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Sam Gowland & Dirk van der Linden – 'Weeds or Careful Cultivars?' (ACI 2025)",
+  "why": "Systematic review of social media in urban wildlife research (59 papers); not added, review only.",
+  "link": "https://doi.org/10.1145/3768539.3768542",
+  "found_via": "dirk-van-der-linden",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Stella Kyratzi et al. – Trust in the Wild: dairy-farm milking robots (HRI 2026)",
+  "why": "Practice-based study of how advisors mediate farmers' trust in robotic milking; cows are present but not the focus.",
+  "link": "https://doi.org/10.1145/3776734.3794413",
+  "found_via": "stephanie-buijs",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Donato Romano & Cesare Stefanini – locust–robot–pathogen hybrid interaction",
+  "why": "Robotic locusts carrying a fungal pathogen to study social immunity; first published online March 2025, before this round's window.",
+  "link": "https://doi.org/10.1002/aisy.202400763",
+  "found_via": "donato-romano",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Thomas Schmickl / RoboRoyale – open-source observation hive and robotic comb mapping",
+  "why": "Biology Open 2026 and Computers and Electronics in Agriculture 2025; groundwork for robots that tend the honeybee queen. Fits biohybrid.",
+  "link": "https://doi.org/10.1242/bio.062523",
+  "found_via": "donato-romano",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Aalborg Zoo – olfactory enrichment of pygmy hippos with SLEAP tracking (Animals 2026)",
+  "why": "Scent enrichment plus automated pose tracking for an endangered species; good images, held back as less inventive.",
+  "link": "https://doi.org/10.3390/ani16030385",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-mth-hni: Ashley Boone et al. – bird–building collision citizen science (CSCW 2025)",
+  "why": "Charismatic Data and Material Traces: monitoring bird collisions through citizen science; hni / citizen-science.",
+  "link": "https://doi.org/10.1145/3757402",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-mth-hni: Mathilde Gouin et al. – Critter Connect (DIS 2025)",
+  "why": "Wearable for place-based, multisensory encounters with three species; hni.",
+  "link": "https://doi.org/10.1145/3715336.3735426",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-biocomp: Thomas Schmickl et al. – 'Reimagining the beehive as a biohybrid superorganism' (Nature Reviews Materials 2025)",
+  "why": "Perspective on hives as biohybrid systems.",
+  "link": "https://doi.org/10.1038/s41578-025-00862-7",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-biocomp: Donato Romano – 'Electroecology for biohybrid and robotic systems' (Nature Reviews Bioengineering 2026)",
+  "why": "Review linking animal electroreception and robotics.",
+  "link": "https://doi.org/10.1038/s44222-026-00481-z",
+  "found_via": "donato-romano",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-ai: AI-generated synthetic vocalizations played to free-moving marmosets (IEEE CyberSciTech 2025)",
+  "why": "Generative playback experiment with primates; AI-core communication.",
+  "link": "https://doi.org/10.1109/CyberSciTech68397.2025.00122",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-ai: Hill Hiroki Kobayashi et al. – cross-species birdcall conversion (Expert Systems with Applications 2026)",
+  "why": "Discrete representation framework for converting bird calls across species.",
+  "link": "https://doi.org/10.1016/j.eswa.2026.132715",
+  "found_via": "hill-hiroki-kobayashi",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "for latest-ai: 'A Preview of Computational Animal Linguistics' (ACM Computing Surveys 2026)",
+  "why": "Survey of computational approaches to animal communication.",
+  "link": "https://doi.org/10.1145/3850160",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-aci"
+ },
+ {
+  "name": "Marriah Alcantara & Kristin Andrews — 'Can we talk to the animals? The ethics of using machine learning to decode animal communication' (Topoi 2026)",
+  "why": "Ethics of ML decoding; abstract not retrievable (publisher wall), so not written up.",
+  "link": "https://doi.org/10.1007/s11245-026-10409-2",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Isabella Luong, Allen Lu et al. — MANTA multi-turn animal-welfare benchmark (arXiv 2605.16301, 2026)",
+  "why": "Follow-up to AnimalHarmBench testing whether LLMs keep animal-welfare values under adversarial pressure; add if published.",
+  "link": "https://arxiv.org/abs/2605.16301",
+  "found_via": "sentient-futures",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Antoine Valet, Catherine Crockford et al. — 'AI Decodes Chimpanzee Vocabulary Items' (NeurIPS 2025 animal-communication workshop)",
+  "why": "Linked to Crockford's 2026 Coller-Dolittle finalist project; OpenReview PDF is behind a bot challenge, so no abstract yet.",
+  "link": "https://openreview.net/forum?id=Jf9ri0CDFv",
+  "found_via": "catherine-crockford",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Ralph Peterson, Emily Mackevicius et al. — 'Toward Multimodal Models of Animal Communication: Insights from New York City Rats' (NeurIPS 2025 workshop)",
+  "why": "Multimodal (audio + video) model of wild urban rats; no accessible abstract or media yet.",
+  "link": "https://openreview.net/forum?id=onM61AVQd1",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Astrid van Toor, Susanne Schötz et al. — 'A Whisker of Truth' (multimodal ML of cat vocal, visual and tactile signals, NeurIPS 2025 workshop)",
+  "why": "Cat communication with ML; needs an accessible version.",
+  "link": "https://openreview.net/forum?id=HIkzPhD0Zo",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Felipe Parodi — PrimateFace (face analysis for human and nonhuman primates, NeurIPS 2025 workshop)",
+  "why": "Open resource for primate facial-expression analysis; check for a project page and paper.",
+  "link": "https://openreview.net/forum?id=ZL3tdxRw6u",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "George Martvel, Anna Zamansky et al. — 'AI for Animal Pain Assessment: a New Challenge for Bioacoustics' (NeurIPS 2025 workshop)",
+  "why": "for latest-aci: animal welfare / pain recognition, ACI community.",
+  "link": "https://aiforanimalcomms.org/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Atoosa Parsa, Michael Levin et al. — 'Bidirectional Communication Between Xenobot Cultures?' (ALIFE 2025)",
+  "why": "for latest-biocomp: xenobot collectives (ALIFE source owned by latest-ai, field biohybrid); no media found.",
+  "link": "https://doi.org/10.1162/isal.a.911",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Eugène Bergeron & Vassilis Papadopoulos — AlifeHFPipeline: human feedback and reward models to search for artificial life (ALIFE 2026)",
+  "why": "Human-preference search over Lenia and ParticleLife; companion to ASAL.",
+  "link": "https://doi.org/10.1162/isal.a.988",
+  "found_via": "sakana-ai",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Nikhil Baid et al. — ASAL++: Guiding Evolution of Artificial Life Using Vision-Language Models (ALIFE 2025)",
+  "why": "Open-ended ASAL variant where a second model proposes new targets; arXiv 2509.22447.",
+  "link": "https://arxiv.org/abs/2509.22447",
+  "found_via": "sakana-ai",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Ofer Tchernichovski — virtual-reality system for songbirds (Coller-Dolittle 2026 keynote)",
+  "why": "for latest-aci: interactive VR for zebra finch social communication.",
+  "link": "https://www.jeremycollerfoundation.org/news-and-insights/press-releases/scientists-win-us100-000-in-2026-coller-dolittle-prize",
+  "found_via": "julie-elie",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Project CETI — open-source cetacean bio-logger (PLOS ONE 2025) and drone 'tap-and-go' whale tagging (PLOS ONE 2025)",
+  "why": "for latest-aci: tagging hardware rather than AI.",
+  "link": "https://www.projectceti.org/research",
+  "found_via": "project-ceti",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Roee Diamant, Shane Gero et al. — shipping noise and sperm whale coda structure (Ecological Informatics 2026)",
+  "why": "Possible aci/ai work on noise and whale communication; check methods.",
+  "link": "https://doi.org/10.1016/j.ecoinf.2026.103881",
+  "found_via": "project-ceti",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Shinya Uryu — 'Benchmarking large language models for biodiversity assessment: biases across IUCN Red List species' (Ecological Informatics 2026)",
+  "why": "LLM bias towards charismatic species; abstract not retrieved.",
+  "link": "https://doi.org/10.1016/j.ecoinf.2026.103839",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Sunayana Rane et al. — 'Position: Principles of Animal Cognition to Improve LLM Evaluations' (ICML 2025)",
+  "why": "Brings comparative-cognition method into AI evaluation; find the PMLR link.",
+  "link": "https://icml.cc/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Jeff Sebo — The Moral Circle: Who Matters, What Matters, and Why (W. W. Norton, 2025)",
+  "why": "Book on extending moral consideration to animals and AI systems; minds landmark of 2025.",
+  "link": "https://nonhumanminds.org/",
+  "found_via": "jonathan-birch",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Alexander Damianos — 'Ecological Translation: Law, Science, Sovereignty' (Law, Culture and the Humanities 2026)",
+  "why": "for latest-art-spec: rights / speculation angle on translating nature.",
+  "link": "https://doi.org/10.1177/17438721261462102",
+  "found_via": "courtney-handman",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Simon Kirby, Kazuo Okanoya et al. — 'Language-like statistical structure arises in learned signaling: evidence from birdsong' (Science Advances 2026)",
+  "why": "for latest-aci: birdsong structure, no AI core.",
+  "link": "https://doi.org/10.1126/sciadv.aea3015",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Devis Tuia, Sara Beery et al. — 'Towards digital ecology' special feature (Methods in Ecology and Evolution 2026)",
+  "why": "Editorial to an AI-ecology special feature; individual papers may hold strong eco-AI works.",
+  "link": "https://doi.org/10.1111/2041-210x.70243",
+  "found_via": "kate-e-jones",
+  "status": "open",
+  "batch": "latest-ai"
+ },
+ {
+  "name": "Terram Intelligere: INTERSTITIUM (Ivan Šuković, Dejan Todorović, Emir Šehanović)",
+  "why": "for latest-bio: Montenegro Pavilion, Venice Architecture Biennale 2025 — native soil bacteria producing pigments, nanocellulose and bioplastics in dry-stone boundaries; also shown at Ars Electronica 2026 (Negotiating Beyond Humanity). Good images on the festival page.",
+  "link": "https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0",
+  "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "The Cat Fiction (Zhen-Chi Lai, Janet Yi-Ching Huang, Rung-Huei Liang)",
+  "why": "for latest-ai: DIS 2026 full paper on situated AI-enabled storytelling for multispecies sense-making with street cats (DOI 10.1145/3800645.3812921).",
+  "link": "https://doi.org/10.1145/3800645.3812921",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Entangled Histories Radio (Supratim Pait, Michael Nitsche, Heidi Biggs)",
+  "why": "for latest-mth-hni: TEI 2026 tangible radio on ecological justice and civil-rights histories (DOI 10.1145/3731459.3779353).",
+  "link": "https://doi.org/10.1145/3731459.3779353",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Mi-Hy (Rachel Armstrong, KU Leuven)",
+  "why": "for latest-bio: Falling Walls Art & Science 2026 finalist — household wastewater turned into electricity, clean water and nutrients with microbes; no project media found yet.",
+  "link": "https://falling-walls.com/finalists-2026",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Smart Skin Farm (Boram Soh)",
+  "why": "Speculative skin shop where personal data become fermented tea, microbes and bioleather; shown at Ars Electronica 2026 but first shown 2024 in Korea, so left out of this round. Strong design fiction with good images.",
+  "link": "https://ars.electronica.art/negotiatinghumanity/en/view/smart-skin-farm-38b38ddb450c8123adb9e450242d00bf",
+  "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Entangled Landscape (Studio Above&Below: Daria Jelonek, Perry-James Sugden)",
+  "why": "Mixed-reality sculpture driven by ML agents trained on mycorrhizal mutualism and live soil data; shown at Ars Electronica 2026 but dates from a 2022 STARTS residency.",
+  "link": "https://ars.electronica.art/negotiatinghumanity/en/view/entangled-landscape-3a938ddb450c81e7b64bd6fb784dd948",
+  "found_via": "ars-electronica-negotiating-beyond-humanity-2026",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Flying Cream (aniara rodado)",
+  "why": "Prix Ars Electronica 2025 Honorary Mention (Artificial Life & Intelligence): witches' flying ointment, psychoactive plants and censored knowledge; series began c. 2020, first-showing year unclear.",
+  "link": "https://archive.aec.at/prix/303297/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Band of Weeds (Kalle Hamm, Olli Aarni, Lauri Ainala, Hermanni Keko)",
+  "why": "Plant-music collective since 2016; The Weep of Trees (2021–23) turns VOC stress signals of thinned forest trees into music. Shown at Helsinki Biennial 2025; not in the gallery at all.",
+  "link": "https://helsinkibiennaali.fi/en/artist/band-of-weeds/",
+  "found_via": "helsinki-biennial-2025",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Tamara Henderson — Worm Affair (2023)",
+  "why": "Live audio feed of compost worms digesting matter (Helsinki Biennial 2025); artist not in the gallery.",
+  "link": "https://helsinkibiennaali.fi/en/artist/tamara-henderson/",
+  "found_via": "helsinki-biennial-2025",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Laura Põld — Külmking. Tassel of the Dead, Root of the Living (2025)",
+  "why": "Plant-dyed wool tapestries and ceramics around Külmking, the Estonian folklore protector of forests and peatlands (Helsinki Biennial 2025). Myth-ritual candidate.",
+  "link": "https://helsinkibiennaali.fi/en/artist/laura-pold/",
+  "found_via": "helsinki-biennial-2025",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Saskia Calderón — Sonata Vallisaari (2025)",
+  "why": "Soprano composing from listening to the non-human spirits of an island, after Amazonian (Siona, Cofán, Secoya) practice (Helsinki Biennial 2025). Myth-ritual candidate.",
+  "link": "https://helsinkibiennaali.fi/en/artist/saskia-calderon/",
+  "found_via": "helsinki-biennial-2025",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Beauty ([phylum]: Carlos Castellanos, Johnny DiBlasi)",
+  "why": "Deep-RL agent that steers pattern-forming bacteria toward 'beauty' while remediating contaminated soil; Leonardo 2026 paper (10.1162/leon.a.2756) but the work dates from 2020.",
+  "link": "https://ccastellanos.com/projects/beauty/",
+  "found_via": "carlos-castellanos",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Pemadashkodeyong / Rice Lake personhood (Alderville First Nation)",
+  "why": "Alderville First Nation effort (council resolution reported Nov 2025) to recognise Rice Lake, Ontario as a legal person; facts need checking.",
+  "link": "https://www.youtube.com/watch?v=YILCztR_1Iw",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Cybroc and FungiSync (Reality Design Lab)",
+  "why": "Broccoli 'cyborgs' performing longevity rituals while rotting (2024) and a fungal-network MR work (2024); neither is in the gallery.",
+  "link": "https://reality.design/project/cybroc",
+  "found_via": "botao-amber-hu",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Uzbekistan Pavilion — The Aural Sea (Venice Biennale Arte 2026)",
+  "why": "Pavilion on the vanished Aral Sea with Xin Liu, A.A. Murakami and others; the only clearly ecological pavilion found in Venice 2026.",
+  "link": "https://biennialfoundation.org/2026/04/national-pavilions-and-collateral-events-at-the-venice-biennale-2026/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Komorebi (Matteo Holyoke Marangoni, Dieter Vandoren)",
+  "why": "Swarm of artificial creatures making music from sun and tree shadows, Ars Electronica 2026 Festival Walk.",
+  "link": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-art-spec"
+ },
+ {
+  "name": "Morphologically tunable mycelium chips for physical reservoir computing (Telhan et al., Sci Rep 2026)",
+  "why": "for latest-biocomp: fungal computing hardware; field biohybrid.",
+  "link": "https://doi.org/10.1038/s41598-026-55550-5",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Living mycelium anastomosis for digital fabrication (Gough et al., UIST 2025 Adjunct)",
+  "why": "for latest-biocomp: UIST source; growing mycelium parts that fuse into complex forms.",
+  "link": "https://doi.org/10.1145/3746058.3758428",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "A programmable living force sensor from a surface-engineered microbial network (Nat Commun 2026)",
+  "why": "for latest-biocomp: microbes as sensing material.",
+  "link": "https://doi.org/10.1038/s41467-026-75944-3",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Living Textiles and Microbiomes as Tangible Data Interfaces (Zolotovsky et al., TEI 2026 studio)",
+  "why": "for latest-biocomp: probiotic textiles as sensing interfaces; studio paper, no images found.",
+  "link": "https://doi.org/10.1145/3731459.3779049",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "SENSBIOM: biochemical computation for healthier futures (Biotechnology Design 2026)",
+  "why": "for latest-biocomp: biochemical computation with microbes.",
+  "link": "https://doi.org/10.1017/s2977905726100444",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Self-Regulating Mood Ecosystem (Ahn, Millett, Oh, CHI EA 2026)",
+  "why": "for latest-art-spec: installation on gut-microbe dynamics and mood; unclear whether live microbes are used.",
+  "link": "https://doi.org/10.1145/3772363.3799122",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Alakaʻi 1777: immersive sound on nonhuman cultural extinction (Youngblood, Biotechnology Design 2026)",
+  "why": "for latest-art-spec: lost birdsong culture as sound work.",
+  "link": "https://doi.org/10.1017/s2977905726100109",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Ambassador trees: prototypes toward AI-mediated ecosystem translation (Calvo, Biotechnology Design 2026)",
+  "why": "for latest-ai: AI as translator for trees.",
+  "link": "https://doi.org/10.1017/s2977905726100596",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Multispecies reconciliation principles in biodesign practice (Pollini et al., Biotechnology Design 2026)",
+  "why": "for latest-mth-hni: design principles / framework.",
+  "link": "https://doi.org/10.1017/s2977905726100316",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Designing with the undesired: giant hogweed and interspecies futures (Vackar, Biotechnology Design 2026)",
+  "why": "for latest-mth-hni: invasive species and interspecies futures.",
+  "link": "https://doi.org/10.1017/s2977905726100122",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Rewilding young urban minds: mycelium-receptive artefacts toolkit (Behnke, Nicenboim, Parisi, Biotechnology Design 2026)",
+  "why": "for latest-mth-hni: nature-education toolkit with fungal artefacts.",
+  "link": "https://doi.org/10.1017/s2977905726100420",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "The X_Heal Toolkit and Sensing Soil Habitability (IASDR 2025, Karana / Barati groups)",
+  "why": "for latest-mth-hni: IASDR source; self-healing living materials toolkit and soil multispecies data.",
+  "link": "https://doi.org/10.21606/iasdr.2025.304",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Can textiles be alive? microbial biosensors and textile fluidics (Zolotovsky, DRS 2026)",
+  "why": "for latest-mth-hni: DRS source.",
+  "link": "https://doi.org/10.21606/drs.2026.2613",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Intelligent Hives / BeeHUB (Sebastian Gorecki, James Dyson Award 2026 national runner-up, Poland)",
+  "why": "Hive monitoring with weight, sound and AI; common type of product, left out for this round.",
+  "link": "https://www.jamesdysonaward.org/en-GB/2026/project/intelligent-hives-a-digital-voice-for-bees/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Foremyc (James Dyson Award 2025 national winner, Austria)",
+  "why": "Sensing and digital twins of Alpine forests and bark beetles; hni candidate.",
+  "link": "https://www.jamesdysonaward.org/en-GB/2025/project/foremyc-forest-tech-startup-2/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Fit-to-Farm: models for biomanufacturing (Dutch Design Week 2025, Veenweide Atelier)",
+  "why": "Bacterial textile pigments powered by farm side streams and waste heat; no project page found.",
+  "link": "https://materialdistrict.com/article/what-not-to-miss-at-dutch-design-week-2025-biobased-materials/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Living Indigo by Blue Monkey (Dutch Design Week 2026)",
+  "why": "Amsterdam-grown indigo and textile waste as a local fashion system.",
+  "link": "https://ddw.nl/en/programme/living-indigo-by-blue-monkey",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Designing for the Leaky Body (Arduini, Lazaro Vasquez, Golla, Alistar, TEI 2026)",
+  "why": "Casein bioplastic that responds to bodily fluids; non-living biomaterial, left out.",
+  "link": "https://doi.org/10.1145/3731459.3774473",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Growing Matter(s) pavilion (Henning Larsen with Politecnico di Milano, Milan Design Week 2025)",
+  "why": "80 grown mycelium spheres; April 2025, before this round's window.",
+  "link": "https://henninglarsen.com/projects/growing-matters",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "Searamica: seaweed-based antifungal retrofit (Biotechnology Design 2026)",
+  "why": "Seaweed biomaterial against indoor mould, robotically fabricated.",
+  "link": "https://doi.org/10.1017/s2977905726100419",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-bio"
+ },
+ {
+  "name": "UIST 2026 (Detroit, 2–5 Nov 2026) program",
+  "why": "Not yet in Crossref and the SIGCHI program app is not machine-readable; arXiv preprints tagged UIST 2026 showed no living-matter papers. Re-sweep after the conference.",
+  "link": "https://programs.sigchi.org/uist/2026/program/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Brennen Hill: world-model formation in neural organoids via an LLM-generated curriculum (NeurIPS 2025 workshop)",
+  "why": "for latest-ai (NeurIPS owner): closed-loop curriculum design for organoid agents; field organoid.",
+  "link": "https://arxiv.org/abs/2509.04633",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Simulacra Naturae – Entangled Biomes (SIGGRAPH 2026, Manoudaki et al.)",
+  "why": "for latest-art-spec (SIGGRAPH owner): organoid-driven generative ecosystem, follow-up to nefeli-manoudaki--simulacra-naturae; field organoid/neural-art.",
+  "link": "https://doi.org/10.1145/3799824.3812690",
+  "found_via": "nefeli-manoudaki",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Brain Processing Unit (Daito Manabe et al.)",
+  "why": "Artwork where cerebral organoids steer a quadruped robot around obstacles; project page moved (404). Check date and media.",
+  "link": "https://www.creativeapplications.net/project/brain-processing-unit-artificial-brain-tissue-apis/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Cortical Labs CL1 + language model text-generation demo (2026)",
+  "why": "Reported in press only; no primary source found yet.",
+  "link": "https://corticallabs.com",
+  "found_via": "cortical-labs",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Zero-shot activity recognition from animal bio-loggers with VLMs (UbiComp 2025 Companion, Yonekura et al.)",
+  "why": "for latest-ai / latest-aci: seabird and bear bio-logger video annotated by vision-language models; source owned here but outside biocomputing.",
+  "link": "https://doi.org/10.1145/3714394.3750589",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Danli Luo: 'Building Living Instruments for Scientific Discovery' (UIST 2025 Doctoral Symposium)",
+  "why": "Dissertation on instruments that grow and evolve, including organisms as living components; follow her published papers.",
+  "link": "https://doi.org/10.1145/3746058.3758462",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Seokheun Choi: villi-inspired living biobatteries (Small 2026)",
+  "why": "Bacteria-powered biobatteries in conductive hydrogels (Binghamton); candidate for microbial-interfaces.",
+  "link": "https://doi.org/10.1002/smll.76091",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-biocomp"
+ },
+ {
+  "name": "Blooming Tree in the Air: plant–drone hybrid that grows and flies (NordiCHI 2026 adjunct, 10.1145/3821402.3830128)",
+  "why": "for latest-art-spec / latest-biocomp: speculative plant–robot hybrid by the same Bergen group; no images found",
+  "link": "https://doi.org/10.1145/3821402.3830128",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Let My Goldfish Go: design fiction of a submarine for pet goldfish (DIS 2025 companion, 10.1145/3715668.3736734)",
+  "why": "for latest-aci / latest-art-spec: non-anthropocentric critique of pet keeping",
+  "link": "https://doi.org/10.1145/3715668.3736734",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "BearWave: NVIS radio for wildlife monitoring in Borneo (COMPASS 2025, 10.1145/3715335.3735458)",
+  "why": "for latest-aci: conservation telemetry",
+  "link": "https://doi.org/10.1145/3715335.3735458",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "LeafLink: plant-mediated capacitive sensing for non-verbal communication with autistic people (CHI 2026 EA, 10.1145/3772363.3798314)",
+  "why": "for latest-biocomp: living plant as touch sensor",
+  "link": "https://doi.org/10.1145/3772363.3798314",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "GrowMechanics: non-deterministic mechanical behaviour through biological growth (DIS 2026, 10.1145/3800645.3813093)",
+  "why": "for latest-biocomp / latest-bio",
+  "link": "https://doi.org/10.1145/3800645.3813093",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Living Textiles and Microbiomes as Tangible Data Interfaces (TEI 2026, 10.1145/3731459.3779049)",
+  "why": "for latest-biocomp: microbial textiles; related to katia-zolotovsky--living-textiles (DRS 2026) in this batch",
+  "link": "https://doi.org/10.1145/3731459.3779049",
+  "found_via": "katia-zolotovsky",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "MotionLeaf: mmWave sensing of leaf vibration for plant water stress (IMWUT 2025, 10.1145/3749547)",
+  "why": "for latest-biocomp (IMWUT owner): plant sensing",
+  "link": "https://doi.org/10.1145/3749547",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "SOPAR: RF bee localisation and tracking inside hives (IMWUT 2026, 10.1145/3810192)",
+  "why": "for latest-biocomp (IMWUT owner) / latest-aci",
+  "link": "https://doi.org/10.1145/3810192",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Green Rhythms: installation sharing plant circadian rhythm and CO2 with visitors (TEI 2026 arts, 10.1145/3731459.3779145)",
+  "why": "for latest-art-spec: plant–human symbiotic installation (Yuting Xue, Elke Reinhuber)",
+  "link": "https://doi.org/10.1145/3731459.3779145",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Tapest[o]ry (marine noise) and Q4 #101 Shenzhen underwater recordings (DIS 2025 companion arts)",
+  "why": "for latest-art-spec: ocean sound artworks, 10.1145/3715668.3736386 and 10.1145/3715668.3736389",
+  "link": "https://doi.org/10.1145/3715668.3736386",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Solarpunk Spectacles across Singapore and Brisbane (DIS 2026 companion, 10.1145/3802974.3809454)",
+  "why": "for latest-art-spec: speculation / critique of designed nature",
+  "link": "https://doi.org/10.1145/3802974.3809454",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "CoDesign 2026 thick-mapping cluster: Madrid Río renaturalisation (10.1080/15710882.2026.2726169), Trails of Namaland (10.1080/15710882.2026.2692959), San Juan Basin post-mining (10.1080/15710882.2025.2612237), Veneto (10.1080/15710882.2026.2727658)",
+  "why": "owned source; companion pieces to the existing 'Listening with frogs' work; no abstracts or images retrievable this round",
+  "link": "https://doi.org/10.1080/15710882.2026.2726169",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Emergent methodology: bridging the ocean tangibility gap (The Design Journal 2026, 10.1080/14606925.2025.2603612)",
+  "why": "Ashley Hall (RCA) et al.: design research across Atlantic ocean voyages with coastal communities",
+  "link": "https://doi.org/10.1080/14606925.2025.2603612",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Designing for co-becoming: relational design ethic from Chinese and Japanese ontologies (The Design Journal 2026, 10.1080/14606925.2025.2603597)",
+  "why": "mth theory; East Asian grounding for more-than-human design",
+  "link": "https://doi.org/10.1080/14606925.2025.2603597",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Guardians of the Mangrove (PDC 2026 situated action, 10.1145/3789493.3797332)",
+  "why": "role-play game where participants embody mangrove species (Puerto Vallarta); mth/methods",
+  "link": "https://doi.org/10.1145/3789493.3797332",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Valentina Nisi / ITI-LARSyS (Lisbon, Madeira) ocean and posthuman HCI group",
+  "why": "many 2025–26 more-than-human works (Cast Ashore, Coastal Community Thinking Toolkit, RoPPi); a dedicated creator sweep would pay off",
+  "link": "https://doi.org/10.1145/3715668.3735597",
+  "found_via": "valentina-nisi",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Hong Luo / Exertion Games Lab human–plant interaction series",
+  "why": "Listen to the Plant (DIS 2026, 10.1145/3802974.3809437), Respireal (DIS 2025, 10.1145/3715668.3736338) beyond SymbioSip",
+  "link": "https://doi.org/10.1145/3802974.3809437",
+  "found_via": "hong-luo",
+  "status": "open",
+  "batch": "latest-mth-hni"
+ },
+ {
+  "name": "Interactions 'More-than-Human' forum (eds. Anton Poikolainen Rosén, Sara Heitlinger)",
+  "why": "running column 2025–26: Where Are the Children in MTH Design? (Karey Helms, 10.1145/3818629), Reawakening Sensibility (10.1145/3767697)",
+  "link": "https://doi.org/10.1145/3818629",
+  "found_via": "karey-helms",
+  "status": "open",
+  "batch": "latest-mth-hni"
  },
  {
   "name": "Pierre Huyghe — Exomind (Deep Water)",
