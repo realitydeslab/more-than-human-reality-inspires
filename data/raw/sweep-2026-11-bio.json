@@ -1,0 +1,1205 @@
+{
+ "batch": "sweep-2026-11-bio",
+ "creators": [
+  {
+   "id": "shahar-livne",
+   "name": "Shahar Livne",
+   "kind": "person",
+   "role": "Conceptual material designer",
+   "based": "Netherlands",
+   "bio": "Israeli-born material designer based in the Netherlands whose work tells stories about materials, geology and eco-philosophy; she made PHALIVE with 3D designer Jelle Heuver.",
+   "why": "She asks what craft means when the 'clay' is a polymer grown by bacteria and the tool is an algorithm.",
+   "links": {
+    "site": "https://www.shaharlivnedesign.com"
+   },
+   "role_zh": "概念材料设计师",
+   "bio_zh": "旅居荷兰的以色列裔材料设计师，用作品讲述材料、地质与生态哲学的故事；与 3D 设计师 Jelle Heuver 合作完成 PHALIVE。",
+   "why_zh": "她追问：当“黏土”是细菌长出的聚合物、工具是算法时，手艺意味着什么。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bioma-lab",
+   "name": "BIOMA Lab",
+   "kind": "studio",
+   "role": "Bacterial-cellulose material studio founded by Charlotte van Alem (2021)",
+   "based": "Netherlands",
+   "bio": "Dutch studio founded by Charlotte van Alem that grows a flexible, water-resistant sheet material from bacterial cellulose fed on kombucha-brewing waste.",
+   "why": "It shows a grown material designed to be repaired with more of itself.",
+   "links": {},
+   "role_zh": "由 Charlotte van Alem 于 2021 年创立的细菌纤维素材料工作室",
+   "bio_zh": "Charlotte van Alem 创立的荷兰工作室，用康普茶酿造的废料喂养细菌，长出柔韧、防水的细菌纤维素片材。",
+   "why_zh": "它展示了一种可以用同样的生长材料来修补的材料。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lichi-hsu",
+   "name": "Lichi Hsu",
+   "kind": "person",
+   "role": "Designer; 4TU.Design United researcher",
+   "based": "Netherlands",
+   "bio": "Designer working in the Netherlands across material exploration and digital fabrication, presented in 4TU.Design United's Design Bridges expo at Dutch Design Week 2026.",
+   "why": "She treats building surfaces as skins that other species could live on.",
+   "links": {
+    "site": "https://liki17.com/"
+   },
+   "role_zh": "设计师；4TU.Design United 研究者",
+   "bio_zh": "在荷兰工作的设计师，作品横跨材料探索与数字制造，入选 2026 荷兰设计周 4TU.Design United 的 Design Bridges 展。",
+   "why_zh": "她把建筑表面当作其他物种可以栖身的皮肤来设计。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bianca-isabel-young-co",
+   "name": "Bianca Isabel Young Co",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Designer who makes compostable objects from bark, paper and wood and lets fungi colonise and transform them.",
+   "why": "Her objects are designed as food for fungi, so decay becomes the finished form.",
+   "links": {},
+   "role_zh": "设计师",
+   "bio_zh": "设计师，用树皮、纸和木材制作可降解物件，再让真菌定殖并改变它们。",
+   "why_zh": "她的物件被设计成真菌的食物，腐解过程本身就是作品的完成形态。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnes-van-dijk",
+   "name": "Agnes van Dijk",
+   "kind": "person",
+   "role": "Fashion artist, ModeKunst FashionArt",
+   "based": "Netherlands",
+   "bio": "Dutch fashion artist who makes sculptural wearables from seaweed, mushrooms, lichen, luffa and moss using her own non-toxic preservation technique.",
+   "why": "She shows how perishable organisms can be kept flexible and wearable without plastics.",
+   "links": {
+    "site": "https://www.agnesvandijk.com"
+   },
+   "role_zh": "时尚艺术家，ModeKunst FashionArt",
+   "bio_zh": "荷兰时尚艺术家，用自研的无毒保存技术，把海藻、蘑菇、地衣、丝瓜络和苔藓做成雕塑般的可穿戴作品。",
+   "why_zh": "她展示了易腐的生物材料如何不靠塑料也能保持柔软、可穿。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ori-orisun-merhav",
+   "name": "Ori Orisun Merhav",
+   "kind": "person",
+   "role": "Artist, designer and material researcher; founder of Made by Insects",
+   "based": "Brussels, Belgium",
+   "bio": "Design Academy Eindhoven graduate (2022) who researches lac, the resin secreted by the lac insect Kerria lacca, through blowing, weaving and 3D printing; Dutch Design Awards Class of 2026.",
+   "why": "She treats an insect-made polymer as a collaboration between insects, host trees and people.",
+   "links": {},
+   "role_zh": "艺术家、设计师与材料研究者；Made by Insects 创始人",
+   "bio_zh": "埃因霍温设计学院 2022 届毕业生，通过吹制、编织和 3D 打印研究紫胶——紫胶虫 Kerria lacca 分泌的树脂；入选荷兰设计奖 2026 届（Class of 2026）。",
+   "why_zh": "她把一种昆虫制造的聚合物视为昆虫、宿主树木与人之间的合作。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blue-monkey",
+   "name": "Blue Monkey (Aki Takeshita)",
+   "kind": "studio",
+   "role": "Amsterdam indigo and textile project led by Aki Takeshita (Shibori Lab)",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Project by textile artist Aki Takeshita that grows indigo across Amsterdam with citizens and dyes discarded textiles into new garments.",
+   "why": "It makes a city grow its own colour, with plant care spread across its residents.",
+   "links": {
+    "site": "https://www.shiborilab.info"
+   },
+   "role_zh": "由 Aki Takeshita（Shibori Lab）主持的阿姆斯特丹靛蓝与纺织项目",
+   "bio_zh": "纺织艺术家 Aki Takeshita 发起的项目：与市民一起在阿姆斯特丹各处种植靛蓝，并把废旧纺织品染成新衣。",
+   "why_zh": "它让一座城市自己种出颜色，并把照料植物的工作分给市民。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yvonne-gu",
+   "name": "Yvonne Gu (3h57m)",
+   "kind": "studio",
+   "role": "Founder of 3h57m, an architecture and ecology practice",
+   "based": "United States",
+   "bio": "Architect whose practice 3h57m works on infrastructure, dwelling and the relations between land, water and building.",
+   "why": "She proposes architecture grown from rewetted wetlands rather than extracted materials.",
+   "links": {
+    "site": "https://3h57m.com/"
+   },
+   "role_zh": "建筑与生态实践 3h57m 创始人",
+   "bio_zh": "建筑师，其工作室 3h57m 关注基础设施、栖居以及土地、水与建筑之间的关系。",
+   "why_zh": "她提出用重新湿润的湿地里长出的材料来建造，而不是依赖开采材料。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lars-dittrich",
+   "name": "Lars Dittrich",
+   "kind": "person",
+   "role": "Designer and researcher, Vrije Universiteit Brussel (VUB)",
+   "based": "Brussels, Belgium",
+   "bio": "Designer at the VUB who grows pure-mycelium materials for fashion and footwear, working with La Monnaie / De Munt opera house's costume workshops.",
+   "why": "His work tests whether pure mycelium, without a substrate, can carry three-dimensional, load-bearing products.",
+   "links": {},
+   "role_zh": "设计师与研究者，布鲁塞尔自由大学（VUB）",
+   "bio_zh": "VUB 的设计师，为服装和鞋履培育纯菌丝体材料，与布鲁塞尔皇家铸币局歌剧院（La Monnaie / De Munt）的服装工坊合作。",
+   "why_zh": "他的工作检验不含基质的纯菌丝体能否撑起三维、承重的产品。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mush-composites",
+   "name": "Mush Composites",
+   "kind": "company",
+   "role": "Mycelium surface manufacturer",
+   "based": "Thailand",
+   "bio": "Thai company that grows stone-like architectural panels and tiles from mycelium and agricultural by-products, expanding to Hong Kong.",
+   "why": "It brings grown mycelium into the luxury-surface market usually served by quarried stone.",
+   "links": {},
+   "role_zh": "菌丝体表面材料制造商",
+   "bio_zh": "泰国公司，用菌丝体和农业副产品长出类石材的建筑板材与瓷砖，正在拓展到香港。",
+   "why_zh": "它把生长出来的菌丝体带进了通常由开采石材占据的高端饰面市场。",
+   "based_zh": "泰国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dan-lie",
+   "name": "Dan Lie",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, Germany",
+   "bio": "Brazilian-born artist (b. 1988, São Paulo) whose installations combine flowers, seeds, soil, fungi and textiles that rot, sprout and change over the course of an exhibition.",
+   "why": "Lie treats decomposition as collaboration with microbes, fungi and plants rather than as an end.",
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "1988 年生于圣保罗的巴西裔艺术家，其装置把花、种子、泥土、真菌和织物组合在一起，在展期中腐烂、发芽、变化。",
+   "why_zh": "Lie 把腐解看作与微生物、真菌和植物的合作，而不是终结。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "det-levende-hus",
+   "name": "Studio Det Levende Hus",
+   "kind": "studio",
+   "role": "Danish biobased building studio",
+   "based": "Denmark",
+   "bio": "Danish studio developing mycelium building components such as doors, acoustic panels and ceilings, working with door maker Rebound.",
+   "why": "It moves grown mycelium from pavilions into standard interior building products.",
+   "links": {},
+   "role_zh": "丹麦生物基建筑工作室",
+   "bio_zh": "丹麦工作室，与门业公司 Rebound 合作开发门、吸音板和吊顶等菌丝体建筑构件。",
+   "why_zh": "它把生长的菌丝体从展亭带进了标准化的室内建材。",
+   "based_zh": "丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "silvia-vignolini",
+   "name": "Silvia Vignolini",
+   "kind": "person",
+   "role": "Director, Sustainable and Bio-inspired Materials, Max Planck Institute of Colloids and Interfaces; University of Cambridge",
+   "based": "Potsdam, Germany",
+   "bio": "Materials scientist known for structural colour from cellulose and for growing materials with microorganisms.",
+   "why": "Her group designs artificial partnerships between microbes to grow materials that neither could make alone.",
+   "links": {},
+   "role_zh": "马普胶体与界面研究所可持续与仿生材料部主任；剑桥大学",
+   "bio_zh": "材料科学家，以纤维素结构色和用微生物“长”材料的研究著称。",
+   "why_zh": "她的团队在微生物之间设计人工的合作关系，长出单靠任何一方都做不出的材料。",
+   "based_zh": "波茨坦，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-sandak",
+   "name": "Anna Sandak",
+   "kind": "person",
+   "role": "Researcher, InnoRenew CoE and University of Primorska",
+   "based": "Izola, Slovenia",
+   "bio": "Wood and bio-based materials scientist who leads the ARCHI-SKIN and REMEDY projects on living fungal coatings and microbial surfaces for buildings.",
+   "why": "She frames the building's microbiome as something architects can deliberately design.",
+   "links": {},
+   "role_zh": "研究员，InnoRenew CoE 与普里莫尔斯卡大学",
+   "bio_zh": "木材与生物基材料科学家，主持 ARCHI-SKIN 与 REMEDY 等研究建筑活体真菌涂层和微生物表面的项目。",
+   "why_zh": "她把建筑的微生物组视为建筑师可以有意设计的对象。",
+   "based_zh": "伊佐拉，斯洛文尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-duraj-thatte",
+   "name": "Anna Duraj-Thatte",
+   "kind": "person",
+   "role": "Assistant Professor, Biological Systems Engineering, Virginia Tech; SMART Living Materials Lab",
+   "based": "Blacksburg, US",
+   "bio": "Synthetic biologist who engineers E. coli to secrete curli protein nanofibres that self-assemble into printable, degradable living materials.",
+   "why": "She makes bacteria build their own material scaffold, so the material can be grown rather than processed.",
+   "links": {},
+   "role_zh": "弗吉尼亚理工大学生物系统工程系助理教授；SMART Living Materials Lab",
+   "bio_zh": "合成生物学家，改造大肠杆菌分泌 curli 蛋白纳米纤维，让其自组装成可打印、可降解的活体材料。",
+   "why_zh": "她让细菌自己搭建材料骨架，材料因此可以“长”出来，而不是加工出来。",
+   "based_zh": "布莱克斯堡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "front-materials",
+   "name": "Front (formerly StoneCycling)",
+   "kind": "company",
+   "role": "Dutch material company",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Amsterdam company, founded as StoneCycling by Tom van Soest and Ward Massa, that makes building products from waste and, with Biomason, from bacteria-grown biocement.",
+   "why": "It brought bacteria-grown tiles from pilot to a dedicated factory.",
+   "links": {
+    "site": "https://www.front-materials.com"
+   },
+   "role_zh": "荷兰材料公司",
+   "bio_zh": "阿姆斯特丹公司，前身为 Tom van Soest 与 Ward Massa 创立的 StoneCycling，用废料以及与 Biomason 合作的细菌生物水泥制作建材。",
+   "why_zh": "它把细菌长成的瓷砖从试点推进到专门工厂量产。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [
+    "biomason"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phil-ayres",
+   "name": "Phil Ayres",
+   "kind": "person",
+   "role": "Professor, Centre for IT and Architecture (CITA), Royal Danish Academy; FUNGATERIA coordinator",
+   "based": "Copenhagen, Denmark",
+   "bio": "Architect and researcher who works on bio-hybrid architecture and grown materials, including mycelium-based engineered living materials.",
+   "why": "He leads efforts to keep mycelium alive inside finished products so they can repair and adapt.",
+   "links": {
+    "site": "https://royaldanishacademy.com/en/node/6147"
+   },
+   "role_zh": "丹麦皇家艺术学院 CITA（信息技术与建筑中心）教授；FUNGATERIA 项目协调人",
+   "bio_zh": "建筑师与研究者，研究生物混合建筑和生长材料，包括基于菌丝体的工程活体材料。",
+   "why_zh": "他带领团队让菌丝体在成品中保持存活，使产品能够自我修复和适应。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "claudia-colmo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "darya-holub",
+   "name": "Darya Holub",
+   "kind": "person",
+   "role": "Architectural designer",
+   "based": "",
+   "bio": "Designer who, with Selin Ozasik, Pinak Bhapkar, Nikhil Narendiran and Baskar Bharathwaj Subramanian, designed the Hypha-Lume mycelium pavilion.",
+   "why": "Her team combines grown mycelium modules with sensing so a pavilion records how people use it.",
+   "links": {},
+   "role_zh": "建筑设计师",
+   "bio_zh": "设计师，与 Selin Ozasik、Pinak Bhapkar、Nikhil Narendiran 和 Baskar Bharathwaj Subramanian 共同设计了 Hypha-Lume 菌丝体展亭。",
+   "why_zh": "她的团队把生长的菌丝体模块与传感结合，让展亭记录人们如何使用它。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "shahar-livne--phalive",
+   "creator_ids": [
+    "shahar-livne"
+   ],
+   "title": "PHALIVE",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A collection of sculptural objects 3D-printed by Shahar Livne and Jelle Heuver from PHA, a polyester that bacteria store as fat, with forms generated from the growth rules of corals and bacterial colonies. Shown at Dutch Design Week 2026.",
+   "description_zh": "Shahar Livne 与 Jelle Heuver 用 PHA 3D 打印的一组雕塑物件。PHA 是细菌储存在体内的“脂肪”聚酯，物件形态由珊瑚与细菌菌落的生长规则生成。展出于 2026 荷兰设计周。",
+   "idea_en": "If bacterial fat is the new clay, growth algorithms can be the new hand.",
+   "idea_zh": "如果细菌的脂肪是新的黏土，生长算法就可以是新的手。",
+   "method": "Bacteria ferment feedstock into polyhydroxyalkanoate (PHA), which ColorFabb compounds into filament; generative growth algorithms drive the printer toolpaths.",
+   "method_zh": "细菌发酵原料产生聚羟基脂肪酸酯（PHA），由 ColorFabb 制成打印线材；生成式生长算法驱动打印路径。",
+   "keywords": [
+    "PHA",
+    "polyhydroxyalkanoate",
+    "ColorFabb",
+    "Jelle Heuver",
+    "generative design",
+    "3D printing",
+    "home-compostable",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/image-mockup-phalive-landscape_1786473249_1920x1080.png"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/phalive-",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "dasha-tsapenko--bar-mycelium",
+   "creator_ids": [
+    "dasha-tsapenko"
+   ],
+   "title": "Bar Mycelium",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "A working bar grown from mycelium and mushrooms in five weeks before Dutch Design Week 2026, from the counter down to the cocktail glasses, at MU Hybrid Art House in Eindhoven.",
+   "description_zh": "在 2026 荷兰设计周开幕前五周里，用菌丝体和蘑菇“长”出来的一间酒吧，从吧台到鸡尾酒杯都由真菌长成，位于埃因霍温 MU Hybrid Art House。",
+   "idea_en": "Give a fungus a score, not a mould: set the conditions and let growth write the space.",
+   "idea_zh": "给真菌一份“乐谱”而不是模具：设定条件，让生长书写空间。",
+   "method": "Using Tsapenko's 'Scores for Growth' method, mycologist Pim van de Noort guided mycelium through designed frameworks while biotechnologist Nick van Biezen supplied fungus-grown dyes.",
+   "method_zh": "以 Tsapenko 的“Scores for Growth”方法为框架，真菌学家 Pim van de Noort 引导菌丝体在设计好的结构中生长，生物技术专家 Nick van Biezen 提供真菌发酵染料。",
+   "keywords": [
+    "Scores for Growth",
+    "Pim van de Noort",
+    "Nick van Biezen",
+    "Mark Henning",
+    "MU Hybrid Art House",
+    "grown interior",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/barmycelium-main-02_1792010712_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-website-1920x1080-03_1790857737_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/bar-mycelium-1",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "bioma-lab--kombucha-cellulose",
+   "creator_ids": [
+    "bioma-lab"
+   ],
+   "title": "BIOMA bacterial cellulose material",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A flexible, water-resistant sheet material grown as bacterial cellulose from kombucha-brewing waste, which can be repaired by applying more of the same grown material. Shown in The Biodesign Warehouse at Dutch Design Week 2026.",
+   "description_zh": "用康普茶酿造废料长出的细菌纤维素片材，柔韧、防水，破损处可以用同样的生长材料修补。展于 2026 荷兰设计周“The Biodesign Warehouse”。",
+   "idea_en": "A grown material that is mended with itself stays pure and circular.",
+   "idea_zh": "用自身来修补的生长材料，才能保持纯净与可循环。",
+   "method": "A kombucha SCOBY (bacteria and yeast) ferments brewing leftovers into cellulose mats, which are dried and treated without synthetic additives.",
+   "method_zh": "康普茶菌膜（细菌与酵母共生体）发酵酿造余料，生成纤维素膜，再在不添加合成助剂的情况下干燥处理。",
+   "keywords": [
+    "bacterial cellulose",
+    "kombucha",
+    "SCOBY",
+    "Charlotte van Alem",
+    "repairable",
+    "The Biodesign Warehouse",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/img-3409-sea-horizon-cut_1790593891_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/bioma-lab",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "lichi-hsu--encoded-skin",
+   "creator_ids": [
+    "lichi-hsu"
+   ],
+   "title": "Encoded Skin",
+   "year": 2026,
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "fungi",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "Fabricated surface panels that translate the crack density, depth and thickness of tree bark into extruded textures, so building skins could shelter fungi, mosses, insects and birds the way bark does. Shown in 4TU.Design United's Design Bridges expo at Dutch Design Week 2026.",
+   "description_zh": "把树皮的裂纹密度、深度和厚度转译成挤出纹理的表面板材，让建筑外皮像树皮一样为真菌、苔藓、昆虫和鸟提供栖身之处。展于 2026 荷兰设计周 4TU.Design United 的 Design Bridges 展。",
+   "idea_en": "Most human-made surfaces are dead skin to other species; bark shows how to make them habitable.",
+   "idea_zh": "人造表面对其他物种而言大多是“死皮”；树皮示范了如何让它变得可以栖居。",
+   "method": "Sensing tools record bark variation; measured crack metrics become parametric and fabrication variables for an extrusion system.",
+   "method_zh": "用传感工具记录树皮差异，把测得的裂纹指标转成参数化与制造变量，驱动挤出系统。",
+   "keywords": [
+    "bark morphology",
+    "bioreceptive surface",
+    "multispecies cohabitation",
+    "4TU.Design United",
+    "Design Bridges",
+    "extrusion",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1-1_1792187894_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw2-02_1792188429_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/encoded-skin",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "bianca-isabel-young-co--fungal-bouquets",
+   "creator_ids": [
+    "bianca-isabel-young-co"
+   ],
+   "title": "Fungal Bouquets",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "Three sculptural 'bouquets' of bark, paper and wood, each representing a reproductive phase of fungi, which wild fungi colonise and slowly turn into a colourful fungal garden. Shown at Dutch Design Week 2026.",
+   "description_zh": "三束由树皮、纸和木材组成的雕塑“花束”，各代表真菌的一个繁殖阶段；野生真菌在其上定殖，慢慢把它们变成色彩斑斓的真菌花园。展于 2026 荷兰设计周。",
+   "idea_en": "Design the meal, not the object: carbon-rich 'browns' that only fungi can turn into soil.",
+   "idea_zh": "设计的不是物件，而是一顿饭：只有真菌能把这些富碳的“棕色料”变成土壤。",
+   "method": "Porous, carbon-rich plant matter is arranged as fungal food; decomposition changes colour and texture as fungi digest it into humus.",
+   "method_zh": "把多孔、富碳的植物材料组合成真菌的食物；真菌将其分解为腐殖质，过程中颜色与质地不断变化。",
+   "keywords": [
+    "decomposition",
+    "humus",
+    "carbon-rich browns",
+    "soil science",
+    "Keep Your Eyes Peeled",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/biancaisabelyoungco-fungalbouquets-cfemkereijerman_1790697321_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/img-6486-2-small_1790697357_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/fungal-bouquets",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "agnes-van-dijk--bioartfashion",
+   "creator_ids": [
+    "agnes-van-dijk"
+   ],
+   "title": "BioArtFashion",
+   "year": 2026,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "algae",
+    "fungi",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A series of sculptural wearables made from seaweed, mushrooms, lichen, luffa, moss and cactus skeletons, preserved so they stay flexible, skin-friendly and repairable. Shown at Dutch Design Week 2026.",
+   "description_zh": "一组用海藻、蘑菇、地衣、丝瓜络、苔藓和仙人掌骨架制成的雕塑式可穿戴作品，经过保存处理后依然柔软、亲肤、可修补。展于 2026 荷兰设计周。",
+   "idea_en": "Perishable organisms can become clothing if you learn to preserve rather than replace them.",
+   "idea_zh": "学会保存而不是替代，易腐的生物也能成为衣服。",
+   "method": "Collected organic residues are treated with a self-developed non-toxic preservation technique and shaped by hand into garments.",
+   "method_zh": "把收集来的有机残余物用自研的无毒保存技术处理，再手工塑形成服装。",
+   "keywords": [
+    "seaweed",
+    "lichen",
+    "luffa",
+    "moss",
+    "wearable art",
+    "preservation",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/agnes-van-dijk-luffa-2026-ddw-8969-foto-francois-eyck-webversie_1787749522_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/agnes-van-dijk-seaweed-2026-8624-foto-francois-eyck-en-lies-vogelzang_1787749628_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/bio-art-fashion",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "ori-orisun-merhav--made-by-insects",
+   "creator_ids": [
+    "ori-orisun-merhav"
+   ],
+   "title": "Made by Insects",
+   "year": 2022,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "insects",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing research practice that turns lac, the resin secreted by the lac insect Kerria lacca on host trees, into blown, 3D-printed and woven objects such as the Insects Cradle bench and Branching Insects Chandelier; it began as the 2022 Design Academy Eindhoven graduation project The Lac Lab Open Source.",
+   "description_zh": "一项持续的研究实践：把紫胶——紫胶虫 Kerria lacca 在宿主树上分泌的树脂——做成吹制、3D 打印和编织的物件，如 Insects Cradle 长椅与 Branching Insects Chandelier 吊灯；始于 2022 年埃因霍温设计学院毕业项目 The Lac Lab Open Source。",
+   "idea_en": "A material made by insects carries the labour of insects, trees and people; design can make that visible.",
+   "idea_zh": "昆虫制造的材料承载着昆虫、树木与人的劳动，设计可以让它被看见。",
+   "method": "Shellac softens with heat and hardens as it cools, so it is blown with glassmaking techniques and 3D-printed (with Ginger Additive, Reflexlab, Aeditto and Avans University's Bio-Polymer Lab).",
+   "method_zh": "紫胶受热软化、冷却变硬，因此可借鉴吹玻璃技法塑形，并与 Ginger Additive、Reflexlab、Aeditto 及 Avans 应用科技大学生物聚合物实验室合作进行 3D 打印。",
+   "keywords": [
+    "lac",
+    "shellac",
+    "Kerria lacca",
+    "The Lac Lab Open Source",
+    "Design Academy Eindhoven",
+    "3D printing",
+    "Portal Into The Multi-Species",
+    "Sarah Myerscough Gallery"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-1800.jpg",
+    "https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-03.jpg"
+   ],
+   "source_url": "https://www.designboom.com/?p=1213819",
+   "collections": [
+    "dutch-design-awards"
+   ]
+  },
+  {
+   "id": "ori-orisun-merhav--woven-landscapes",
+   "creator_ids": [
+    "ori-orisun-merhav"
+   ],
+   "title": "Woven Landscapes",
+   "year": 2026,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "insects",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An installation of woven palm-fibre sculptures coated in insect lac, centred on a totemic seat growing from a fibre tapestry, presented at Dutch Design Week 2026 when Merhav was in the Dutch Design Awards Class of 2026.",
+   "description_zh": "一组用紫胶涂覆的棕榈纤维编织雕塑，中心是一张从纤维挂毯中“长”出的图腾式座椅；展于 2026 荷兰设计周，其时 Merhav 入选荷兰设计奖 2026 届。",
+   "idea_en": "Combine two materials made by living things, palm and lac, and let the object hover between habitat and artefact.",
+   "idea_zh": "把两种由生命制造的材料——棕榈与紫胶——结合起来，让物件悬于栖所与器物之间。",
+   "method": "Palm sheaths and fibres are woven, bound and coated with lac resin into a hybrid composite, lit from within by LEDs.",
+   "method_zh": "把棕榈叶鞘和纤维编织、捆扎，再涂上紫胶树脂制成混合复合材料，内部以 LED 照亮。",
+   "keywords": [
+    "lac",
+    "palm fibre",
+    "insect resin",
+    "multispecies",
+    "Dutch Design Awards 2026",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/screenshot-2026-09-23-at-94217-am_1790149359_1920x1080.png",
+    "https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-01.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/woven-landscapes-by-ori-orisun-merhav",
+   "collections": [
+    "dutch-design-week-biobased",
+    "dutch-design-awards"
+   ]
+  },
+  {
+   "id": "blue-monkey--living-indigo",
+   "creator_ids": [
+    "blue-monkey"
+   ],
+   "title": "Living Indigo",
+   "year": 2026,
+   "field": "bio",
+   "sub": "biotextiles",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A local fashion system '100% made in Amsterdam': residents grow indigo across the city and in vertical hydroponics, and the dye is used on discarded textiles patched into new garments such as an indigo kimono. Shown at Dutch Design Week 2026.",
+   "description_zh": "一套“100% 阿姆斯特丹制造”的本地时尚系统：市民在城市各处和垂直水培架上种植靛蓝，再用其染制废旧纺织品，拼成新衣，如一件靛蓝拼布和服。展于 2026 荷兰设计周。",
+   "idea_en": "A city can be both the field that grows colour and the source of fibre.",
+   "idea_zh": "城市既可以是种出颜色的田地，也可以是纤维的来源。",
+   "method": "Indigo plants are distributed to citizens who water and harvest them; indigo is extracted and used to dye recovered textiles, with an MKY project token rewarding care work.",
+   "method_zh": "把靛蓝植株分给市民浇水、收割，提取靛蓝后染制回收纺织品，并用 MKY 项目代币回馈照料劳动。",
+   "keywords": [
+    "indigo",
+    "natural dye",
+    "urban farming",
+    "hydroponics",
+    "textile waste",
+    "Shibori Lab",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bluemonkey-kimono1_1788084735_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/indigogarden-amsterdam_1788087076_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/living-indigo-by-blue-monkey",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "yvonne-gu--wethouse",
+   "creator_ids": [
+    "yvonne-gu"
+   ],
+   "title": "WETHOUSE: Growing Architecture from Wetlands",
+   "year": 2026,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A greenhouse pavilion built from wetland biomass (reed, cattail, sedge, willow) that collects rain, holds humidity and grows new wetland crops; a partial pavilion was shown at Dutch Design Week 2026.",
+   "description_zh": "一座由湿地生物质（芦苇、香蒲、莎草、柳条）建成的温室展亭，可以收集雨水、保持湿度并种植新的湿地作物；2026 荷兰设计周展出了其局部。",
+   "idea_en": "Let architecture grow from wet ground and feed the wetland that supplies it.",
+   "idea_zh": "让建筑从湿地里长出来，再反过来滋养供给它的湿地。",
+   "method": "Paludiculture crops from rewetted land become insulation, wall panels, woven screens, thatch and clay-fibre composites; roof rain irrigates new wetland crops.",
+   "method_zh": "重新湿润的土地上种植的湿地作物被做成保温材料、墙板、编织屏风、茅草和黏土纤维复合材料；屋顶雨水用于灌溉新的湿地作物。",
+   "keywords": [
+    "paludiculture",
+    "reed",
+    "cattail",
+    "bio-based construction",
+    "greenhouse",
+    "wetland regeneration",
+    "Dutch Design Week 2026"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/presentationboard1_1785963315_1920x1080.jpg",
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/projectboard1_1785963364_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/archive/2026/wethouse-growing-architecture-from-wetlands",
+   "collections": [
+    "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "lars-dittrich--pure-mycelium-shoe",
+   "creator_ids": [
+    "lars-dittrich"
+   ],
+   "title": "Pure mycelium shoe",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A concept shoe made entirely from pure mycelium by VUB designer Lars Dittrich with La Monnaie / De Munt head shoemaker Marie De Ryck, after two years of development; it debuted at Dropcity during Milan Design Week 2026.",
+   "description_zh": "VUB 设计师 Lars Dittrich 与布鲁塞尔皇家铸币局歌剧院首席鞋匠 Marie De Ryck 历时两年，完全用纯菌丝体制成的概念鞋；于 2026 米兰设计周在 Dropcity 首次亮相。",
+   "idea_en": "Two fungal strains, two jobs: one grows a foam-like sole, the other a leather-like upper.",
+   "idea_zh": "两种菌株各司其职：一种长成泡沫般的鞋底，另一种长成皮革般的鞋面。",
+   "method": "Two fungal strains are grown as pure mycelium (no substrate); flat-grown sheets are shaped into 3D form and the mouldable strain is formed into a sole.",
+   "method_zh": "培育两种菌株的纯菌丝体（不含基质），将平面生长的片材塑造成三维形态，可塑的菌株则成型为鞋底。",
+   "keywords": [
+    "pure mycelium",
+    "footwear",
+    "Vrije Universiteit Brussel",
+    "La Monnaie / De Munt",
+    "Marie De Ryck",
+    "Dropcity",
+    "Milan Design Week 2026"
+   ],
+   "images": [
+    "https://www.vub.be/sites/default/files/images/LarsDittrich_VUBxLaMonnaie_MyceliumShoe_Hero_01.jpg",
+    "https://media.materialdistrict.com/wp-content/uploads/2026/04/world-first-shoe-made-from-pure-mycelium-debuts-at-milan-design-week-materialdistrict-7-scaled.jpg?v=20260421083156"
+   ],
+   "source_url": "https://www.vub.be/en/news/vub-and-la-monnaiede-munt-unveil-world-first-shoe-made-enti"
+  },
+  {
+   "id": "mush-composites--bio-luxe",
+   "creator_ids": [
+    "mush-composites"
+   ],
+   "title": "Bio-Luxe | Bio-Lithic mycelium surfaces",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A collection of stone-like architectural surfaces grown from mycelium and agricultural by-products, lighter than the stone they imitate, presented at Milan Design Week 2026.",
+   "description_zh": "一组用菌丝体和农业副产品长成的类石材建筑饰面，比所模仿的石材更轻，于 2026 米兰设计周发布。",
+   "idea_en": "Grow the look of stone instead of quarrying it.",
+   "idea_zh": "与其开采石头，不如把石头的质感长出来。",
+   "method": "Mycelium is grown on agricultural waste inside computationally designed moulds ('Bio-Resolved Parametric Formwork') and then dried into monolithic panels.",
+   "method_zh": "让菌丝体在计算设计的模具（“Bio-Resolved Parametric Formwork”）中以农业废料为基质生长，干燥后成为整体板材。",
+   "keywords": [
+    "mycelium composite",
+    "architectural surface",
+    "stone alternative",
+    "Thailand",
+    "parametric formwork",
+    "Milan Design Week 2026"
+   ],
+   "images": [
+    "https://media.materialdistrict.com/wp-content/uploads/2026/04/mush-composites-introduces-bio-luxe-mycelium-grown-architectural-surfaces-with-reduced-weight-materialdistrict-6.jpg?v=20260423090728",
+    "https://media.materialdistrict.com/wp-content/uploads/2026/04/mush-composites-introduces-bio-luxe-mycelium-grown-architectural-surfaces-with-reduced-weight-materialdistrict-2.jpg?v=20260423090728"
+   ],
+   "source_url": "https://materialdistrict.com/article/mycelium-grown-bio-luxe-surfaces-redefine-lightweight-architectural-design/"
+  },
+  {
+   "id": "dan-lie--venice-2026",
+   "creator_ids": [
+    "dan-lie"
+   ],
+   "title": "Dan Lie at Biennale Arte 2026 (In Minor Keys)",
+   "year": 2026,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "plants",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Rope-hung sculptures of flowers, germinating seeds, plants, mushroom spores and soil in hemp bags, saffron-dyed cloth and ceramic vessels in the Corderie of the Arsenale; over the show's six months new plants, fungi and moss emerge as the materials interact.",
+   "description_zh": "在威尼斯军械库 Corderie（旧制绳厂）里，用绳索悬挂的雕塑由花、发芽的种子、植物、蘑菇孢子和泥土组成，装在麻布袋、藏红花染布和陶器中；六个月展期里，材料彼此作用，长出新的植物、真菌和苔藓。",
+   "idea_en": "An artwork that is finished by decay and new growth, not by the artist.",
+   "idea_zh": "完成这件作品的不是艺术家，而是腐朽与新生。",
+   "method": "Organic materials are left to rot and sprout under ambient conditions; the former rope factory's ropes carry and compose the sculptures.",
+   "method_zh": "让有机材料在环境条件下自行腐烂、发芽；这座旧制绳厂的绳索承托并组织起雕塑。",
+   "keywords": [
+    "Venice Biennale 2026",
+    "In Minor Keys",
+    "Koyo Kouoh",
+    "Corderie dell'Arsenale",
+    "decay",
+    "mushroom spores",
+    "saffron dye"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/lie-dan-b.jpg?itok=Xb7QMAbZ",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/lie1.jpg?itok=cWdd3b6h"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/dan-lie"
+  },
+  {
+   "id": "det-levende-hus--mycelium-door",
+   "creator_ids": [
+    "det-levende-hus"
+   ],
+   "title": "Mycelium door",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "An interior door with a core of mycelium grown into a mould, in a frame of reclaimed oak offcuts from Dinesen, developed by Studio Det Levende Hus and Rebound as what they call the first mass-produced mycelium door; first used in the Kaerhytten housing project in Denmark.",
+   "description_zh": "Studio Det Levende Hus 与 Rebound 开发的室内门：门芯是在模具中长成的菌丝体板，门框用 Dinesen 的回收橡木边角料制成；两家称其为首款量产菌丝体门，首先用于丹麦 Kaerhytten 住宅项目。",
+   "idea_en": "The core of an everyday building part can be grown instead of glued.",
+   "idea_zh": "日常建筑构件的芯材可以长出来，而不是胶合出来。",
+   "method": "Mycelium is grown on organic substrate in a mould into rigid panels, then dried and framed; the design targets Danish fire and moisture standards.",
+   "method_zh": "让菌丝体在模具里的有机基质上生长成硬质板，烘干后装框；设计目标是满足丹麦防火与防潮标准。",
+   "keywords": [
+    "mycelium",
+    "interior door",
+    "Rebound",
+    "Dinesen",
+    "Kaerhytten",
+    "Denmark",
+    "biobased construction"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/03/rebound-det-levende-hus-worlds-first-mass-produced-mycelium-door-hero.jpg",
+    "https://media.materialdistrict.com/wp-content/uploads/2026/03/mycelium-door-introduces-scalable-biobased-alternative-for-interior-architecture-materialdistrict-4.jpg?v=20260323155156"
+   ],
+   "source_url": "https://www.dezeen.com/2026/03/20/rebound-det-levende-hus-worlds-first-mass-produced-mycelium-door/"
+  },
+  {
+   "id": "silvia-vignolini--artificial-symbiosis-cellulose",
+   "creator_ids": [
+    "silvia-vignolini"
+   ],
+   "title": "Artificial Symbiosis for Bulk Production of Bacterial Cellulose Composites",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "Pairing the cellulose-making bacterium Komagataeibacter hansenii with the green microalga Chlamydomonas reinhardtii lets bacterial cellulose grow throughout a liquid, in the shape of its container, instead of only as a skin at the surface; the composite is tougher than most living hydrogels and heals when cut.",
+   "description_zh": "把产纤维素的细菌 Komagataeibacter hansenii 与绿藻 Chlamydomonas reinhardtii 配对，细菌纤维素就能在整个液体中、按容器形状生长，而不只是在表面结膜；这种复合材料比多数活体水凝胶更强韧，切开后还能自愈。",
+   "idea_en": "Design a partnership between microbes that do not meet in nature, and a material grows where neither could make it alone.",
+   "idea_zh": "为自然界中不会相遇的微生物设计一段合作关系，材料就能在任何一方都无法独自生长的地方长出来。",
+   "method": "Motile algae release oxygen inside the medium so the aerobic bacteria can spin cellulose in bulk; cellulose nanocrystals keep the algae suspended.",
+   "method_zh": "会游动的藻类在培养液内部释放氧气，让需氧细菌在整体积中合成纤维素；纤维素纳米晶使藻类保持悬浮。",
+   "keywords": [
+    "bacterial cellulose",
+    "Komagataeibacter hansenii",
+    "Chlamydomonas reinhardtii",
+    "artificial symbiosis",
+    "co-culture",
+    "self-healing",
+    "engineered living material",
+    "Tom Ellis"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adma.202514125",
+    "doi": "10.1002/adma.202514125",
+    "arxiv": "",
+    "venue": "Advanced Materials 2026",
+    "title": "Artificial Symbiosis for Bulk Production of Bacterial Cellulose Composites"
+   },
+   "source_url": "https://www.sciencenews.dk/en/kombucha-like-symbiosis-enables-living-materials-at-scale"
+  },
+  {
+   "id": "kunal-masania--growth-driven-functionalization",
+   "creator_ids": [
+    "kunal-masania"
+   ],
+   "title": "Shaping of Biohybrid Functional Living Materials",
+   "year": 2026,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "TU Delft's Shaping Matter Lab 3D-prints hydrogels inoculated with Ganoderma lucidum and lets the mycelium keep growing after printing, so the hyphae gather particles from the medium and functionalise the part; masked regions take up particles selectively, and carbon black raises its bioelectric signal.",
+   "description_zh": "代尔夫特理工大学 Shaping Matter Lab 用接种了灵芝（Ganoderma lucidum）的水凝胶进行 3D 打印，打印后菌丝体继续生长，从培养液中收集颗粒、为部件赋予功能；用掩膜可让特定区域选择性吸附颗粒，加入炭黑则增强其生物电信号。",
+   "idea_en": "Printing sets the shape; growth after printing adds the function.",
+   "idea_zh": "打印确定形状，打印后的生长赋予功能。",
+   "method": "Direct ink writing of cross-linkable inoculated hydrogels; nanoparticles adsorb onto hyphae while micro-particles become entangled, and a dissolvable gelatin mask localises deposition.",
+   "method_zh": "直写打印可交联的接种水凝胶；纳米颗粒吸附在菌丝表面，微米颗粒被缠入菌丝网络，可溶明胶掩膜实现局部沉积。",
+   "keywords": [
+    "Ganoderma lucidum",
+    "direct ink writing",
+    "engineered living material",
+    "particle self-assembly",
+    "Shaping Matter Lab",
+    "TU Delft"
+   ],
+   "images": [
+    "https://3dprintingindustry.com/wp-content/uploads/2026/05/image-19.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adfm.202530836",
+    "doi": "10.1002/adfm.202530836",
+    "arxiv": "",
+    "venue": "Advanced Functional Materials 2026",
+    "title": "Shaping of Biohybrid Functional Living Materials"
+   },
+   "source_url": "https://3dprintingindustry.com/news/tu-delft-researchers-3d-print-living-mycelium-materials-with-growth-driven-functionalization-251639/"
+  },
+  {
+   "id": "anna-sandak--archibiome",
+   "creator_ids": [
+    "anna-sandak"
+   ],
+   "title": "The archibiome: extending engineered living materials to multiscale built environments",
+   "year": 2026,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "bacteria",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A perspective proposing the 'archibiome': the part of a building's microbiome deliberately shaped by architecture and materials, from living fungal coatings (ARCHI-SKIN, with Aureobasidium pullulans) to microbial 'living inks' that capture carbon and clean indoor air (REMEDY).",
+   "description_zh": "一篇观点文章，提出“建筑微生物组”（archibiome）：建筑微生物组中由建筑与材料有意塑造的那一部分，从活体真菌涂层（ARCHI-SKIN，使用出芽短梗霉 Aureobasidium pullulans）到能固碳、净化室内空气的微生物“活墨水”（REMEDY）。",
+   "idea_en": "Treat the building's microbes as a designed, tunable layer of architecture.",
+   "idea_zh": "把建筑里的微生物当作一层可以设计、可以调节的建筑构造。",
+   "method": "Frames engineered living materials and native building microbiomes as a feedback-controlled multiscale system linking material, room and building, with biosafety and regulation.",
+   "method_zh": "把工程活体材料与建筑原生微生物组视为一个受反馈控制、贯通材料—房间—建筑的多尺度系统，并讨论生物安全与监管。",
+   "keywords": [
+    "archibiome",
+    "engineered living materials",
+    "Aureobasidium pullulans",
+    "ARCHI-SKIN",
+    "REMEDY",
+    "InnoRenew",
+    "built-environment microbiome"
+   ],
+   "images": [
+    "https://www.frontiersin.org/files/Articles/1943876/xml-images/fsysb-06-1943876-g001.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/fsysb.2026.1943876",
+    "doi": "10.3389/fsysb.2026.1943876",
+    "arxiv": "",
+    "venue": "Frontiers in Systems Biology 2026",
+    "title": "The archibiome: extending engineered living materials to multiscale built environments"
+   },
+   "source_url": "https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.1943876/full"
+  },
+  {
+   "id": "francesca-zeccara--bc-aging",
+   "creator_ids": [
+    "francesca-zeccara"
+   ],
+   "title": "Aging in bacterial cellulose: stabilization strategies for upholstered furniture",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Eighteen months after making them, Politecnico di Milano designers compare how two bacterial-cellulose upholstery prototypes have aged: one coated with beeswax, one combined with fungal mycelium.",
+   "description_zh": "米兰理工大学的设计师在制作 18 个月后，比较两件细菌纤维素软包原型的老化情况：一件用蜂蜡涂层处理，另一件与真菌菌丝体复合。",
+   "idea_en": "A grown material's design is not finished until you know how it ages.",
+   "idea_zh": "不知道它会如何老化，生长材料的设计就没有完成。",
+   "method": "Phenomenological observation of aesthetic and mechanical degradation in DIY, Material Driven Design prototypes, relating hydrophobic treatments to durability.",
+   "method_zh": "以现象学观察记录 DIY、材料驱动设计（MDD）原型在外观与力学上的退化，把疏水处理与耐久性联系起来。",
+   "keywords": [
+    "bacterial cellulose",
+    "aging",
+    "beeswax",
+    "mycelium",
+    "upholstery",
+    "Material Driven Design",
+    "Politecnico di Milano"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100481",
+    "doi": "10.1017/s2977905726100481",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Aging in bacterial cellulose: a comparative study of biological stabilization strategies for upholstered furniture applications"
+   },
+   "collections": [
+    "research-directions-biotechnology-design"
+   ]
+  },
+  {
+   "id": "anna-duraj-thatte--de-novo-autogenic-elm",
+   "creator_ids": [
+    "anna-duraj-thatte"
+   ],
+   "title": "De Novo Autogenic Engineered Living Functional Materials",
+   "year": 2026,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "Virginia Tech researchers mined 33,564 curli-like protein sequences from other bacteria and reprogrammed E. coli to secrete the new fibres, growing macroscopic living materials up to three times stiffer than those made with the standard curli protein.",
+   "description_zh": "弗吉尼亚理工大学的研究者从其他细菌中挖掘出 33,564 条类 curli 蛋白序列，改造大肠杆菌分泌这些新纤维，长出的宏观活体材料刚度最高可达标准 curli 蛋白材料的三倍。",
+   "idea_en": "Search nature's protein catalogue to give living materials new building blocks.",
+   "idea_zh": "在自然界的蛋白目录里搜寻，为活体材料找到新的“砖块”。",
+   "method": "Protein mining, AlphaFold2 modelling and molecular dynamics select beta-solenoid candidates; the E. coli curli secretion machinery is rewired to assemble them into extracellular nanofibres.",
+   "method_zh": "通过蛋白挖掘、AlphaFold2 建模和分子动力学模拟筛选 β-螺线管蛋白候选，并改造大肠杆菌的 curli 分泌系统，把它们组装成胞外纳米纤维。",
+   "keywords": [
+    "engineered living materials",
+    "curli",
+    "CsgA",
+    "E. coli",
+    "AlphaFold2",
+    "protein mining",
+    "SMART Living Materials Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adma.74312",
+    "doi": "10.1002/adma.74312",
+    "arxiv": "",
+    "venue": "Advanced Materials 2026",
+    "title": "De Novo Autogenic Engineered Living Functional Materials"
+   }
+  },
+  {
+   "id": "front-materials--mimmik-tile",
+   "creator_ids": [
+    "front-materials",
+    "biomason"
+   ],
+   "title": "Mimmik Tile",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A marble-like floor tile grown in about two days by bacteria binding calcium carbonate between aggregate, made without cement in a dedicated Danish factory by Front and Biomason (formerly sold as BioBasedTile, renamed Mimmik in 2026).",
+   "description_zh": "一种类大理石地砖：细菌在骨料之间析出碳酸钙，约两天即可“长”成，不用水泥，由 Front 与 Biomason 在丹麦的专门工厂生产（原名 BioBasedTile，2026 年更名为 Mimmik）。",
+   "idea_en": "Bacteria can do the binding job of cement at room temperature.",
+   "idea_zh": "细菌可以在常温下完成水泥的粘结工作。",
+   "method": "Biomason's Zymecrete process uses bacterial microbially induced calcite precipitation to cement aggregate in moulds; tiles are then honed or polished.",
+   "method_zh": "采用 Biomason 的 Zymecrete 工艺，借助细菌诱导碳酸钙沉淀（MICP）在模具中胶结骨料，之后进行哑光或抛光处理。",
+   "keywords": [
+    "biocement",
+    "MICP",
+    "Zymecrete",
+    "BioBasedTile",
+    "floor tile",
+    "StoneCycling",
+    "Denmark"
+   ],
+   "images": [
+    "https://www.front-materials.com/app/uploads/2026/03/FRONT-Mimmik-Tile.jpg",
+    "https://www.front-materials.com/app/uploads/2026/02/front-materials-mimmik-floor-plants-2.jpg"
+   ],
+   "source_url": "https://www.front-materials.com/news/the-story-of-mimmik/"
+  },
+  {
+   "id": "phil-ayres--fungateria",
+   "creator_ids": [
+    "phil-ayres",
+    "claudia-colmo"
+   ],
+   "title": "FUNGATERIA",
+   "year": 2022,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "An EIC Pathfinder project (2022–2026) coordinated by the Royal Danish Academy with Ghent, Utrecht, Oslo, VUB and UWE Bristol that keeps mycelium alive inside products as engineered living materials, combining fungi with bacteria; prototypes include pure mycelium membranes, a mycelium-leather slipper meant to repair itself and a sheet that breaks down pollutants. Shown in 2026 in the Academy's 'Imagining Futures through Architecture and Design' exhibition.",
+   "description_zh": "由丹麦皇家艺术学院协调、联合根特大学、乌得勒支大学、奥斯陆大学、VUB 与西英格兰大学的欧盟 EIC Pathfinder 项目（2022–2026），把菌丝体与细菌结合，让菌丝体作为工程活体材料在产品中保持存活；原型包括纯菌丝体膜、能自我修复的菌丝体皮革拖鞋，以及能分解污染物的片材。2026 年在学院的“Imagining Futures through Architecture and Design”展中展出。",
+   "idea_en": "A product made of living mycelium can heal itself because it is still alive.",
+   "idea_zh": "由活菌丝体制成的产品之所以能自愈，是因为它仍然活着。",
+   "method": "Mycelium is grown into pure membranes and composites, co-engineered with bacteria and modelled computationally, on a condition-controlled manufacturing platform for living materials.",
+   "method_zh": "把菌丝体培育成纯膜和复合材料，与细菌协同工程化并进行计算建模，依托一个可控条件的活体材料制造平台。",
+   "keywords": [
+    "FUNGATERIA",
+    "engineered living materials",
+    "pure mycelium membranes",
+    "self-repair",
+    "Horizon Europe",
+    "CITA",
+    "Royal Danish Academy"
+   ],
+   "images": [
+    "https://royaldanishacademy.com/sites/default/files/styles/share/public/imported-file/caseteaser/fungateria_pure_mycelium_membranes.png.jpg?itok=WCCgKDXv"
+   ],
+   "source_url": "https://royaldanishacademy.com/en/node/6147"
+  },
+  {
+   "id": "darya-holub--hypha-lume",
+   "creator_ids": [
+    "darya-holub"
+   ],
+   "title": "Hypha-Lume",
+   "year": 2026,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A reconfigurable pavilion of tapered mycelium blocks (20, 40 and 60 degree curvatures) fitted around vertical supports, with sensors that track visitors' paths and pauses and turn them into light, sound and night-time projections of past use.",
+   "description_zh": "一座可重组的展亭，由三种曲率（20、40、60 度）的锥形菌丝体砌块围绕竖向支撑拼成，传感器记录访客的路径与停留，把它们转成灯光、声音，并在夜间把过往的使用痕迹投影到外壳上。",
+   "idea_en": "A grown building can also be a memory of how people moved through it.",
+   "idea_zh": "生长出来的建筑，也可以是人们如何穿行其中的记忆。",
+   "method": "Mycelium-bound biomaterial modules are likely grown in moulds; embedded sensors drive real-time lighting, audio and projection.",
+   "method_zh": "菌丝体粘结的生物材料模块很可能在模具中生长成型；嵌入的传感器驱动实时灯光、声音与投影。",
+   "keywords": [
+    "mycelium pavilion",
+    "modular",
+    "sensing",
+    "responsive light",
+    "Selin Ozasik",
+    "Pinak Bhapkar",
+    "Nikhil Narendiran",
+    "Baskar Bharathwaj Subramanian"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2026/10/hypha-lume-adaptive-modular-pavilion-mycelium-human-movement-light-designboom-1800-1.jpg",
+    "https://www.designboom.com/wp-content/uploads/2026/10/hypha-lume-adaptive-modular-pavilion-mycelium-human-movement-light-designboom-1800-2.jpg"
+   ],
+   "source_url": "https://www.designboom.com/architecture/mycelium-hypha-lume-pavilion-human-movement-light/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Biodiseño MX: Territorios Vivos (Museo Franz Mayer, Mexico City, 2026)",
+   "why": "First Mexican biodesign exhibition (curator Taina Campos; Flora, Fauna, Microbia, Funga sections; Laposse, Resting Reef, Edith Medina). Candidate for a new exhibition collection once the exhibited works are identified.",
+   "link": "https://www.designboom.com/design/exhibition-biomaterials-mexican-ancestral-design-museo-franz-mayer-biodiseno-mx-territorios-vivos/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Design of the Unusual (Klarenbeek & Dros, Die Neue Sammlung, Munich, 2026–27)",
+   "why": "Museum retrospective of .unusual's mycelium, algae and seaweed work; exhibition, not a single work.",
+   "link": "https://klimt02.net/events/exhibitions/design-unusual-klarenbeek-dros-die-neue-sammlung-design-museum",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Fungal scaffolds for living biomineralised building materials (Viles, Heveran et al., Montana State, Cell Reports Physical Science 2025)",
+   "why": "Neurospora crassa mycelium as scaffold for MICP with Sporosarcina pasteurii, viable 4 weeks; 2025, DOI not looked up.",
+   "link": "https://www.mycostories.com/post/fungal-scaffolds-create-living-building-materials-that-stay-alive-for-months",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mycoelectronics: bioprinted living fungal bioelectronics (Cai et al., bioRxiv 2025)",
+   "why": "Living mycelium printed on stretchable electronics as a self-restoring thermal sensor; for the biocomputing/biohybrid sweep.",
+   "link": "https://doi.org/10.1101/2025.10.06.680560",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The Biodesign Warehouse, Department Store for Life (Emma van der Leest, Dutch Design Week 2026)",
+   "why": "Hub exhibition of grown products (BIOMA Lab, Foamlab, Shellworks, Winclove 'Microbial Service Desk', Nick van Biezen's fermentor); could become a DDW sub-collection.",
+   "link": "https://ddw.nl/en/programme/archive/2026/the-biodesign-warehouse-department-store-for-life-1",
+   "found_via": "emma-van-der-leest",
+   "status": "open"
+  },
+  {
+   "name": "Earthshot Prize 2026 winners (Mumbai, 17 Nov 2026)",
+   "why": "Winners not yet announced at time of sweep; 2026 finalists list shows no biofabrication finalist.",
+   "link": "https://earthshotprize.org/the-prize/mumbai-2026/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Dezeen Awards 2026 (results 16 Nov 2026)",
+   "why": "Shortlist page not reachable (HTTP 403); Datecrete (material innovation) and others not bio-living. Re-check winners after 16 Nov.",
+   "link": "https://www.dezeen.com/awards/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tomorrow's Wardrobe (Oulu Art Museum, 2026)",
+   "why": "Exhibition with lab- and microbe-grown textiles incl. Aalto CHEMARTS; not researched.",
+   "link": "https://chemarts.aalto.fi/?p=5332",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "KABK graduation show 2026 (Greenhousing Saprophytes, Moritz Plöns)",
+   "why": "Spatial design as multispecies practice with saprophytic fungi; DDW page no longer online.",
+   "link": "https://www.kabk.nl",
+   "found_via": "seed",
+   "status": "no_media"
+  }
+ ]
+}

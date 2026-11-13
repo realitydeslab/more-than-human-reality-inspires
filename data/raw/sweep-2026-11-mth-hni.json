@@ -1,0 +1,1842 @@
+{
+ "batch": "sweep-2026-11-mth-hni",
+ "creators": [
+  {
+   "id": "siqi-yu",
+   "name": "Siqi Yu",
+   "kind": "person",
+   "role": "Researcher, Hong Kong University of Science and Technology (Guangzhou)",
+   "role_zh": "香港科技大学（广州）研究者",
+   "based": "Guangzhou, China",
+   "based_zh": "中国广州",
+   "bio": "Researcher in immersive media and game design who studies how players embody non-human animals in VR.",
+   "bio_zh": "沉浸式媒体与游戏设计研究者，研究玩家如何在 VR 中化身为非人类动物。",
+   "why": "Her CHI PLAY 2026 study turns player reviews and co-design workshops into design opportunities for de-anthropocentric animal embodiment in VR.",
+   "why_zh": "她在 CHI PLAY 2026 的研究把玩家评论和共创工作坊转化为 VR 中“去人类中心”动物化身的设计机会。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lik-hang-lee",
+   "name": "Lik-Hang Lee",
+   "kind": "person",
+   "role": "Assistant Professor, Hong Kong Polytechnic University",
+   "role_zh": "香港理工大学助理教授",
+   "based": "Hong Kong",
+   "based_zh": "中国香港",
+   "bio": "HCI researcher working on extended reality, the metaverse and human augmentation.",
+   "bio_zh": "人机交互研究者，研究扩展现实、元宇宙与人体增强。",
+   "why": "His lab's Pawspective uses an asymmetric two-player VR game to build empathy between people and stray dogs.",
+   "why_zh": "他的实验室开发的 Pawspective 用非对称双人 VR 游戏，在人与流浪狗之间培养共情。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ka-kei-lee",
+   "name": "Kalvin (Ka Kei) Lee",
+   "kind": "person",
+   "role": "Game designer and practice-based researcher, RMIT University",
+   "role_zh": "游戏设计师、实践型研究者，RMIT 大学",
+   "based": "Melbourne, Australia",
+   "based_zh": "澳大利亚墨尔本",
+   "bio": "Designs gesture-based exploratory VR games about scale, agency and non-human bodies.",
+   "bio_zh": "设计以手势操作的探索型 VR 游戏，关注尺度、能动性与非人类身体。",
+   "why": "Infinite Bloom lets players become non-human entities of very different size and agency through body gestures.",
+   "why_zh": "Infinite Bloom 让玩家通过身体手势化身为尺度与能动性各不相同的非人类存在。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "olivia-brunet",
+   "name": "Olivia Brunet",
+   "kind": "person",
+   "role": "PhD researcher, IRIT and Station d'Écologie Théorique et Expérimentale (CNRS), Université de Toulouse",
+   "role_zh": "图卢兹大学 IRIT 与 CNRS 理论与实验生态站博士研究者",
+   "based": "Toulouse, France",
+   "based_zh": "法国图卢兹",
+   "bio": "Works between multimodal computing and ecology on how human–nature connectedness can be measured.",
+   "bio_zh": "在多模态计算与生态学之间工作，研究如何测量人与自然的联结感。",
+   "why": "Her ICMI 2026 study tests whether body signals can stand in for people's own reports of feeling connected to nature.",
+   "why_zh": "她在 ICMI 2026 的研究检验身体信号能否替代人们对“与自然相连”感受的自我报告。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keith-evan-green",
+   "name": "Keith Evan Green",
+   "kind": "person",
+   "role": "Professor, Human Centered Design and Mechanical Engineering, Cornell University; directs the Architectural Robotics Lab",
+   "role_zh": "康奈尔大学以人为中心设计与机械工程教授，主持建筑机器人实验室",
+   "based": "Ithaca, US",
+   "based_zh": "美国伊萨卡",
+   "bio": "Architect and HCI researcher who builds responsive, robotic environments for care and wellbeing.",
+   "bio_zh": "建筑师与人机交互研究者，为照护与身心健康打造可响应的机器人环境。",
+   "why": "Windborne, from his lab, brings the play of wind and dandelion seeds into hospital rooms as an ethics-of-care design.",
+   "why_zh": "他实验室的 Windborne 以照护伦理为框架，把风与蒲公英种子的游戏带进病房。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katta-spiel",
+   "name": "Katta Spiel",
+   "kind": "person",
+   "role": "Assistant Professor, HCI Group, TU Wien",
+   "role_zh": "维也纳工业大学人机交互组助理教授",
+   "based": "Vienna, Austria",
+   "based_zh": "奥地利维也纳",
+   "bio": "HCI researcher working at the intersection of critical access studies, disability and technology design.",
+   "bio_zh": "人机交互研究者，工作于批判性可及性研究、残障与技术设计的交叉处。",
+   "why": "Their ASSETS 2026 study shows that access to nature for wheelchair users is an ongoing judgment, not a label on a trail.",
+   "why_zh": "其 ASSETS 2026 研究表明，轮椅使用者进入自然是一种持续的判断，而不是步道上的一个标签。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "takeru-yazaki",
+   "name": "Takeru Yazaki",
+   "kind": "person",
+   "role": "Researcher, Inami Lab, RCAST, University of Tokyo",
+   "role_zh": "东京大学先端科学技术研究中心稻见实验室研究者",
+   "based": "Tokyo, Japan",
+   "based_zh": "日本东京",
+   "bio": "Designs mobile and location-based systems that support walking together and guided exploration outdoors.",
+   "bio_zh": "设计支持户外同行与导览探索的移动与位置系统。",
+   "why": "His MobileHCI 2026 prototype pins guides' plant videos to the plants themselves so later visitors can explore a botanical garden at their own pace.",
+   "why_zh": "他在 MobileHCI 2026 的原型把导览员的植物视频钉在植物所在的位置，让后来的访客按自己的节奏探索植物园。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andreas-komninos",
+   "name": "Andreas Komninos",
+   "kind": "person",
+   "role": "Researcher, Department of Computer Engineering and Informatics, University of Patras",
+   "role_zh": "帕特雷大学计算机工程与信息学系研究者",
+   "based": "Patras, Greece",
+   "based_zh": "希腊帕特雷",
+   "bio": "Mobile and ubiquitous computing researcher.",
+   "bio_zh": "移动与普适计算研究者。",
+   "why": "His SUI 2026 probe gave an office plant an LLM persona and asked whether this empowers the plant or traps it in a human-centric illusion.",
+   "why_zh": "他在 SUI 2026 的技术探针给办公室植物配上大语言模型人格，追问这是在赋权植物，还是把它困在以人为中心的幻象里。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amy-banic",
+   "name": "Amy Ulinski Banic",
+   "kind": "person",
+   "role": "Associate Professor of Computer Science, University of Wyoming",
+   "role_zh": "怀俄明大学计算机科学副教授",
+   "based": "Laramie, US",
+   "based_zh": "美国拉勒米",
+   "bio": "Virtual reality researcher working on 3D interaction and immersive learning.",
+   "bio_zh": "虚拟现实研究者，研究三维交互与沉浸式学习。",
+   "why": "Her group argues that virtual environments for Indigenous language learning need the community's real land, plants and animals, not generic terrain.",
+   "why_zh": "她的团队主张，用于原住民语言学习的虚拟环境需要社区真实的土地、植物和动物，而不是通用地形。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "geke-ludden",
+   "name": "Geke Ludden",
+   "kind": "person",
+   "role": "Professor of Design for Health and Wellbeing, University of Twente",
+   "role_zh": "特温特大学健康与福祉设计教授",
+   "based": "Enschede, Netherlands",
+   "based_zh": "荷兰恩斯赫德",
+   "bio": "Design researcher who studies how designed experiences support health and behaviour change.",
+   "bio_zh": "设计研究者，研究被设计的体验如何支持健康与行为改变。",
+   "why": "Co-authored a case study of Digital Nature, a 24-hour streamed nature environment in an intensive care unit.",
+   "why_zh": "参与了“数字自然”的案例研究：在重症监护室中 24 小时播放的自然影像环境。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jill-ashley-okonji",
+   "name": "Jill Ashley Okonji",
+   "kind": "person",
+   "role": "Researcher, Artificial Intelligence Techniques group, TU Wien",
+   "role_zh": "维也纳工业大学研究者",
+   "based": "Vienna, Austria",
+   "based_zh": "奥地利维也纳",
+   "bio": "Studies sustainable interaction with AI systems.",
+   "bio_zh": "研究与人工智能系统的可持续交互。",
+   "why": "Her NordiCHI 2026 study shows that an animated bear reacting to prompts cut wasteful LLM use more than resource numbers did.",
+   "why_zh": "她在 NordiCHI 2026 的研究表明，一只对提示作出反应的动画熊比资源数字更能减少浪费性的大模型使用。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chimi-om",
+   "name": "Chimi Om",
+   "kind": "person",
+   "role": "PhD researcher, Queensland University of Technology",
+   "role_zh": "昆士兰科技大学博士研究者",
+   "based": "Brisbane, Australia",
+   "based_zh": "澳大利亚布里斯班",
+   "bio": "Studies children's nature play and place attachment in early childhood education.",
+   "bio_zh": "研究幼儿教育中儿童的自然游戏与地方依恋。",
+   "why": "Her OzCHI 2025 work turns observations of children's nature play into design directions for technology that supports attachment to place.",
+   "why_zh": "她在 OzCHI 2025 的研究把对儿童自然游戏的观察转化为支持地方依恋的技术设计方向。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katerina-malisova",
+   "name": "Katerina Malisova",
+   "kind": "person",
+   "role": "PhD researcher, Department of Product and Systems Design Engineering, University of the Aegean",
+   "role_zh": "爱琴海大学产品与系统设计工程系博士研究者",
+   "based": "Syros, Greece",
+   "based_zh": "希腊锡罗斯岛",
+   "bio": "Interaction design researcher developing speculative co-design methods for more-than-human design.",
+   "bio_zh": "交互设计研究者，开发面向超越人类设计的思辨式共创方法。",
+   "why": "Lead author of Affective Ontological Disruption, a workshop method that asks what a non-human entity or technology needs to fare well.",
+   "why_zh": "“情感本体扰动”方法的第一作者：一种追问非人类存在或技术“需要什么才能过得好”的工作坊方法。",
+   "links": {},
+   "connected_to": [
+    "vasiliki-tsaknaki",
+    "sarah-homewood"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marilia-lyra-bergamo",
+   "name": "Marília Lyra Bergamo",
+   "kind": "person",
+   "role": "Researcher and artist, University of Newcastle (Australia)",
+   "role_zh": "纽卡斯尔大学（澳大利亚）研究者与艺术家",
+   "based": "Newcastle, Australia",
+   "based_zh": "澳大利亚纽卡斯尔",
+   "bio": "Artist-researcher working with artificial life, robotics and participatory design.",
+   "bio_zh": "从事人工生命、机器人与参与式设计的艺术家研究者。",
+   "why": "Co-designed speculative A-Life robots for coastal restoration with Landcare volunteers.",
+   "why_zh": "与 Landcare 志愿者共同设计用于海岸修复的思辨式人工生命机器人。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joel-fredericks",
+   "name": "Joel Fredericks",
+   "kind": "person",
+   "role": "Senior Lecturer, Design Lab, University of Sydney",
+   "role_zh": "悉尼大学设计实验室高级讲师",
+   "based": "Sydney, Australia",
+   "based_zh": "澳大利亚悉尼",
+   "bio": "Urban interaction design researcher working on participatory planning, media architecture and more-than-human cities.",
+   "bio_zh": "城市交互设计研究者，研究参与式规划、媒体建筑与超越人类的城市。",
+   "why": "Co-developed non-human personas and the Middle-Out Design framework for bringing animals into urban planning.",
+   "why_zh": "共同提出了非人类人物角色和“中间向外设计”框架，把动物纳入城市规划。",
+   "links": {},
+   "connected_to": [
+    "marcus-foth",
+    "martin-tomitsch",
+    "adrian-wong",
+    "tram-thi-minh-tran"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "feifei-pang",
+   "name": "Feifei Pang",
+   "kind": "person",
+   "role": "PhD researcher, University of Cincinnati",
+   "role_zh": "辛辛那提大学博士研究者",
+   "based": "Cincinnati, US",
+   "based_zh": "美国辛辛那提",
+   "bio": "CSCW researcher studying urban farming and community food work.",
+   "bio_zh": "计算机支持的协同工作研究者，研究城市农业与社区食物实践。",
+   "why": "Her CSCW 2026 paper reads urban farming through aesthetic experience: attunement, rhythm, expressive form and consummation.",
+   "why_zh": "她在 CSCW 2026 的论文用审美经验——调谐、节奏、表现形式与圆满——来解读城市农业。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mitchell-whitelaw",
+   "name": "Mitchell Whitelaw",
+   "kind": "person",
+   "role": "Designer and researcher, School of Art and Design, Australian National University",
+   "role_zh": "澳大利亚国立大学艺术与设计学院设计师与研究者",
+   "based": "Canberra, Australia",
+   "based_zh": "澳大利亚堪培拉",
+   "bio": "Designer and researcher known for generous interfaces to cultural and environmental data.",
+   "bio_zh": "设计师与研究者，以为文化与环境数据设计“慷慨界面”而闻名。",
+   "why": "With the Atlas of Living Australia he designed ALA Lens, an interface that reframes species records as encounters between species, people and place.",
+   "why_zh": "他与澳大利亚生物图集合作设计了 ALA Lens：把物种记录重新理解为物种、人与地方之间的相遇。",
+   "links": {
+    "site": "https://mtchl.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martin-avila",
+   "name": "Martín Ávila",
+   "kind": "person",
+   "role": "Professor of Design, Konstfack – University College of Arts, Crafts and Design",
+   "role_zh": "瑞典国立艺术与设计大学（Konstfack）设计教授",
+   "based": "Stockholm, Sweden",
+   "based_zh": "瑞典斯德哥尔摩",
+   "bio": "Designer and researcher working on design for multispecies cohabitation and the ecology of artefacts.",
+   "bio_zh": "设计师与研究者，研究多物种共居设计与人造物的生态。",
+   "why": "Leads Material Cultures for Interspecies Cohabitations, which builds playful artefacts that let wildness back into urban gardens.",
+   "why_zh": "主持“跨物种共居的物质文化”项目，用好玩的人造物让野性回到城市花园。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pearce-plus",
+   "name": "PEARCE+",
+   "kind": "studio",
+   "role": "Architecture and construction studio",
+   "role_zh": "建筑与建造工作室",
+   "based": "Somerset, UK",
+   "based_zh": "英国萨默塞特",
+   "bio": "Studio that designs and builds with reclaimed and local materials.",
+   "bio_zh": "使用回收与在地材料进行设计和建造的工作室。",
+   "why": "Its Wildlife Tower 01 for Somerset Wildlife Trust stacks habitats for many species into one structure built from farm salvage.",
+   "why_zh": "为萨默塞特野生动物信托建造的 Wildlife Tower 01，用农场回收材料把多种物种的栖息地叠进同一座结构。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "51-architecture",
+   "name": "51 Architecture",
+   "kind": "studio",
+   "role": "Architecture practice",
+   "role_zh": "建筑事务所",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "London practice working across architecture, landscape and installations.",
+   "bio_zh": "横跨建筑、景观与装置的伦敦事务所。",
+   "why": "Hrōst, its 2025 Royal Academy pavilion, is a building made for birds, bats and insects first.",
+   "why_zh": "其 2025 年皇家艺术学院展亭 Hrōst 是一座首先为鸟、蝙蝠和昆虫建造的建筑。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bjarke-ingels-group",
+   "name": "Bjarke Ingels Group (BIG)",
+   "kind": "studio",
+   "role": "Architecture practice",
+   "role_zh": "建筑事务所",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "丹麦哥本哈根",
+   "bio": "International architecture practice founded by Bjarke Ingels.",
+   "bio_zh": "由 Bjarke Ingels 创立的国际建筑事务所。",
+   "why": "Its Biosphere treeroom wraps a hotel room in 350 birdhouses designed with an ornithologist.",
+   "why_zh": "其 Biosphere 树屋客房被与鸟类学家共同设计的 350 个鸟屋包围。",
+   "links": {
+    "site": "https://big.dk/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "i29-architects",
+   "name": "i29 architects",
+   "kind": "studio",
+   "role": "Architecture and interior practice",
+   "role_zh": "建筑与室内设计事务所",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio": "Dutch practice known for graphic, material-driven buildings and interiors.",
+   "bio_zh": "以图形化、材料驱动的建筑与室内设计闻名的荷兰事务所。",
+   "why": "Its Buitenverblijf Nest is a holiday house whose layered facade doubles as nesting space for birds and bats.",
+   "why_zh": "其 Buitenverblijf Nest 度假屋的层叠立面同时是鸟和蝙蝠的筑巢空间。",
+   "links": {
+    "site": "https://i29.nl/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chartier-dalix",
+   "name": "Chartier Dalix",
+   "kind": "studio",
+   "role": "Architecture practice",
+   "role_zh": "建筑事务所",
+   "based": "Paris, France",
+   "based_zh": "法国巴黎",
+   "bio": "Paris practice that designs buildings as supports for urban biodiversity.",
+   "bio_zh": "把建筑设计为城市生物多样性载体的巴黎事务所。",
+   "why": "Its School for Sciences and Biodiversity has a concrete skin built to be colonised by plants and animals.",
+   "why_zh": "其科学与生物多样性学校的混凝土外皮专为植物和动物定居而建。",
+   "links": {
+    "site": "https://chartier-dalix.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "henning-larsen",
+   "name": "Henning Larsen",
+   "kind": "studio",
+   "role": "Architecture practice",
+   "role_zh": "建筑事务所",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "丹麦哥本哈根",
+   "bio": "Danish architecture and landscape practice.",
+   "bio_zh": "丹麦建筑与景观事务所。",
+   "why": "Its Fælledby plan keeps much of a former nature area as habitat and builds nests into the houses.",
+   "why_zh": "其 Fælledby 规划把原有自然地的大部分保留为栖息地，并把鸟巢建进住宅。",
+   "links": {
+    "site": "https://henninglarsen.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "bakhtawar-aurangzeb-khan--out-of-the-woods",
+   "creator_ids": [
+    "bakhtawar-aurangzeb-khan",
+    "ferran-altarriba-bertran"
+   ],
+   "title": "Out of the Woods, and Into the Screens: Playful Engagements with Virtual Nature",
+   "year": 2026,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "An interview study with 21 people who play with virtual nature in games, asking how they relate these experiences to real forests, animals and landscapes.",
+   "description_zh": "对 21 位在游戏中与虚拟自然玩耍的人进行访谈，探讨他们如何把这些体验与真实的森林、动物和风景联系起来。",
+   "idea_en": "People treat virtual and real nature as one continuum: games are a safe place to try out ecological actions and then reflect on them.",
+   "idea_zh": "人们把虚拟自然和真实自然看作一个连续体：游戏是尝试生态行动、再加以反思的安全空间。",
+   "method": "Semi-structured interviews analysed with reflexive thematic analysis, leading to design considerations for reflective human–nature play.",
+   "method_zh": "半结构化访谈加反思性主题分析，得出面向“反思性人–自然游戏”的设计考量。",
+   "keywords": [
+    "virtual nature",
+    "games",
+    "play",
+    "reflexive thematic analysis",
+    "Tampere University",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3831307",
+    "doi": "10.1145/3831307",
+    "arxiv": "",
+    "venue": "CHI PLAY 2026 (PACM HCI)",
+    "title": "Out of the Woods, and Into the Screens: Playful Engagements with Virtual Nature"
+   }
+  },
+  {
+   "id": "siqi-yu--to-be-non-human",
+   "creator_ids": [
+    "siqi-yu"
+   ],
+   "title": "To be Non-human: From Player Reviews to Design Opportunities for VR Animal Games",
+   "year": 2026,
+   "field": "hni",
+   "sub": "umwelt",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "A study of VR games that let players become animals: 170 player reviews from 48 games were analysed, then six co-design workshops produced 12 design opportunities.",
+   "description_zh": "研究让玩家化身动物的 VR 游戏：分析了 48 款游戏的 170 条玩家评论，再通过六场共创工作坊提出 12 个设计机会。",
+   "idea_en": "Becoming an animal in VR works better through selective mimicry and assisted control than through simulating the whole animal body.",
+   "idea_zh": "在 VR 中“成为动物”，靠选择性模仿和辅助控制比完整模拟动物身体更有效。",
+   "method": "Thematic analysis of Steam, PSVR and Meta Quest reviews identified four interaction types, followed by workshops (N=18) on animal traits, control mapping and role-play.",
+   "method_zh": "对 Steam、PSVR 和 Meta Quest 评论做主题分析，归纳出四类交互，再以工作坊（18 人）讨论动物特征、控制映射与角色扮演。",
+   "keywords": [
+    "VR",
+    "animal embodiment",
+    "de-anthropocentric game design",
+    "player reviews",
+    "co-design",
+    "CHI PLAY"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/7ffa6bf22cb312c8dde1a6341e87de1f85e79210/13-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3831351",
+    "doi": "10.1145/3831351",
+    "arxiv": "",
+    "venue": "CHI PLAY 2026 (PACM HCI)",
+    "title": "To be Non-human: From Player Reviews to Design Opportunities for VR Animal Games"
+   }
+  },
+  {
+   "id": "lik-hang-lee--pawspective",
+   "creator_ids": [
+    "lik-hang-lee"
+   ],
+   "title": "Pawspective: Reciprocal Role-Swapping in an Asymmetric VR Game for Cross-Species Empathy",
+   "year": 2026,
+   "field": "hni",
+   "sub": "umwelt",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A two-player VR game set in a simulated city: one player is a worker short on time and money, the other an injured stray dog, and each player's choices change the other's fate; players then swap roles.",
+   "description_zh": "一款设在模拟城市中的双人 VR 游戏：一人扮演时间和金钱都紧张的上班族，另一人扮演受伤的流浪狗，彼此的选择影响对方的命运；随后双方交换角色。",
+   "idea_en": "Empathy for animals grows when you experience both sides of the encounter, not just the animal's view.",
+   "idea_zh": "当你同时经历相遇的两端，而不只是动物的视角时，对动物的共情会更强。",
+   "method": "Asymmetric multisensory VR with distinct dog and human audiovisual modes (e.g. dog colour vision and low viewpoint); a counterbalanced role-swapping study with 32 participants.",
+   "method_zh": "非对称多感官 VR，为狗和人设计不同的视听模式（如狗的色觉与低视角）；32 人参与的平衡交换角色实验。",
+   "keywords": [
+    "VR",
+    "stray dogs",
+    "empathy",
+    "asymmetric multiplayer",
+    "perspective-taking",
+    "Hong Kong Polytechnic University",
+    "ACM Multimedia"
+   ],
+   "also": [
+    "aci"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/13cfa1b8d7e2dc3a292f23d4dea85117846aadfc/2-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3767308.3835506",
+    "doi": "10.1145/3767308.3835506",
+    "arxiv": "",
+    "venue": "ACM MM 2026",
+    "title": "Pawspective: Reciprocal Role-Swapping in an Asymmetric VR Game for Cross-Species Empathy"
+   }
+  },
+  {
+   "id": "ka-kei-lee--infinite-bloom",
+   "creator_ids": [
+    "ka-kei-lee"
+   ],
+   "title": "Infinite Bloom",
+   "year": 2026,
+   "field": "hni",
+   "sub": "umwelt",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "An exploratory VR game in which the player becomes non-human entities of very different scale and agency across five worlds, from a cosmic universe to an island of animals and plants, moving by upper-body gestures.",
+   "description_zh": "一款探索型 VR 游戏：玩家在五个世界里化身为尺度与能动性迥异的非人类存在，从宇宙到动植物之岛，用上半身手势来行动。",
+   "idea_en": "Matching gestures to the physical form and effort of a non-human body is a way to feel what it is like to be something else.",
+   "idea_zh": "让手势对应非人类身体的形态与用力方式，是体会“成为别的存在”的一种途径。",
+   "method": "Practice-based game design for VR headsets with gesture controls tuned to each entity's form, plus spatial design that shifts the player's sense of scale.",
+   "method_zh": "面向 VR 头显的实践型游戏设计：为每种存在调整手势控制，并用空间设计改变玩家的尺度感。",
+   "keywords": [
+    "VR",
+    "gesture",
+    "non-human embodiment",
+    "game design",
+    "RMIT",
+    "QLD XR Festival",
+    "CHI PLAY"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/6d981dc4f8516401e6ac5a156cd007762eda5bcb/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/6d981dc4f8516401e6ac5a156cd007762eda5bcb/4-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800965.3834480",
+    "doi": "10.1145/3800965.3834480",
+    "arxiv": "",
+    "venue": "CHI PLAY 2026 Companion",
+    "title": "Infinite Bloom: Exploring Non-Human Embodiment through Gestural Agency and Spatial Design in Virtual Reality Games"
+   }
+  },
+  {
+   "id": "olivia-brunet--signals-to-connection",
+   "creator_ids": [
+    "olivia-brunet"
+   ],
+   "title": "From Signals to Connection: Physiological Markers of Human–Nature Connectedness",
+   "year": 2026,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A study that tries to infer people's sense of connection to nature and empathy with nature from physiological, EEG and eye-tracking data recorded in an alpine setting.",
+   "description_zh": "一项研究尝试从在高山环境中记录的生理、脑电与眼动数据，推断人们与自然的联结感和对自然的共情。",
+   "idea_en": "Felt connection to nature is still best captured by asking people; body signals add a little but cannot replace subjective experience.",
+   "idea_zh": "与自然的联结感仍然最好通过询问人来获得；身体信号能补充一点，但替代不了主观体验。",
+   "method": "Logistic regression models compare self-report scales with multimodal physiological, neural and gaze features, using ecology-informed feature selection.",
+   "method_zh": "用逻辑回归模型比较自评量表与多模态生理、神经和注视特征，并按生态学知识进行特征选择。",
+   "keywords": [
+    "human–nature connectedness",
+    "empathy with nature",
+    "EEG",
+    "eye tracking",
+    "physiological sensing",
+    "IRIT",
+    "CNRS",
+    "ICMI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/663b753424735aba05ef7820376a79fa251fee44/3-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3776574.3831195",
+    "doi": "10.1145/3776574.3831195",
+    "arxiv": "",
+    "venue": "ICMI 2026",
+    "title": "From Signals to Connection: Exploring Physiological Markers of Human–Nature Connectedness"
+   }
+  },
+  {
+   "id": "keith-evan-green--windborne",
+   "creator_ids": [
+    "keith-evan-green"
+   ],
+   "title": "Windborne",
+   "year": 2026,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A bedside installation for hospitals that turns invisible wind into light and soap bubbles: patients and visitors wave or move, and the disc glows and releases bubbles, like dandelion seeds carried off.",
+   "description_zh": "一件用于医院床边的装置，把看不见的风变成光和肥皂泡：病人和访客挥手或移动时，圆盘发光并吹出泡泡，像被风带走的蒲公英种子。",
+   "idea_en": "Design for hospitals can care for patients' moment-to-moment emotional life instead of only trying to fix their condition.",
+   "idea_zh": "医院里的设计可以照顾病人此刻的情绪与关系，而不只是想办法“修复”病情。",
+   "method": "Gesture sensing drives LED patterns and a bubble blaster in a dandelion-shaped panel; framed by feminist ethics of care, with ambiguous, open-ended feedback for people of diverse abilities.",
+   "method_zh": "手势感应驱动蒲公英形面板上的 LED 灯光和吹泡器；以女性主义照护伦理为框架，为不同身体能力的人提供开放、含糊的反馈。",
+   "keywords": [
+    "wind",
+    "dandelion",
+    "bubbles",
+    "hospital",
+    "ethics of care",
+    "gesture",
+    "Cornell",
+    "ICMI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/2f22ef50e18f4255bbae600f332b638f3c140faf/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/2f22ef50e18f4255bbae600f332b638f3c140faf/1-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3776574.3832531",
+    "doi": "10.1145/3776574.3832531",
+    "arxiv": "",
+    "venue": "ICMI 2026",
+    "title": "Windborne: Fostering Nature Connection and Playfulness through Multimodal Interaction in Healthcare Settings"
+   }
+  },
+  {
+   "id": "katta-spiel--barrier-free-nature",
+   "creator_ids": [
+    "katta-spiel"
+   ],
+   "title": "\"There is no such thing as barrier-free nature\": Information, Trust, and Self-Determined Access to Nature",
+   "year": 2026,
+   "field": "hni",
+   "sub": "outdoor",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "An interview study with twelve experienced outdoor enthusiasts who use wheelchairs, on how they judge, prepare and negotiate trips into nature.",
+   "description_zh": "对 12 位使用轮椅、经验丰富的户外爱好者进行访谈，了解他们如何判断、准备和协商进入自然的行程。",
+   "idea_en": "Access to nature is not a 'barrier-free' label on a route but a continuous, personal judgment that technology should inform rather than decide.",
+   "idea_zh": "进入自然不是路线上的“无障碍”标签，而是持续的个人判断；技术应当提供信息，而不是替人做决定。",
+   "method": "Expert interviews and reflexive thematic analysis, producing a model of the outdoor information ecology (route, body, aids, support) behind self-determined access decisions.",
+   "method_zh": "专家访谈与反思性主题分析，提出“户外信息生态”模型（路线、身体、辅具、支持），解释自主的出行决定。",
+   "keywords": [
+    "accessibility",
+    "wheelchair",
+    "outdoor recreation",
+    "trust",
+    "information",
+    "TU Wien",
+    "ASSETS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3797867.3829028",
+    "doi": "10.1145/3797867.3829028",
+    "arxiv": "",
+    "venue": "ASSETS 2026",
+    "title": "\"There is no such thing as barrier-free nature\": Information, Trust, and Self-Determined Access to Nature"
+   }
+  },
+  {
+   "id": "takeru-yazaki--plant-guide-anchors",
+   "creator_ids": [
+    "takeru-yazaki"
+   ],
+   "title": "Location-Anchored Asynchronous Guide for Outdoor Plant Exploration",
+   "year": 2026,
+   "field": "hni",
+   "sub": "outdoor",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A mobile prototype for botanical-garden walks: a guide records short videos at each plant, which are pinned to that exact spot so visitors behind can watch them later while touching the real plant.",
+   "description_zh": "一个用于植物园漫步的移动原型：导览员在每株植物旁录制短视频，并钉在那个确切位置，后面的访客可以稍后边看视频边触摸真实的植物。",
+   "idea_en": "In outdoor guiding the plant itself is the point of interest, so knowledge should stay attached to the plant, not to the guide at the front of the group.",
+   "idea_zh": "在户外导览中，真正的焦点是植物本身，所以知识应该留在植物身边，而不是只跟着走在最前面的导览员。",
+   "method": "RTK-GNSS positioning on a smartphone; videos are uploaded as location anchors and trigger by vibration and audio within 5 m; tested in a workshop at a botanical garden.",
+   "method_zh": "手机配合 RTK-GNSS 高精度定位；视频作为位置锚点上传，在 5 米内以振动和声音提示播放；在植物园工作坊中测试。",
+   "keywords": [
+    "botanical garden",
+    "plant guiding",
+    "location anchors",
+    "RTK-GNSS",
+    "University of Tokyo",
+    "MobileHCI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/0c34e13c31c015ccea1537ad61c31d5351173c2b/5-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821581.3833100",
+    "doi": "10.1145/3821581.3833100",
+    "arxiv": "",
+    "venue": "MobileHCI 2026",
+    "title": "Designing a Location-Anchored Asynchronous Guide for Outdoor Plant Exploration"
+   }
+  },
+  {
+   "id": "jonna-hakkila--winter-vr-nature",
+   "creator_ids": [
+    "jonna-hakkila"
+   ],
+   "title": "Experiencing Nature Seasons in Virtual Reality in Winter Outdoors",
+   "year": 2026,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Participants watched a virtual winter landscape and a virtual summer landscape either on a snowy ski slope or in an indoor lab, to see how the real setting changes virtual nature.",
+   "description_zh": "参与者分别在积雪的滑雪场和室内实验室里观看虚拟冬景和虚拟夏景，以了解真实环境如何改变虚拟自然的体验。",
+   "idea_en": "Virtual nature is felt with the whole body: cold air, snow and wind around the headset become part of the experience.",
+   "idea_zh": "虚拟自然是用整个身体感受的：头显周围的冷空气、雪与风都会成为体验的一部分。",
+   "method": "A 2×2 in-the-wild VR study (winter/summer scene × outdoor/indoor setting) measuring immersion, presence and multisensory experience; University of Lapland.",
+   "method_zh": "一项 2×2 野外 VR 研究（冬/夏场景 × 户外/室内环境），测量沉浸感、临场感与多感官体验；拉普兰大学。",
+   "keywords": [
+    "virtual nature",
+    "VR in the wild",
+    "winter",
+    "seasons",
+    "Lapland",
+    "MobileHCI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/9afc26f23ea5c3ad089f012a05381e156429ec79/3-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821581.3833116",
+    "doi": "10.1145/3821581.3833116",
+    "arxiv": "",
+    "venue": "MobileHCI 2026",
+    "title": "Exploring Winter Outdoors Context for Experiencing Nature Seasons in Virtual Reality"
+   }
+  },
+  {
+   "id": "andreas-komninos--talking-plant",
+   "creator_ids": [
+    "andreas-komninos"
+   ],
+   "title": "Care or Curiosity? The Talking Plant",
+   "year": 2026,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "An office pot plant wired with moisture, light, temperature and humidity sensors is given a chatty LLM persona with emoji faces on a screen, and colleagues' care for it is observed.",
+   "description_zh": "给一盆办公室绿植接上湿度、光照、温度和空气湿度传感器，并让它以屏幕上的表情和大语言模型人格与同事聊天，观察大家如何照顾它。",
+   "idea_en": "Giving a plant a voice can draw care, but it may also trap the plant in a human-shaped illusion of what it wants.",
+   "idea_zh": "给植物一个声音能引来照顾，但也可能把植物困在一个人类想象出来的“需要”里。",
+   "method": "Sensor data feed an LLM through prompt engineering and personality mapping; responses appear as text and animated emoji; evaluated as a technology probe through an ethics-of-care lens.",
+   "method_zh": "传感器数据经提示工程与人格映射输入大语言模型，回应以文字和动态表情显示；作为技术探针，以照护伦理的视角加以评估。",
+   "keywords": [
+    "plant persona",
+    "LLM",
+    "anthropomorphism",
+    "ethics of care",
+    "technology probe",
+    "University of Patras",
+    "SUI"
+   ],
+   "also": [
+    "ai",
+    "hni"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/38058bf473527bf2cd84b4230285282932b3ce30/4-Figure4-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3822518.3830051",
+    "doi": "10.1145/3822518.3830051",
+    "arxiv": "",
+    "venue": "SUI 2026",
+    "title": "Care or Curiosity? Evaluating More-Than-Human Spatial Interactions in Shared Environments"
+   }
+  },
+  {
+   "id": "amy-banic--rethinking-generic-nature",
+   "creator_ids": [
+    "amy-banic"
+   ],
+   "title": "Rethinking Generic Nature: Terrain Authenticity in Indigenous Language-Learning Virtual Environments",
+   "year": 2026,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A position paper on virtual environments for learning Lakota and Pilagá travel verbs: they should rebuild the community's real landmarks, plants and animals instead of generic forest terrain.",
+   "description_zh": "一篇关于学习拉科塔语和皮拉加语移动动词的虚拟环境的立场论文：这些环境应重建社区真实的地标、植物和动物，而不是通用的森林地形。",
+   "idea_en": "Nature in virtual worlds is never generic: for language and land, the specific place is what carries meaning.",
+   "idea_zh": "虚拟世界里的自然从来不是通用的：对语言和土地来说，承载意义的是那个具体的地方。",
+   "method": "Draws on landmark-based wayfinding research to define 'terrain authenticity' (how well a VE's landmarks, fauna and biodiversity match a community's geography) as a design criterion.",
+   "method_zh": "借助基于地标的寻路研究，提出“地形真实性”（虚拟环境的地标、动物与生物多样性与社区地理的吻合程度）作为设计标准。",
+   "keywords": [
+    "Indigenous languages",
+    "Lakota",
+    "Pilagá",
+    "virtual environments",
+    "terrain authenticity",
+    "University of Wyoming",
+    "SUI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/6c5f5c70f2ad512d2ca6ea2951235cff14b53868/2-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3822518.3839319",
+    "doi": "10.1145/3822518.3839319",
+    "arxiv": "",
+    "venue": "SUI 2026",
+    "title": "Rethinking Generic Nature: Terrain Authenticity and Inclusive Design in Indigenous Language-Learning Virtual Environments"
+   }
+  },
+  {
+   "id": "geke-ludden--digital-nature-icu",
+   "creator_ids": [
+    "geke-ludden"
+   ],
+   "title": "Digital Nature in the Intensive Care Unit",
+   "year": 2026,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A case study of Digital Nature, a 24-hour streamed virtual nature environment shown to patients in an intensive care unit, with interviews of patients and ICU nurses.",
+   "description_zh": "对“数字自然”的案例研究：这是一套在重症监护室为病人 24 小时播放的虚拟自然环境，研究访谈了病人和重症监护护士。",
+   "idea_en": "Streamed nature can calm ICU patients and open conversations with nurses, but it has to adapt to how patients change during recovery.",
+   "idea_zh": "播放的自然影像能让重症病人放松，也能打开与护士的交谈，但需要随病人康复中的变化而调整。",
+   "method": "Single-centre mixed-methods case study combining patient measures and semi-structured interviews with patients and nurses (Erasmus MC, University of Twente).",
+   "method_zh": "单中心混合方法案例研究，结合病人指标与对病人和护士的半结构化访谈（Erasmus MC、特温特大学）。",
+   "keywords": [
+    "virtual nature",
+    "ICU",
+    "healthcare",
+    "restorative environments",
+    "University of Twente",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821402.3830108",
+    "doi": "10.1145/3821402.3830108",
+    "arxiv": "",
+    "venue": "NordiCHI 2026 Adjunct",
+    "title": "Enhancing ICU experience with Digital Nature: a patient case study informed by nurse perspectives"
+   }
+  },
+  {
+   "id": "jill-ashley-okonji--bear-ing-the-burden",
+   "creator_ids": [
+    "jill-ashley-okonji"
+   ],
+   "title": "Bear-ing the Burden: Affective Eco-Feedback for Sustainable LLM Use",
+   "year": 2026,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "In an LLM chat interface, an animated bear character reacts as the user keeps prompting; the study compares it with plain resource numbers and with no feedback.",
+   "description_zh": "在大语言模型聊天界面中，一只动画熊会随着用户不断提问而作出反应；研究把它与单纯的资源数字和无反馈两种情况作比较。",
+   "idea_en": "An animal that visibly suffers from your actions changes behaviour where numbers only raise awareness.",
+   "idea_zh": "一只因你的行为而明显受苦的动物能改变行为，而数字只能提高意识。",
+   "method": "Mixed-methods user study (N=30) with a repetitive text-generation task under three conditions: standard interface, rational eco-feedback and affective eco-feedback via an embodied bear.",
+   "method_zh": "混合方法用户研究（30 人），在重复的文本生成任务中设三种条件：标准界面、理性生态反馈、以熊形象呈现的情感生态反馈。",
+   "keywords": [
+    "eco-feedback",
+    "LLM",
+    "carbon footprint",
+    "polar bear",
+    "affective design",
+    "TU Wien",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3829807.3829859",
+    "doi": "10.1145/3829807.3829859",
+    "arxiv": "",
+    "venue": "NordiCHI 2026",
+    "title": "Bear-ing the Burden: Impact of Affective Eco-Feedback on Sustainable LLM Use"
+   }
+  },
+  {
+   "id": "pat-pataranutaporn--whale-you-go-green",
+   "creator_ids": [
+    "pat-pataranutaporn"
+   ],
+   "title": "Whale You Go Green? Embodied Conversational AI Avatars and Pro-Environmental Attitudes",
+   "year": 2026,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A randomized experiment (N=576) in which people talked with an AI avatar of a beluga whale, Greta Thunberg, Emma Watson or a generic human, or a text chatbot, before choosing products and answering attitude questions; 287 returned two months later.",
+   "description_zh": "一项随机实验（576 人）：参与者先与白鲸、Greta Thunberg、Emma Watson 或普通人的 AI 化身，或文字聊天机器人对话，再选择商品并回答态度问题；两个月后有 287 人回访。",
+   "idea_en": "A non-human speaking as an affected party can be as persuasive as a celebrity, and its effect on attitudes may last longer.",
+   "idea_zh": "一个以受影响者身份说话的非人类，说服力可以与名人相当，而且对态度的影响可能更持久。",
+   "method": "Embodied conversational agents built on an LLM with persuasive strategies (affected non-human testimony, celebrity influence, moral exemplarity); outcomes include sustainable product choice and pro-environmental attitudes, MIT Media Lab.",
+   "method_zh": "基于大语言模型的具身对话代理，采用不同说服策略（受影响非人类的证言、名人影响、道德榜样）；测量可持续商品选择与亲环境态度；麻省理工学院媒体实验室。",
+   "keywords": [
+    "beluga whale",
+    "embodied conversational agent",
+    "persuasion",
+    "sustainable behaviour",
+    "MIT Media Lab",
+    "arXiv"
+   ],
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://arxiv.org/html/2610.33191v1/figures/teaser_figure_beluga_1_comp.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2610.33191",
+    "doi": "",
+    "arxiv": "2610.33191",
+    "venue": "arXiv 2026",
+    "title": "Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--case-for-nonhuman-leadership",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "The Case for Nonhuman Leadership",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory",
+   "organisms": [
+    "animals",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An Interactions essay arguing that design should let nonhumans such as powerful owls and arboreal termites lead decisions about the habitats they depend on, not just be consulted.",
+   "description_zh": "发表于 Interactions 的文章，主张设计应让猛鸮、树栖白蚁等非人类主导它们赖以生存的栖息地的决策，而不仅仅是被征询意见。",
+   "idea_en": "Moving from including nonhumans to following their lead changes who sets the design brief.",
+   "idea_zh": "从“纳入”非人类转向“跟随”非人类，会改变由谁来设定设计任务。",
+   "method": "Argument built on the author's habitat-structure projects for cavity-dependent animals and on more-than-human design theory; part of the Interactions more-than-human forum.",
+   "method_zh": "以作者为树洞依赖动物所做的栖息结构项目和超越人类的设计理论为基础展开论证；属于 Interactions 的超越人类专栏。",
+   "keywords": [
+    "nonhuman leadership",
+    "powerful owl",
+    "termites",
+    "tree hollows",
+    "Interactions",
+    "Deep Design Lab"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/74b0c745a0a71967ed349bb98e6dbf62df607628/2-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3849465",
+    "doi": "10.1145/3849465",
+    "arxiv": "",
+    "venue": "Interactions 2026",
+    "title": "The Case for Nonhuman Leadership"
+   }
+  },
+  {
+   "id": "piumi-perera--towards-reciprocity",
+   "creator_ids": [
+    "piumi-perera"
+   ],
+   "title": "Towards Reciprocity: Mediating Human-Nature Relations Through HCI",
+   "year": 2025,
+   "field": "hni",
+   "sub": "hni-theory",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Reports a workshop in which HCI researchers and practitioners designed for diverse nature spaces, to surface the tensions in nature-focused technology.",
+   "description_zh": "报告一场工作坊：人机交互研究者与从业者为不同的自然空间进行设计，以揭示面向自然的技术中的张力。",
+   "idea_en": "Nature technology should move from extracting experiences and data from nature toward reciprocal relationships with it.",
+   "idea_zh": "面向自然的技术应从向自然索取体验与数据，转向与自然建立互惠关系。",
+   "method": "Workshop design activities analysed to identify challenges, under-explored application areas and directions drawing on more-than-human approaches and relational ontologies.",
+   "method_zh": "分析工作坊中的设计活动，识别挑战、尚未充分探索的应用领域，以及借鉴超越人类方法与关系本体论的方向。",
+   "keywords": [
+    "reciprocity",
+    "relational ontologies",
+    "nature technology",
+    "workshop",
+    "University of Melbourne",
+    "OzCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3764687.3769939",
+    "doi": "10.1145/3764687.3769939",
+    "arxiv": "",
+    "venue": "OzCHI 2025",
+    "title": "Towards Reciprocity: Mediating Human-Nature Relations Through HCI"
+   }
+  },
+  {
+   "id": "chimi-om--children-nature-play",
+   "creator_ids": [
+    "chimi-om"
+   ],
+   "title": "Designing for Children's Nature Play and Place Attachment",
+   "year": 2025,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "An observational study in an early childhood education centre that follows how young children play in and bond with natural places, and derives design directions for technology.",
+   "description_zh": "在一所幼儿教育中心进行的观察研究，追踪幼儿如何在自然场所中玩耍并与之建立情感，进而提出技术设计方向。",
+   "idea_en": "Technology for children and nature should support attachment to a particular place, built through repeated, embodied play.",
+   "idea_zh": "面向儿童与自然的技术应支持对某个具体地方的依恋，这种依恋来自反复的、身体性的玩耍。",
+   "method": "Participant observation, photovoice and a probe activity, read through the theory of Childhood Place Attachment; four design directions.",
+   "method_zh": "参与式观察、照片发声与探针活动，结合“童年地方依恋”理论解读；提出四个设计方向。",
+   "keywords": [
+    "children",
+    "nature play",
+    "place attachment",
+    "photovoice",
+    "early childhood education",
+    "QUT",
+    "OzCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3764687.3764721",
+    "doi": "10.1145/3764687.3764721",
+    "arxiv": "",
+    "venue": "OzCHI 2025",
+    "title": "Designing for Children's Nature Play and Place Attachment: An Observational Study in Early Childhood Education Centre"
+   }
+  },
+  {
+   "id": "katerina-malisova--affective-ontological-disruption",
+   "creator_ids": [
+    "katerina-malisova",
+    "vasiliki-tsaknaki",
+    "sarah-homewood"
+   ],
+   "title": "Affective Ontological Disruption (AOD)",
+   "year": 2026,
+   "field": "mth",
+   "sub": "methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A speculative co-design method for the early phases of more-than-human interaction design, tested in two workshops with four design teams (26 people) who produced 22 'wellbeing indicators' for non-human entities and technologies.",
+   "description_zh": "一种用于超越人类交互设计早期阶段的思辨式共创方法，在两场工作坊中由四个设计团队（26 人）测试，产出 22 条针对非人类存在与技术的“福祉指标”。",
+   "idea_en": "When a non-human cannot be observed or present, ask designers to write down what it needs to fare well and design against that.",
+   "idea_zh": "当非人类无法被观察或到场时，让设计者写下它“需要什么才能过得好”，再以此为依据进行设计。",
+   "method": "Four linked activities — Tech-as-Entity cards, ontographic mapping, speculative narrative and speculative prototyping — grounded in Object-Oriented Ontology, each closed by a short diagnostic.",
+   "method_zh": "四个相连的活动——“技术即存在”卡片、本体图谱绘制、思辨叙事与思辨原型——以面向对象本体论为基础，每一步以简短诊断收尾。",
+   "keywords": [
+    "speculative co-design",
+    "Object-Oriented Ontology",
+    "wellbeing indicators",
+    "cards",
+    "University of the Aegean",
+    "CoDesign"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2026.2754159",
+    "doi": "10.1080/15710882.2026.2754159",
+    "arxiv": "",
+    "venue": "CoDesign 2026",
+    "title": "Affective Ontological Disruption (AOD): a speculative co-design method for early-stage more-than-human interaction design"
+   }
+  },
+  {
+   "id": "hoyoung-youn--making-nonhumans-present",
+   "creator_ids": [
+    "hoyoung-youn"
+   ],
+   "title": "Making Nonhumans Present: Mediation and Enactment in More-than-Human Participatory Design",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A systematic review of 58 studies (2016–2026) on how nonhumans are made to 'participate' in participatory design, and on what is lost when they are translated into human-readable proxies.",
+   "description_zh": "对 58 篇研究（2016–2026）的系统综述，探讨非人类如何在参与式设计中被“参与”，以及当它们被翻译成人类可读的代理时会丢失什么。",
+   "idea_en": "Nonhuman participation is always mediated, so the safeguards around that mediation — who speaks, with what evidence — matter as much as the method.",
+   "idea_zh": "非人类的参与总是经过中介的，因此围绕中介的保障——谁来发言、凭什么证据——与方法本身同样重要。",
+   "method": "PRISMA review of Web of Science, Scopus and ACM DL plus citation chaining; thematic synthesis of 'making-present' mechanisms and tensions such as gatekeeping, care labour and data governance.",
+   "method_zh": "按 PRISMA 检索 Web of Science、Scopus 与 ACM 数字图书馆并追溯引用；对“使在场”机制及守门、照护劳动、数据治理等张力进行主题综合。",
+   "keywords": [
+    "systematic review",
+    "participatory design",
+    "nonhuman participation",
+    "representation",
+    "Yonsei University",
+    "CoDesign"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2026.2754938",
+    "doi": "10.1080/15710882.2026.2754938",
+    "arxiv": "",
+    "venue": "CoDesign 2026",
+    "title": "Making nonhumans present: a systematic review of mediation and enactment in more-than-human participatory design"
+   }
+  },
+  {
+   "id": "marilia-lyra-bergamo--robotic-coastal-restoration",
+   "creator_ids": [
+    "marilia-lyra-bergamo"
+   ],
+   "title": "Speculative Robotic Co-Design for Coastal Restoration",
+   "year": 2026,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Researchers joined Landcare volunteers restoring coastal dunes in Newcastle, Australia, and co-designed speculative artificial-life robots that could help with restoration without displacing people.",
+   "description_zh": "研究者加入澳大利亚纽卡斯尔修复海岸沙丘的 Landcare 志愿者，与他们共同设计能协助修复、又不取代人的思辨式人工生命机器人。",
+   "idea_en": "Robots for ecological restoration should be designed for living-with: flexible, unobtrusive and responsive to the place.",
+   "idea_zh": "用于生态修复的机器人应为“共同生活”而设计：灵活、不打扰、能回应场地。",
+   "method": "Participatory design guided by reciprocity: the researchers did restoration work with the volunteers, then ran co-design sessions on A-Life robotics.",
+   "method_zh": "以互惠为原则的参与式设计：研究者先与志愿者一起做修复工作，再开展关于人工生命机器人的共创。",
+   "keywords": [
+    "coastal restoration",
+    "Landcare",
+    "artificial life",
+    "robotics",
+    "reciprocity",
+    "University of Newcastle",
+    "CoDesign"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2026.2633239",
+    "doi": "10.1080/15710882.2026.2633239",
+    "arxiv": "",
+    "venue": "CoDesign 2026",
+    "title": "Speculative robotic co-design for coastal restoration: a case study with Landcare volunteers in Newcastle"
+   }
+  },
+  {
+   "id": "joel-fredericks--middle-out-design",
+   "creator_ids": [
+    "joel-fredericks",
+    "marcus-foth",
+    "martin-tomitsch"
+   ],
+   "title": "Middle-Out Design for More-than-Human Cities",
+   "year": 2026,
+   "field": "mth",
+   "sub": "methods",
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A framework for bringing human and non-human perspectives into urban sustainability planning, illustrated with vignettes on community gardening, flood resilience, wombat rehabilitation and adaptive robotic environments.",
+   "description_zh": "一个把人类与非人类视角纳入城市可持续规划的框架，用社区园艺、防洪韧性、袋熊康复和自适应机器人环境等案例加以说明。",
+   "idea_en": "Coalitions that sit between top-down planners and bottom-up communities can speak for animals in city decisions.",
+   "idea_zh": "处于自上而下的规划者与自下而上的社区之间的联盟，可以在城市决策中替动物发声。",
+   "method": "Middle-Out Design (MOD) structures collaboration across top-down, bottom-up and mediating actors in four iterative stages: Coalition, Design, Development and Deployment.",
+   "method_zh": "“中间向外设计”把自上而下、自下而上与中介行动者的合作组织为四个迭代阶段：联盟、设计、开发与部署。",
+   "keywords": [
+    "Middle-Out Design",
+    "urban planning",
+    "wombats",
+    "human–animal relations",
+    "University of Sydney",
+    "QUT"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1108/sasbe-09-2025-0562",
+    "doi": "10.1108/sasbe-09-2025-0562",
+    "arxiv": "",
+    "venue": "Smart and Sustainable Built Environment 2026",
+    "title": "Middle-out design for more-than-human cities: integrating human–animal relations in urban sustainability planning"
+   }
+  },
+  {
+   "id": "ceren-ozgen--embodied-multispecies-workshops",
+   "creator_ids": [
+    "ceren-ozgen",
+    "jiabao-li"
+   ],
+   "title": "Embodied Multispecies Design Workshops",
+   "year": 2025,
+   "field": "mth",
+   "sub": "methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A movement-based workshop method in which designers use their bodies to explore the sensory worlds of other animals, such as dogs and pigeons, before designing with them in mind.",
+   "description_zh": "一种基于身体运动的工作坊方法：设计者先用身体探索狗、鸽子等其他动物的感官世界，再带着这种理解去设计。",
+   "idea_en": "Moving like another animal is a quick, bodily route to multispecies empathy in design.",
+   "idea_zh": "像另一种动物那样移动，是在设计中获得多物种共情的一条快速、身体性的途径。",
+   "method": "Somatic and movement exercises informed by Uexküll's Umwelt theory and Gibson's ecological psychology, run as immersive design workshops (UT Austin).",
+   "method_zh": "以 Uexküll 的环世界理论和 Gibson 的生态心理学为依据的身体与运动练习，以沉浸式设计工作坊形式开展（得克萨斯大学奥斯汀分校）。",
+   "keywords": [
+    "embodiment",
+    "movement-based design",
+    "Umwelt",
+    "multispecies empathy",
+    "workshop",
+    "UT Austin",
+    "IASDR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/iasdr.2025.420",
+    "doi": "10.21606/iasdr.2025.420",
+    "arxiv": "",
+    "venue": "IASDR 2025",
+    "title": "Embodied Multispecies Design Workshops: A Movement-Based Method for More-Than-Human Design"
+   }
+  },
+  {
+   "id": "caglar-genc--reflexive-design-studio",
+   "creator_ids": [
+    "caglar-genc",
+    "ferran-altarriba-bertran"
+   ],
+   "title": "Roles and Purposes in More-than-Human Design: A Reflexive Design Studio",
+   "year": 2025,
+   "field": "mth",
+   "sub": "theory",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A design team used the mushroom basket as a shared metaphor to create and reflect on conceptual designs, and from them drew out concrete roles and purposes for more-than-human design.",
+   "description_zh": "一个设计团队以“蘑菇篮”为共同隐喻创作并反思一组概念设计，并从中提炼出超越人类设计中具体的角色与目的。",
+   "idea_en": "Abstract ideas like 'decentering' become usable when spelled out as roles (humans as materials, non-humans as co-makers) and purposes (activism, collective survival).",
+   "idea_zh": "像“去中心化”这样的抽象概念，一旦落实为角色（人作为材料、非人类作为共同制作者）和目的（行动主义、共同生存）就能用于实践。",
+   "method": "Bottom-up research through design in a reflexive studio format; designs were related to theory and prior work to form an exploratory framework.",
+   "method_zh": "以反思式工作室形式进行自下而上的设计研究；把设计与理论和已有工作对照，形成一个探索性框架。",
+   "keywords": [
+    "reflexive design studio",
+    "mushroom basket",
+    "research through design",
+    "Tampere University",
+    "Academic Mindtrek"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757980.3758003",
+    "doi": "10.1145/3757980.3758003",
+    "arxiv": "",
+    "venue": "Academic Mindtrek 2025",
+    "title": "Exploring Roles and Purposes in More-than-Human Design through a Reflexive Design Studio Experiment"
+   }
+  },
+  {
+   "id": "adrian-wong--giving-voice-without-speaking-for",
+   "creator_ids": [
+    "adrian-wong",
+    "tram-thi-minh-tran",
+    "joel-fredericks"
+   ],
+   "title": "Giving Voice without Speaking For: Conversational AI and More-than-Human Representation",
+   "year": 2026,
+   "field": "mth",
+   "sub": "methods",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A two-phase qualitative study, grounded in koala conservation in Australia, on how conversational AI could represent animals and ecosystems in stakeholder engagement and where its ethical limits lie.",
+   "description_zh": "一项以澳大利亚考拉保护为案例的两阶段质性研究，探讨对话式 AI 如何在利益相关者参与中代表动物和生态系统，以及它的伦理边界在哪里。",
+   "idea_en": "An AI that represents a koala should open deliberation about the koala's interests, not pretend to be the koala.",
+   "idea_zh": "代表考拉的 AI 应该打开关于考拉利益的讨论，而不是假装自己就是考拉。",
+   "method": "Expert interviews with 22 people across ecology, conservation, urban planning and design, followed by a second phase testing design considerations for non-human conversational agents.",
+   "method_zh": "对生态、保护、城市规划与设计领域的 22 位专家进行访谈，第二阶段检验非人类对话代理的设计考量。",
+   "keywords": [
+    "conversational AI",
+    "koala",
+    "stakeholder engagement",
+    "non-human representation",
+    "University of Sydney",
+    "IJHCS"
+   ],
+   "also": [
+    "ai"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2026.103959",
+    "doi": "10.1016/j.ijhcs.2026.103959",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies 2026",
+    "title": "Giving voice without speaking for: Conversational AI and more-than-human representation in stakeholder engagement"
+   }
+  },
+  {
+   "id": "feifei-pang--we-belong-to-the-land",
+   "creator_ids": [
+    "feifei-pang"
+   ],
+   "title": "\"We Belong to the Land\": Aesthetic Experience in Urban Farming",
+   "year": 2026,
+   "field": "hni",
+   "sub": "gardening",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "An empirical study of small-scale urban farmers that looks at farming not as optimisation but as the everyday work of sustaining land, neighbours and livelihoods.",
+   "description_zh": "一项对小规模城市农民的实证研究，不把农业看作优化问题，而是看作维系土地、邻里与生计的日常劳作。",
+   "idea_en": "Sustainability is an ongoing practice of sustaining, felt through attunement and rhythm, not only a goal to be reached.",
+   "idea_zh": "可持续不只是要达成的目标，而是一种持续的“维系”实践，通过调谐与节奏被感受。",
+   "method": "Qualitative study using Dewey's aesthetic experience as a lens: attunement, rhythm, expressive form and consummation.",
+   "method_zh": "以杜威的审美经验为视角的质性研究：调谐、节奏、表现形式与圆满。",
+   "keywords": [
+    "urban farming",
+    "aesthetic experience",
+    "John Dewey",
+    "attunement",
+    "University of Cincinnati",
+    "CSCW"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/75d9db381fa549f599a597634d85d3329f0caaca/6-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3817035",
+    "doi": "10.1145/3817035",
+    "arxiv": "",
+    "venue": "CSCW 2026 (PACM HCI)",
+    "title": "\"We Belong to the Land\": Centering Aesthetic Experience in CSCW Research on Urban Farming"
+   }
+  },
+  {
+   "id": "mitchell-whitelaw--ala-lens",
+   "creator_ids": [
+    "mitchell-whitelaw"
+   ],
+   "title": "ALA Lens: Designing for Biodiversity Data in Place",
+   "year": 2026,
+   "field": "hni",
+   "sub": "citizen-science",
+   "organisms": [
+    "animals",
+    "plants",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "An experimental interface to the Atlas of Living Australia that shows, for any place, the species most characteristic of it rather than the most frequently recorded ones, and frames records as encounters between people, species and place.",
+   "description_zh": "为澳大利亚生物图集设计的实验性界面：对任意地点，展示最能代表该地的物种，而不是被记录最多的物种，并把记录理解为人、物种与地方之间的相遇。",
+   "idea_en": "Biodiversity interfaces decide what people notice; surfacing locally distinctive species shifts attention toward place and nature recovery.",
+   "idea_zh": "生物多样性界面决定人们会注意到什么；凸显本地特有的物种，会把注意力引向地方与自然恢复。",
+   "method": "A quantitative method for locally distinctive species applied to ALA occurrence records, developed through design, digital humanities, critical data studies and STS (ANU, CSIRO).",
+   "method_zh": "在生物图集的物种出现记录上应用一种计算“本地特有物种”的定量方法，结合设计、数字人文、批判数据研究与科技研究方法开发（澳大利亚国立大学、CSIRO）。",
+   "keywords": [
+    "Atlas of Living Australia",
+    "biodiversity data",
+    "occurrence records",
+    "taxonomic bias",
+    "interface design",
+    "ANU",
+    "CSIRO",
+    "People and Nature"
+   ],
+   "images": [
+    "https://labs.ala.org.au/images/homepage/lens-bubble-image.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/pan3.70384",
+    "doi": "10.1002/pan3.70384",
+    "arxiv": "",
+    "venue": "People and Nature 2026",
+    "title": "Designing for biodiversity data in place: Species, encounters, and interfaces"
+   },
+   "source_url": "https://labs.ala.org.au/"
+  },
+  {
+   "id": "martin-avila--wilding-practices",
+   "creator_ids": [
+    "martin-avila"
+   ],
+   "title": "Wilding Practices Through Design: Newt Habitats in a Stockholm Allotment Garden",
+   "year": 2026,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Design interventions in a Stockholm allotment garden: habitat objects made for newts also made gardeners curious, linked to gardening traditions and drew in other species.",
+   "description_zh": "在斯德哥尔摩一处市民农园中的设计介入：为蝾螈制作的栖息物件，也引起园丁的好奇，与园艺传统产生关联，并吸引了其他物种。",
+   "idea_en": "Wildness in the city is a break in human control; playful, slightly ambiguous artefacts can invite it in.",
+   "idea_zh": "城市中的野性是人类控制的一道裂缝；好玩而略带含糊的人造物可以把它请进来。",
+   "method": "Prototypes as semiotic prompts for interspecies encounters, analysed with theories of affordances, play, cultural heritage and metacommunication (Konstfack, University of Helsinki, University of Tartu).",
+   "method_zh": "把原型当作引发跨物种相遇的符号提示，用可供性、游戏、文化遗产与元交流理论加以分析（Konstfack、赫尔辛基大学、塔尔图大学）。",
+   "keywords": [
+    "wilding",
+    "newts",
+    "allotment garden",
+    "play",
+    "ecosemiotics",
+    "Stockholm",
+    "Diseña"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7764/disena.28.Article.1",
+    "doi": "10.7764/disena.28.Article.1",
+    "arxiv": "",
+    "venue": "Diseña 28 (2026)",
+    "title": "Wilding Practices Through Design: Playful Encounters for Reframing Control in Multispecies Cohabitation"
+   },
+   "source_url": "https://www.stockholmresilience.org/publications/publications/2026-03-11-wilding-practices-through-design-playful-encounters-for-reframing-control-in-multispecies-cohabitation.html"
+  },
+  {
+   "id": "pearce-plus--wildlife-tower-01",
+   "creator_ids": [
+    "pearce-plus"
+   ],
+   "title": "Wildlife Tower 01",
+   "year": 2026,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A timber tower at Honeygar Farm, a former dairy farm in Somerset's Avalon Marshes, built for Somerset Wildlife Trust as shared housing for bats, barn owls, little owls, kestrels, swifts, insects, amphibians and small mammals.",
+   "description_zh": "位于萨默塞特 Avalon 沼泽一座前奶牛场 Honeygar Farm 的木塔，为萨默塞特野生动物信托建造，供蝙蝠、仓鸮、纵纹腹小鸮、红隼、雨燕、昆虫、两栖动物和小型哺乳动物共同居住。",
+   "idea_en": "One structure can stack many species' homes, from damp rubble at the base to owl boxes at the top.",
+   "idea_zh": "一座结构可以叠放许多物种的家：底部是潮湿的碎石，顶部是猫头鹰巢箱。",
+   "method": "Built mostly from farm salvage: loose stone and masonry piers for newts and slow worms, stacked larch boards whose gaps form ledges and cavities, and species-specific nest and roost boxes above.",
+   "method_zh": "主要用农场回收材料建造：松散堆砌的石材与砖石墩供蝾螈和蛇蜥栖身，层叠的落叶松木板缝隙形成檐台与空腔，上部嵌入针对不同物种的巢箱与栖箱。",
+   "keywords": [
+    "wildlife tower",
+    "habitat architecture",
+    "reclaimed materials",
+    "Somerset Wildlife Trust",
+    "rewilding",
+    "bats",
+    "owls"
+   ],
+   "images": [
+    "https://media.materialdistrict.com/wp-content/uploads/2026/08/reclaimed-materials-create-a-multi-species-wildlife-tower-materialdistrict-2.webp?v=20260831094542"
+   ],
+   "source_url": "https://materialdistrict.com/article/reclaimed-materials-create-a-multi-species-wildlife-tower/"
+  },
+  {
+   "id": "51-architecture--hrost",
+   "creator_ids": [
+    "51-architecture"
+   ],
+   "title": "Hrōst",
+   "year": 2025,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A six-metre timber pavilion in the Royal Academy's courtyard for the 2025 Summer Exhibition, designed first as a home for birds, bats, insects and small mammals, with a hibernaculum underneath.",
+   "description_zh": "2025 年皇家艺术学院夏季展期间立于其庭院中的六米高木构展亭，首先被设计为鸟、蝙蝠、昆虫和小型哺乳动物的家，底部设有越冬巢穴。",
+   "idea_en": "A pavilion can be a demountable habitat that people visit, rather than a human shelter that tolerates wildlife.",
+   "idea_zh": "展亭可以是一座供人参观的可拆装栖息地，而不是勉强容纳野生动物的人类遮蔽所。",
+   "method": "Modular timber cassettes filled with wool, perforated featheredge cladding with narrow slits for invertebrates, deep eaves and nesting hollows designed with ecologists (engineering by Price & Myers).",
+   "method_zh": "填充羊毛的模块化木盒、开有细缝供无脊椎动物藏身的穿孔羽边板外墙、深挑檐，以及与生态学家共同设计的筑巢空洞（结构设计 Price & Myers）。",
+   "keywords": [
+    "pavilion",
+    "Royal Academy Summer Exhibition",
+    "habitat architecture",
+    "swifts",
+    "bats",
+    "hibernaculum",
+    "London"
+   ],
+   "images": [
+    "https://archup.net/wp-content/uploads/2025/07/51-architecture-hrost-installation-ra-summer-exhibition-hero_dezeen_2364_col_0.jpg",
+    "https://archup.net/wp-content/uploads/2025/07/image-145-1024x683.png"
+   ],
+   "source_url": "https://archup.net/hrost-installation-royal-academy-architecture-for-birds-bats-insects-and-humans/"
+  },
+  {
+   "id": "bjarke-ingels-group--biosphere",
+   "creator_ids": [
+    "bjarke-ingels-group"
+   ],
+   "title": "Biosphere (Treehotel)",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A glass hotel room hung in the forest at Treehotel in Harads, Sweden, wrapped in a cloud of 350 birdhouses whose sizes and positions follow local bird populations.",
+   "description_zh": "瑞典 Harads 的 Treehotel 中一间悬在森林里的玻璃客房，外面包裹着由 350 个鸟屋组成的“云”，鸟屋的大小和位置依当地鸟类种群而定。",
+   "idea_en": "A building for people can be designed as a dense nesting site for birds, so guests sleep inside a bird colony.",
+   "idea_zh": "一座为人设计的建筑，也可以是鸟类密集的筑巢地，让客人睡在鸟群之中。",
+   "method": "Birdhouse sizes, openings and positions set with ornithologist Ulf Öhman to suit regional species; the room is suspended in the trees.",
+   "method_zh": "与鸟类学家 Ulf Öhman 一起确定鸟屋的大小、开口与位置，以适合当地物种；客房悬挂在树间。",
+   "keywords": [
+    "birdhouses",
+    "Treehotel",
+    "Harads",
+    "ornithology",
+    "habitat architecture",
+    "BIG"
+   ],
+   "images": [
+    "https://treehotel.se/media/fz1avtsp/biosphere.jpg",
+    "https://www.designboom.com/wp-content/uploads/2022/06/bjarke-ingels-group-biosphere-treehouse-bird-hotel-sweden-designboom-FB.jpg"
+   ],
+   "source_url": "https://treehotel.se/treerooms/biosphere/"
+  },
+  {
+   "id": "andres-jaque--rambla-climate-house",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "Rambla Climate-House",
+   "year": 2022,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A house in Molina de Segura, Spain, designed with Miguel Mesa del Castillo, whose rainwater and greywater feed a rebuilt seasonal ravine ecosystem around it; plants and animals returned within about a year.",
+   "description_zh": "位于西班牙 Molina de Segura 的住宅，与 Miguel Mesa del Castillo 合作设计，用雨水和灰水滋养周围重建的季节性河谷生态系统；约一年内植物和动物便回到了这里。",
+   "idea_en": "A house can be infrastructure for a ravine ecosystem, with domestic water cycles serving other species.",
+   "idea_zh": "一座房子可以成为河谷生态系统的基础设施，让家庭的水循环服务于其他物种。",
+   "method": "Rain and greywater are routed to planted ravine terraces; sensors regulate humidity and conductivity to keep conditions suitable for the reconstructed ecosystem.",
+   "method_zh": "雨水和灰水被引入种植的河谷台地；传感器调节湿度和电导率，使环境适合重建的生态系统。",
+   "keywords": [
+    "rambla",
+    "greywater",
+    "ecosystem reconstruction",
+    "Murcia",
+    "Office for Political Innovation",
+    "transspecies"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2022/05/rambla-climate-house-andres-jaque-office-political-innovation-designboom-FB.jpg"
+   ],
+   "source_url": "https://www.designboom.com/architecture/rambla-climate-house-andres-jaque-office-political-innovation-miguel-mesa-del-castillo-spain-05-16-2022/"
+  },
+  {
+   "id": "i29-architects--buitenverblijf-nest",
+   "creator_ids": [
+    "i29-architects"
+   ],
+   "title": "Buitenverblijf Nest",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A small holiday house in a Dutch forest, made with Namo Architecture, whose stepped layers of cladding hide nesting cavities for birds and bats.",
+   "description_zh": "荷兰森林中的一座小型度假屋，与 Namo Architecture 合作设计，层层错落的外墙板后面藏着供鸟和蝙蝠筑巢的空腔。",
+   "idea_en": "The skin of a house can be thickened into housing for other species without changing how people live inside.",
+   "idea_zh": "房子的外皮可以加厚成其他物种的住所，而不改变人在里面的生活方式。",
+   "method": "Stepped facade layers create cavities behind the cladding, and the space beneath the raised floor is left open for animals; 55 m² of living space for people.",
+   "method_zh": "错落的立面层在外墙板后形成空腔，抬高地板下的空间也留给动物；供人居住的面积为 55 平方米。",
+   "keywords": [
+    "nest house",
+    "birds",
+    "bats",
+    "facade",
+    "holiday home",
+    "Namo Architecture",
+    "Netherlands"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2024/02/nest-house-i29-designboom-1200-1.jpg"
+   ],
+   "source_url": "https://www.designboom.com/architecture/shaped-like-bird-house-i29-architects-forest-folly-hides-amid-treetops-the-netherlands-02-14-2024/"
+  },
+  {
+   "id": "chartier-dalix--school-sciences-biodiversity",
+   "creator_ids": [
+    "chartier-dalix"
+   ],
+   "title": "School for Sciences and Biodiversity",
+   "year": 2014,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "plants",
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A school in Boulogne-Billancourt, France, whose concrete envelope is full of ledges, hollows and cracks meant to be colonised; over the years plants, insects and birds have settled on it.",
+   "description_zh": "法国 Boulogne-Billancourt 的一所学校，其混凝土外壳布满檐台、空洞和缝隙，供生物定居；多年来植物、昆虫和鸟类已在上面安家。",
+   "idea_en": "A facade can be designed as a cliff: rough, porous and open to whatever species arrive.",
+   "idea_zh": "立面可以被设计成一面悬崖：粗糙、多孔，对任何到来的物种开放。",
+   "method": "Prefabricated concrete blocks with relief, cavities and overhangs, built-in nest boxes and a planted roof for vegetation, insects, birds and bats.",
+   "method_zh": "带有浮雕、空腔和悬挑的预制混凝土砌块，内嵌巢箱，并有种植屋顶，供植被、昆虫、鸟类和蝙蝠使用。",
+   "keywords": [
+    "biodiversity facade",
+    "school",
+    "concrete",
+    "nest boxes",
+    "green roof",
+    "Boulogne-Billancourt"
+   ],
+   "images": [
+    "https://www.designboom.com/twitterimages/uploads/2015/01/chartier-dalix-school-for-sciences-and-biodiversity-boulogne-billancourt-designboom-01.jpg"
+   ],
+   "source_url": "https://www.designboom.com/architecture/chartier-dalix-school-for-sciences-and-biodiversity-boulogne-billancourt-01-07-2015/"
+  },
+  {
+   "id": "henning-larsen--faelledby",
+   "creator_ids": [
+    "henning-larsen"
+   ],
+   "title": "Fælledby",
+   "year": 2020,
+   "field": "mth",
+   "sub": "care",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A timber neighbourhood planned on a former nature area in Copenhagen that keeps around 40% of the site as habitat, links housing clusters with green corridors and builds nests for songbirds and bats into the walls.",
+   "description_zh": "在哥本哈根一片原有自然地上规划的木构街区，保留约 40% 的场地作为栖息地，用绿色廊道连接住宅组团，并把鸣禽和蝙蝠的巢建进墙里。",
+   "idea_en": "A new district can be planned around the wildlife already living on the site, with houses as part of the habitat.",
+   "idea_zh": "新街区可以围绕原本生活在场地上的野生动物来规划，让住宅成为栖息地的一部分。",
+   "method": "Masterplan developed with biologists and environmental engineers: three timber housing clusters, green corridors for animal movement, nest boxes in facades and ponds for amphibians.",
+   "method_zh": "与生物学家和环境工程师共同制定的总体规划：三组木构住宅、供动物移动的绿色廊道、立面中的巢箱以及两栖动物池塘。",
+   "keywords": [
+    "masterplan",
+    "timber",
+    "Copenhagen",
+    "biodiversity",
+    "nest boxes",
+    "amphibians"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2020/01/henning-larsen-faelledby-copenhagen-all-timber-neighborhood-designboom-1200.jpg"
+   ],
+   "source_url": "https://www.designboom.com/architecture/henning-larsen-faelledby-copenhagen-timber-neighborhood-01-09-2020/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "LeafEcho: AI-Mediated Expressions for Plant Perception, Attribution, and Care (OzCHI 2026, Sun, Che, Zhang, Wusihala, Migliore)",
+   "why": "OzCHI 2026 paper on AI giving plants expressive voice for care; proceedings not yet out (conference 21–25 Nov 2026)",
+   "link": "https://www.ozchi.org/2026/program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Inviting the Trouble: Children's Slow Knowledge in Food Gardens (OzCHI 2026, Yanxia Li, Brereton, Vella, Soro)",
+   "why": "children, food gardens, slow knowledge; QUT; no DOI yet",
+   "link": "https://www.ozchi.org/2026/program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Designing for Unobtrusiveness in Nature (OzCHI 2026, Piumi Perera, Wally Smith, Sarah Webber)",
+   "why": "third paper in Perera's technology–nature series; add to piumi-perera once published",
+   "link": "https://www.ozchi.org/2026/program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Growing Closer: technology-mediated nature-based play for geographically distanced families (OzCHI 2026, Atrian, Blackler)",
+   "why": "intergenerational nature play; no DOI yet",
+   "link": "https://www.ozchi.org/2026/program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Relational XR: Immersive Technologies for Indigenous Environmental Stewardship (OzCHI 2026, Manuhuia Barcham)",
+   "why": "Indigenous stewardship + XR",
+   "link": "https://www.ozchi.org/2026/program",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "MVRDV – De Oosterlingen (Amsterdam): buildings with provisions for bees, butterflies, swallows, sparrows and bats; 17-storey Swallow Tower",
+   "why": "multispecies architecture, in progress",
+   "link": "https://www.designboom.com/architecture/mvrdv-de-oosterlingen-amsterdam-oostenburg-island-06-15-2021/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "VERTICAL building, Amsterdam Sloterdijk (NL Architects, Space Encounters, i29 et al., 2023)",
+   "why": "nature-inclusive office-to-mixed-use block; needs details on species features",
+   "link": "https://www.archdaily.com/1028843/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Husos Architects – Bioclimatic Prototype of a Host and Nectar Garden Building for butterflies (Cali)",
+   "why": "multispecies architecture landmark",
+   "link": "https://www.archdaily.com/772039/bioclimatic-prototype-of-a-host-and-nectar-garden-building-husos",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "HEAD – Genève MAIA, 'No One Sees Them Like We Do: Notes on Animal Interiors' (Alcova, Milan Design Week 2026)",
+   "why": "student interiors for companion animals; find project images",
+   "link": "https://head-maia.ch/projects/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "DRS 2026 more-than-human papers not yet in the gallery: Popplow 'Forming Ecologies of Practices' (10.21606/drs.2026.284), Loubet co-elaboration (drs.2026.1458), McAra et al. 'Materialising Ecologies of Intelligence' (drs.2026.2062), Grover et al. natural-history museums (drs.2026.560), Pschetz et al. 'Temporalities of MTH Design', Siesquén Deza 'More-than-Human Inclusion' (drs.2026.2198)",
+   "why": "previous sweep covered DRS 2026 but these were not added",
+   "link": "https://dl.designresearchsociety.org/drs-conference-papers/drs2026/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Designing Temporal Ecologies (Bloomsbury 2026, ed. Larissa Pschetz) – chapters incl. 'A New Temporal Framework for More-than-Human Worlds' and 'Ghost Temporalities in Biodesign'",
+   "why": "book, mth theory",
+   "link": "https://doi.org/10.5040/9781350522329",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Biggs, Oogjes, Bardzell – 'Film in More-Than-Human Design' (Design Research Foundations, Springer 2026)",
+   "why": "book chapter, mth methods",
+   "link": "https://doi.org/10.1007/978-3-032-14200-9_7",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Marcus Foth – 'A Scientist's Warning on Smart Cities: Rethinking Urban Sustainability for More-than-Human Futures' (Journal of Urban Technology 33(1), 2026)",
+   "why": "mth theory essay; DOI not yet checked",
+   "link": "https://eprints.qut.edu.au/view/person/Foth,_Marcus.html",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pääkkönen – 'Reflexive design management for environmental empathy: placing nature as the key stakeholder' (The Design Journal 2026, 10.1080/14606925.2026.2677724)",
+   "why": "mth / strategy",
+   "link": "https://doi.org/10.1080/14606925.2026.2677724",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Metherell, Lee, McDonnell, Hahs – pattern-based approaches for ecology–design collaboration (Design Studies 2026, 10.1016/j.destud.2026.101402)",
+   "why": "ecology + design pattern languages (Melbourne biodiversity-sensitive urban design group)",
+   "link": "https://doi.org/10.1016/j.destud.2026.101402",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lene Nielsen & O. Harre – Planetary Persona Chatbots for Planetary Crisis (NordiCHI 2026 tutorial, 10.1145/3821402.3829100)",
+   "why": "non-human personas + chatbots; Non-Human Persona Perception Scale",
+   "link": "https://doi.org/10.1145/3821402.3829100",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ferati et al. – Designing the Future Forest: HCI in Forest 4.0 (NordiCHI 2026 adjunct, 10.1145/3821402.3830138)",
+   "why": "forestry HCI agenda",
+   "link": "https://doi.org/10.1145/3821402.3830138",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lu Jin et al. – emotion-adaptive eco-feedback in home personal assistants (IMWUT 2026, 10.1145/3789680)",
+   "why": "eco-feedback; energy rather than nature",
+   "link": "https://doi.org/10.1145/3789680",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Karaosmanoglu et al. – Tidy Tide ocean conservation game (CHI PLAY 2026 companion, 10.1145/3800965.3834276)",
+   "why": "serious game on ocean pollution; S2 figures exist",
+   "link": "https://doi.org/10.1145/3800965.3834276",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Vergara et al. – Adaptive gamification as a spatial interaction mechanism in citizen science (IJHCS 2026, 10.1016/j.ijhcs.2026.103957)",
+   "why": "citizen science (illegal dumping reports), not biodiversity",
+   "link": "https://doi.org/10.1016/j.ijhcs.2026.103957",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Melissa Gregg – 'A Land Ethic for AI' (Interactions 2026, 10.1145/3848643)",
+   "why": "for the AI × Nonhuman / speculation field",
+   "link": "https://doi.org/10.1145/3848643",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

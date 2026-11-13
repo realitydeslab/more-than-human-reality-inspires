@@ -1,0 +1,86 @@
+{
+ "feng-guo--brainobot": [
+  "interface",
+  "engineer"
+ ],
+ "cortical-labs--embodied-neurocomputation": [
+  "interface"
+ ],
+ "mattia-gazzola--chaos-controlled-reservoir": [
+  "interface",
+  "engineer"
+ ],
+ "the-biological-computing-co--neuron-derived-ai": [
+  "interface",
+  "translate"
+ ],
+ "daito-manabe--brain-processing-unit": [
+  "translate",
+  "co-create"
+ ],
+ "lomax-boyd--consciousness-views-biocomputers": [
+  "theorize"
+ ],
+ "asia-pacific-neuroethics-working-group--brain-organoid-recommendations": [
+  "advocate",
+  "theorize"
+ ],
+ "ritu-raman--muscle-thin-film-swimmer": [
+  "engineer",
+  "fabricate"
+ ],
+ "ritu-raman--biohybrid-tendons": [
+  "engineer",
+  "fabricate"
+ ],
+ "damien-woods--thermodynamic-dna-computer": [
+  "engineer"
+ ],
+ "keisuke-morishima--terrain-aware-cyborg-insect": [
+  "interface",
+  "co-create"
+ ],
+ "thang-vo-doan--paraborg": [
+  "interface",
+  "care"
+ ],
+ "swarm-biotactics--cyborg-insect-swarms": [
+  "interface"
+ ],
+ "electric-plant--bombadil": [
+  "translate",
+  "care"
+ ],
+ "josh-bongard--language-controlled-xenobots": [
+  "interface",
+  "translate"
+ ],
+ "andrew-adamatzky--oyster-mycelium-star-array": [
+  "translate"
+ ],
+ "andrew-adamatzky--fungal-security-resilience": [
+  "speculate"
+ ],
+ "kunal-masania--mycelium-mea": [
+  "translate",
+  "grow"
+ ],
+ "jinxing-li--mycoelectronics": [
+  "fabricate",
+  "grow"
+ ],
+ "nivedita-arora--leaf-photosynthesis-monitor": [
+  "care",
+  "interface"
+ ],
+ "yusuke-miyajima--amoeba-solver-rnn": [
+  "theorize"
+ ],
+ "hsin-yi-lin--symbiotic-forest": [
+  "translate"
+ ],
+ "seokheun-choi--villi-living-biobattery": [
+  "grow",
+  "fabricate"
+ ]
+}

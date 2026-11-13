@@ -1,0 +1,11 @@
+[
+ {
+  "id": "neurips-2026",
+  "type": "venue",
+  "en": "NeurIPS 2026 (Atlanta) — nature, animals and artificial life",
+  "zh": "NeurIPS 2026（亚特兰大）——自然、动物与人工生命",
+  "desc_en": "Papers at the 2026 Conference on Neural Information Processing Systems (Atlanta, December 2026), main track and Datasets & Benchmarks track, that deal with animal communication, wildlife and biodiversity monitoring, or artificial life.",
+  "desc_zh": "2026 年神经信息处理系统大会（NeurIPS，2026 年 12 月，亚特兰大）主会场与数据集和基准赛道中，涉及动物交流、野生动物与生物多样性监测或人工生命的论文。",
+  "url": "https://neurips.cc/Conferences/2026"
+ }
+]

@@ -2,7 +2,7 @@
 
 超越人类的设计、生物设计、人类 × 生物计算、类器官计算设计、动物-计算机交互与人与自然交互的作品目录：论文、研究原型、艺术作品和产品，由 Reality Design Lab 整理，作为设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 2319 件作品
+https://more-than-human.reality.design · 2026-11-13 · 1622 位创作者 · 2482 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -233,6 +233,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png
 - 项目主页: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
 
+#### Buitenverblijf Nest — i29 architects (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 房子的外皮可以加厚成其他物种的住所，而不改变人在里面的生活方式。
+- 作品内容: 荷兰森林中的一座小型度假屋，与 Namo Architecture 合作设计，层层错落的外墙板后面藏着供鸟和蝙蝠筑巢的空腔。
+- 实现方式: 错落的立面层在外墙板后形成空腔，抬高地板下的空间也留给动物；供人居住的面积为 55 平方米。
+- 图片: https://www.designboom.com/wp-content/uploads/2024/02/nest-house-i29-designboom-1200-1.jpg
+- 项目主页: https://www.designboom.com/architecture/shaped-like-bird-house-i29-architects-forest-folly-hides-amid-treetops-the-netherlands-02-14-2024/
+
 #### Creating with More-than-Humans — Jiabao Li (2024)
 - 类型: 论文 · 生物: 动物, 生态系统
 - 核心想法: 与其他物种共同创作，会改变我们对能动性、智能和创造力的理解。
@@ -423,6 +431,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.47982/jfde.2022.powerskin.7 (Journal of Facade Design and Engineering 2022)
 - 图片: https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg
 - 项目主页: https://doi.org/10.47982/jfde.2022.powerskin.7
+
+#### Biosphere (Treehotel) — Bjarke Ingels Group (BIG) (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 一座为人设计的建筑，也可以是鸟类密集的筑巢地，让客人睡在鸟群之中。
+- 作品内容: 瑞典 Harads 的 Treehotel 中一间悬在森林里的玻璃客房，外面包裹着由 350 个鸟屋组成的“云”，鸟屋的大小和位置依当地鸟类种群而定。
+- 实现方式: 与鸟类学家 Ulf Öhman 一起确定鸟屋的大小、开口与位置，以适合当地物种；客房悬挂在树间。
+- 图片: https://treehotel.se/media/fz1avtsp/biosphere.jpg https://www.designboom.com/wp-content/uploads/2022/06/bjarke-ingels-group-biosphere-treehouse-bird-hotel-sweden-designboom-FB.jpg
+- 项目主页: https://treehotel.se/treerooms/biosphere/
 
 #### Blue Ceramics — Rachel Ann Arredondo, Lining Yao (2022)
 - 类型: 研究原型 · 生物: 植物, 生态系统
@@ -730,6 +746,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 借鉴 Haraway、Braidotti 与“行星边界”框架的体验式教学；参与者从尿液中回收磷酸盐（很可能通过沉淀法），并反思身体与行星的新陈代谢。
 - 论文: https://doi.org/10.21606/drs.2026.1351 (DRS 2026)
 
+#### Care or Curiosity? The Talking Plant — Andreas Komninos (2026)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 给植物一个声音能引来照顾，但也可能把植物困在一个人类想象出来的“需要”里。
+- 作品内容: 给一盆办公室绿植接上湿度、光照、温度和空气湿度传感器，并让它以屏幕上的表情和大语言模型人格与同事聊天，观察大家如何照顾它。
+- 实现方式: 传感器数据经提示工程与人格映射输入大语言模型，回应以文字和动态表情显示；作为技术探针，以照护伦理的视角加以评估。
+- 论文: https://doi.org/10.1145/3822518.3830051 (SUI 2026)
+- 图片: https://figures.semanticscholar.org/38058bf473527bf2cd84b4230285282932b3ce30/4-Figure4-1.png
+
 #### Careful Configurations — Ruth Neubauer, Verena Fuchsberger (2026)
 - 类型: 研究原型 · 生物: 植物, 生态系统
 - 核心想法: 用“细心”取代“智能”：以照料与就地取材的能力衡量创新，把可行性、可持续性与合意性重新理解为关系性的能力。
@@ -792,6 +816,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3803784.3816863 (C&C 2026)
 - 图片: https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg
 
+#### Speculative Robotic Co-Design for Coastal Restoration — Marília Lyra Bergamo (2026)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 用于生态修复的机器人应为“共同生活”而设计：灵活、不打扰、能回应场地。
+- 作品内容: 研究者加入澳大利亚纽卡斯尔修复海岸沙丘的 Landcare 志愿者，与他们共同设计能协助修复、又不取代人的思辨式人工生命机器人。
+- 实现方式: 以互惠为原则的参与式设计：研究者先与志愿者一起做修复工作，再开展关于人工生命机器人的共创。
+- 论文: https://doi.org/10.1080/15710882.2026.2633239 (CoDesign 2026)
+
 #### Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds — Marcus Foth (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 有时设计的任务，是让人去适应动物。
@@ -799,6 +830,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在野生动物保护区开展的长期参与式设计田野研究。
 - 论文: https://doi.org/10.1145/3796624.3796652 (PDC 2026)
 - 图片: https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg
+
+#### Wilding Practices Through Design: Newt Habitats in a Stockholm Allotment Garden — Martín Ávila (2026)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 城市中的野性是人类控制的一道裂缝；好玩而略带含糊的人造物可以把它请进来。
+- 作品内容: 在斯德哥尔摩一处市民农园中的设计介入：为蝾螈制作的栖息物件，也引起园丁的好奇，与园艺传统产生关联，并吸引了其他物种。
+- 实现方式: 把原型当作引发跨物种相遇的符号提示，用可供性、游戏、文化遗产与元交流理论加以分析（Konstfack、赫尔辛基大学、塔尔图大学）。
+- 论文: https://doi.org/10.7764/disena.28.Article.1 (Diseña 28 (2026))
+- 项目主页: https://www.stockholmresilience.org/publications/publications/2026-03-11-wilding-practices-through-design-playful-encounters-for-reframing-control-in-multispecies-cohabitation.html
+
+#### Wildlife Tower 01 — PEARCE+ (2026)
+- 类型: 研究原型 · 生物: 动物, 昆虫
+- 核心想法: 一座结构可以叠放许多物种的家：底部是潮湿的碎石，顶部是猫头鹰巢箱。
+- 作品内容: 位于萨默塞特 Avalon 沼泽一座前奶牛场 Honeygar Farm 的木塔，为萨默塞特野生动物信托建造，供蝙蝠、仓鸮、纵纹腹小鸮、红隼、雨燕、昆虫、两栖动物和小型哺乳动物共同居住。
+- 实现方式: 主要用农场回收材料建造：松散堆砌的石材与砖石墩供蝾螈和蛇蜥栖身，层叠的落叶松木板缝隙形成檐台与空腔，上部嵌入针对不同物种的巢箱与栖箱。
+- 图片: https://media.materialdistrict.com/wp-content/uploads/2026/08/reclaimed-materials-create-a-multi-species-wildlife-tower-materialdistrict-2.webp?v=20260831094542
+- 项目主页: https://materialdistrict.com/article/reclaimed-materials-create-a-multi-species-wildlife-tower/
 
 #### Becoming compost: Fostering soil care through design practices — Annarita Bianco (2025)
 - 类型: 论文 · 生物: 生态系统, 细菌与微生物
@@ -832,6 +879,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 带传感器的活体“物民族志”探针，加半结构化访谈。
 - 论文: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
 - 图片: https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg
+
+#### Hrōst — 51 Architecture (2025)
+- 类型: 研究原型 · 生物: 动物, 昆虫
+- 核心想法: 展亭可以是一座供人参观的可拆装栖息地，而不是勉强容纳野生动物的人类遮蔽所。
+- 作品内容: 2025 年皇家艺术学院夏季展期间立于其庭院中的六米高木构展亭，首先被设计为鸟、蝙蝠、昆虫和小型哺乳动物的家，底部设有越冬巢穴。
+- 实现方式: 填充羊毛的模块化木盒、开有细缝供无脊椎动物藏身的穿孔羽边板外墙、深挑檐，以及与生态学家共同设计的筑巢空洞（结构设计 Price & Myers）。
+- 图片: https://archup.net/wp-content/uploads/2025/07/51-architecture-hrost-installation-ra-summer-exhibition-hero_dezeen_2364_col_0.jpg https://archup.net/wp-content/uploads/2025/07/image-145-1024x683.png
+- 项目主页: https://archup.net/hrost-installation-royal-academy-architecture-for-birds-bats-insects-and-humans/
 
 #### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
 - 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
@@ -1039,6 +1094,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 视频: https://www.youtube.com/watch?v=tWPiG1bRmt0
 - 项目主页: https://designmuseum.org/exhibitions/more-than-human
 
+#### Rambla Climate-House — Andrés Jaque (2022)
+- 类型: 研究原型 · 生物: 植物, 动物, 生态系统
+- 核心想法: 一座房子可以成为河谷生态系统的基础设施，让家庭的水循环服务于其他物种。
+- 作品内容: 位于西班牙 Molina de Segura 的住宅，与 Miguel Mesa del Castillo 合作设计，用雨水和灰水滋养周围重建的季节性河谷生态系统；约一年内植物和动物便回到了这里。
+- 实现方式: 雨水和灰水被引入种植的河谷台地；传感器调节湿度和电导率，使环境适合重建的生态系统。
+- 图片: https://www.designboom.com/wp-content/uploads/2022/05/rambla-climate-house-andres-jaque-office-political-innovation-designboom-FB.jpg
+- 项目主页: https://www.designboom.com/architecture/rambla-climate-house-andres-jaque-office-political-innovation-miguel-mesa-del-castillo-spain-05-16-2022/
+
 #### ReClaym our Compost: Biodegradable Clay for Intimate Making — Fiona Bell, Netta Ofer, Mirela Alistar (2022)
 - 类型: 论文 · 生物: 细菌与微生物, 生态系统
 - 核心想法: 用承载自己饮食历史、最终回归土壤的材料来制作。
@@ -1106,6 +1169,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 对农耕实践、社区营造和本地修复进行民族志研究与设计批评。
 - 论文: https://doi.org/10.1145/3411764.3445167 (CHI 2021)
 - 图片: https://figures.semanticscholar.org/ed7839dc6a0fa9bc24dd3b256e261a9dff8a7eac/7-Figure1-1.png
+
+#### Fælledby — Henning Larsen (2020)
+- 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
+- 核心想法: 新街区可以围绕原本生活在场地上的野生动物来规划，让住宅成为栖息地的一部分。
+- 作品内容: 在哥本哈根一片原有自然地上规划的木构街区，保留约 40% 的场地作为栖息地，用绿色廊道连接住宅组团，并把鸣禽和蝙蝠的巢建进墙里。
+- 实现方式: 与生物学家和环境工程师共同制定的总体规划：三组木构住宅、供动物移动的绿色廊道、立面中的巢箱以及两栖动物池塘。
+- 图片: https://www.designboom.com/wp-content/uploads/2020/01/henning-larsen-faelledby-copenhagen-all-timber-neighborhood-designboom-1200.jpg
+- 项目主页: https://www.designboom.com/architecture/henning-larsen-faelledby-copenhagen-timber-neighborhood-01-09-2020/
 
 #### LIFEBRIK — University of Cincinnati Biodesign Challenge team (2020)
 - 类型: 研究原型 · 生物: 生态系统, 植物
@@ -1175,6 +1246,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在卡塔尔和约旦的试点设施整合了蒸发式温室、太阳能和户外植被恢复地块。
 - 视频: https://www.youtube.com/watch?v=3aZ8E7hj8VU
 - 项目主页: https://www.saharaforestproject.com/
+
+#### School for Sciences and Biodiversity — Chartier Dalix (2014)
+- 类型: 研究原型 · 生物: 植物, 动物, 昆虫
+- 核心想法: 立面可以被设计成一面悬崖：粗糙、多孔，对任何到来的物种开放。
+- 作品内容: 法国 Boulogne-Billancourt 的一所学校，其混凝土外壳布满檐台、空洞和缝隙，供生物定居；多年来植物、昆虫和鸟类已在上面安家。
+- 实现方式: 带有浮雕、空腔和悬挑的预制混凝土砌块，内嵌巢箱，并有种植屋顶，供植被、昆虫、鸟类和蝙蝠使用。
+- 图片: https://www.designboom.com/twitterimages/uploads/2015/01/chartier-dalix-school-for-sciences-and-biodiversity-boulogne-billancourt-designboom-01.jpg
+- 项目主页: https://www.designboom.com/architecture/chartier-dalix-school-for-sciences-and-biodiversity-boulogne-billancourt-01-07-2015/
 
 ### 留意与调谐
 
@@ -1625,6 +1704,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在 SciComPt 2025 大会上展示三个原型，并对从业者的反思做定性分析。
 - 论文: https://doi.org/10.1145/3803784.3807552 (Creativity & Cognition 2026)
 
+#### Affective Ontological Disruption (AOD) — Katerina Malisova, Vasiliki Tsaknaki, Sarah Homewood (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 当非人类无法被观察或到场时，让设计者写下它“需要什么才能过得好”，再以此为依据进行设计。
+- 作品内容: 一种用于超越人类交互设计早期阶段的思辨式共创方法，在两场工作坊中由四个设计团队（26 人）测试，产出 22 条针对非人类存在与技术的“福祉指标”。
+- 实现方式: 四个相连的活动——“技术即存在”卡片、本体图谱绘制、思辨叙事与思辨原型——以面向对象本体论为基础，每一步以简短诊断收尾。
+- 论文: https://doi.org/10.1080/15710882.2026.2754159 (CoDesign 2026)
+
 #### Are You Blocking Nonhuman Leadership? Five Questions to Find Out — Stanislav Roudavski (2026)
 - 类型: 论文 · 生物: 动物, 植物, 生态系统
 - 核心想法: 让非人的证据引领设计决策，并检查自己的流程在哪里阻挡了它。
@@ -1660,6 +1746,20 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一篇图文论文，为一件设计物 wi-fi-no-wi-fi 绘制思辨地图，呈现它可能拥有的多种“传记”，包括材料、组合关系和多物种视角。
 - 实现方式: 通过工作坊、实证调查和思辨，为同一件物品绘出三张传记地图。
 - 论文: https://doi.org/10.1145/3800645.3812827 (DIS 2026)
+
+#### Giving Voice without Speaking For: Conversational AI and More-than-Human Representation — Adrian Wong, Tram Thi Minh Tran, Joel Fredericks (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 代表考拉的 AI 应该打开关于考拉利益的讨论，而不是假装自己就是考拉。
+- 作品内容: 一项以澳大利亚考拉保护为案例的两阶段质性研究，探讨对话式 AI 如何在利益相关者参与中代表动物和生态系统，以及它的伦理边界在哪里。
+- 实现方式: 对生态、保护、城市规划与设计领域的 22 位专家进行访谈，第二阶段检验非人类对话代理的设计考量。
+- 论文: https://doi.org/10.1016/j.ijhcs.2026.103959 (International Journal of Human-Computer Studies 2026)
+
+#### Middle-Out Design for More-than-Human Cities — Joel Fredericks, Marcus Foth, Martin Tomitsch (2026)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 处于自上而下的规划者与自下而上的社区之间的联盟，可以在城市决策中替动物发声。
+- 作品内容: 一个把人类与非人类视角纳入城市可持续规划的框架，用社区园艺、防洪韧性、袋熊康复和自适应机器人环境等案例加以说明。
+- 实现方式: “中间向外设计”把自上而下、自下而上与中介行动者的合作组织为四个迭代阶段：联盟、设计、开发与部署。
+- 论文: https://doi.org/10.1108/sasbe-09-2025-0562 (Smart and Sustainable Built Environment 2026)
 
 #### Minamata's Ecological Encounters Codesheet: Designing Remembrance Lenses through more-than-human and media archaeology — Lucas Ogasawara de Oliveira (2026)
 - 类型: 论文 · 生物: 生态系统, 人体
@@ -1765,6 +1865,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一种结合“动物书写”和自我民族志的方法，用来与令人反感的物种一起设计，把厌弃看作有生产力的力量而不是障碍。
 - 实现方式: 把动物书写与自我民族志整合进通过设计进行研究的循环。
 - 论文: https://doi.org/10.1080/15710882.2025.2563061 (CoDesign 2025)
+
+#### Embodied Multispecies Design Workshops — Ceren Ozgen, Jiabao Li (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 像另一种动物那样移动，是在设计中获得多物种共情的一条快速、身体性的途径。
+- 作品内容: 一种基于身体运动的工作坊方法：设计者先用身体探索狗、鸽子等其他动物的感官世界，再带着这种理解去设计。
+- 实现方式: 以 Uexküll 的环世界理论和 Gibson 的生态心理学为依据的身体与运动练习，以沉浸式设计工作坊形式开展（得克萨斯大学奥斯汀分校）。
+- 论文: https://doi.org/10.21606/iasdr.2025.420 (IASDR 2025)
 
 #### Embodied Vibrational Methodologies (I.N.S.E.C.T. Summer Camp) — Svenja Keune (2025)
 - 类型: 论文 · 生物: 昆虫, 植物
@@ -2158,6 +2265,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.21606/drs.2026.1325 (DRS 2026)
 - 项目主页: https://doi.org/10.21606/drs.2026.1325
 
+#### Making Nonhumans Present: Mediation and Enactment in More-than-Human Participatory Design — Hoyoung Youn (2026)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 非人类的参与总是经过中介的，因此围绕中介的保障——谁来发言、凭什么证据——与方法本身同样重要。
+- 作品内容: 对 58 篇研究（2016–2026）的系统综述，探讨非人类如何在参与式设计中被“参与”，以及当它们被翻译成人类可读的代理时会丢失什么。
+- 实现方式: 按 PRISMA 检索 Web of Science、Scopus 与 ACM 数字图书馆并追溯引用；对“使在场”机制及守门、照护劳动、数据治理等张力进行主题综合。
+- 论文: https://doi.org/10.1080/15710882.2026.2754938 (CoDesign 2026)
+
 #### Posthuman / More-than-Human Futures for XR — Jae-eun Shin (2026)
 - 类型: 论文 · 生物: 生态系统, 动物
 - 核心想法: 只要不再把逼真和控制当作默认目标，XR 就是特别适合超越人类设计的媒介。
@@ -2172,6 +2286,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一篇论文，认为生态设计始于一个介词，并提出五种立场——关于、与、为、作为、在自然之上设计——作为面对生命世界的不同自我定位方式。
 - 实现方式: 以思辨唯物主义为基础分析设计语言；提出“关系流畅度”，即察觉并转换自身立场的能力。
 - 论文: https://doi.org/10.1162/desi.a.722 (Design Issues 2026)
+
+#### The Case for Nonhuman Leadership — Stanislav Roudavski (2026)
+- 类型: 书与文章 · 生物: 动物, 昆虫, 生态系统
+- 核心想法: 从“纳入”非人类转向“跟随”非人类，会改变由谁来设定设计任务。
+- 作品内容: 发表于 Interactions 的文章，主张设计应让猛鸮、树栖白蚁等非人类主导它们赖以生存的栖息地的决策，而不仅仅是被征询意见。
+- 实现方式: 以作者为树洞依赖动物所做的栖息结构项目和超越人类的设计理论为基础展开论证；属于 Interactions 的超越人类专栏。
+- 论文: https://doi.org/10.1145/3849465 (Interactions 2026)
+- 图片: https://figures.semanticscholar.org/74b0c745a0a71967ed349bb98e6dbf62df607628/2-Figure1-1.png
 
 #### The Illusion of the Posthuman Turn in HCI — Tom Metcalfe (2026)
 - 类型: 论文 · 生物: 生态系统
@@ -2228,6 +2350,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 基于劳动理论的工作坊方法与分析框架，应用于一次合成生物学实验。
 - 论文: https://doi.org/10.1145/3706598.3713272 (CHI 2025)
 - 图片: https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg
+
+#### Roles and Purposes in More-than-Human Design: A Reflexive Design Studio — Çağlar Genç, Ferran Altarriba Bertran (2025)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 像“去中心化”这样的抽象概念，一旦落实为角色（人作为材料、非人类作为共同制作者）和目的（行动主义、共同生存）就能用于实践。
+- 作品内容: 一个设计团队以“蘑菇篮”为共同隐喻创作并反思一组概念设计，并从中提炼出超越人类设计中具体的角色与目的。
+- 实现方式: 以反思式工作室形式进行自下而上的设计研究；把设计与理论和已有工作对照，形成一个探索性框架。
+- 论文: https://doi.org/10.1145/3757980.3758003 (Academic Mindtrek 2025)
 
 #### Becoming microbes: An approach to cultivating microbial sensibilities in biodesign — Jiho Kim, Raphael Kim, Elvin Karana (2024)
 - 类型: 论文 · 生物: 细菌与微生物
@@ -2906,12 +3035,44 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3772318.3791971 (CHI 2026)
 - 图片: https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/10-Figure3-1.png https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/11-Figure4-1.png https://figures.semanticscholar.org/41639a4d9500503d7dc169fd7801b6657ba85c8d/6-Figure2-1.png
 
+#### K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos — Thomas Ploetz (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在让 AI 解读宠物的不适或驱动陪伴机器人之前，应先检验它是否看得懂狗真实的行为。
+- 作品内容: 一个基准测试用 907 段家庭狗视频上的约 5000 道问题，检验多模态 AI 模型能否看懂狗在做什么、如何互动；最先进的模型在细微姿态和多步互动序列上仍然表现吃力。
+- 实现方式: 用视觉语言模型和大语言模型流程从网络上挖掘以狗为中心的视频，生成五类任务的问答对，并加入去偏步骤，再对开源和闭源多模态模型做零样本评测。
+- 论文: https://arxiv.org/abs/2607.02680 (arXiv)
+- 图片: https://arxiv.org/html/2607.02680v1/K9_Bench_Main.png https://arxiv.org/html/2607.02680v1/figures/k9bench_frames_comparison_above_dot.jpg
+
+#### MemoryAn: A Proactive, Generative Companion Agent for Pet Bereavement — Yi-Jun Zhao (2026)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 失去宠物的哀伤常在日常习惯中重现，因此纪念物可以在那些时刻主动出现，而不是等人来访；这也带来关于同意与依赖的难题。
+- 作品内容: MemoryAn 从几张照片和主人的讲述中学习已故宠物的样子和习惯，然后自行判断在过去与它共度的时刻出现，展示生成的这只动物的图像和短视频。
+- 实现方式: 对六位失去宠物的主人做前期访谈；用照片和讲述构建“宠物身份模型”；用情境感知控制器决定主动出现的时机；用保持身份一致的图像与视频生成流程。
+- 论文: https://doi.org/10.1145/3821581.3833105 (MobileHCI 2026)
+- 图片: https://figures.semanticscholar.org/6a030fdb19774882a03b79d0e4f852f3a15a1f03/3-Figure1-1.png
+
 #### Mog on the Tyne: Cats as Neighbourhood Messengers — Dirk van der Linden (2026)
 - 类型: 论文 · 生物: 动物, 人体
 - 核心想法: 宠物追踪不必只服务主人：一只猫的路线可以把整条街连在一起。
 - 作品内容: 在英格兰东北部的访谈显示，自由走动的猫在各户人家之间传递信息，居民也对能分享邻里猫行踪的技术感兴趣。
 - 实现方式: 对不同人猫关系的半结构化访谈做反身性主题分析，并以“猫景”（catscape）概念组织讨论。
 - 论文: https://doi.org/10.1163/15685306-bja10276 (Society & Animals 2026)
+
+#### Robot Navigation and Canine Welfare — Haoxiang Zhang, Nancy Smith (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 机器人的动作不仅要让人看懂，也要让身边的动物看懂；理论上“礼貌”的动作，执行得一顿一顿时反而会变成压力源。
+- 作品内容: 一台类似送货机器人的设备在家中经过一只伴侣狗：要么直线经过，要么像狗礼貌打招呼时那样走一条保持距离的弧线；与设计者的假设相反，弧线让狗更紧张，因为机器人为了走出弧线要多次停下、转向。
+- 实现方式: 以“通过设计做研究”的方法，在自然的家庭环境中与一只伴侣狗做试点：机器人在狗的警觉距离处触发侧向弧线，并对照直线经过的基线，从视频中编码狗的应激行为。
+- 论文: https://arxiv.org/abs/2610.40921 (ACI 2026 (arXiv preprint))
+- 图片: https://arxiv.org/html/2610.40921v1/fig1.jpg https://arxiv.org/html/2610.40921v1/artifact.jpg
+
+#### Audio and Video Nearables for Monitoring Breathing in Sleeping Dogs — Andrea Aliverti (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 狗主人手中的手机就能成为家中的非接触式生命体征监测器。
+- 作品内容: 主人用智能手机拍摄或录下 27 只熟睡的狗；四种音频和视频方法估算的呼吸频率与人工计数相差约每分钟 1 到 2 次，其中侧面拍摄的视频效果最好。
+- 实现方式: 四种基于智能手机的“近身”方案（耳机麦克风、手机麦克风、俯拍视频、侧拍视频）用于估算呼吸频率，并用 Bland–Altman 分析与人工计数比较。
+- 论文: https://doi.org/10.1038/s41598-025-25305-9 (Scientific Reports)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-25305-9/MediaObjects/41598_2025_25305_Fig1_HTML.png
 
 #### DiabetiCAT — Shuyi Sun, Katia Vega (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -2920,6 +3081,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 猫砂盆漏斗中装有计时电流法葡萄糖生物传感器和恒电位仪，并可自动冲洗；水碗下有称重传感器；数据无线上传到数据库和兽医仪表板；用葡萄糖溶液、真实尿样和为期两周的个案测试。
 - 论文: https://doi.org/10.1145/3768539.3768543 (ACI 2025)
 - 图片: https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/4-Figure2-1.png https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/5-Figure4-1.png https://figures.semanticscholar.org/938d0898f0528e410a4caabf2c2101d61ed553ef/6-Figure5-1.png
+
+#### Evaluating Data Preprocessing Strategies for Canine Activity Recognition Using IMUs — Gustavo Tironi (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 那些不起眼、常常不被报告的预处理选择，决定了狗用可穿戴设备是否可靠；它们应当作为界面的一部分来设计和报告。
+- 作品内容: 研究利用两个公开的狗佩戴惯性传感器的数据集，测试按姿势剔除异常值和不同截止频率的低通滤波，会如何影响算法识别坐、站、走等活动的效果。
+- 实现方式: 在项圈和背带上的惯性传感器数据上，对比按姿势的四分位距异常值处理和巴特沃斯低通滤波，在多种分类器中的效果。
+- 论文: https://doi.org/10.1145/3768539.3768547 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/98d2eff17e3551339b15045f12e7a64fcaebbe51/4-Figure1-1.png
 
 #### Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience — Ilyena Hirskyj-Douglas, Rébecca Kleinberger (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -3247,6 +3416,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 跨物种游戏，以及陪动物玩耍、喂食或照料动物的机器人。
 
+#### A Four-Button Computerized Gaming System for Dogs — Kelley Winship (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对于鼻子和爪子不适合玻璃屏幕的动物，实体按钮可能是比触摸屏更好的游戏控制器。
+- 作品内容: 一款最初为海狮设计的屏幕游戏被改造给狗使用：一只正在受训的治疗犬不是触摸屏幕，而是学会了按显示器前一个盒子上的四个红色大按钮来玩。
+- 实现方式: 犬类实验视频丰容系统（CEVE），改编自海狮丰容系统；通过塑造法训练，并测量狗的投入程度和任务表现。
+- 论文: https://doi.org/10.3758/s13420-025-00692-1 (Learning & Behavior)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13420-025-00692-1/MediaObjects/13420_2025_692_Fig1_HTML.jpg
+
+#### Cat Royale Comprehensive Dataset — Steve Benford (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一个艺术项目的影像可以变成公共基础设施，帮助打造更懂动物的机器人。
+- 作品内容: 研究把艺术作品《Cat Royale》（机械臂陪三只猫玩耍）中 500 多小时的视频整理成带标注的数据集，包含分割掩码、猫的姿态、动作标签和文字描述，用于训练能理解动物的视觉系统。
+- 实现方式: 为 2 万帧标注实例分割掩码、为 5000 帧标注多只猫的姿态关键点、为 800 多个片段标注动作类别和文字描述，并提供基准结果。
+- 论文: https://arxiv.org/abs/2611.15601 (arXiv)
+- 图片: https://arxiv.org/html/2611.15601v1/assets/headline/segmentation.png https://arxiv.org/html/2611.15601v1/assets/headline/pose.png
+
 #### Closed-Loop Robotic Fish in a Living School — Guy Theraulaz (2026)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 让机器人加入群体、遵循群体自己的规则，才能检验这些规则到底是什么。
@@ -3500,6 +3685,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3810192 (IMWUT 2026)
 - 项目主页: https://doi.org/10.1145/3810192
 
+#### Sled Dogs as Living Technology — Tatiana Feuerborn (2026)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 驯化可以被理解为一种共同设计：工作动物既是一种技术，也是一位伙伴。
+- 作品内容: 文章认为，北极雪橇犬是人与狗共同造就的一种技术：在世代的旅行、繁育和训练中，狗、雪橇、挽具和路线知识构成了一个完整的交通系统。
+- 实现方式: 综合北极狗拉雪橇的考古学、遗传学与民族志研究进行理论分析。
+- 论文: https://doi.org/10.3390/ani16193148 (Animals)
+- 图片: https://mdpi-res.com/animals/animals-16-03148/article_deploy/html/images/animals-16-03148-g001.png
+
+#### The Search Process of Professional Detection Dog Teams — Federico Rossano (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 嗅探检测是两个物种之间的合作；测量搜索过程而不只是结果，才能看出这种合作在哪里失灵。
+- 作品内容: 研究拍摄并追踪了 37 支专业缉毒犬队在评比活动中的 109 次搜索；狗几乎靠近过每个藏匿目标的一米之内，却只在约六分之一的经过中做出指示，因此大多数漏检发生在“相遇”这一刻，而不是训导员的判断或搜索覆盖不足。
+- 实现方式: 对室外、车辆和建筑三类搜索场景（含目标与干扰物）进行录像，同步用计算机视觉追踪狗与训导员，并做连续的行为编码。
+- 论文: https://arxiv.org/abs/2610.07129 (arXiv)
+
 #### Guide Dog Pull and Pace Harness — Alper Bozkurt, David L. Roberts (2025)
 - 类型: 研究原型 · 生物: 动物, 人体
 - 核心想法: 测量把手另一端狗的那一侧，让人犬匹配既靠训导员判断，也有数据支撑。
@@ -3734,6 +3934,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3772318.3790842 (CHI 2026)
 - 视频: https://www.youtube.com/watch?v=ubS81hMRPZI
 
+#### Computerized Enrichment as Conservation Engagement: Hawaiian Monk Seal — Kelley Winship (2026)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 让动物在公众面前展现其心智的丰容，也能改变人们对这个物种的看法。
+- 作品内容: 在夏威夷 Sea Life Park，游客观看一只濒危的夏威夷僧海豹用鼻子按大按钮玩电脑游戏；在有讲解的演示之后，104 位成年人对它解决问题的能力和自己与它的联结感评分都更高。
+- 实现方式: 在公开演示中使用“围栏视频丰容系统”（屏幕加可用鼻子操作的按钮盒），并用 Wilcoxon 和 McNemar 检验分析游客的前后测问卷。
+- 论文: https://doi.org/10.3390/ani16213372 (Animals)
+- 图片: https://mdpi-res.com/animals/animals-16-03372/article_deploy/html/images/animals-16-03372-g001.png https://mdpi-res.com/animals/animals-16-03372/article_deploy/html/images/animals-16-03372-g002.png
+
 #### CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs — Jiaqi Wang, Ilyena Hirskyj-Douglas (2026)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 共享控制可以让动物园动物和人成为同一系统的共同使用者。
@@ -3749,6 +3957,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 装有传感器的模块化谜题关卡部署四周，结合人机交互和动物科学的指标进行分析。
 - 论文: https://doi.org/10.1145/3772318.3791644 (CHI 2026)
 - 视频: https://www.youtube.com/watch?v=pSsLSRJ-7JQ
+
+#### RFID Feeding Monitoring for Bird Welfare in Zoos — Joseph Krahn (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把野外追踪工具放在食槽边，就能把日常进食变成每只鸟持续的福利信号。
+- 作品内容: 这篇综述说明，在动物园多物种鸟舍的喂食点安装 RFID 读取器，可以记录哪只鸟在何时进食、吃了多久、和谁一起，让饲养员获得在大型鸟舍中难以观察的个体数据。
+- 实现方式: 综述 RFID 在野鸟研究中的应用及其向动物园鸟舍的转移，包括与秤、选择性喂食器结合，以及与人工观察的校验。
+- 论文: https://doi.org/10.3389/fetho.2026.1894883 (Frontiers in Ethology)
+- 图片: https://www.frontiersin.org/files/Articles/1894883/xml-images/fetho-05-1894883-g001.webp
 
 #### Chimpanzee Face ID for Zoo Touchscreens — Christopher Flynn Martin, Jake Peacock (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -4115,6 +4331,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1016/j.applanim.2026.106998 (Applied Animal Behaviour Science 2026)
 - 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0168159126000894-gr1.jpg https://ars.els-cdn.com/content/image/1-s2.0-S0168159126000894-ga1.jpg
 
+#### Interpreting Dolphin Vocal Sequences via Multiple Sequence Alignment — Daniel Kohlsdorf, Denise Herzing, Thad Starner (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 借用生物学家比对基因的工具，在动物的声音序列中寻找重复出现的结构。
+- 作品内容: 研究者把野生大西洋斑点海豚的录音像 DNA 序列一样进行比对，让不同相遇中的哨声和突发脉冲排在同一张图上；比对结果显示出共享的模式，例如攻击情境中同步出现的突发脉冲，这些在声谱图上很难看出来。
+- 实现方式: 把 ClustalW 渐进比对算法改造为适用于连续频谱特征向量，用高斯核相似度取代离散替换打分，并把野生海豚计划的录音可视化为多序列比对图。
+- 论文: https://arxiv.org/abs/2609.08795 (ACI 2026 (arXiv preprint))
+- 图片: https://arxiv.org/html/2609.08795v1/images/pipeline.png https://arxiv.org/html/2609.08795v1/images/alignment_path_msa.png
+
 #### Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows — Earth Species Project (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 可以通过大规模把声音映射到行为上来接近“意义”。
@@ -4246,6 +4470,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在公共水族馆中使用基于水听器的音频界面，是拟议三阶段系统的一部分。
 - 论文: https://doi.org/10.1145/3768539.3768552 (ACI 2025)
 - 视频: https://www.youtube.com/watch?v=P4oZcewlZn8
+
+#### Parrots and Starlings Imitate R2-D2 — Michelle Spierings (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一段大家熟悉的机器声音，成为公民科学家比较不同鸟类学声能力的共同测试信号。
+- 作品内容: 宠物主人录下了家中鹦鹉和椋鸟模仿《星球大战》机器人 R2-D2 的哔哔声和口哨声；椋鸟更准确地模仿了复杂的多音声音，而虹彩鹦鹉等小型鹦鹉在单音模仿上胜过非洲灰鹦鹉。
+- 实现方式: 收集九种鹦鹉和欧洲椋鸟模仿合成的 R2-D2 声音的公民科学录音，分析其对单音和多音片段的频谱模仿准确度。
+- 论文: https://doi.org/10.1038/s41598-025-23444-7 (Scientific Reports)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-23444-7/MediaObjects/41598_2025_23444_Fig1_HTML.png
 
 #### Robust detection of overlapping bioacoustic sound events — Earth Species Project (2025)
 - 类型: 论文 · 生物: 动物
@@ -4620,12 +4852,27 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1038/s41598-026-39604-2 (Scientific Reports 2026)
 - 图片: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-39604-2/MediaObjects/41598_2026_39604_Fig1_HTML.jpg
 
+#### Automated Detection of Piling in Laying Hen Flocks — Lucy Asher (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把一种罕见却致命的群体行为自动识别出来，让饲养员和研究者终于能看见它。
+- 作品内容: 一个神经网络观看商业散养鸡舍的视频，识别母鸡挤成密集一堆、可能压死同伴的“堆积”行为；在未见过的鸡群中，它识别出了约九成的堆积事件。
+- 实现方式: 用八个鸡群的标注视频帧训练 ResNet 卷积网络，在另外两个鸡群上测试，并在单帧和事件两个层面评估。
+- 论文: https://doi.org/10.1098/rsos.252462 (Royal Society Open Science)
+
 #### Behav2Need — Yiwen Dong (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 要问动物为什么这样做，而不只是做了什么：对需要建模，建筑才能回应这些需要。
 - 作品内容: 8 个产仔栏中的传感器对 82 头仔猪观察了 960 小时，一个基于动物行为学的因果模型从行为中推断饥饿、寒冷等需要，并预测它们接下来的行为。
 - 实现方式: 依据动物行为学原理构建动态因果贝叶斯网络，先验来自多模态传感数据，并随时间不断修正。
 - 论文: https://doi.org/10.1145/3744256.3812554 (BuildSys 2026)
+
+#### Do Language-Grounded Explanations Help? Sheep Facial Pain — Alam Noor (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 给农民用的福利 AI 应检验其解释是否真实，而不只是看起来是否可信。
+- 作品内容: 一个会关注耳朵、眼睛、鼻子等临床描述的绵羊疼痛检测模型看起来很“可解释”，但测试显示这些解释几乎不影响它的判断；只读取临床评分的概念瓶颈模型准确率略低，但它给出的解释真正决定了结果。
+- 实现方式: 基于“绵羊疼痛面部表情量表”文本嵌入的区域级注意力、消融测试，以及用逐区域状态标注监督的概念瓶颈分类器。
+- 论文: https://arxiv.org/abs/2609.20427 (arXiv)
+- 图片: https://arxiv.org/html/2609.20427v1/graph_overlay.png
 
 #### Drawing Attention: Sketching Penguins to Know Them — Satoshi Nakamura (2026)
 - 类型: 研究原型 · 生物: 动物
@@ -4650,6 +4897,29 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 对 22 头和 24 头牛进行野外试验（超过 1000 次接近事件），用二项广义线性混合模型分析，并在中间停顿 24 天以测试反应恢复。
 - 论文: https://doi.org/10.64898/2026.08.12.744347 (bioRxiv 2026)
 - 图片: https://www.biorxiv.org/content/biorxiv/early/2026/08/17/2026.08.12.744347/F1.large.jpg https://www.biorxiv.org/content/biorxiv/early/2026/08/17/2026.08.12.744347/F2.large.jpg
+
+#### Pigeons and the RobotFalcon — Dimitri Giunchi (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 机器人捕食者可以成为一种精确而无害的工具，用来探究动物如何记住危险。
+- 作品内容: 一只外形像游隼的飞行机器人在归巢鸽的常用路线上反复“袭击”佩戴 GPS 的鸽子；鸽子在接近它时会降低飞行高度，但并没有改变路线，即使之后机器人不在时也是如此。
+- 实现方式: 让佩戴 GPS 记录器、经验丰富的归巢鸽在固定归巢路线上遭遇遥控 RobotFalcon 的模拟袭击，并比较暴露飞行与对照飞行的路径和高度。
+- 论文: https://doi.org/10.1016/j.anbehav.2026.123698 (Animal Behaviour)
+
+#### Reef Fish Response to Biomimetic and Conventional Underwater Robots — Zach J. Patterson, Daniela Rus (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 监测机器人本身也是场景中的“一只动物”；它的外形和动作应根据其他物种如何解读它来设计。
+- 作品内容: 在加勒比海的一片珊瑚礁上，研究比较了鱼群在螺旋桨推进的水下机器人、带鳍的仿海龟机器人和人类潜水员周围的行为；两种机器人都会改变鱼的行为，仿海龟的略少，而潜水员的干扰最大。
+- 实现方式: 在珊瑚礁生物多样性热点处，分别让两种潜航器和潜水员沿样线行进，并用计算机视觉定位图像中的鱼、量化其行为变化。
+- 论文: https://arxiv.org/abs/2609.22594 (arXiv)
+- 图片: https://arxiv.org/html/2609.22594v1/figures/robots.png
+
+#### Thermal-Drone Fawn Rescue — Rehkitzrettung Schweiz (2026)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 现成的廉价传感器加上志愿者网络，就能把日常农活变成对野生动物的照护。
+- 作品内容: 在农民割草之前，志愿者队伍在清晨用带热成像相机的无人机飞过草地，找到藏在草中的小狍子温热的身体，把它们抱出田地；2026 年季节里约 800 支队伍在瑞士救下了创纪录的 7590 只幼崽。
+- 实现方式: 带热成像的无人机在凉爽的清晨飞过草地（约三分钟一公顷），此时幼崽的体温最为显眼；志愿者与农民和猎人协调，在割草前把幼崽移走。该组织在 ACI 2026 上做了现场演示。
+- 图片: https://www.srf.ch/static/cms/images/960w/b00b76.jpg https://www.robophilosophy.com/wp-content/uploads/2026/10/Little_Deer.jpg
+- 项目主页: https://www.srf.ch/news/schweiz/800-teams-im-einsatz-freiwillige-retten-7590-rehkitze-vor-dem-maehertod
 
 #### Welfare of Cows under Halter Virtual Fencing — Megan Verdon, Halter (2026)
 - 类型: 论文 · 生物: 动物
@@ -4707,6 +4977,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3768539.3768546 (ACI 2025)
 - 图片: https://figures.semanticscholar.org/a710764e8f47c5d6c1e4698c6fac038b8bacffe0/3-Figure2-1.png https://figures.semanticscholar.org/a710764e8f47c5d6c1e4698c6fac038b8bacffe0/4-Figure3-1.png
 
+#### Edge-Native, Behavior-Adaptive Drone System for Wildlife Monitoring — Tanya Berger-Wolf (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 给无人机操作者一个实时的动物压力读数，让“靠近拍到好数据”不以动物的平静为代价。
+- 作品内容: 无人机拍摄兽群时，机载 AI 监看每只动物的警觉状态并汇总成群体压力分数，在动物逃跑之前提醒操作者，让无人机及时后撤。
+- 实现方式: 在边缘 GPU 上运行 YOLOv11m 检测和 YOLO-Behavior 行为分类，每帧处理控制在 33 毫秒内，并汇总为可由操作者调节阈值的分级警报。
+- 论文: https://doi.org/10.1145/3769102.3774245 (ACM/IEEE SEC 2025)
+- 图片: https://figures.semanticscholar.org/0bc01464355674732ccbf92c46d3c4295ae0c9bf/1-Figure1-1.png
+
 #### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 通过聆听每一只羊来理解整个羊群。
@@ -4729,6 +5007,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一台四足机器人在牛群和鸡群中行走，并在机身上实时识别动物的动作，以便在动物—机器人互动中根据动物的行为做出反应。
 - 实现方式: YOLO-Cow 和 YOLO-Chicken 检测器加上蒸馏后的动物动作识别模型 DARTEMIS，通过 Redis 连接，全部在机器人上运行。
 - 论文: https://doi.org/10.1002/rob.70123 (Journal of Field Robotics 2025)
+
+#### VibraFarrow: Pig Farrowing Time Prediction Using Ambient Floor Vibrations — Hae Young Noh (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 建筑本身就能感知动物的状态，不必触碰她的身体，也不打扰她的夜晚。
+- 作品内容: 安装在分娩栏地面上的传感器捕捉母猪筑窝、翻身时产生的振动，模型据此预测她是否会在 20 小时内分娩；无需夜间需要照明的摄像头，也无需容易被猪弄坏的可穿戴设备。
+- 实现方式: 在商业分娩栏中用地面振动传感，并构建能处理与环境噪声混杂、时断时续的分娩前行为的模型。
+- 论文: https://doi.org/10.1145/3736425.3772100 (BuildSys 2025)
 
 #### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
 - 类型: 思辨设计 · 生物: 动物
@@ -5002,6 +5287,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 把动物当作参与者来设计的宣言、伦理框架与方法。
 
+#### A Step Too Far? Robots in the Human–Animal Relationship in Agriculture — Robert Sparrow (2026)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 把动物照料自动化，也是在决定谁对动物负责，以及人的共情是否属于动物福利的一部分。
+- 作品内容: 在 12 场对话小组和两场社区陪审团中，澳大利亚公众讨论了由机器人接管日常动物照料的农场；大多数人拒绝让人完全不再接触农场动物。
+- 实现方式: 通过审议式公众参与（2023–2025 年的对话小组和社区陪审团）分析人们接受农业机器人背后的价值观。
+- 论文: https://doi.org/10.3390/ani16182830 (Animals)
+
 #### Biocentric Design for Animal Cognition Research — Ilyena Hirskyj-Douglas (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 先按动物的身体和习性设计测试，数据质量和福利都会更好。
@@ -5023,6 +5315,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一项关于土耳其社区动物权益活动者的研究：他们抵制一项把街头动物从公共空间清除的新法律，研究从“替动物发声”的张力中提炼设计机会。
 - 实现方式: 对活动者开展质性研究，并从多物种正义与照护的角度分析。
 - 论文: https://doi.org/10.1145/3800645.3812970 (DIS 2026)
+
+#### Why Do So Few Dog Studies Use Touchscreens? — Friederike Range (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 为灵长类设计的触摸屏并不适合狗的感知世界；需要开放、共享、以狗为中心的设计，才能真正减少实验者偏差。
+- 作品内容: 一项系统综述发现，狗认知研究中只有 14 项使用了触摸屏，并把这一空白归因于技术、实践以及狗自身的障碍，例如狗会用爪子而不是鼻子去点屏幕。
+- 实现方式: 系统文献综述：统计狗行为与认知论文中使用触摸屏方法的情况，对障碍进行分类，并提出对策（开源工具、多实验室合作、契合狗感知世界的硬件）。
+- 论文: https://doi.org/10.1007/s10071-026-02055-3 (Animal Cognition)
+- 图片: https://www.vetmeduni.ac.at/fileadmin/_processed_/4/3/csm_Screenshot_2026-06-10_135155_0cc68a5b79.jpg https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-026-02055-3/MediaObjects/10071_2026_2055_Fig1_HTML.png
+- 项目主页: https://www.vetmeduni.ac.at/en/research/research-news/tech-smart-dogs-are-touchscreens-revolutionising-behavioural-research
 
 #### 'Choice' and 'Control' in ACI Publications — Christena Nippert-Eng (2025)
 - 类型: 论文 · 生物: 动物
@@ -5068,6 +5369,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一篇哲学论文，指出动物—计算机交互常把物种、品种以及“野生动物”这类标签当作固定的自然类别；如果采用社会建构论视角，动物技术就能揭示而不是强化这些类别是如何被制造出来的。
 - 实现方式: 借用 Sally Haslanger 和 Ian Hacking 分析社会建构类别的方法，对动物—计算机交互研究做概念分析。
 - 论文: https://doi.org/10.1145/3768539.3768554 (ACI 2025)
+
+#### Who Cares for Happy Cows? An Imaginary Welfare Monitoring Tool — Gabriela Olmos Antillón (2025)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 一个尚未造出的传感器可以作为设计探针，揭示动物福利技术将依赖谁的照护、能动性和责任。
+- 作品内容: 瑞典的奶农、顾问、行业专家和精准养殖经理围绕一个想象中的、能自动给奶牛福利打分的工具展开讨论；农民关心舒适度指标却缺乏行动条件，而其他相关方把他们的不作为解读为冷漠。
+- 实现方式: 围绕一个思辨性的自动化动物福利评估工具，开展七场线上焦点小组的迭代式定性研究，并用反思性主题分析整理结果。
+- 论文: https://doi.org/10.3389/fvets.2025.1704112 (Frontiers in Veterinary Science)
+- 图片: https://www.frontiersin.org/files/Articles/1704112/xml-images/fvets-12-1704112-g001.webp
 
 #### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
 - 类型: 论文 · 生物: 动物
@@ -5298,6 +5607,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 让人慢下来，去注意、关注并感到与自然相连的设计。
 
+#### From Signals to Connection: Physiological Markers of Human–Nature Connectedness — Olivia Brunet (2026)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 与自然的联结感仍然最好通过询问人来获得；身体信号能补充一点，但替代不了主观体验。
+- 作品内容: 一项研究尝试从在高山环境中记录的生理、脑电与眼动数据，推断人们与自然的联结感和对自然的共情。
+- 实现方式: 用逻辑回归模型比较自评量表与多模态生理、神经和注视特征，并按生态学知识进行特征选择。
+- 论文: https://doi.org/10.1145/3776574.3831195 (ICMI 2026)
+- 图片: https://figures.semanticscholar.org/663b753424735aba05ef7820376a79fa251fee44/3-Figure1-1.png
+
 #### GreenCompass — Zhuying Li (2026)
 - 类型: 研究原型 · 生物: 植物, 生态系统
 - 核心想法: 与自然的联结可以编织进城市生活的零碎时刻，而不必等到一次远行。
@@ -5343,6 +5660,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 经问卷（N=162）、访谈（N=18）以及与认养者和保护机构员工的共同设计形成应用；30 天实地部署，结合日志、每周问卷和结束访谈。
 - 论文: https://doi.org/10.1145/3772318.3791289 (CHI 2026)
 - 图片: https://figures.semanticscholar.org/536dd9214ba0dfdeb9a8956b100c139716fcd06c/7-Figure2-1.png
+
+#### Windborne — Keith Evan Green (2026)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 医院里的设计可以照顾病人此刻的情绪与关系，而不只是想办法“修复”病情。
+- 作品内容: 一件用于医院床边的装置，把看不见的风变成光和肥皂泡：病人和访客挥手或移动时，圆盘发光并吹出泡泡，像被风带走的蒲公英种子。
+- 实现方式: 手势感应驱动蒲公英形面板上的 LED 灯光和吹泡器；以女性主义照护伦理为框架，为不同身体能力的人提供开放、含糊的反馈。
+- 论文: https://doi.org/10.1145/3776574.3832531 (ICMI 2026)
+- 图片: https://figures.semanticscholar.org/2f22ef50e18f4255bbae600f332b638f3c140faf/1-Figure1-1.png https://figures.semanticscholar.org/2f22ef50e18f4255bbae600f332b638f3c140faf/1-Figure2-1.png
+
+#### Designing for Children's Nature Play and Place Attachment — Chimi Om (2025)
+- 类型: 论文 · 生物: 生态系统, 植物
+- 核心想法: 面向儿童与自然的技术应支持对某个具体地方的依恋，这种依恋来自反复的、身体性的玩耍。
+- 作品内容: 在一所幼儿教育中心进行的观察研究，追踪幼儿如何在自然场所中玩耍并与之建立情感，进而提出技术设计方向。
+- 实现方式: 参与式观察、照片发声与探针活动，结合“童年地方依恋”理论解读；提出四个设计方向。
+- 论文: https://doi.org/10.1145/3764687.3764721 (OzCHI 2025)
 
 #### How Can Interactive Technology Help Us to Experience Joy With(in) the Forest? — Ferran Altarriba Bertran (2025)
 - 类型: 论文 · 生物: 植物, 生态系统, 人体
@@ -5518,6 +5850,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 为步道、森林、公园、山地和水域设计的交互。
 
+#### "There is no such thing as barrier-free nature": Information, Trust, and Self-Determined Access to Nature — Katta Spiel (2026)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 进入自然不是路线上的“无障碍”标签，而是持续的个人判断；技术应当提供信息，而不是替人做决定。
+- 作品内容: 对 12 位使用轮椅、经验丰富的户外爱好者进行访谈，了解他们如何判断、准备和协商进入自然的行程。
+- 实现方式: 专家访谈与反思性主题分析，提出“户外信息生态”模型（路线、身体、辅具、支持），解释自主的出行决定。
+- 论文: https://doi.org/10.1145/3797867.3829028 (ASSETS 2026)
+
 #### An Otter Delight: Speculative Design for Outdoor Recreation Technology — Bhavani Seetharaman (2026)
 - 类型: 思辨设计 · 生物: 动物, 生态系统
 - 核心想法: 把人引入自然的休闲应用，也可以引导人们分享自然；可以把公地理论当作设计透镜。
@@ -5539,6 +5878,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一项关于徒步与背包旅行的回顾性自我民族志：装备、应用、路标乃至步道本身都把自然框定为与人分离的东西，而天气、广阔的地景和脆弱的身体却不断迫使徒步者留意超越人类的世界。
 - 实现方式: 以“迷失”为方法透镜，对多次徒步进行第一人称回顾性自我民族志。
 - 论文: https://doi.org/10.1145/3800645.3812833 (DIS 2026)
+
+#### Location-Anchored Asynchronous Guide for Outdoor Plant Exploration — Takeru Yazaki (2026)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 在户外导览中，真正的焦点是植物本身，所以知识应该留在植物身边，而不是只跟着走在最前面的导览员。
+- 作品内容: 一个用于植物园漫步的移动原型：导览员在每株植物旁录制短视频，并钉在那个确切位置，后面的访客可以稍后边看视频边触摸真实的植物。
+- 实现方式: 手机配合 RTK-GNSS 高精度定位；视频作为位置锚点上传，在 5 米内以振动和声音提示播放；在植物园工作坊中测试。
+- 论文: https://doi.org/10.1145/3821581.3833100 (MobileHCI 2026)
+- 图片: https://figures.semanticscholar.org/0c34e13c31c015ccea1537ad61c31d5351173c2b/5-Figure3-1.png
 
 #### Technology for Joyful and Caring Human–Forest Interactions — Ferran Altarriba Bertran (2026)
 - 类型: 论文 · 生物: 植物, 生态系统
@@ -5649,6 +5996,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 ### 公民科学与自然观察
 
 让人识别、记录和监测物种与生态系统的工具。
+
+#### ALA Lens: Designing for Biodiversity Data in Place — Mitchell Whitelaw (2026)
+- 类型: 研究原型 · 生物: 动物, 植物, 昆虫
+- 核心想法: 生物多样性界面决定人们会注意到什么；凸显本地特有的物种，会把注意力引向地方与自然恢复。
+- 作品内容: 为澳大利亚生物图集设计的实验性界面：对任意地点，展示最能代表该地的物种，而不是被记录最多的物种，并把记录理解为人、物种与地方之间的相遇。
+- 实现方式: 在生物图集的物种出现记录上应用一种计算“本地特有物种”的定量方法，结合设计、数字人文、批判数据研究与科技研究方法开发（澳大利亚国立大学、CSIRO）。
+- 论文: https://doi.org/10.1002/pan3.70384 (People and Nature 2026)
+- 图片: https://labs.ala.org.au/images/homepage/lens-bubble-image.png
+- 项目主页: https://labs.ala.org.au/
 
 #### Bionest — Katarina Gessner (2026)
 - 类型: 研究原型 · 生物: 生态系统, DNA 与分子
@@ -5851,6 +6207,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 用于种植食物和植物、并在日常中照料它们的技术。
 
+#### "We Belong to the Land": Aesthetic Experience in Urban Farming — Feifei Pang (2026)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 可持续不只是要达成的目标，而是一种持续的“维系”实践，通过调谐与节奏被感受。
+- 作品内容: 一项对小规模城市农民的实证研究，不把农业看作优化问题，而是看作维系土地、邻里与生计的日常劳作。
+- 实现方式: 以杜威的审美经验为视角的质性研究：调谐、节奏、表现形式与圆满。
+- 论文: https://doi.org/10.1145/3817035 (CSCW 2026 (PACM HCI))
+- 图片: https://figures.semanticscholar.org/75d9db381fa549f599a597634d85d3329f0caaca/6-Figure1-1.png
+
 #### Children's Slow Noticing in Food Gardens — Yanxia Li, Margot Brereton (2026)
 - 类型: 论文 · 生物: 植物, 昆虫, 生态系统
 - 核心想法: 通过支持三种留意方式——聚焦的、关系的、时间的——来设计儿童与自然的联结。
@@ -6048,6 +6412,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 多模态接触感测（振动、表面导电性、植物生物电）映射为声音与触觉反馈；设计了在森林中移动时的多种交互模式；在森林疗愈基地进行试点研究。
 - 论文: https://doi.org/10.1145/3802974.3808685 (DIS 2026 Companion)
 
+#### Infinite Bloom — Kalvin (Ka Kei) Lee (2026)
+- 类型: 研究原型 · 生物: 生态系统, 动物, 植物
+- 核心想法: 让手势对应非人类身体的形态与用力方式，是体会“成为别的存在”的一种途径。
+- 作品内容: 一款探索型 VR 游戏：玩家在五个世界里化身为尺度与能动性迥异的非人类存在，从宇宙到动植物之岛，用上半身手势来行动。
+- 实现方式: 面向 VR 头显的实践型游戏设计：为每种存在调整手势控制，并用空间设计改变玩家的尺度感。
+- 论文: https://doi.org/10.1145/3800965.3834480 (CHI PLAY 2026 Companion)
+- 图片: https://figures.semanticscholar.org/6d981dc4f8516401e6ac5a156cd007762eda5bcb/4-Figure2-1.png https://figures.semanticscholar.org/6d981dc4f8516401e6ac5a156cd007762eda5bcb/4-Figure3-1.png
+
+#### Pawspective: Reciprocal Role-Swapping in an Asymmetric VR Game for Cross-Species Empathy — Lik-Hang Lee (2026)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 当你同时经历相遇的两端，而不只是动物的视角时，对动物的共情会更强。
+- 作品内容: 一款设在模拟城市中的双人 VR 游戏：一人扮演时间和金钱都紧张的上班族，另一人扮演受伤的流浪狗，彼此的选择影响对方的命运；随后双方交换角色。
+- 实现方式: 非对称多感官 VR，为狗和人设计不同的视听模式（如狗的色觉与低视角）；32 人参与的平衡交换角色实验。
+- 论文: https://doi.org/10.1145/3767308.3835506 (ACM MM 2026)
+- 图片: https://figures.semanticscholar.org/13cfa1b8d7e2dc3a292f23d4dea85117846aadfc/2-Figure1-1.png
+
 #### Perch: Seeing with a Bird's Perception — Shuran Fan (2026)
 - 类型: 研究原型 · 生物: 动物, 生态系统
 - 核心想法: 借用另一个物种的注意力，而不是它的视野，作为通往日常自然的安静引导。
@@ -6063,6 +6443,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在虚拟现实中使用具身与尺度变换机制；以知识测试、标准态度量表、观察和访谈进行混合方法评估。
 - 论文: https://doi.org/10.1145/3772318.3790443 (CHI 2026)
 - 图片: https://figures.semanticscholar.org/0654c006efd56687133bec6a19f952ee27eef279/5-Figure1-1.png
+
+#### To be Non-human: From Player Reviews to Design Opportunities for VR Animal Games — Siqi Yu (2026)
+- 类型: 论文 · 生物: 动物, 昆虫
+- 核心想法: 在 VR 中“成为动物”，靠选择性模仿和辅助控制比完整模拟动物身体更有效。
+- 作品内容: 研究让玩家化身动物的 VR 游戏：分析了 48 款游戏的 170 条玩家评论，再通过六场共创工作坊提出 12 个设计机会。
+- 实现方式: 对 Steam、PSVR 和 Meta Quest 评论做主题分析，归纳出四类交互，再以工作坊（18 人）讨论动物特征、控制映射与角色扮演。
+- 论文: https://doi.org/10.1145/3831351 (CHI PLAY 2026 (PACM HCI))
+- 图片: https://figures.semanticscholar.org/7ffa6bf22cb312c8dde1a6341e87de1f85e79210/13-Figure3-1.png
 
 #### FeltSight: Becoming Mole — Danlin Huang, Botao Amber Hu (2025)
 - 类型: 艺术作品 · 生物: 动物, 植物
@@ -6199,6 +6587,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 让空气、水、土壤、气候和生物多样性的数据在日常生活中被感受到。
 
+#### Bear-ing the Burden: Affective Eco-Feedback for Sustainable LLM Use — Jill Ashley Okonji (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一只因你的行为而明显受苦的动物能改变行为，而数字只能提高意识。
+- 作品内容: 在大语言模型聊天界面中，一只动画熊会随着用户不断提问而作出反应；研究把它与单纯的资源数字和无反馈两种情况作比较。
+- 实现方式: 混合方法用户研究（30 人），在重复的文本生成任务中设三种条件：标准界面、理性生态反馈、以熊形象呈现的情感生态反馈。
+- 论文: https://doi.org/10.1145/3829807.3829859 (NordiCHI 2026)
+
 #### Noondawind — Julia McKenna (2026)
 - 类型: 研究原型 · 生物: 植物, 生态系统
 - 核心想法: 环境数据平台可以围绕原住民与一种植物的关系、围绕数据主权来构建。
@@ -6206,6 +6601,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 以奥吉布瓦世界观为基础，按发现、定义、开发、交付的迭代参与式设计；平台把微气候传感器数据与政策和治理工具连在一起。
 - 论文: https://doi.org/10.1145/3772318.3791870 (CHI 2026)
 - 图片: https://figures.semanticscholar.org/9435fc03adc426239c1a45871837c07b1e1b5bcb/5-Figure3-1.png https://figures.semanticscholar.org/9435fc03adc426239c1a45871837c07b1e1b5bcb/8-Figure5-1.png
+
+#### Whale You Go Green? Embodied Conversational AI Avatars and Pro-Environmental Attitudes — Pat Pataranutaporn (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一个以受影响者身份说话的非人类，说服力可以与名人相当，而且对态度的影响可能更持久。
+- 作品内容: 一项随机实验（576 人）：参与者先与白鲸、Greta Thunberg、Emma Watson 或普通人的 AI 化身，或文字聊天机器人对话，再选择商品并回答态度问题；两个月后有 287 人回访。
+- 实现方式: 基于大语言模型的具身对话代理，采用不同说服策略（受影响非人类的证言、名人影响、道德榜样）；测量可持续商品选择与亲环境态度；麻省理工学院媒体实验室。
+- 论文: https://arxiv.org/abs/2610.33191 (arXiv 2026)
+- 图片: https://arxiv.org/html/2610.33191v1/figures/teaser_figure_beluga_1_comp.png
 
 #### (Un)-blanketing Indigenous Climate Change Indicators — Lizette Reitsma (2025)
 - 类型: 论文 · 生物: 生态系统
@@ -6399,6 +6802,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 被渲染、模拟或增强的自然：虚拟森林、数字孪生、生成式生态系统、技术化的自然。
 
+#### Digital Nature in the Intensive Care Unit — Geke Ludden (2026)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 播放的自然影像能让重症病人放松，也能打开与护士的交谈，但需要随病人康复中的变化而调整。
+- 作品内容: 对“数字自然”的案例研究：这是一套在重症监护室为病人 24 小时播放的虚拟自然环境，研究访谈了病人和重症监护护士。
+- 实现方式: 单中心混合方法案例研究，结合病人指标与对病人和护士的半结构化访谈（Erasmus MC、特温特大学）。
+- 论文: https://doi.org/10.1145/3821402.3830108 (NordiCHI 2026 Adjunct)
+
+#### Experiencing Nature Seasons in Virtual Reality in Winter Outdoors — Jonna Häkkilä (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 虚拟自然是用整个身体感受的：头显周围的冷空气、雪与风都会成为体验的一部分。
+- 作品内容: 参与者分别在积雪的滑雪场和室内实验室里观看虚拟冬景和虚拟夏景，以了解真实环境如何改变虚拟自然的体验。
+- 实现方式: 一项 2×2 野外 VR 研究（冬/夏场景 × 户外/室内环境），测量沉浸感、临场感与多感官体验；拉普兰大学。
+- 论文: https://doi.org/10.1145/3821581.3833116 (MobileHCI 2026)
+- 图片: https://figures.semanticscholar.org/9afc26f23ea5c3ad089f012a05381e156429ec79/3-Figure2-1.png
+
 #### GreenAR: Restoring Urban Natural Soundscapes with Personal Audio AR — Mike Y. Chen (2026)
 - 类型: 研究原型 · 生物: 动物, 昆虫, 植物
 - 核心想法: 补回消失的自然声音，能让人既注意到身边的绿地，也注意到缺失的绿地。
@@ -6422,6 +6840,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 用手机采集自然物并转成可交互的 3D 模型，在虚拟现实中协作布置；为期两周的被试内研究测量了自然联结、情绪调节与社会亲密感。
 - 论文: https://doi.org/10.1145/3772318.3790465 (CHI 2026)
 - 图片: https://figures.semanticscholar.org/16b5b03c79f14ae85b83adbf73971706aac28261/6-Figure3-1.png https://figures.semanticscholar.org/16b5b03c79f14ae85b83adbf73971706aac28261/5-Figure2-1.png
+
+#### Out of the Woods, and Into the Screens: Playful Engagements with Virtual Nature — Bakhtawar Aurangzeb Khan, Ferran Altarriba Bertran (2026)
+- 类型: 论文 · 生物: 生态系统, 植物
+- 核心想法: 人们把虚拟自然和真实自然看作一个连续体：游戏是尝试生态行动、再加以反思的安全空间。
+- 作品内容: 对 21 位在游戏中与虚拟自然玩耍的人进行访谈，探讨他们如何把这些体验与真实的森林、动物和风景联系起来。
+- 实现方式: 半结构化访谈加反思性主题分析，得出面向“反思性人–自然游戏”的设计考量。
+- 论文: https://doi.org/10.1145/3831307 (CHI PLAY 2026 (PACM HCI))
+
+#### Rethinking Generic Nature: Terrain Authenticity in Indigenous Language-Learning Virtual Environments — Amy Ulinski Banic (2026)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 虚拟世界里的自然从来不是通用的：对语言和土地来说，承载意义的是那个具体的地方。
+- 作品内容: 一篇关于学习拉科塔语和皮拉加语移动动词的虚拟环境的立场论文：这些环境应重建社区真实的地标、植物和动物，而不是通用的森林地形。
+- 实现方式: 借助基于地标的寻路研究，提出“地形真实性”（虚拟环境的地标、动物与生物多样性与社区地理的吻合程度）作为设计标准。
+- 论文: https://doi.org/10.1145/3822518.3839319 (SUI 2026)
+- 图片: https://figures.semanticscholar.org/6c5f5c70f2ad512d2ca6ea2951235cff14b53868/2-Figure1-1.png
 
 #### Biotopia — Marta Galvão Ferreira (2025)
 - 类型: 研究原型 · 生物: 生态系统, 植物, 动物
@@ -6726,6 +7159,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png
 - 项目主页: https://artifact-archive.org
 
+#### Towards Reciprocity: Mediating Human-Nature Relations Through HCI — Piumi Perera (2025)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 面向自然的技术应从向自然索取体验与数据，转向与自然建立互惠关系。
+- 作品内容: 报告一场工作坊：人机交互研究者与从业者为不同的自然空间进行设计，以揭示面向自然的技术中的张力。
+- 实现方式: 分析工作坊中的设计活动，识别挑战、尚未充分探索的应用领域，以及借鉴超越人类方法与关系本体论的方向。
+- 论文: https://doi.org/10.1145/3764687.3769939 (OzCHI 2025)
+
 #### Phenology Circles: A Method to Deepen Relations in More-Than-Human Design Processes — Margot Brereton (2024)
 - 类型: 论文 · 生物: 植物, 昆虫, 生态系统
 - 核心想法: 一起留意季节变化的共同实践，能在设计工作周围加深设计者与其他物种的关系。
@@ -6875,6 +7315,30 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 用真菌菌丝体生长出的物件、包装、皮革和建筑。
 
+#### Bar Mycelium — Dasha Tsapenko (2026)
+- 类型: 艺术作品 · 生物: 真菌
+- 核心想法: 给真菌一份“乐谱”而不是模具：设定条件，让生长书写空间。
+- 作品内容: 在 2026 荷兰设计周开幕前五周里，用菌丝体和蘑菇“长”出来的一间酒吧，从吧台到鸡尾酒杯都由真菌长成，位于埃因霍温 MU Hybrid Art House。
+- 实现方式: 以 Tsapenko 的“Scores for Growth”方法为框架，真菌学家 Pim van de Noort 引导菌丝体在设计好的结构中生长，生物技术专家 Nick van Biezen 提供真菌发酵染料。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/barmycelium-main-02_1792010712_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-website-1920x1080-03_1790857737_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/bar-mycelium-1
+
+#### Bio-Luxe | Bio-Lithic mycelium surfaces — Mush Composites (2026)
+- 类型: 产品与平台 · 生物: 真菌
+- 核心想法: 与其开采石头，不如把石头的质感长出来。
+- 作品内容: 一组用菌丝体和农业副产品长成的类石材建筑饰面，比所模仿的石材更轻，于 2026 米兰设计周发布。
+- 实现方式: 让菌丝体在计算设计的模具（“Bio-Resolved Parametric Formwork”）中以农业废料为基质生长，干燥后成为整体板材。
+- 图片: https://media.materialdistrict.com/wp-content/uploads/2026/04/mush-composites-introduces-bio-luxe-mycelium-grown-architectural-surfaces-with-reduced-weight-materialdistrict-6.jpg?v=20260423090728 https://media.materialdistrict.com/wp-content/uploads/2026/04/mush-composites-introduces-bio-luxe-mycelium-grown-architectural-surfaces-with-reduced-weight-materialdistrict-2.jpg?v=20260423090728
+- 项目主页: https://materialdistrict.com/article/mycelium-grown-bio-luxe-surfaces-redefine-lightweight-architectural-design/
+
+#### Fungal Bouquets — Bianca Isabel Young Co (2026)
+- 类型: 艺术作品 · 生物: 真菌
+- 核心想法: 设计的不是物件，而是一顿饭：只有真菌能把这些富碳的“棕色料”变成土壤。
+- 作品内容: 三束由树皮、纸和木材组成的雕塑“花束”，各代表真菌的一个繁殖阶段；野生真菌在其上定殖，慢慢把它们变成色彩斑斓的真菌花园。展于 2026 荷兰设计周。
+- 实现方式: 把多孔、富碳的植物材料组合成真菌的食物；真菌将其分解为腐殖质，过程中颜色与质地不断变化。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/biancaisabelyoungco-fungalbouquets-cfemkereijerman_1790697321_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/img-6486-2-small_1790697357_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/fungal-bouquets
+
 #### Living mycelium membranes — Claudia Colmo (2026)
 - 类型: 论文 · 生物: 真菌
 - 核心想法: 一种保持存活的材料，可以通过“告诉它在哪里重新生长”来做出图案。
@@ -6890,6 +7354,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 接种后的织物在模具中定形，菌丝体在长满纤维时把它们黏结在一起。
 - 图片: https://content.gp-award.com/assets/media/award26/0-mycelium-fiber_1_blogLarge.jpg https://content.gp-award.com/assets/media/award26/2-mycelium-fiber_1_blogLarge.jpg
 - 项目主页: https://www.gp-award.com/en/projects/mycelium-fiber
+
+#### Mycelium door — Studio Det Levende Hus (2026)
+- 类型: 产品与平台 · 生物: 真菌
+- 核心想法: 日常建筑构件的芯材可以长出来，而不是胶合出来。
+- 作品内容: Studio Det Levende Hus 与 Rebound 开发的室内门：门芯是在模具中长成的菌丝体板，门框用 Dinesen 的回收橡木边角料制成；两家称其为首款量产菌丝体门，首先用于丹麦 Kaerhytten 住宅项目。
+- 实现方式: 让菌丝体在模具里的有机基质上生长成硬质板，烘干后装框；设计目标是满足丹麦防火与防潮标准。
+- 图片: https://static-2026.dezeen.com/uploads/2026/03/rebound-det-levende-hus-worlds-first-mass-produced-mycelium-door-hero.jpg https://media.materialdistrict.com/wp-content/uploads/2026/03/mycelium-door-introduces-scalable-biobased-alternative-for-interior-architecture-materialdistrict-4.jpg?v=20260323155156
+- 项目主页: https://www.dezeen.com/2026/03/20/rebound-det-levende-hus-worlds-first-mass-produced-mycelium-door/
+
+#### Pure mycelium shoe — Lars Dittrich (2026)
+- 类型: 研究原型 · 生物: 真菌
+- 核心想法: 两种菌株各司其职：一种长成泡沫般的鞋底，另一种长成皮革般的鞋面。
+- 作品内容: VUB 设计师 Lars Dittrich 与布鲁塞尔皇家铸币局歌剧院首席鞋匠 Marie De Ryck 历时两年，完全用纯菌丝体制成的概念鞋；于 2026 米兰设计周在 Dropcity 首次亮相。
+- 实现方式: 培育两种菌株的纯菌丝体（不含基质），将平面生长的片材塑造成三维形态，可塑的菌株则成型为鞋底。
+- 图片: https://www.vub.be/sites/default/files/images/LarsDittrich_VUBxLaMonnaie_MyceliumShoe_Hero_01.jpg https://media.materialdistrict.com/wp-content/uploads/2026/04/world-first-shoe-made-from-pure-mycelium-debuts-at-milan-design-week-materialdistrict-7-scaled.jpg?v=20260421083156
+- 项目主页: https://www.vub.be/en/news/vub-and-la-monnaiede-munt-unveil-world-first-shoe-made-enti
 
 #### Spores and Spirits: Healing Space Design — Yunnan Arts University Biodesign Challenge team (2026)
 - 类型: 研究原型 · 生物: 真菌, 植物
@@ -7055,6 +7535,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://www.nature.com/articles/s41563-022-01429-5 (Nature Materials)
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-022-01429-5/MediaObjects/41563_2022_1429_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41563-022-01429-5
+
+#### FUNGATERIA — Phil Ayres, Claudia Colmo (2022)
+- 类型: 研究原型 · 生物: 真菌, 细菌与微生物
+- 核心想法: 由活菌丝体制成的产品之所以能自愈，是因为它仍然活着。
+- 作品内容: 由丹麦皇家艺术学院协调、联合根特大学、乌得勒支大学、奥斯陆大学、VUB 与西英格兰大学的欧盟 EIC Pathfinder 项目（2022–2026），把菌丝体与细菌结合，让菌丝体作为工程活体材料在产品中保持存活；原型包括纯菌丝体膜、能自我修复的菌丝体皮革拖鞋，以及能分解污染物的片材。2026 年在学院的“Imagining Futures through Architecture and Design”展中展出。
+- 实现方式: 把菌丝体培育成纯膜和复合材料，与细菌协同工程化并进行计算建模，依托一个可控条件的活体材料制造平台。
+- 图片: https://royaldanishacademy.com/sites/default/files/styles/share/public/imported-file/caseteaser/fungateria_pure_mycelium_membranes.png.jpg?itok=WCCgKDXv
+- 项目主页: https://royaldanishacademy.com/en/node/6147
 
 #### Fleather — Phool (2022)
 - 类型: 产品与平台 · 生物: 植物, 真菌
@@ -7414,6 +7902,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 让细菌和酵母制造色素、纤维素、水泥等材料。
 
+#### Aging in bacterial cellulose: stabilization strategies for upholstered furniture — Francesca Zeccara (2026)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌
+- 核心想法: 不知道它会如何老化，生长材料的设计就没有完成。
+- 作品内容: 米兰理工大学的设计师在制作 18 个月后，比较两件细菌纤维素软包原型的老化情况：一件用蜂蜡涂层处理，另一件与真菌菌丝体复合。
+- 实现方式: 以现象学观察记录 DIY、材料驱动设计（MDD）原型在外观与力学上的退化，把疏水处理与耐久性联系起来。
+- 论文: https://doi.org/10.1017/s2977905726100481 (Biotechnology Design 2026)
+
+#### Artificial Symbiosis for Bulk Production of Bacterial Cellulose Composites — Silvia Vignolini (2026)
+- 类型: 论文 · 生物: 细菌与微生物, 藻类
+- 核心想法: 为自然界中不会相遇的微生物设计一段合作关系，材料就能在任何一方都无法独自生长的地方长出来。
+- 作品内容: 把产纤维素的细菌 Komagataeibacter hansenii 与绿藻 Chlamydomonas reinhardtii 配对，细菌纤维素就能在整个液体中、按容器形状生长，而不只是在表面结膜；这种复合材料比多数活体水凝胶更强韧，切开后还能自愈。
+- 实现方式: 会游动的藻类在培养液内部释放氧气，让需氧细菌在整体积中合成纤维素；纤维素纳米晶使藻类保持悬浮。
+- 论文: https://doi.org/10.1002/adma.202514125 (Advanced Materials 2026)
+- 项目主页: https://www.sciencenews.dk/en/kombucha-like-symbiosis-enables-living-materials-at-scale
+
 #### AstroFeast — Joanna Cheng (2026)
 - 类型: 思辨设计 · 生物: 细菌与微生物
 - 核心想法: 宇宙飞船上的食物可以是活的、会变化的。
@@ -7421,6 +7924,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 把酵母菌培养物干燥成片，再在仿自然形态的容器中复活。
 - 图片: https://content.gp-award.com/assets/media/award26/2-astrofeast_blogLarge.jpg https://content.gp-award.com/assets/media/award26/1-astrofeast_blogLarge.jpg
 - 项目主页: https://www.gp-award.com/en/projects/astrofeast
+
+#### BIOMA bacterial cellulose material — BIOMA Lab (2026)
+- 类型: 产品与平台 · 生物: 细菌与微生物
+- 核心想法: 用自身来修补的生长材料，才能保持纯净与可循环。
+- 作品内容: 用康普茶酿造废料长出的细菌纤维素片材，柔韧、防水，破损处可以用同样的生长材料修补。展于 2026 荷兰设计周“The Biodesign Warehouse”。
+- 实现方式: 康普茶菌膜（细菌与酵母共生体）发酵酿造余料，生成纤维素膜，再在不添加合成助剂的情况下干燥处理。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/img-3409-sea-horizon-cut_1790593891_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/bioma-lab
 
 #### Bacterial Cellulose Foam — Foamlab, Elvin Karana (2026)
 - 类型: 产品与平台 · 生物: 细菌与微生物
@@ -7470,6 +7981,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 把枯草芽孢杆菌（很可能以耐受性强的芽孢形式）混入生物基涂料，在墙面上释放抗真菌脂肽。
 - 视频: https://www.youtube.com/watch?v=j4hXurHsGWo
 - 项目主页: https://www.biodesignchallenge.org/grace-church-school-2026
+
+#### Mimmik Tile — Front (formerly StoneCycling), Biomason (2026)
+- 类型: 产品与平台 · 生物: 细菌与微生物
+- 核心想法: 细菌可以在常温下完成水泥的粘结工作。
+- 作品内容: 一种类大理石地砖：细菌在骨料之间析出碳酸钙，约两天即可“长”成，不用水泥，由 Front 与 Biomason 在丹麦的专门工厂生产（原名 BioBasedTile，2026 年更名为 Mimmik）。
+- 实现方式: 采用 Biomason 的 Zymecrete 工艺，借助细菌诱导碳酸钙沉淀（MICP）在模具中胶结骨料，之后进行哑光或抛光处理。
+- 图片: https://www.front-materials.com/app/uploads/2026/03/FRONT-Mimmik-Tile.jpg https://www.front-materials.com/app/uploads/2026/02/front-materials-mimmik-floor-plants-2.jpg
+- 项目主页: https://www.front-materials.com/news/the-story-of-mimmik/
+
+#### PHALIVE — Shahar Livne (2026)
+- 类型: 艺术作品 · 生物: 细菌与微生物
+- 核心想法: 如果细菌的脂肪是新的黏土，生长算法就可以是新的手。
+- 作品内容: Shahar Livne 与 Jelle Heuver 用 PHA 3D 打印的一组雕塑物件。PHA 是细菌储存在体内的“脂肪”聚酯，物件形态由珊瑚与细菌菌落的生长规则生成。展出于 2026 荷兰设计周。
+- 实现方式: 细菌发酵原料产生聚羟基脂肪酸酯（PHA），由 ColorFabb 制成打印线材；生成式生长算法驱动打印路径。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/image-mockup-phalive-landscape_1786473249_1920x1080.png
+- 项目主页: https://ddw.nl/en/programme/archive/2026/phalive-
 
 #### Poddy — Savannah College of Art and Design Biodesign Challenge team (2026)
 - 类型: 研究原型 · 生物: 细菌与微生物
@@ -8541,6 +9068,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1017/s2977905726100857 (Biotechnology Design 2026)
 - 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260929051538531-0710:S2977905726100857:S2977905726100857_fig1.png https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260929051538531-0710:S2977905726100857:S2977905726100857_fig2.png
 
+#### Woven Landscapes — Ori Orisun Merhav (2026)
+- 类型: 艺术作品 · 生物: 昆虫, 植物
+- 核心想法: 把两种由生命制造的材料——棕榈与紫胶——结合起来，让物件悬于栖所与器物之间。
+- 作品内容: 一组用紫胶涂覆的棕榈纤维编织雕塑，中心是一张从纤维挂毯中“长”出的图腾式座椅；展于 2026 荷兰设计周，其时 Merhav 入选荷兰设计奖 2026 届。
+- 实现方式: 把棕榈叶鞘和纤维编织、捆扎，再涂上紫胶树脂制成混合复合材料，内部以 LED 照亮。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/screenshot-2026-09-23-at-94217-am_1790149359_1920x1080.png https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-01.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/woven-landscapes-by-ori-orisun-merhav
+
 #### BagasSeries — University of Pennsylvania Biodesign Challenge team (2025)
 - 类型: 产品与平台 · 生物: 植物
 - 核心想法: 极其本地的有机废料可以就地供应社区需要的物件。
@@ -8616,6 +9151,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 苔藓致密的小叶截留颗粒与微塑料，其表面化学性质抑制微生物（经团队测试）。
 - 视频: https://www.youtube.com/watch?v=m14cJUp08dI
 - 项目主页: https://www.biodesignchallenge.org/universidad-de-los-andes-2022
+
+#### Made by Insects — Ori Orisun Merhav (2022)
+- 类型: 艺术作品 · 生物: 昆虫, 植物
+- 核心想法: 昆虫制造的材料承载着昆虫、树木与人的劳动，设计可以让它被看见。
+- 作品内容: 一项持续的研究实践：把紫胶——紫胶虫 Kerria lacca 在宿主树上分泌的树脂——做成吹制、3D 打印和编织的物件，如 Insects Cradle 长椅与 Branching Insects Chandelier 吊灯；始于 2022 年埃因霍温设计学院毕业项目 The Lac Lab Open Source。
+- 实现方式: 紫胶受热软化、冷却变硬，因此可借鉴吹玻璃技法塑形，并与 Ginger Additive、Reflexlab、Aeditto 及 Avans 应用科技大学生物聚合物实验室合作进行 3D 打印。
+- 图片: https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-1800.jpg https://www.designboom.com/wp-content/uploads/2026/10/ori-orisun-merhav-made-insects-shellac-designboom-03.jpg
+- 项目主页: https://www.designboom.com/?p=1213819
 
 #### Citra, The Bio Leather — Menlin Ng (2021)
 - 类型: 研究原型 · 生物: 植物
@@ -8910,6 +9453,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 研究者把五件用生物材料制作的可交互电子纺织品交给参与者，开展以美感为重点的研究，发现了常规电子纺织品所没有的多感官特质，例如质地、气味和随时间的变化。
 - 实现方式: 把生物基导电材料和纺织材料（很可能以纤维素为基础）与纺织工艺和电子元件结合；通过用户研究总结其美学特点并提出设计建议。
 - 论文: https://doi.org/10.1145/3800645.3812977 (DIS 2026)
+
+#### BioArtFashion — Agnes van Dijk (2026)
+- 类型: 艺术作品 · 生物: 藻类, 真菌, 植物
+- 核心想法: 学会保存而不是替代，易腐的生物也能成为衣服。
+- 作品内容: 一组用海藻、蘑菇、地衣、丝瓜络、苔藓和仙人掌骨架制成的雕塑式可穿戴作品，经过保存处理后依然柔软、亲肤、可修补。展于 2026 荷兰设计周。
+- 实现方式: 把收集来的有机残余物用自研的无毒保存技术处理，再手工塑形成服装。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/agnes-van-dijk-luffa-2026-ddw-8969-foto-francois-eyck-webversie_1787749522_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/agnes-van-dijk-seaweed-2026-8624-foto-francois-eyck-en-lies-vogelzang_1787749628_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/bio-art-fashion
+
+#### Living Indigo — Blue Monkey (Aki Takeshita) (2026)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 城市既可以是种出颜色的田地，也可以是纤维的来源。
+- 作品内容: 一套“100% 阿姆斯特丹制造”的本地时尚系统：市民在城市各处和垂直水培架上种植靛蓝，再用其染制废旧纺织品，拼成新衣，如一件靛蓝拼布和服。展于 2026 荷兰设计周。
+- 实现方式: 把靛蓝植株分给市民浇水、收割，提取靛蓝后染制回收纺织品，并用 MKY 项目代币回馈照料劳动。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bluemonkey-kimono1_1788084735_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/indigogarden-amsterdam_1788087076_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/living-indigo-by-blue-monkey
 
 #### Mr. Rain — Northumbria University Biodesign Challenge team (2026)
 - 类型: 思辨设计 · 生物: 细菌与微生物, 生态系统
@@ -9626,6 +10185,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://content.gp-award.com/assets/media/award26/1-cyanocement_blogLarge.jpg https://content.gp-award.com/assets/media/award26/3-cyanocement_blogLarge.jpg
 - 项目主页: https://www.gp-award.com/en/projects/CyanoCement
 
+#### Encoded Skin — Lichi Hsu (2026)
+- 类型: 研究原型 · 生物: 生态系统, 真菌, 昆虫
+- 核心想法: 人造表面对其他物种而言大多是“死皮”；树皮示范了如何让它变得可以栖居。
+- 作品内容: 把树皮的裂纹密度、深度和厚度转译成挤出纹理的表面板材，让建筑外皮像树皮一样为真菌、苔藓、昆虫和鸟提供栖身之处。展于 2026 荷兰设计周 4TU.Design United 的 Design Bridges 展。
+- 实现方式: 用传感工具记录树皮差异，把测得的裂纹指标转成参数化与制造变量，驱动挤出系统。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1-1_1792187894_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw2-02_1792188429_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/encoded-skin
+
 #### Glass as Habitat — Roba Alfraih (2026)
 - 类型: 论文 · 生物: 藻类, 植物, 生态系统
 - 核心想法: 原本用来隔开室内外的材料，也可以成为生命的家园。
@@ -9633,6 +10200,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 通过材料实验测量再生玻璃孔隙网络的吸水、蒸发、透光和长期生长保持能力。
 - 论文: https://doi.org/10.1017/s297790572610081x (Biotechnology Design 2026)
 - 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115401999-0733:S297790572610081X:S297790572610081X_fig1.png https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260913115401999-0733:S297790572610081X:S297790572610081X_fig2.png
+
+#### Hypha-Lume — Darya Holub (2026)
+- 类型: 研究原型 · 生物: 真菌
+- 核心想法: 生长出来的建筑，也可以是人们如何穿行其中的记忆。
+- 作品内容: 一座可重组的展亭，由三种曲率（20、40、60 度）的锥形菌丝体砌块围绕竖向支撑拼成，传感器记录访客的路径与停留，把它们转成灯光、声音，并在夜间把过往的使用痕迹投影到外壳上。
+- 实现方式: 菌丝体粘结的生物材料模块很可能在模具中生长成型；嵌入的传感器驱动实时灯光、声音与投影。
+- 图片: https://www.designboom.com/wp-content/uploads/2026/10/hypha-lume-adaptive-modular-pavilion-mycelium-human-movement-light-designboom-1800-1.jpg https://www.designboom.com/wp-content/uploads/2026/10/hypha-lume-adaptive-modular-pavilion-mycelium-human-movement-light-designboom-1800-2.jpg
+- 项目主页: https://www.designboom.com/architecture/mycelium-hypha-lume-pavilion-human-movement-light/
 
 #### Mass, Space, and Biomateriality — Studio Klarenbeek & Dros (2026)
 - 类型: 艺术作品 · 生物: 细菌与微生物, 藻类
@@ -9667,6 +10242,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://www.jamesdysonaward.org/Document/450ff05a-f4ce-4fc3-b3d6-be9270d539f1/reefvive.jpg https://www.jamesdysonaward.org/Document/94632f90-634e-4aad-9a8c-d07e6def2f23/reefvive2.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2026/project/reefvive/
 
+#### The archibiome: extending engineered living materials to multiscale built environments — Anna Sandak (2026)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌, 生态系统
+- 核心想法: 把建筑里的微生物当作一层可以设计、可以调节的建筑构造。
+- 作品内容: 一篇观点文章，提出“建筑微生物组”（archibiome）：建筑微生物组中由建筑与材料有意塑造的那一部分，从活体真菌涂层（ARCHI-SKIN，使用出芽短梗霉 Aureobasidium pullulans）到能固碳、净化室内空气的微生物“活墨水”（REMEDY）。
+- 实现方式: 把工程活体材料与建筑原生微生物组视为一个受反馈控制、贯通材料—房间—建筑的多尺度系统，并讨论生物安全与监管。
+- 论文: https://doi.org/10.3389/fsysb.2026.1943876 (Frontiers in Systems Biology 2026)
+- 图片: https://www.frontiersin.org/files/Articles/1943876/xml-images/fsysb-06-1943876-g001.webp
+- 项目主页: https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.1943876/full
+
 #### Upsurge — University of Tasmania Biodesign Challenge team (2026)
 - 类型: 研究原型 · 生物: 藻类, 动物, 生态系统
 - 核心想法: 毁掉海藻林的物种，为它的回归提供了支架。
@@ -9674,6 +10258,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 用磨碎的海胆壳替代部分水泥；框架在育苗池中先培养巨藻配子体再投放，使幼藻免遭啃食。
 - 视频: https://www.youtube.com/watch?v=rwZ_nsaxaJI
 - 项目主页: https://www.biodesignchallenge.org/university-of-tasmania-2026
+
+#### WETHOUSE: Growing Architecture from Wetlands — Yvonne Gu (3h57m) (2026)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 让建筑从湿地里长出来，再反过来滋养供给它的湿地。
+- 作品内容: 一座由湿地生物质（芦苇、香蒲、莎草、柳条）建成的温室展亭，可以收集雨水、保持湿度并种植新的湿地作物；2026 荷兰设计周展出了其局部。
+- 实现方式: 重新湿润的土地上种植的湿地作物被做成保温材料、墙板、编织屏风、茅草和黏土纤维复合材料；屋顶雨水用于灌溉新的湿地作物。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/presentationboard1_1785963315_1920x1080.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/projectboard1_1785963364_1920x1080.jpg
+- 项目主页: https://ddw.nl/en/programme/archive/2026/wethouse-growing-architecture-from-wetlands
 
 #### Mi-Hy and SPIKA — Rachel Armstrong (2025)
 - 类型: 研究原型 · 生物: 细菌与微生物, 植物
@@ -10041,6 +10633,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 经过三维扫描配准的可调光谱投影仪，控制照在生物打印的 Fremyella diplosiphon 上的光量和颜色；这种蓝细菌通过互补色适应改变色素。
 - 论文: https://doi.org/10.1017/s2977905726100274 (Biotechnology Design 2026)
 - 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260831224220743-0655:S2977905726100274:S2977905726100274_fig1.png https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260831224220743-0655:S2977905726100274:S2977905726100274_fig2.png
+
+#### Shaping of Biohybrid Functional Living Materials — Kunal Masania (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 打印确定形状，打印后的生长赋予功能。
+- 作品内容: 代尔夫特理工大学 Shaping Matter Lab 用接种了灵芝（Ganoderma lucidum）的水凝胶进行 3D 打印，打印后菌丝体继续生长，从培养液中收集颗粒、为部件赋予功能；用掩膜可让特定区域选择性吸附颗粒，加入炭黑则增强其生物电信号。
+- 实现方式: 直写打印可交联的接种水凝胶；纳米颗粒吸附在菌丝表面，微米颗粒被缠入菌丝网络，可溶明胶掩膜实现局部沉积。
+- 论文: https://doi.org/10.1002/adfm.202530836 (Advanced Functional Materials 2026)
+- 图片: https://3dprintingindustry.com/wp-content/uploads/2026/05/image-19.png
+- 项目主页: https://3dprintingindustry.com/news/tu-delft-researchers-3d-print-living-mycelium-materials-with-growth-driven-functionalization-251639/
 
 #### Bioreactors as Additive Manufacturing Environments — Orkan Telhan (2025)
 - 类型: 论文 · 生物: 真菌, 细菌与微生物
@@ -10460,6 +11061,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在微生物中表达重组蛛丝蛋白，并在模拟蜘蛛丝腺的水相条件下纺丝。
 - 图片: https://hmfoundation.com/wp-content/uploads/2026/06/ArtSilk_2026_GCA_winner-1.jpg https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_ArtSilk-1280x800.jpg
 - 项目主页: https://hmfoundation.com/gca/winner/artsilk/
+
+#### De Novo Autogenic Engineered Living Functional Materials — Anna Duraj-Thatte (2026)
+- 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
+- 核心想法: 在自然界的蛋白目录里搜寻，为活体材料找到新的“砖块”。
+- 作品内容: 弗吉尼亚理工大学的研究者从其他细菌中挖掘出 33,564 条类 curli 蛋白序列，改造大肠杆菌分泌这些新纤维，长出的宏观活体材料刚度最高可达标准 curli 蛋白材料的三倍。
+- 实现方式: 通过蛋白挖掘、AlphaFold2 建模和分子动力学模拟筛选 β-螺线管蛋白候选，并改造大肠杆菌的 curli 分泌系统，把它们组装成胞外纳米纤维。
+- 论文: https://doi.org/10.1002/adma.74312 (Advanced Materials 2026)
 
 #### Genetically programmed shape-morphing living materials — Wilfried Weber (2026)
 - 类型: 论文 · 生物: 细菌与微生物, 细胞与组织, DNA 与分子
@@ -11163,6 +11771,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 ### 生物艺术
 
 以活体组织、细胞、细菌或基因为媒介的艺术。
+
+#### Dan Lie at Biennale Arte 2026 (In Minor Keys) — Dan Lie (2026)
+- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
+- 核心想法: 完成这件作品的不是艺术家，而是腐朽与新生。
+- 作品内容: 在威尼斯军械库 Corderie（旧制绳厂）里，用绳索悬挂的雕塑由花、发芽的种子、植物、蘑菇孢子和泥土组成，装在麻布袋、藏红花染布和陶器中；六个月展期里，材料彼此作用，长出新的植物、真菌和苔藓。
+- 实现方式: 让有机材料在环境条件下自行腐烂、发芽；这座旧制绳厂的绳索承托并组织起雕塑。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/lie-dan-b.jpg?itok=Xb7QMAbZ https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/lie1.jpg?itok=cWdd3b6h
+- 项目主页: https://www.labiennale.org/en/art/2026/dan-lie
 
 #### Written in Decay: Traces of Entanglement — Shijia Huang (2026)
 - 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
@@ -12718,6 +13334,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 把植物变成触摸传感器、显示器、天线和机器人。
 
+#### Bud and Bombadil: plant-signal sensors and foundation model — The Electric Plant Company (2026)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 把植物电生理当作一种语言，训练模型在农场尺度上读懂它。
+- 作品内容: 把廉价探针拧进树木活的形成层，通过低功耗网络传回电信号；名为 Bombadil 的基础模型在约 125 个物种的数据上训练，告诉种植者植物何时需要水或养分。
+- 实现方式: Bud 传感器用不锈钢螺钉电极接触形成层，把电压信号发送到基站；Bombadil 模型在云端分析，并输出到仪表盘和告警系统。
+- 图片: https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800
+- 项目主页: https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/
+
 #### LeafLink — Shu Wang (2026)
 - 类型: 研究原型 · 生物: 植物
 - 核心想法: 让植物成为柔和的、活的中介，帮助不用语言交流的人。
@@ -12733,6 +13357,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 对含羞草根部施加热刺激和电刺激，同时测量叶柄弯曲和小叶闭合，建立刺激强度与反应之间的关系。
 - 论文: https://doi.org/10.1002/adrr.70124 (Advanced Robotics Research 2026)
 - 项目主页: https://doi.org/10.1002/adrr.70124
+
+#### Towards Accessible, Autonomous Photosynthesis Monitoring on Living Leaves — Nivedita Arora (2026)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 让观察植物的“呼吸”变得便宜而持续。
+- 作品内容: 一个夹在活叶片上的小罩子，会定时合上测量叶片吸收 CO2 的速度，再打开换气，连续多天记录光合作用。每个罩子约 62 美元，比实验室仪器便宜约一千倍，因此可以同时观察许多叶片。
+- 实现方式: 3D 打印夹具和热成型罩构成带低成本 CO2 传感器的自动腔室；定期开合即可测量净光合作用，无需气泵或气管，设计依据对 13 位植物生物学家的调研。
+- 论文: https://arxiv.org/abs/2611.13387 (arXiv 2026)
+- 图片: https://arxiv.org/html/2611.13387v1/fig1.png
+- 项目主页: https://arxiv.org/abs/2611.13387
 
 #### When Plants Play: Rethinking Plant Materiality in Digital Games — Yoonji Lee (2026)
 - 类型: 论文 · 生物: 植物
@@ -13431,6 +14064,33 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 会感知、传递信号和解决问题的菌丝体与黏菌。
 
+#### Amoeba-inspired optimisation machine as a recurrent neural network — Yusuke Miyajima (2026)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 黏菌解题和神经网络可能共享同一个计算原理，因此黏菌可以用光、自旋或流体重新实现。
+- 作品内容: “变形虫”求解器模仿黏菌伸展身体来解决旅行商问题；研究者把它简化为一个递推公式，去掉了黏菌的体积守恒约束。新模型用更少的步数找到解，可处理多达 180 个城市，而且在数学上等同于一个固定权重的循环神经网络。
+- 实现方式: 对 Amoeba TSP 模型做五项修改得到一个简单的递推公式；证明它与固定权重 RNN 等价，并提出光子、自旋电子和流体实现方案，给出一个自旋电子示例。
+- 论文: https://doi.org/10.1103/zgvb-cfpg (Physical Review Research 2026)
+- 图片: https://www.waseda.jp/top/en/assets/uploads/2026/08/Infographics-Slime-Mold-Inspired-Computing-scaled.jpg
+- 项目主页: https://www.waseda.jp/top/en/news/89206
+
+#### Directional spiking in oyster mycelium recorded with a star-shaped electrode array — Andrew Adamatzky (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 真菌网络是有方向的：在把它当作传感器或计算机之前，先弄清信号往哪里流。
+- 作品内容: 在一块平菇菌丝体周围布置八通道星形电极，结果显示其电脉冲并不均匀：某些方向放电更多、更强，脉冲成簇出现，事件会以可重复的模式在各扇区之间传播。
+- 实现方式: 对在木屑中生长的平菇（Pleurotus ostreatus）菌丝，用八通道差分星形电极阵列记录电位，分析脉冲统计、簇发、通道间相关性和传播延迟。
+- 论文: https://arxiv.org/abs/2601.08099 (arXiv 2026)
+- 图片: https://arxiv.org/html/2601.08099v1/figs/agg_spike_rate_polar.png
+- 项目主页: https://arxiv.org/abs/2601.08099
+
+#### Fungal systems for security and resilience — Andrew Adamatzky (2026)
+- 类型: 书与文章 · 生物: 真菌
+- 核心想法: 当电子设备损坏时，一个能重新长回来的活网络，可能是更有韧性的传感器。
+- 作品内容: 一篇立场论文，提出把活的菌丝网络当作受扰环境中的基础设施：埋在道路和建筑下的分布式传感器、能自我修复的材料，以及在数字系统失效时依然工作、难以察觉的篡改与异常探测层。
+- 实现方式: 从概念上把真菌的特性（去中心化控制、具身记忆、自我修复、电脉冲）对应到基础设施保护、环境监测和防篡改等应用。
+- 论文: https://arxiv.org/abs/2602.10543 (arXiv 2026)
+- 图片: https://arxiv.org/html/2602.10543v1/figs/mycelium2.png
+- 项目主页: https://arxiv.org/abs/2602.10543
+
 #### MIND: mycoponic interface for living mycelial networks — Upinder Kaur (2026)
 - 类型: 研究原型 · 生物: 真菌
 - 核心想法: 给真菌配上“生命维持”和“插座”，它就成了寿命很长的多感官传感器。
@@ -13440,6 +14100,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://arxiv.org/html/2604.22947v3/Overview.png
 - 项目主页: https://arxiv.org/abs/2604.22947
 
+#### Microelectrode array measurements of fungal mycelium reveal growth-associated electrical activity — Kunal Masania (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 在制造真菌传感器之前，先确认那些电脉冲真的来自活的真菌。
+- 作品内容: 一个定制的微电极阵列，结合延时成像和阻抗测量，显示菌丝体的自发电脉冲在其生长时出现，而在无菌对照或加入杀菌剂后消失，说明这些信号与生长有关，而不是噪声。
+- 实现方式: 菌丝体直接长在定制的微电极阵列上；在三次生长实验、一次无菌对照和一次杀菌剂处理中，同时记录胞外电位、光学生长追踪和阻抗谱。
+- 论文: https://doi.org/10.1557/s43579-026-01041-7 (MRS Communications 2026)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1557%2Fs43579-026-01041-7/MediaObjects/43579_2026_1041_Figa_HTML.png
+- 项目主页: https://link.springer.com/article/10.1557/s43579-026-01041-7
+
 #### Mycelium chips for physical reservoir computing — Orkan Telhan, Ecovative (2026)
 - 类型: 论文 · 生物: 真菌
 - 核心想法: 通过设计真菌的生长方式来设计一台计算机。
@@ -13448,6 +14117,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1038/s41598-026-55550-5 (Scientific Reports 2026)
 - 图片: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-55550-5/MediaObjects/41598_2026_55550_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41598-026-55550-5
+
+#### Mycoelectronics: bioprinted living fungal bioelectronics — Jinxing Li (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 把传感器“种”出来：一层能自我修复、能感知热量的真菌皮肤。
+- 作品内容: 把活的菌丝体 3D 打印到可拉伸电极阵列上，做成能感知热量的类皮肤贴片；它受损后能自我修复，还能把传感通路长进难以到达的地方。接上电路后，这个真菌传感器触发了一个让肌肉动起来的“反射”。
+- 实现方式: 把真菌生物墨水打印到 SEBS 上的石墨烯电极上；受热时菌丝内液泡融合，改变离子传输和电导率，电极把它读成温度信号，再驱动一条生物电子反射弧。
+- 论文: https://doi.org/10.1073/pnas.2530456123 (PNAS 2026)
+- 图片: https://inews.gtimg.com/om_bt/OEaVK_aEfzwZ7P3j5p0EvKA2rRjT1-cbEvoUCytpNoSggAA/641 https://inews.gtimg.com/om_bt/OrAka1-Gid2nwVLaCYtWApkLSU536TcpkrdpNf_qvyw2oAA/641
+- 项目主页: https://par.nsf.gov/biblio/10650372
 
 #### Biohybrid computing with proteinoids and algae — Andrew Adamatzky (2025)
 - 类型: 论文 · 生物: 藻类, DNA 与分子
@@ -13510,6 +14188,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1371/journal.pone.0328965 (PLOS One)
 - 图片: https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001
 - 项目主页: https://news.osu.edu/powered-by-mushrooms-living-computers-are-on-the-rise/
+
+#### Symbiotic Forest — Hsin-Yi Lin (2025)
+- 类型: 艺术作品 · 生物: 真菌, 植物
+- 核心想法: 把生物电信号呈现为“呼吸”，一种每位观众都懂的节奏。
+- 作品内容: 一件交互装置：定制传感器捕捉活植物和真菌微弱的生物电活动，并把它呈现为缓慢“呼吸”的光影，让观众感受到与平时忽视的生物之间的联系。
+- 实现方式: 放在植物和菌丝体上的定制电子传感器把信号输入可视化工具；作品由菌丝体、陶瓷、PLA 和电子元件构成。
+- 图片: https://framerusercontent.com/images/w0jgw0TnEO2ohzkMmkYvOyM4B7k.jpg?width=2000&height=1335 https://framerusercontent.com/images/u0bTbjUt0rI5ranAvugv4mc5owI.jpg?width=2000&height=1335
+- 项目主页: https://material.zhdk.ch/projects/symbiotic-forest
 
 #### Interwoven — Jonne Verheij & Lidewei Reitsma (2024)
 - 类型: 艺术作品 · 生物: 真菌
@@ -13909,6 +14595,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 微生物燃料电池把细菌代谢产生的微弱电压转成声音，观众的声音再以电刺激的形式回传。
 - 视频: https://www.youtube.com/watch?v=dCJSyK_cyz8
 - 项目主页: https://www.biodesignchallenge.org/maryland-institute-college-of-art-2026
+
+#### Intestinal villi-inspired living biobatteries — Seokheun Choi (2026)
+- 类型: 论文 · 生物: 细菌与微生物
+- 核心想法: 设计的是微生物的栖息地而不只是电极，活体电池就能更持久。
+- 作品内容: 一种形似小肠绒毛的细菌电池：绒毛增加的表面积让微生物有地方生活又不会堵塞，装置在至少 14 小时内保持约 0.75 伏电压，足以点亮小 LED 或驱动传感器。
+- 实现方式: 绒毛状导电水凝胶阳极中接种产电细菌，通过离子交换膜与改性碳布阴极隔开，并持续供给营养液。
+- 论文: https://doi.org/10.1002/smll.76091 (Small 2026)
+- 图片: https://www.binghamton.edu/news/images/uploads/features/Villi.jpg https://www.binghamton.edu/news/images/uploads/features/biobattery-graphic.jpg
+- 项目主页: https://www.binghamton.edu/news/story/6533/small-intestines-new-biobattery
 
 #### Living Textiles: Microbial Biosensors and Textile Fluidics — Katia Zolotovsky (2026)
 - 类型: 研究原型 · 生物: 细菌与微生物
@@ -14577,6 +15272,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a91f/13204357/fe0cdeef2d19/biomimetics-11-00325-g001.jpg
 - 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC13204357/
 
+#### Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects — Keisuke Morishima (2026)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 少操控一些：让动物自身的本领去完成工作，只在必要时介入。
+- 作品内容: 一只赛博蟑螂，背包能识别前方地形（平地、上坡、下坡或坑洞）；它不再绕开每一个障碍，而是让昆虫自己爬过去。更少的刺激指令带来更少的绕路和更平稳的前进。
+- 实现方式: 机载多层感知机根据惯性测量数据识别地形（离线准确率 92%），并接入一个反应式控制器，综合目标导向、避障、沿墙行走和天生的攀爬行为，调节对触角和尾须的刺激。
+- 论文: https://doi.org/10.1016/j.device.2026.101277 (Device 2026)
+- 图片: https://mediasvc.eurekalert.org/Api/v1/Multimedia/0883e1fb-d089-459c-8ba4-136b70f3634d/Rendition/low-res/Content/Public
+- 项目主页: https://www.eurekalert.org/news-releases/1140927
+
 #### Co-optimized volumetric muscle bioactuators — Robert K. Katzschmann, Miriam Filippi (2026)
 - 类型: 论文 · 生物: 细胞与组织
 - 核心想法: 在培养之前，先在仿真里把活肌肉和它的骨架当作同一个身体来设计。
@@ -14604,6 +15308,16 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1002/adrr.202500196 (Advanced Robotics Research 2026)
 - 项目主页: https://doi.org/10.1002/adrr.202500196
 
+#### Muscle thin-film swimmer — Ritu Raman (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 经过训练的平面肌肉薄膜，可以比厚重的肌肉组织更高效地充当引擎。
+- 作品内容: 一台口香糖大小的软体机器人，用两片衬有单层光敏肌肉的凝胶鳍游动。光照哪一侧的鳍，它就朝那边转向；它跟随移动的光穿过水中迷宫，速度最高可达每分钟四个体长。
+- 实现方式: 光遗传小鼠骨骼肌细胞在约 0.5 毫米厚、带沟槽的 GelMA 水凝胶薄膜上长成定向纤维，先用光“锻炼”，再交替照射两侧鳍片驱动游动。
+- 论文: https://doi.org/10.1002/adfm.78065 (Advanced Functional Materials 2026)
+- 视频: https://www.youtube.com/watch?v=omkiYBBrGZs
+- 图片: https://news.mit.edu/sites/default/files/images/202609/MIT-RoboMuscle-01-press.jpg
+- 项目主页: https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929
+
 #### Neurobots — Haleh Fotowat, Michael Levin (2026)
 - 类型: 论文 · 生物: 细胞与组织, 神经元与类器官, 动物
 - 核心想法: 在进化从未设计过的身体里，神经系统会做什么？
@@ -14622,6 +15336,24 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 视频: https://www.youtube.com/watch?v=5UNLSW8pzi8
 - 图片: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-026-70259-9/MediaObjects/41467_2026_70259_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41467-026-70259-9
+
+#### Paraborg: paramedic cyborg insects — Thang Vo-Doan (2026)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 找到幸存者的赛博昆虫，也可以成为第一个施救者。
+- 作品内容: 巨型穴居蟑螂背着摄像头和可远程触发的自动注射器穿过瓦砾，为被困人员送去急救药物。测试中它们到达了所有检查点，完整的“导航并注射”任务成功率为 72%。
+- 实现方式: 一个受监督的控制平台通过电刺激操控犀牛蟑螂（Macropanesthia rhinoceros），机载摄像头和微型注射器按指令给药；在距目标 15 厘米以内时，准确率可达 95%。
+- 论文: https://doi.org/10.1002/advs.76973 (Advanced Science 2026)
+- 图片: https://assets.newatlas.com/dims4/default/2193802/2147483647/strip/true/crop/4784x2512+0+339/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F42%2F8e%2F1f830b0843ecad00f506883719bf%2Feait-mda-2026-cyborg-cockroach-11.jpeg&na.image_optimisation=0
+- 项目主页: https://newatlas.com/robotics/cyborg-cockroach-paramedics/
+
+#### Toward Controlling Biology with Language: prompt-conditioned interventions for xenobots — Josh Bongard, Michael Levin, Douglas Blackiston (2026)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 语言可能成为操控活体物质的界面，但只适用于刺激真正能控制的那些行为。
+- 作品内容: 研究者重新分析了 155 段存档视频，内容是接受电脉冲的异种机器人（由青蛙细胞构成的活体机器），并训练了一个模型，把“让它停下”这样的自然语言指令转成脉冲时长。长脉冲能可靠地让机器人停下；转向和重新启动则不受脉冲控制。
+- 实现方式: 用两套独立的追踪方法重新测量每个机器人在脉冲前后的运动；由一个盲评的语言评判器标注结果，再用离线学习的“提示—干预”模型输出剂量—反应曲线，并在未见过的指令和机器人上测试。
+- 论文: https://arxiv.org/abs/2610.02247 (arXiv 2026)
+- 图片: https://arxiv.org/html/2610.02247v2/figures/fig1_overview.png
+- 项目主页: https://arxiv.org/abs/2610.02247
 
 #### Anicca Antenna: Soil as Brain — Ken Rinaldo (2025)
 - 类型: 艺术作品 · 生物: 昆虫, 细菌与微生物, 生态系统
@@ -14648,6 +15380,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1126/scirobotics.adr5512 (Science Robotics)
 - 图片: https://www.u-tokyo.ac.jp/content/400256657.png https://assets.newatlas.com/dims4/default/a710743/2147483647/strip/true/crop/1541x867+0+80/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fcc6a072746f2850ddb3fb7743f85%2Fbiohybrid-hand.jpg
 - 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00386.html
+
+#### Biohybrid tendons for muscle-powered robots — Ritu Raman (2025)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 借用身体的肌腱结构：一个模块化连接件，让小块活肌肉也能驱动更大的机器。
+- 作品内容: 实验室培养的肌肉通过坚韧的水凝胶“肌腱”连接到机器人夹爪上，而不是直接绷在骨架上。夹爪闭合速度提高约三倍、力量提高约 30 倍，这些肌肉—肌腱单元在收缩 7000 次后仍能工作。
+- 实现方式: 基于肌肉—肌腱—骨骼界面的数学模型，设计出组织工程骨骼肌与坚韧水凝胶肌腱的组合，再连接到 3D 打印骨架和夹爪上。
+- 论文: https://doi.org/10.1002/advs.202512680 (Advanced Science 2025)
+- 图片: https://news.mit.edu/sites/default/files/images/202512/MIT-ArtificialTendons-01-press.jpg
+- 项目主页: https://news.mit.edu/2025/artificial-tendons-give-muscle-powered-robots-boost-1201
 
 #### Cyborg insect factory: automatic assembly for insect-computer hybrid robots — Hirotaka Sato (2025)
 - 类型: 论文 · 生物: 昆虫
@@ -14677,6 +15418,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1126/scirobotics.adu5830 (Science Robotics 2025)
 - 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6ff0/12767209/351528f263a4/nihms-2128601-f0001.jpg
 - 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC12767209/
+
+#### SWARM Biotactics cyborg insect swarms — SWARM Biotactics (2025)
+- 类型: 产品与平台 · 生物: 昆虫
+- 核心想法: 赛博昆虫已经走出实验室、进入军火市场，昆虫福利和军民两用问题因此变成了产品问题。
+- 作品内容: 一家国防公司，给蟑螂装上传感器背包，单独或成群地把它们派进瓦砾、隧道和建筑中执行侦察。公司称正与德国联邦国防军和北约客户合作，但实地使用的独立证据很少。
+- 实现方式: 马达加斯加发声蟑螂背负 3–15 克的背包，内含摄像头、麦克风和无线电；触角上的电极发送转向脉冲，由公司的 SWARM OS 编排软件统一协调。
+- 图片: https://www.swarm-biotactics.com/wp-content/uploads/swarm-biotactics_social.jpg
+- 项目主页: https://www.swarm-biotactics.com
 
 #### Swarm navigation of cyborg-insects in unknown obstructed soft terrain — Hirotaka Sato (2025)
 - 类型: 论文 · 生物: 昆虫
@@ -15237,6 +15986,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 ### DNA 与分子计算
 
 用 DNA、蛋白质和化学反应来计算和存储信息。
+
+#### A thermodynamically favoured molecular computer — Damien Woods (2026)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 让计算“顺势而下”：把答案设计成分子最稳定的状态。
+- 作品内容: 一台只需把一滴盐水加热再冷却就能运行程序的 DNA 计算机：短 DNA 链结合到一条支架链上，它们最终到达的最低能量排列就是答案。它运行了十个程序，包括 100 位加法、乘法和除法，并能连续重复使用完成 25 次计算。
+- 实现方式: 在“支架式 DNA 计算机”模型中，输入链和程序链在热退火过程中与一条长支架链杂交；保证输出正确的是热力学平衡，而不是动力学控制，结果通过成像或测序读出。
+- 论文: https://doi.org/10.1038/s41586-026-10996-5 (Nature 2026)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10996-5/MediaObjects/41586_2026_10996_Fig1_HTML.png https://www.maynoothuniversity.ie/sites/default/files/assets/images/MUI_8522.jpg
+- 项目主页: https://www.maynoothuniversity.ie/news-events/mu-researchers-build-world-first-dna-computer-published-nature
 
 #### Living Disk-Drive — Zhuo Xiong (2026)
 - 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
@@ -15850,6 +16608,33 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://arxiv.org/html/2602.05737v1/images/exp_overview.png
 - 项目主页: https://arxiv.org/abs/2602.05737
 
+#### Brainobot: brain organoid computing for robotic decision-making — Feng Guo (2026)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 把活的类器官放在机器人控制系统的最上层，而不只是放在培养皿里。
+- 作品内容: 一台人形机器人，它的高层决策来自一个活的人脑类器官：摄像头输入被转成电刺激，类器官的反应决定机器人去抓取物体还是追逐激光点。
+- 实现方式: 脑类器官置于高密度多电极阵列上，作为物理“储备池”（延续 Brainoware 方法）；训练过的线性读出层把它们的放电映射为运动指令，与机器人形成闭环。
+- 论文: https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1 (bioRxiv 2026)
+- 图片: https://www.biorxiv.org/content/biorxiv/early/2026/09/15/2026.09.09.750426/F1.large.jpg
+- 项目主页: https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1
+
+#### Computing with Living Neurons: Chaos-Controlled Reservoir Computing with Knowledge Transplant — Mattia Gazzola (2026)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 先驯服活体计算机的混沌，再去教它，还能把一个培养物学到的东西传给另一个。
+- 作品内容: 活神经元培养物之所以是不可靠的计算机，是因为每一个都不一样，而且会漂移。这项研究先测绘每个培养物的动力学特征，再用微弱光脉冲把它稳定在可控状态；准确率和使用寿命提升约三倍，而且在一个“专家”培养物上学到的读出层可以移植给相似的“学生”培养物。
+- 实现方式: 微电极阵列上的光遗传神经培养物先按相图吸引子进行刻画；在训练储备池计算读出层之前，用低功率光学混沌控制稳定其活动；吸引子相似的培养物可共享读出层。
+- 论文: https://arxiv.org/abs/2604.02552 (arXiv 2026)
+- 图片: https://arxiv.org/html/2604.02552v1/apparatus_v8.png
+- 项目主页: https://arxiv.org/abs/2604.02552
+
+#### Embodied Neurocomputation (and the CL1 robot dog) — Cortical Labs, Brett J. Kagan (2026)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 怎样与活神经元“对话”和神经元本身同样重要：把编码方式本身当作设计问题。
+- 作品内容: Cortical Labs 与本田研究所用 26 个活神经元培养物运行了 4000 多小时，测试了约 1300 种为虚拟觅食者编码“气味梯度”的方式；其中 12 种设置能稳定学习，在相同尝试次数下胜过硅基 DQN 智能体。随后公司让 CL1 上的神经元引导一只四足机器狗走向目标。
+- 实现方式: CL1 多电极芯片上的人源 iPSC 神经元接收编码梯度位置的电刺激；用 Optuna 在多个培养物上搜索刺激参数，再把放电率解码为智能体的动作，在演示中则驱动机器狗的步态指令。
+- 论文: https://arxiv.org/abs/2605.13315 (NeurIPS 2026)
+- 图片: https://www.arxiv.org/html/2605.13315v2/fig_2_experiment.png https://static.techno-science.net/illustrations/libre/2026/10/31/robotdog-2048x1152.jpg
+- 项目主页: https://www.techno-science.net/en/news/robot-dog-human-neurons-chip-29686
+
 #### Goal-directed learning in cortical organoids — Braingeneers (2026)
 - 类型: 论文 · 生物: 神经元与类器官
 - 核心想法: 用 AI 来决定如何教导活体组织，而不是取代它。
@@ -16088,6 +16873,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://arxiv.org/html/2604.27933v1/figs/organoid_mea_ki.png
 - 项目主页: https://arxiv.org/abs/2604.27933
 
+#### TBC neuron-derived AI software — The Biological Computing Co. (TBC) (2026)
+- 类型: 产品与平台 · 生物: 神经元与类器官
+- 核心想法: 把活神经元当作发现算法的实验室，最后只交付软件。
+- 作品内容: 一家初创公司在高密度电极阵列上培养活体神经网络，用有针对性的实验探测它们，再把学到的规律变成 AI 视频模型的附加层。2026 年 7 月它在 OASIS 500M 模型上发布概念验证，声称生成速度提高约 5 倍，且运行在普通 GPU 上。
+- 实现方式: 在最多 4096 个电极的阵列上，用模型内部问题的编码去刺激神经元；其反应模式指导一个训练后附加层，包裹在每个扩散 Transformer 模块外（公司自述，未经同行评审）。
+- 图片: https://cdn.prod.website-files.com/6a5e313cdc30c3120fae4fd7/6a67d317f8e07014e600ee02_cf151a164787909cba0ee21923ad4e51_Open%20Graph.jpg
+- 项目主页: https://tbc.co
+
 #### A computational perspective on NeuroAI and synthetic biological intelligence — Mohammed A. Mostajo-Radji, Brett J. Kagan (2025)
 - 类型: 书与文章 · 生物: 神经元与类器官
 - 核心想法: 把湿件当作计算栈中与硬件、软件并列的第三层。
@@ -16227,6 +17020,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 改写的 RoboGrammar 生成非典型机器人骨架；DIAYN（Diversity Is All You Need）算法在计算机视觉追踪机器人位置的引导下，从电机信号中学习多样步态；电极上的神经类器官在神经元与关节控制器之间转换信号。
 - 图片: https://kersnikova.org/wp-content/uploads/2025/12/2_1_zoran.png
 - 项目主页: https://kersnikova.org/posts/events/all/eudigitaldeal-zoran-srdic-janezic-code-of-diversity
+
+#### Brain Processing Unit (BPU) — Daito Manabe (2025)
+- 类型: 艺术作品 · 生物: 神经元与类器官
+- 核心想法: 让观众听见、看见一个活类器官如何处理音乐。
+- 作品内容: 一个艺术与科学合作项目：实验室培养的脑类器官通过模拟内耳频率分析的光刺激“聆听”音乐，能以 70% 以上的准确率区分六种音乐流派；接受节奏性电刺激后，它们在刺激停止后仍会自发地重现这个节奏。这些数据在东京被呈现为一场声音与影像展览。
+- 实现方式: 东京大学池内实验室的大脑类器官接受光刺激与电刺激；记录到的活动被分类，并由真锅大度转化为声音和影像，项目由软银先端技术研究所支持。
+- 视频: https://www.youtube.com/watch?v=FTxXHvZRLHM
+- 图片: https://ars.electronica.art/starts-prize/files/2025/05/brainprocessingunit-pp-7-01192.jpg https://ars.electronica.art/starts-prize/files/2025/05/brainprocessingunit-pp-7-01153.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/brain-processing-unit/
 
 #### Revivification — Guy Ben-Ary (2025)
 - 类型: 艺术作品 · 生物: 神经元与类器官, 人体
@@ -16388,6 +17190,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1038/s41598-026-43243-y (Scientific Reports 2026)
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-026-43243-y/MediaObjects/41598_2026_43243_Fig1_HTML.png
 
+#### Ethics and Regulation of Human Brain Organoid Research: Recommendations from the Asia Pacific Neuroethics Working Group — Asia Pacific Neuroethics Working Group, Brett J. Kagan (2026)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 在类器官计算规模化之前就制定规则，并让本地区的声音参与其中。
+- 作品内容: 一份由科学家、生命伦理学者、哲学家和法律学者共同撰写的共识论文，讨论亚太地区应如何治理人脑类器官研究，涵盖可能的感知能力、捐赠者同意、隐私、军民两用和公平获取，也包括用于计算的类器官。
+- 实现方式: 2024 年 11 月在新加坡举行跨学科研讨会，随后以结构化方式起草共识建议。
+- 论文: https://doi.org/10.1007/s41649-025-00398-6 (Asian Bioethics Review 2026)
+- 项目主页: https://link.springer.com/article/10.1007/s41649-025-00398-6
+
 #### Japanese attitudes toward human brain organoid research — Tsutomu Sawai (2026)
 - 类型: 论文 · 生物: 神经元与类器官
 - 核心想法: 在用人脑组织造计算机之前，先问问公众。
@@ -16404,6 +17214,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 以“复杂性”道德原则为基础，为研究者和监管者提出反思、预见和审议的步骤。
 - 论文: https://doi.org/10.1016/j.tibtech.2026.09.004 (Trends in Biotechnology 2026)
 - 项目主页: https://doi.org/10.1016/j.tibtech.2026.09.004
+
+#### Views on the distribution of consciousness influence ethical judgements toward brain organoids as biological computers — J. Lomax Boyd (2026)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 公众如何看待类器官计算机，取决于他们原本认为心智存在于哪里。
+- 作品内容: 一项问卷研究，询问人们认为意识在自然界中分布得有多广，以及这如何影响他们对类器官生物计算机的担忧。认为意识很普遍的人，更倾向于对嵌入虚拟世界的类器官给予道德关注。
+- 实现方式: 探索性在线问卷，测量受访者对意识在生物和机器中分布的看法，以及他们对具身类器官生物计算机的伦理判断。
+- 论文: https://doi.org/10.1093/nc/niag023 (Neuroscience of Consciousness 2026)
+- 项目主页: https://doi.org/10.1093/nc/niag023
 
 #### Organoid Array Computing: The Design Space of Organoid Intelligence — Jenn Leung (2025)
 - 类型: 书与文章 · 生物: 神经元与类器官
@@ -16484,6 +17302,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 与其他生命一起、由它们或为它们创作的艺术。
 
+#### Botanical Biennale and Reveries of Collective Walkers (Reading to Plants) — Uriel Orlow (2026)
+- 类型: 艺术作品 · 生物: 植物, 真菌
+- 核心想法: 把展场看作来自世界各地植物的相遇之地，并邀请观众直接对它们说话。
+- 作品内容: 在 2026 年威尼斯双年展上，Orlow 展出五个植物项目：用丝网印刷广告牌标出双年展场地周边植物的来源地；邀请观众给植物朗读；拍摄压制标本在植物标本馆纸张上留下的幽灵般轮廓；用瓷砖绘制能固坡的香根草；以及讲述树木如何通过根与真菌网络交流的影像。
+- 实现方式: 在巴黎、马德里、开普敦、邱园、柏林、佛罗伦萨、布鲁塞尔和里斯本的植物标本馆开展研究，结合参与式朗读、印刷广告牌和影像。
+- 视频: https://www.youtube.com/watch?v=XowhmjNX1Qs
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/urlowuriel.jpg?itok=kfH4VjwL https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/orlow-1.jpg?itok=zq_eJNAD https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/uriel-orlow-b.jpg?itok=lOIe-zH1
+- 项目主页: https://www.labiennale.org/en/art/2026/uriel-orlow
+
 #### Dog's Nose — Maki Ueda (2026)
 - 类型: 艺术作品 · 生物: 动物
 - 核心想法: 生物记录可以按狗的体验方式记下一次散步：一连串气味，而不是一连串景象。
@@ -16500,6 +17327,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 以盲品形式提供十一种哺乳动物的奶样。
 - 视频: https://www.youtube.com/watch?v=8k3acKrF-o8
 - 项目主页: https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal
+
+#### Interspecies Architectures: Ceramic Habitats for Stingless Bees — João Machado (2025)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 如果先按蜂的需求设计内腔，一件雕塑可以既是给人看的作品，也是蜂的家。
+- 作品内容: 一项持续进行的研究：Machado 烧制的陶瓷雕塑是巴西本土无刺蜂可以真正入住的蜂巢，与无刺蜂养殖者和原住民知识持有者一起开发，并配有录音，让人听见蜂群。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。
+- 实现方式: 依据传统无刺蜂养殖知识，按特定蜂种调整内腔容积、保温和入口朝向，再用柴烧、匣钵烧和坑烧成型；生物声学录音放大蜂群的声音。
+- 视频: https://www.youtube.com/watch?v=u5zJDe6AXqk
+- 图片: https://starts.eu/wp-content/uploads/0-2-scaled.jpg https://starts.eu/wp-content/uploads/13.jpg https://starts.eu/wp-content/uploads/19-1.jpg
+- 项目主页: https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-joao-machado
 
 #### Radical Climate Action Bird — Dennis Siering (2025)
 - 类型: 艺术作品 · 生物: 动物
@@ -16551,6 +17387,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1145/3573382.3616049 (CHI PLAY 2023 Companion)
 - 图片: https://figures.semanticscholar.org/09bf064c1680f1e2dccc622ef13fd007db1216c3/500px/2-Figure1-1.png
 - 项目主页: https://doi.org/10.1145/3573382.3616049
+
+#### We Save Our Seed for the Following Season — Carolina Caycedo (2023)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 种子以及保存种子的女性，把主权与互惠带过边界、传给后代。
+- 作品内容: 提花挂毯结合编织、印花和有机材料，致敬守护土地知识的女性：从二战拘留营里种花园的日裔美国人，到采摘岩高兰的特林吉特族疗愈者。在 2026 年威尼斯双年展上，它们与三颗装在黄麻网里的木制大种子一同展出，象征“三姐妹”——玉米、豆子和南瓜相互依存地种在一起。
+- 实现方式: 提花织造结合印花棉斜纹布和有机材料，配以悬挂在网中的木雕种子。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/caycedo1.jpg?itok=BetVgKEm https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/caycedo-carolina-b.jpg?itok=RGLAwDAV
+- 项目主页: https://www.labiennale.org/en/art/2026/carolina-caycedo
 
 #### Exploring Kolam As An Ecofeminist Computational Art Practice — Gopinaath Kannabiran (2022)
 - 类型: 论文 · 生物: 昆虫, 人体
@@ -16889,6 +17733,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 介入土地、水和土壤，修复、净化或揭示生态系统的艺术。
 
+#### Let This Be My Cathedral — Annalee Davis (2026)
+- 类型: 艺术作品 · 生物: 植物, 动物
+- 核心想法: 把种植园里的花园变成一座专注的礼拜堂，在这里哀悼灭绝，也开始修复。
+- 作品内容: 为 2026 年威尼斯双年展创作的半圆形装置：墙上是一组植物标本，来自 Davis 在巴巴多斯一座旧甘蔗种植园里的花园；还有手工刺绣的织物、用火焰喷枪在地面上模印的棕榈图案，以及一只等大的爱斯基摩杓鹬复制品——这种鸟最后一次在巴巴多斯被看到是 1963 年，被推定已经灭绝。
+- 实现方式: 收集、压制加勒比民间园艺中的植物并装裱成标本墙，再结合刺绣、火焰烧制的绘画和鸟的铸模。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/davis-annalee-b.jpg?itok=eDoD3cwP https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/davis1.jpg?itok=vEBiHMEA https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/annaleedavis.jpg?itok=SASyOndc
+- 项目主页: https://www.labiennale.org/en/art/2026/annalee-davis
+
+#### Cuna de Humedales — Leonel Vásquez (2025)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 从声音和象征上修复一片湿地，把水当作有记忆、有声音的生命。
+- 作品内容: 一张漂浮在波哥大草原湿地上的共鸣膜——这片草原曾是由河流和沼泽连成的广阔两栖系统——它是与水一同聆听和举行仪式的场所。膜下播放水下声景，包括草原本土鱼类的录音，与安第斯的摇篮曲、歌谣和献给水的供奉相互应答。获 2026 年 S+T+ARTS Prize Buen-TEK 优异奖。
+- 实现方式: 带有水下音响和水听器录音的漂浮建筑，通过社区聆听和仪式来激活，依据“美好生活”（Buen Vivir）理念和安第斯原住民敬水的传统。
+- 图片: https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-4-1024x683.jpg https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-5.jpg https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-7-1024x683.jpg
+- 项目主页: https://starts.eu/prize-buen-tek-winners-2026/prizes-of-distinction-leonel-vasquez
+
 #### Coral Sonic Resilience — Marco Barotti (2024)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
 - 核心想法: 声音可以是修复工具，而不只是表现自然的方式。
@@ -17010,6 +17870,24 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 通过声音、数据、影像和传感器让生态过程变得可感知。
 
+#### Aeolian Suite — Jenna Sutela (2026)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 不再消除噪声：让风这种无法计算的力量来当表演者。
+- 作品内容: 2026 年威尼斯双年展芬兰馆被改造成一片风景：毛茸茸的动态雕塑像风玫瑰图一样排成一圈，形似麦克风防风罩；一段由气象数据、乐器和威尼斯五种风的录音构成的作品，让风“接管麦克风”。
+- 实现方式: 来自威尼斯、赫尔辛基等地的风声录音和气象数据，驱动阿尔托设计的展馆里的多声道声音作品和动态雕塑。
+- 视频: https://www.youtube.com/watch?v=5XGYIBxy-DY
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/finlandia1.jpg?itok=AdvJXIZw
+- 项目主页: https://www.labiennale.org/en/art/2026/finland
+
+#### Black Seas – Scores for the Sonic Eye — Anca Benera & Arnold Estefán (2026)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把海洋的沉积物和死亡区当作帝国、开采与生态变化的记录来聆听。
+- 作品内容: 2026 年威尼斯双年展罗马尼亚馆把黑海当作一座活的档案来聆听：声音、影像和雕塑取材于对黑海缺氧深层、沉积物和化石时间的海洋学研究，这片海由多瑙河、顿河和第聂伯河汇入。第二个展场通过工业流通，把黑海沿岸与大西洋和纳米布沙漠联系起来。
+- 实现方式: 以海洋学数据和田野录音为基础的长期研究，被转化为分布在两个展场的声音乐谱、影像和雕塑。
+- 视频: https://www.youtube.com/watch?v=m3GuCKmTwZw
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/romania1.jpg?itok=39X6OYK4 https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/romania.jpg?itok=PUBJZDBu
+- 项目主页: https://www.labiennale.org/en/art/2026/romania
+
 #### Interspecies Interfaces in Artistic Contexts: Forest Signals as the Basis for Ecosystemic Intelligence — Cesar & Lois (2026)
 - 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
 - 核心想法: 智能可以从生态关系中生长出来，而不只来自数据中心。
@@ -17019,6 +17897,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 视频: https://www.youtube.com/watch?v=BvQRNYvjlHU
 - 项目主页: https://doi.org/10.1162/leon.a.2731
 
+#### Liquid Tongues — Bogna Burska, Daniel Kotowski (2026)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 同时向鲸的文化和聋人文化学习：语言不一定要靠说出来。
+- 作品内容: 2026 年威尼斯双年展波兰馆：一件音视频装置，由健听者和聋人组成的 Chór w Ruchu（运动合唱团）用英语口语和国际手语诠释鲸的交流编码和鲸歌。大量影像在水下拍摄——在那里手语可以自由交流，而口语声音会被扭曲。
+- 实现方式: 把鲸歌研究转化为合唱、手语和模仿鱼群运动的编舞，在水中和水面上拍摄，并用身体可感的低频声音播放。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/polonia1.jpg?itok=wV8mu4eC
+- 项目主页: https://www.labiennale.org/en/art/2026/poland
+
 #### Planet Ocean — Chris Watson (2026)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
 - 核心想法: 海洋是地球上最大、声音最丰富的栖息地，把它当作一个整体来听。
@@ -17026,6 +17912,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 来自多片海域的水听器和空气麦克风录音，由 Touch 以数字下载加 PDF 小册子的形式发行。
 - 图片: https://chriswatson.net/wp-content/uploads/sites/5/Planet-Ocean-cover-scaled.jpg
 - 项目主页: https://chriswatson.net/2025/12/30/1980/
+
+#### Serpentine Currents – Fragments of a Changing Future — Dana-Fiona Armour (2026)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 把一种濒危动物变成隔着整个庭院都能看见的生物指示器。
+- 作品内容: 一件分为三段的发光雕塑，悬挂在伦敦萨默塞特宫庭院的喷泉上方（2026 年 2 月 19 日至 4 月 26 日），依据濒危海蛇 Aipysurus fuscus 的三维扫描建模。它的 LED 表皮随英国海岸历史和预测的海水温度与盐度数据改变图案和亮度，想象一个海水暖到海蛇能在英国水域生活的未来。
+- 实现方式: 把三维扫描的标本放大成网状 LED 雕塑，由海洋学数据驱动，并推演到 50 年后。
+- 图片: https://admin.somersethouse.org.uk/images/kgYbkOZhMkbthAG9_KAhtj28FN8=/6097/width-3200/Close-up-of-Serpentine-Currents-by-Dana-Fiona-Armour.-Credit---Tim-Bowditc.jpg https://admin.somersethouse.org.uk/images/2j3JX5EOfuWm458yrOdjyTon4mg=/6098/width-3200/Close-up-of-Serpentine-Currents-by-Dana-Fiona-Armo_7Jz8KxG.-Credit---Tim-Bowditc.jpg
+- 项目主页: https://www.somersethouse.org.uk/whats-on/dana-fiona-armour-serpentine-currents
 
 #### Drumming for Love — Erzë Dinarama (2025)
 - 类型: 艺术作品 · 生物: 昆虫, 生态系统
@@ -17805,6 +18699,22 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 关于生态、灭绝、气候和其他物种的装置与环境。
 
+#### Entre chien et loup — Abbas Akhavan (2026)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 让展馆本身成为温室，由一株活的植物讲述帝国与植物采集的历史。
+- 作品内容: 在 2026 年威尼斯双年展加拿大馆，Akhavan 把整座建筑改造成一个“沃德箱”——当年大英帝国用来在世界各地运输植物的密封玻璃箱。生长灯和喷雾装置下的定制水池里养着活的王莲（Victoria 属），它们与邱园合作、在帕多瓦育苗，令人想起 1851 年王莲在水晶宫的展出。
+- 实现方式: 展馆立面换成玻璃，配有生长灯和喷雾系统的水池让热带王莲在威尼斯的季节里存活。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/canada1.jpg?itok=ZT8OUqki https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/canada.jpg?itok=BBvs32Kp
+- 项目主页: https://www.labiennale.org/en/art/2026/canada
+
+#### Geography of Equinoctial Plants: Counter-Taxonomy and Relational Ecologies — Juan Cortés (2026)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 用一幅殖民时期科学图像所遗漏的植物重画它，分类就显露为一种文化行为。
+- 作品内容: 一件装置，用安第斯本土特有、具有文化意义的植物——包括药用和神圣植物，均购自波哥大 Samper Mendoza 市场的剩余货品——重建洪堡 1805 年植物学图中钦博拉索山的轮廓。光线穿过悬挂的活植物，投下变化的影子。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。
+- 实现方式: 悬挂的多孔结构里填满活植物，来源是城市市场网络而不是标本收藏；植物的影子记录时间和环境变化。
+- 图片: https://starts.eu/wp-content/uploads/GPE-1-1024x576.jpeg https://starts.eu/wp-content/uploads/GPE-3-scaled.jpeg https://starts.eu/wp-content/uploads/GPE-9-787x1024.png
+- 项目主页: https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-juan-cortes
+
 #### Olfactory Biome — Maki Ueda (2026)
 - 类型: 艺术作品 · 生物: 昆虫, 动物, 植物
 - 核心想法: 空气是共享的交流媒介；通过气味进行角色扮演，让人感受其他物种如何“阅读”空气。
@@ -17821,6 +18731,31 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 根据色彩科学和昆虫视觉研究校准的定制光谱 LED 照明，与色彩科学家 Ali Aiman Raza、科学家 Colas Schretter 和昆虫视觉生物学家 Marko Ilić 合作开发。
 - 图片: https://ars.electronica.art/negotiatinghumanity/files/2026/08/parallel-w-gdansk-2026.jpg https://ars.electronica.art/negotiatinghumanity/files/2026/08/parallel-w-gdansk-2-2026.jpg
 - 项目主页: https://ars.electronica.art/negotiatinghumanity/en/view/parallel-world-39f38ddb450c81029789d5dc2654f8ef
+
+#### Seaworld Venice — Florentina Holzinger (2026)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 把观众自己的排泄物送进维持表演者生存的水里，让人无法再忽视水循环和自己在其中的位置。
+- 作品内容: 2026 年威尼斯双年展奥地利馆同时被做成水下主题乐园、污水处理厂和圣殿：观众的尿液经过过滤后流入玻璃水箱，表演者在其中生活和舞蹈；洪水、水上摩托和机器猎犬一起呈现一个失控的水系统。
+- 实现方式: 展馆里的厕所通过多级过滤与表演水箱相连；整个双年展期间，每天都有表演在这个“机器有机体”里进行。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/austria1.jpg?itok=c4NYUG_L https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/austria.jpg?itok=u_xniIW-
+- 项目主页: https://www.labiennale.org/en/art/2026/austria
+
+#### Soft Offerings to Silenced Voices and to All Who Have Turned to Dust — Otobong Nkanga (2026)
+- 类型: 艺术作品 · 生物: 植物, 昆虫
+- 核心想法: 让植物和昆虫慢慢占领艺术界最具象征性的建筑，由其他物种来完成作品。
+- 作品内容: 在 2026 年威尼斯双年展上，Nkanga 用本地烧制的砖包裹了中央馆立面的四根柱子，并在上面挂上陶罐、穆拉诺玻璃器皿和小小的昆虫栖所；种在陶罐里的攀援植物会在展期内逐渐把柱子覆盖。在 Carlo Scarpa 设计的雕塑花园里，配套作品 And Still, Here We Are 摆放着采石场的岩石，石洞里盛着雨水，也长着芳香植物。
+- 实现方式: 在展馆柱子上砌砖、固定陶制花盆和昆虫旅馆，种上攀援植物，让它们在六个月的展期中生长；花园部分用岩石承接雨水、种植植物。
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/otobong-nkanga-b.jpg?itok=f0VdADPv https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/nkanga-1.jpg?itok=S49x6Icl https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/otobongnkanga.jpg?itok=QJh2Vr6G
+- 项目主页: https://www.labiennale.org/en/art/2026/otobong-nkanga
+
+#### Taharaki Skyside — Fiona Pardington (2026)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 把博物馆标本当作回望我们的祖先来拍摄，而不是抽屉里的数据。
+- 作品内容: 新西兰在 2026 年威尼斯双年展的展览：十七幅巨大的摄影肖像，拍摄的是新西兰和澳大利亚博物馆收藏的本土鸟类标本，其中有的已经灭绝，有的极度濒危，背景是取自 19 世纪照片的栖息地。
+- 实现方式: 用大画幅拍摄博物馆中的鸟类标本，以巨幅尺寸输出，并与档案中的栖息地影像合成；背后是毛利人把鸟视为祖先和信使的观念。
+- 视频: https://www.youtube.com/watch?v=NBkZWtAwd48
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/nuova-zelanda1.jpg?itok=Wvx2lk-H https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/nuovazelanda.jpg?itok=L_qTwMWJ
+- 项目主页: https://www.labiennale.org/en/art/2026/new-zealand
 
 #### Chronicles from In-between 495 to 570 nm — Kasia Molga (2025)
 - 类型: 艺术作品 · 生物: 植物
@@ -17864,6 +18799,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 结合微生物组科学、火山隐喻与观众参与的纪实剧场。
 - 图片: https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg
 - 项目主页: https://www.rimini-protokoll.de
+
+#### No Bird — UJOO+LIMHEEYOUNG (2025)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 因为不再需要而失去飞行能力的鸟，成了人类在自动化中失去能动性的镜子。
+- 作品内容: 一件从不会飞的鸟类灭绝出发的动态装置：一台像鸟一样行走的机器在沙上留下足迹，另一台机器不停地把它们抹去，让地面回到原样。它获得 2026 年 Prix Ars Electronica 互动艺术+类荣誉提名。
+- 实现方式: 两台定制机械装置——按算法步态行走的“鸟”和耙平沙面的“橡皮擦”——循环运转，没有任何积累。
+- 视频: https://vimeo.com/1167212108
+- 图片: https://archive.aec.at/asset/3898399/preview/ https://archive.aec.at/asset/3898400/preview/
+- 项目主页: https://archive.aec.at/prix/319445/
 
 #### Ornithon — Studio Ossidiana (2025)
 - 类型: 艺术作品 · 生物: 动物, 植物
@@ -18446,6 +19390,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://ars.electronica.art/negotiatinghumanity/files/2026/09/20260907_1334_vog_4527_4500x3001_mobile.jpg
 - 项目主页: https://ars.electronica.art/negotiatinghumanity/en/view/corpus-corax-speculative-human-raven-translator-3d438ddb450c806c9d55ce831b6e0a5d
 
+#### The Department of Species Services (DSS) — Shihan Zhang (2026)
+- 类型: 思辨设计 · 生物: 昆虫, 植物
+- 核心想法: 想象一种由生态系统雇用人类的工作，而 AI 负责管理生态照护。
+- 作品内容: 一件在旧金山 Gray Area 展出的沉浸式装置（2026 年 4 月至 5 月），故事设定在 2035 年：DSS 是美国第一个由 AI 领导的非政府组织，雇用人类为物种和生物群落工作。在“人类传粉者”情境中，加州蜜蜂数量骤减威胁到加州罂粟，观众被招募为传粉者，戴上 3D 打印的手套上岗。
+- 实现方式: 3D 打印的“授粉手套”通过触觉反馈在雕塑化的花丛环境中触发空间声音，两面墙的投影把渲染出的熊蜂和手套上的实时摄像画面并置。
+- 视频: https://www.youtube.com/watch?v=9rFB8xznVOs
+- 图片: https://grayarea.org/wp-content/uploads/2026/04/dss-in-action.jpg https://grayarea.org/wp-content/uploads/2026/04/vlcsnap-2026-03-19-12h59m47s443.png
+- 项目主页: https://grayarea.org/event/exhibition-the-department-of-species-services/
+
 #### Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World — Sylvia Janicki, Heidi R. Biggs (2026)
 - 类型: 论文 · 生物: 生态系统, 人体
 - 核心想法: 为与被污染的世界共处而设计，以患病身体的知识为向导。
@@ -18470,6 +19423,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 基于幸存者的证言；五项干预结合了仿生地面、AIoT 传感和公众参与工具。
 - 视频: https://www.youtube.com/watch?v=e2_M55DO7GQ
 - 项目主页: https://www.biodesignchallenge.org/easd-castello-2025
+
+#### Imaginary Atlas, Amazônia — Gabriela Bìlá (2025)
+- 类型: 思辨设计 · 生物: 生态系统, 植物
+- 核心想法: 把亚马孙城市设计成祖先知识和森林的延续，而不是它们的对立面。
+- 作品内容: 一个以艺术为方法的城市研究项目和沉浸式 XR 装置，想象贝伦及其河岸与岛屿社区在未来一百年里会如何演变：城市会吞没森林，还是森林会重塑城市？它与亚马孙城市艺术家共同创作，其中许多人是原住民后裔。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。
+- 实现方式: 以“传统生态知识 + 技术”的方法，把本地手工艺、电影、游戏引擎世界和互动媒体结合起来，研究依托麻省理工学院媒体实验室和 Museu Paraense Emílio Goeldi 等伙伴。
+- 视频: https://www.youtube.com/watch?v=sDGVry0uioA
+- 图片: https://starts.eu/wp-content/uploads/ATLAS_IMAG_scene-3-1024x575.png https://starts.eu/wp-content/uploads/ATLAS_IMAG_exhibit-1-1-scaled.jpeg
+- 项目主页: https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-gabriela-bila
 
 #### Meat of the Matter: A Flesh Perspective — Robert College of Istanbul Biodesign Challenge team (2025)
 - 类型: 思辨设计 · 生物: 动物
@@ -18727,6 +19689,32 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1080/17547075.2026.2648918 (Design and Culture 2026)
 - 项目主页: https://doi.org/10.1080/17547075.2026.2648918
 
+#### Jambato v. the Ambato–Guambeine–Angamarca road — Alianza Jambato (2026)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 自然权利诉讼的原告可以是一个物种，而不只是整个生态系统。
+- 作品内容: 以 Jambato 丑角蟾（Atelopus ignescens）之名提起的自然权利诉讼，对象是一条公路工程；这种蟾蜍只生活在厄瓜多尔安加马卡一带。2026 年 1 月 4 日，普希利的法院叫停施工，几天后又撤销了这一措施；2026 年 3 月 7 日，里奥班巴的法院裁定该公路的环境许可侵犯了蟾蜍的权利（案号 06282-2026-00060）。
+- 实现方式: 依据厄瓜多尔宪法中的自然权利提起保护诉讼，援引 Los Cedros 判例，先针对省级修路方，再针对环境部颁发的许可。
+- 视频: https://www.youtube.com/watch?v=j-rGGhI2Ze0
+- 图片: https://verfassungsblog.de/wp-content/uploads/2026/03/jambato.jpg
+- 项目主页: https://verfassungsblog.de/jambato-ecuador/
+
+#### Rights for Nature: Empower Citizens to Represent and Protect Ecosystems — ECI “Rights for Nature” organisers (2026)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 让公民成为生态系统的代表，把自然权利从单条河流推广到整个大陆的法律。
+- 作品内容: 欧盟委员会于 2026 年 5 月 19 日登记的一项欧洲公民倡议，要求制定欧盟指令，承认生态系统是法律人格主体，享有存在、再生和被恢复的权利，并赋予公民在法庭上代表它们的资格。如果在 2027 年 10 月前在至少七个成员国收集到一百万个签名，欧盟委员会就必须作出回应。
+- 实现方式: 利用欧盟公民倡议机制，以西班牙 2022 年的 Mar Menor 法律为先例，并把生态系统与欧盟《自然恢复条例》中的定义挂钩。
+- 图片: https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/c7/ed/852b02d74b8db2fb472c015f4352/https-delivery-gettyimages.com/downloads/1234872585
+- 项目主页: https://ecojurisprudence.org/initiatives/europen-citizens-initiaitve-eci-rights-for-nature/
+
+#### Rights of the Ranchería River (Judgment C-353/26) — Constitutional Court of Colombia (2026)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 河流的权利一旦从法院判令写进国家法律，又通过违宪审查，就更难被推翻。
+- 作品内容: 2026 年 10 月，哥伦比亚宪法法院裁定 2024 年第 2415 号法律合宪。该法律承认拉瓜希拉省的兰切里亚河及其流域和支流为权利主体，享有受保护、保育、维护和恢复的权利，并设立有社区参与的“兰切里亚河守护者委员会”。
+- 实现方式: 国会通过、2024 年 8 月签署的法律经宪法法院审查（C-353/26），规定国家对河流负有义务，并设立有参与式规则的守护者委员会。
+- 视频: https://www.youtube.com/watch?v=3x2vuvrxsuk
+- 图片: https://rtvc-informativo.s3.amazonaws.com/assets/public/2024-08/R%C3%ADo%20Rancher%C3%ADa.jpeg
+- 项目主页: https://www.corteconstitucional.gov.co/comunicados/comunicado-33-28-de-octubre-de-2026.pdf
+
 #### The parliament of things: Shape-changing materials as amplifiers of interspecies relation design — Yi Sui (2026)
 - 类型: 论文 · 生物: 生态系统
 - 核心想法: 响应材料可以在共同的“议会”里替其他物种发言。
@@ -18765,6 +19753,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 视频: https://www.youtube.com/watch?v=Ly8pY4Xefzs
 - 项目主页: https://doi.org/10.1162/leon.r.2685
 
+#### Legal personhood of Pemadashkodeyong / Rice Lake — Alderville First Nation (2025)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 原住民族可以先于国家，用自己的宪法赋予一片湖法律地位。
+- 作品内容: 2025 年 11 月 17 日，奥尔德维尔原住民族议会一致通过决议，承认安大略省的赖斯湖为法律人格主体，享有九项权利，包括生存、存在和繁荣的权利。它是继 2021 年魁北克马格皮河之后，加拿大第二个获得法律人格的自然水体。
+- 实现方式: 依据本族宪法（Chi-Naaknigewin）通过的议会决议，由国际自然权利观察组织协助起草，后续将开展湖泊调查并设立守护者委员会。
+- 视频: https://www.youtube.com/watch?v=YILCztR_1Iw
+- 图片: https://dr48t4z2v1s6a.cloudfront.net/wp-content/uploads/2026/02/05122645/RiceLakeSunset-1280x960.jpg
+- 项目主页: https://peterboroughcurrents.ca/newsletters/is-rice-lake-a-person/
+
 #### Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'? — Wenjia Sun (2025)
 - 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
 - 核心想法: 不只为与其他物种共居设计物件，也为之设计法律。
@@ -18788,6 +19785,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 纽约大学 More-Than-Human Life（MOTH）项目的研究，由设计师 Elena Landinez 以无 PVC 壁纸和醋酸纤维面具呈现。
 - 图片: https://designmuseum.org/image/4e4ed825-44d0-40d6-b9d7-9d325d381080?width=1200
 - 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### The Planetary Compendium: Case Studies on Planetary Governance — Dark Matter Labs, Berggruen Institute (2025)
+- 类型: 书与文章 · 生物: 生态系统
+- 核心想法: 收集过去、现在和思辨性的行星治理实验——超越国家与物种的边界——让它们可以被比较和借用。
+- 作品内容: 由 Berggruen Institute 与 Dark Matter Labs 共同开发的线上行星治理“珍奇柜”：十个配有插画和动画的案例，涵盖月球治理、自然权利、地球工程伦理、跨境风险和跨物种交流。它获得 2026 年 Prix Ars Electronica 数字人文类荣誉提名。
+- 实现方式: 一个音视频网络平台，每个案例都配有文章、物件、插画、动画和声音设计；视觉概念和体验设计由 Anahat Kaur 与 Arianna Smaron 完成。
+- 视频: https://www.youtube.com/watch?v=Dj47C5XreAw
+- 图片: https://archive.aec.at/asset/3906073/preview/ https://archive.aec.at/asset/3906074/preview/
+- 项目主页: https://governtheplanet.org/
 
 #### Guanaquerx — Paula Gaetano Adi (2024)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
@@ -18949,6 +19955,24 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 新编或复兴的神话、仪式与宇宙观，用来与其他生命建立关系。
 
+#### Actos invisibles para sostener el universo — RojoNegro (2026)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 设计一场缓慢专注的仪式，让植物、盐和陶土自己把作品继续下去。
+- 作品内容: 2026 年威尼斯双年展墨西哥馆被布置成一场祈请：烟草植物迎接观众，一条盐线画成中美洲“言语卷轴”的样子，上面放着鸟形陶器，呼吸的节奏与大地的声音交织。数月之间，盐吸收湿气，慢慢侵蚀这些陶器。
+- 实现方式: 用烟草、盐、陶土和以呼吸为节奏的音视频，排布成一条仪式之路，取材于原住民、非裔墨西哥人和乡村的宇宙观。
+- 视频: https://www.youtube.com/watch?v=AwWMHJRjRk8
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/messico1.jpg?itok=7ywGk2wN https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/messico.jpg?itok=SP4d1xbg
+- 项目主页: https://www.labiennale.org/en/art/2026/mexico
+
+#### The Aural Sea — Uzbekistan Art and Culture Development Foundation, Xin Liu (2026)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 当一个生态系统已经消失，新的神话能让它仍然可以被想象，并给人行动的方式。
+- 作品内容: 2026 年威尼斯双年展乌兹别克斯坦馆把消失的咸海当作共同创造神话的土地，起点是十八岁的乌兹别克作家 Allayar Darmenov 编出的神话：剑鱼游过梭梭林的残迹。包括 Xin Liu 和 A.A. Murakami 在内的七位艺术家，以聆听和盐为线索，创作了装置、互动作品和绘画。
+- 实现方式: 由布哈拉双年展策展学校的五位学员共同策划；展馆与咸海文化峰会和咸海学校相连，后者在卡拉卡尔帕克斯坦把艺术家、科学家和本地知识聚在一起。
+- 视频: https://www.youtube.com/watch?v=f-uAmUlJ9O0
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/uzbekistan1.jpg?itok=U4K_rEFv https://images-eflux.b-cdn.net/assets/fcdfd77a-404a-4812-ace3-0412c751606b.jpg
+- 项目主页: https://www.labiennale.org/en/art/2026/uzbekistan-republic
+
 #### Confucian Ritual Space as More-Than-Human Design — Ning Gao (2025)
 - 类型: 论文 · 生物: 生态系统
 - 核心想法: 非人类中心的设计在西方理论之外早有传统。
@@ -18999,6 +20023,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 通过表演、服装和预告片呈现一个以共生为核心的教团仪式。
 - 视频: https://www.youtube.com/watch?v=foYNxbBx_Ro
 - 项目主页: https://www.biodesignchallenge.org/parsons-2022
+
+#### The Council of the Mother Spirits of the Animals — Celia Vásquez Yui (2022)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 给每个物种一个“母亲之灵”，让它们围坐成议会，自然的权利就成了可以直面的场景。
+- 作品内容: 一群亚马孙动物形态的陶塑，绘有希皮博族的 kené 纹样，排列在阶梯式平台上，如同一场仪式集会，又像一个物种议会。作品 2022 年首次在纽约 Salon 94 展出，2026 年在威尼斯双年展中央馆展出。
+- 实现方式: 陶器用乌卡亚利河沿岸相距数百公里的多处黏土手工塑成，并绘上 kené 纹样；这种视觉语言被认为能像“设计之药”一样作用于观看者。
+- 视频: https://www.youtube.com/watch?v=6QMT_VI__Sg
+- 图片: https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/celiavasquezyui-1.jpg?itok=-Cpy5kE8 https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/vasquezyui-1.jpg?itok=4nnefnHy https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/celiavasquezyui-2.jpg?itok=4fgP-79h
+- 项目主页: https://www.labiennale.org/en/art/2026/celia-v%C3%A1squez-yui
 
 #### Microbial Runestones — Nonhuman Nonsense (2021)
 - 类型: 艺术作品 · 生物: 细菌与微生物, 真菌
@@ -19056,6 +20089,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 用机器学习研究动物发声、交流与翻译。
 
+#### A Preview of Computational Animal Linguistics — Kenny Q. Zhu (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 研究动物声音，要带上语言学的整套工具，而不只是分类器。
+- 作品内容: 发表于 ACM Computing Surveys 的综述，把动物发声交流当作语言系统来研究：梳理动物具备哪些语言学特性，以及 NLP 和大语言模型如何被用来大规模研究它们。
+- 实现方式: 以人类语言的特性（音系、组合性、语义）为框架，综述每一层面所用的计算方法。
+- 论文: https://doi.org/10.1145/3850160 (ACM Computing Surveys 2026)
+
 #### AI-powered playbacks engage in flexible vocal interactions with zebra finches — Earth Species Project, Aza Raskin (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 通过“回话”来检验意义：一个会互动的 AI 伙伴是一种实验，而不只是翻译器。
@@ -19074,6 +20114,39 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://earthspecies.org/wp-content/uploads/2026/04/Braid-weave-5.png
 - 项目主页: https://earthspecies.org/2026/04/02/animal-language-processing-an-ai-convergence-in-animal-communication/
 
+#### BEANS-Next and ROOTS: Broadening Audio-Language Capabilities for Bioacoustics — Earth Species Project (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 问动物声音模型的，不只是“谁在场”，还有“场景里正在发生什么”。
+- 作品内容: 一套基准和训练数据，要求音频-语言模型回答的不只是“这是什么物种”，还要测试声学感知、场景理解和少样本学习。现有模型在物种标注之外表现很差；用 ROOTS 训练后各类任务都有提升。
+- 实现方式: BEANS-Next 基于生物声学任务分类体系构建；ROOTS 结合整理过的录音、行为与声学元数据、由音频推导的标签和合成数据，用于训练 NatureLM 式的音频-语言模型。
+- 论文: https://arxiv.org/abs/2610.10663 (arXiv 2026)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/10/BEANSROOTS-blog-image.png https://arxiv.org/html/2610.10663v1/figs/overview.png
+- 项目主页: https://earthspecies.org/2026/10/21/broadening-audio-language-capabilities-for-bioacoustics-introducing-beans-next-and-roots/
+
+#### Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations — Germán Sumbre, Earth Species Project (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 只为一个物种训练的模型，可以成为观察该物种自身声音单元的显微镜。
+- 作品内容: 一个只用五头已知海豚五年录音训练的、类似语音模型的自监督模型。它学到的码本把哨声拆成与海豚哨声类别对应的单元，甚至可能对应哨声内部的组成部分。
+- 实现方式: 将 Wav2Vec2.0 调整到海豚的频率范围，在无标注数据上预训练，再在签名哨声分类与哨声检测上测试；并分析嵌入和码本条目中可解释的声学单元。
+- 论文: https://arxiv.org/abs/2606.12503 (arXiv 2026)
+- 图片: https://arxiv.org/html/2606.12503v1/figures/data_collection_whistle.png https://arxiv.org/html/2606.12503v1/figures/codebook_analysis_final.png
+- 项目主页: https://sumbre-lab.github.io/openwhistle/
+
+#### Evidence for the influence of shipping underwater radiated noise on sperm whale coda structure — Project CETI, Shane Gero (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 噪声不只是掩盖动物的话语，还可能改变它们说话的方式。
+- 作品内容: 在多米尼克附近、有船只经过时录下的抹香鲸咔嗒声序列更短，并偏向某一种频谱“元音”模式；仅凭咔嗒序列的特征，分类器就能判断当时是否有船舶噪声。
+- 实现方式: 对数百条标签录音的咔嗒序列标注是否存在船舶噪声；用机器学习分类器和频谱分析比较有无噪声时的序列节奏与类元音频谱类别。
+- 论文: https://doi.org/10.1016/j.ecoinf.2026.103881 (Ecological Informatics 2026)
+- 项目主页: https://www.projectceti.org/research
+
+#### HyenaSET: Hyena Sound Event Transcripts and benchmark animal2vec performance for parsing animal communication — Eli D. Strauss (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 野外的交流大多是沉默，基准也必须包含沉默。
+- 作品内容: 来自马赛马拉 19 只野生斑鬣狗项圈的约 1640 小时音频，其中 243 小时按叫声类型以及“是戴项圈的鬣狗还是邻居发出”进行了完整标注。鬣狗发声的时间只占 3.9%。
+- 实现方式: 项圈上的麦克风与加速度计（捕捉喉部振动）区分佩戴者与其他个体的叫声；公开专家标注、交叉验证划分和留出个体划分，以及 animal2vec 基线。
+- 论文: https://doi.org/10.64898/2026.06.14.732108 (bioRxiv 2026)
+
 #### Interspecies Translation Technologies: Designing Interpretation Interfaces Referencing Simple to Poetically Complex Semiotic Frameworks — Alinta Krauth (2026)
 - 类型: 艺术作品 · 生物: 动物
 - 核心想法: 诗意的“过度解读”也许比字面翻译更诚实地呈现动物信号。
@@ -19081,6 +20154,33 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 音频机器学习模型识别动物信号，再借助符号学框架映射为诗意文本。
 - 论文: https://doi.org/10.1162/leon.a.2738 (Leonardo 2026)
 - 视频: https://www.youtube.com/watch?v=J8zNuyS5yj0
+
+#### Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology — Jucheng Hu (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 同一声呼噜在不同身体状态下意义不同：要连同身体一起读声音。
+- 作品内容: 一个开源多模态语言模型，同时读取猫的视频、叫声和生理信号，并推理猫想要什么。在专家核验的 MeowBench 上，它的意图识别准确率达到 71%，高于通用视觉-语言模型。
+- 实现方式: 把面向音频和生物时间序列的科学编码器接入多模态大语言模型主干，并与生理情境对齐；团队公开了权重、训练代码和 Meow-10K 数据集。
+- 论文: https://arxiv.org/abs/2605.09152 (NeurIPS 2026)
+- 图片: https://arxiv.org/html/2605.09152v1/figs/archi.png
+- 代码: https://github.com/smgjch/Meow-Omni-1
+
+#### OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations — Germán Sumbre, Earth Species Project (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 与其浅尝成千上万个物种，不如多年深挖一个动物家庭。
+- 作品内容: 迄今最大的开放海豚发声数据集：在埃拉特一处半自然泻湖中，对同一个由五头宽吻海豚组成的稳定群体连续录音五年，约 18 万条哨声（114 小时），其中 8354 条由专家标注，并附有基准任务。入选 NeurIPS 2026 数据集与基准赛道 Spotlight。
+- 实现方式: 连续水听器录音经过公开的检测—切分—归类流程处理；在该语料上预训练的 Wav2Vec2.0 模型在哨声检测与分类上优于 AVES、BioLingual 等通用生物声学编码器。
+- 论文: https://arxiv.org/abs/2609.34839 (NeurIPS 2026 (Datasets & Benchmarks, spotlight))
+- 图片: https://sumbre-lab.github.io/assets/images/dataset/dolphin-reef-aerial.webp https://arxiv.org/html/2609.34839v1/figures/fig_data_acquisition.png
+- 项目主页: https://sumbre-lab.github.io/openwhistle/
+
+#### Social context information and acoustic convergence in elephant vocal choruses — Earth Species Project, Mickey Pardo (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把合唱当作整体来听，而不是先把声音拆开。
+- 作品内容: 非洲象约 60% 的低频隆隆声是重叠的合唱。研究用 1986—2022 年在安博塞利录下的 902 段隆隆声，让模型直接从未分离的合唱中预测社会情境（问候、联络、安抚幼象、出发），并发现问候与联络时各个声音会变得更相似。
+- 实现方式: 用 Echo 家族及另外 39 个家族的重叠隆隆声训练机器学习分类器，行为标注来自 ElephantVoices 与安博塞利大象信托；并追踪每轮交流中声学相似度的变化。
+- 论文: https://doi.org/10.1038/s41598-026-68525-3 (Scientific Reports 2026)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/10/unnamed-4-1.jpg https://earthspecies.org/wp-content/uploads/2026/09/unnamed-5-1024x683.jpg
+- 项目主页: https://earthspecies.org/2026/10/01/new-study-machine-learning-reveals-that-elephant-choruses-encode-behavior/
 
 #### The challenge of decoding animal communication using AI — Inbal Arnon (2026)
 - 类型: 论文 · 生物: 人体, 动物
@@ -19097,6 +20197,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1016/j.patter.2025.101491 (Patterns 2026)
 - 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1e88/13083638/9a7c09250249/gr1.jpg
 - 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC13083638/
+
+#### Who Called? V33DA: A Physically Verified Multimodal Benchmark for Vocal Attribution in Zebra Finch Groups — Richard Hahnloser (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 解码对话之前，先得知道是谁在说话。
+- 作品内容: 一个包含 33625 次鸣叫的斑胸草雀群体基准，每只鸟身上的微型加速度计确定了真正的鸣叫者。模型获得五声道音频、三个摄像机视角和三维姿态，需要判断是哪只鸟在叫；大多数模型遇到没听过的鸟就失灵。
+- 实现方式: 体表加速度计捕捉的喉部振动给出真实鸣叫者身份（对模型隐藏）；在留出日期、新群体和留一只鸟三种条件下比较方法。
+- 论文: https://arxiv.org/abs/2610.38109 (NeurIPS 2026)
+- 图片: https://arxiv.org/html/2610.38109v1/figure1v33da_cr.png
+- 代码: https://github.com/marisbasha/v33da
 
 #### AVEX: What Matters for Animal Vocalization Encoding — Earth Species Project (2025)
 - 类型: 论文 · 生物: 动物
@@ -19143,6 +20252,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 视频: https://www.youtube.com/watch?v=jH98kvC9f1s
 - 图片: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png
 - 项目主页: https://blog.google/technology/ai/dolphingemma/
+
+#### Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models — Earth Species Project (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 专家模型知道的可能比它说得出的更多；模型合并把“说话能力”还给它。
+- 作品内容: 在动物声音上微调 NatureLM-audio 后，它遵循指令的能力变差了。把它的权重与原始语言模型重新混合，可以恢复这种灵活性，并让它对从未听过的物种的零样本准确率提升一倍以上。
+- 实现方式: 在 NatureLM-audio 与其 Llama 基座模型之间做线性插值，并用物种名称提示和未见物种的闭集零样本分类来评估。
+- 论文: https://arxiv.org/abs/2511.05171 (arXiv 2025)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/09/Featured-Image.png https://earthspecies.org/wp-content/uploads/2026/09/unnamed-3-1024x630.png
+- 项目主页: https://earthspecies.org/2026/09/30/what-if-a-model-knows-more-than-it-can-say/
 
 #### African elephants address one another with individually specific name-like calls — Mickey Pardo (2024)
 - 类型: 论文 · 生物: 动物
@@ -19303,6 +20421,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260803141722463-0964:S2977905726100596:S2977905726100596_fig3.png?pub-status=live https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260803141722463-0964:S2977905726100596:S2977905726100596_fig4.png?pub-status=live
 - 项目主页: https://www.cambridge.org/core/journals/biotechnology-design/article/ambassador-trees-prototypes-toward-aimediated-ecosystem-translation/9FDACF64E8A758B634927984C1D64FC8
 
+#### Citiverse: AI Sparrow as a Multispecies Participation Agent for Inclusive Urban Futures — Anniina Autero (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 给一种常见的城市鸟类在规划桌上留个座位，哪怕它是个聊天机器人。
+- 作品内容: 在数字城市模型中，一个家麻雀形象的 AI 化身从麻雀的视角与坦佩雷居民讨论城市开发。工作坊参与者更多把它当作对话伙伴，用来产生共情、游戏和想象别样的未来，而不是决策工具。
+- 实现方式: 在 Citiverse 数字环境中，以家麻雀为化身的对话式“多物种韧性 AI 代理”用于参与式工作坊（19 人）；对对话进行主题分析。
+- 论文: https://doi.org/10.62161/sauc.v12.6391 (Street Art & Urban Creativity 2026)
+
 #### Council of Forest — Nonhuman Nonsense (2026)
 - 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
 - 核心想法: 让一片具体的土地在自己的议会里为自己发言。
@@ -19311,6 +20436,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://council-of-forest.com/council-of-forest-preview.webp
 - 项目主页: https://council-of-forest.com/
 - 代码: https://github.com/Nonhuman-Nonsense/council-of-forest
+
+#### Exploring a biocentric LLM-based assistant in environmental decision-making with more-than-human representation of the Tagus Estuary — Nuno Jardim Nunes (2026)
+- 类型: 论文 · 生物: 生态系统, 动物
+- 核心想法: 为一个地方发声的 AI，可能先改变人们如何思考，再改变他们选择什么。
+- 作品内容: 一个以里斯本塔霍河口生态数据为基础的大语言模型助手，为河口的非人类居民发声。在一项关于新大学校区选址的研究中，它没有改变人们的选择，但与以人为中心的助手相比，让人们在理由中更多考虑环境。
+- 实现方式: 用河口生态数据指导大语言模型采取生物中心立场；参与者被随机分配到生物中心或人类中心助手，完成一项思辨式规划任务，并对其理由进行编码分析。
+- 论文: https://doi.org/10.1007/s43621-025-02474-1 (Discover Sustainability 2026)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs43621-025-02474-1/MediaObjects/43621_2025_2474_Fig1_HTML.png
 
 #### OceanChat: The Effect of Virtual Conversational AI Agents on Sustainable Attitude and Behavior Change — Pat Pataranutaporn (2026)
 - 类型: 论文 · 生物: 动物
@@ -19406,6 +20539,31 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-026-43138-y/MediaObjects/41598_2026_43138_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41598-026-43138-y
 
+#### Benchmarking large language models for biodiversity assessment: Performance and biases across IUCN Red List species — Shinya Uryu (2026)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 大语言模型能查到一个物种，但不该替它判断命运。
+- 作品内容: 用 21955 个 IUCN 红色名录物种测试五个通用大语言模型：它们的分类学回答正确率达 95%，但保护等级只有 27%，并且对脊椎动物的表现好于无脊椎动物。
+- 实现方式: 模型回答四项评估任务（分类、保护等级、分布、威胁）；用考虑分类结构的分层统计模型估计准确率与偏差。
+- 论文: https://doi.org/10.1016/j.ecoinf.2026.103839 (Ecological Informatics 2026)
+
+#### Beyond taxonomic-based assessments: AI-based acoustic assessment of bee pollination function — Alef Iury Siqueira Ferreira (2026)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 按动物在生态系统中做什么来分类，而不是按它们叫什么。
+- 作品内容: 按生态角色对蜜蜂嗡鸣进行分类：区分有效与无效传粉者、飞行声与振动授粉声，而不是辨认物种。按功能分组让模型更稳健，也让农民直接估计授粉服务。
+- 实现方式: 把录音切分为飞行声和振动授粉声；用遮挡和 mixup 增强微调预训练 CNN 与 Transformer，保留野外噪声，并按录音划分数据以防泄漏。
+- 论文: https://doi.org/10.1016/j.atech.2026.102015 (Smart Agricultural Technology 2026)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/07/Community-Spotlight-Feature-Image-5-1024x576.png
+- 项目主页: https://earthspecies.org/2026/07/29/not-all-bees-pollinate-using-machine-learning-to-predict-ecological-roles/
+
+#### From blue jays to blue whales: bird-trained bioacoustics models for marine mammal monitoring — Google DeepMind (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 听过大量鸟鸣的模型，只需少量样例就能学会听鲸。
+- 作品内容: Perch 2.0 用 14000 多个陆地物种训练、没有任何水下声音，却能迁移到须鲸分类和区分虎鲸生态型。论文展示了如何在几小时内从未标注的海洋录音中构建定制的鲸类分类器。
+- 实现方式: 敏捷建模：用 Perch 2.0 嵌入被动声学数据，通过相似度搜索目标声音，标注少量结果并在嵌入上训练小型分类器。
+- 论文: https://doi.org/10.1121/10.0045438 (Journal of the Acoustical Society of America 2026)
+- 图片: https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg
+- 项目主页: https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/
+
 #### Future of Edge AI in biodiversity monitoring — Kate E. Jones (2026)
 - 类型: 论文 · 生物: 动物, 生态系统
 - 核心想法: 把智能放进传感器，监测便从被动记录变成能作出反应的系统。
@@ -19427,6 +20585,39 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 作品内容: 一套装在无人机上的聆听系统，能在最高 30 米的飞行高度，从被旋翼噪声淹没的录音中恢复鸟鸣；降噪后的空中声景与地面录音高度一致。
 - 实现方式: 硬件降噪结合针对无人机现场噪声自适应的深度学习增强模型；降噪后的音频再交给现成的物种识别软件。
 - 论文: https://doi.org/10.1111/2041-210x.70324 (Methods in Ecology and Evolution 2026)
+
+#### MetaPerch: Learning from metadata for bioacoustics foundation models — Google DeepMind (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 一个声音在何时何地被听到，本身就是它的一部分。
+- 作品内容: 新的 Perch 基础模型不只从鸟类和动物声音中学习，还学习每条 Xeno-canto 录音的地点和时间，使它在新地点、新声学环境中部署时更稳健。
+- 实现方式: 在物种标签之外加入预测九类录音元数据（地点、时间、栖息地等）的辅助损失；在 17 个生物声学数据集上测试。
+- 论文: https://arxiv.org/abs/2607.14072 (ICML 2026)
+- 图片: https://arxiv.org/html/2607.14072v1/teaser_v2.png
+
+#### MoveBench: A Benchmark for Global-Scale Wildlife Movement Forecasting — Sara Beery (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 动物的移动是随机的：要预测路径的分布，而不是一条线。
+- 作品内容: 一个预测野生动物去向的基准：来自 127 个国家、110 个物种、800 多只动物的 260 万个 GPS 定位点，配有 16 亿张环境栅格图块。深度学习并不总能胜过简单基线。入选 NeurIPS 2026 口头报告。
+- 实现方式: 将 Movebank 式 GPS 轨迹与 160 个环境协变量配对；用概率评估方案在不同时空尺度上比较四类方法。
+- 论文: https://arxiv.org/abs/2609.15780 (NeurIPS 2026 (oral))
+- 图片: https://arxiv.org/html/2609.15780v1/figs/MoveBench-0505.png
+
+#### Targeted Review for AI-Assisted Biodiversity Surveys: Active Continuous-Score Occupancy Modeling — Sara Beery, Google DeepMind (2026)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 把专家的注意力花在会改变生态结论的地方，而不是分类器最弱的地方。
+- 作品内容: ACORN 告诉生态学家应该人工复核哪些由 AI 标注的相机陷阱图像和音频片段，以保证物种分布结论正确；它用少得多的复核量就得到接近全人工标注的结果。入选 NeurIPS 2026 Spotlight。
+- 实现方式: 把分类器的连续得分纳入占域模型，并用主动学习策略挑选对最终占域估计最有信息量的样本。
+- 论文: https://arxiv.org/abs/2609.25657 (NeurIPS 2026 (spotlight))
+- 图片: https://arxiv.org/html/2609.25657v1/figure_1_v2.png
+- 代码: https://github.com/timmh/acorn
+
+#### WildBox: A Dataset and Benchmark for Aerial Monocular 3D Detection of African Savanna Wildlife — Benjamin Risse, Imageomics Institute (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 从空中“看见”动物已经解决，“在空间中看见”还没有。
+- 作品内容: 在肯尼亚用无人机拍摄的斑马、长颈鹿等稀树草原动物，共 237505 个三维包围框。开放词汇模型能在二维中找到动物，但在微调之前三维检测完全失败，说明单目航拍深度估计才是难题。
+- 实现方式: 以兼容 KITTI/Omni3D 的格式标注无人机视频并保留个体身份；在零样本、二维框提示和微调条件下测试 OVMono3D-LIFT 与 DetAny3D，并采用由粗到细的斑马课程学习。
+- 论文: https://arxiv.org/abs/2606.21309 (NeurIPS 2026)
+- 图片: https://arxiv.org/html/2606.21309v2/WildBox.png
 
 #### BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning — Imageomics Institute (2025)
 - 类型: 论文 · 生物: 动物, 植物, 真菌
@@ -19453,6 +20644,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://arxiv.org/abs/2508.04665 (arXiv 2025)
 - 图片: https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg https://arxiv.org/html/2508.04665v2/Australasian_Bittern_09042017-23.jpg
 - 项目主页: https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/
+
+#### ReefNet: A Large-Scale Dataset and Benchmark for Fine-Grained Coral Reef Recognition — Mohamed Elhoseiny (2025)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 通用 AI 看不懂珊瑚礁，它需要以分类学为基础的数据。
+- 作品内容: 来自 76 个 CoralNet 数据源和一个红海站点、约 92.5 万个属级硬珊瑚标注，并对应到 WoRMS 分类体系。视觉-语言模型和多模态大模型在零样本珊瑚识别上表现崩溃，训练后跨站点仍然困难。
+- 实现方式: 将点标注统一到 WoRMS 并经专家核验筛选（39 个类别一致率 92%）；基准涵盖零样本、少样本、同源与跨源迁移。
+- 论文: https://arxiv.org/abs/2510.16822 (NeurIPS 2026)
+- 图片: https://arxiv.org/html/2510.16822v4/reef_teaser.png
 
 #### SpeciesNet — Wildlife Insights (2025)
 - 类型: 产品与平台 · 生物: 动物
@@ -19580,6 +20779,23 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 人工生命、模拟生态系统、演化生物与生成式自然。
 
+#### Can AI Detect Life? Lessons from Artificial Life — Chris Adami (2026)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 用地球生命训练的 AI，会在数据覆盖不到的地方处处“看见”生命。
+- 作品内容: 为火星样本设计的机器学习“生命探测器”，会被来自无法存活的人工化学体系的样本欺骗，以接近 100% 的置信度报告“有生命”。
+- 实现方式: 用生物与非生物分子混合物训练的分类器，在人工生命复制子模型生成的分布外样本上进行测试。
+- 论文: https://arxiv.org/abs/2604.11915 (arXiv 2026)
+- 图片: https://arxiv.org/html/2604.11915v2/Fig1.png
+
+#### Diffusion TV — Sihwa Park (2026)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 在噪声中“调台”，感受正在失去的，以及机器想象出来的替代品。
+- 作品内容: 一台改装的显像管电视，天线和调台旋钮控制扩散模型去除多少噪声。三个频道分别播放 AI 生成的“过去”（灭绝物种）、“现在”（濒危物种）和“未来”（想象生物）的动物。展出于 SIGGRAPH 2026 艺术画廊。
+- 实现方式: 扩散模型（可能用艺术家依据 IUCN 红色名录和世界自然基金会资料构建的图像集微调）由电视的天线位置和频道旋钮实时驱动，把去噪过程以声音和图像呈现出来。
+- 论文: https://arxiv.org/abs/2609.05404 (arXiv 2026)
+- 图片: https://blog.siggraph.org/wp-content/uploads/2026/06/SIGGRAPH-Blog-Header_Diffusion-TV.png https://arxiv.org/html/2609.05404v1/images/antenna_interaction_01.jpg
+- 项目主页: https://blog.siggraph.org/2026/06/what-emerges-from-noise-the-speculative-worlds-of-diffusion-tv.html/
+
 #### Digital Ecosystems: Interactive Multi-Agent Neural Cellular Automata — Sakana AI (2026)
 - 类型: 研究原型 · 生物: 生态系统
 - 核心想法: 让人工生态系统像游戏一样可操控，人们通过分叉来探索“如果……会怎样”。
@@ -19605,6 +20821,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 论文: https://doi.org/10.1162/isal.a.1015 (ALIFE 2026)
 - 图片: https://arxiv.org/html/2604.11248v2/figures/frames/pbt-nca-n7/output_340.png
 
+#### Evolving Symbiosis, from Barricelli's Legacy to Collective Intelligence: a simulated and conceptual approach — Stefano Nichele (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 生命的重大飞跃也许来自融合，而不是竞争。
+- 作品内容: 复现并扩展 Nils Aall Barricelli 1953 年的“数字生物”——最早的人工生命实验，其中数字共生体在一维世界里融合。团队把它扩展到二维，并把共生起源与开放性、集体智能联系起来。
+- 实现方式: 重新实现 Barricelli 的一维元胞自动机规则，扩展到二维“共生生物”，并在 ALICE 2026 工作坊上用类 DNA 规范进行实验。
+- 论文: https://arxiv.org/abs/2603.08463 (arXiv 2026)
+- 图片: https://arxiv.org/html/2603.08463v1/figures/barricelli-symbiosis.png
+
 #### Microcosmos: Reimagining Artificial Life for the GPU Era — Bert Wang-Chak Chan (2026)
 - 类型: 研究原型 · 生物: 生态系统
 - 核心想法: 让人工生命扎根于真实物理，同时快到足以支撑大规模演化。
@@ -19612,6 +20836,56 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 实现方式: 在 GPU 上进行端到端可微分的流体-纤丝模拟；生命形式通过梯度、神经演化和质量-多样性算法优化，引擎作为开放平台发布。
 - 论文: https://doi.org/10.1162/isal.a.1018 (ALIFE 2026)
 - 图片: https://arxiv.org/html/2607.02954v1/figure2.png
+
+#### Neural Particle Automata: Learning Self-Organizing Particle Dynamics — Ehsan Pajouheshgar (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 让数字细胞动起来，形态发生就更像生命。
+- 作品内容: 细胞不再固定于像素、而是可以移动的粒子的神经元胞自动机。这些粒子能自组织成形状、受损后再生，并合成纹理。发表于 SIGGRAPH 2026。
+- 实现方式: 每个粒子携带位置与隐藏状态，由共享的神经规则更新；感知采用可微分的光滑粒子流体动力学（SPH）算子与定制 CUDA 内核。
+- 论文: https://doi.org/10.1145/3799902.3811052 (SIGGRAPH 2026)
+
+#### Reasoning with Neural Cellular Automata — Mayalen Etcheverry (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 推理不必是中心化的，它可以像组织一样从许多局部细胞中涌现。
+- 作品内容: 只与邻居通信、异步更新的细胞网格，学会了走大型迷宫、解数独和 ARC-AGI 谜题，能推广到更大的网格，并在部分网格受损后恢复。
+- 实现方式: 用样本回放和随机扰动在视觉推理任务上训练神经元胞自动机；在网格大小、推演长度、并行试验以及原始像素输入上做分布外测试。
+- 论文: https://arxiv.org/abs/2609.36126 (arXiv 2026)
+- 图片: https://arxiv.org/html/2609.36126v1/figures/Figure_1_v3.png
+
+#### TaxaAdapter: Vision Taxonomy Models are Key to Fine-grained Image Generation over the Tree of Life — Imageomics Institute, Sara Beery (2026)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 要正确画出一个物种，让懂得生命之树的模型去指导会画画的模型。
+- 作品内容: 一个轻量插件，把 BioCLIP 嵌入送入文生图扩散模型，让生成的动植物呈现正确的物种特征，即使是只有几张照片甚至没有照片的物种也行。
+- 实现方式: 把视觉分类模型的嵌入注入冻结的扩散模型；用多模态大模型比较生成图像与真实图像的性状描述作为评估指标。
+- 论文: https://arxiv.org/abs/2603.26128 (NeurIPS 2026)
+- 图片: https://imageomics.github.io/TaxaAdapter/static/images/teaser.png https://imageomics.github.io/TaxaAdapter/static/images/qualitative_tol.png
+- 项目主页: https://imageomics.github.io/TaxaAdapter/
+
+#### The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning — Flowers team (Inria), Michael Levin (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 不只是旁观人工生命展开，而是像实验者一样介入它。
+- 作品内容: CARL 是一个智能体，它在运行中的 Lenia 世界里施加微小的局部扰动，去创造、稳定并操控类生命的“孤子”；人类可以借助它实时引导这些生物穿越迷宫。
+- 实现方式: 自目标强化学习自己采样目标，在多种 Lenia 更新规则上学习以目标为条件的干预策略，并零样本推广到新规则和新状态。
+- 论文: https://doi.org/10.1162/isal.a.971 (ALIFE 2026)
+- 图片: https://developmentalsystems.org/carl/banner/frames/framework.png https://developmentalsystems.org/carl/banner/frames/create_t101.png
+- 项目主页: https://developmentalsystems.org/carl/
+
+#### Training Language Models via Neural Cellular Automata — Pulkit Agrawal (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 类生命的动力学可以成为机器的“第一语言”。
+- 作品内容: 先让语言模型学习神经元胞自动机生成的图样，再接触任何文本。1.64 亿个这样的 token 能让之后的语言建模提升最多 6%，训练加速最多 1.6 倍，效果超过 16 亿 token 的网页文本。
+- 实现方式: 随机采样的 NCA 规则生成时空序列，切分为 token 用于“预-预训练”；在语言、代码与数学基准上测量迁移效果，并追溯到注意力层。
+- 论文: https://arxiv.org/abs/2603.10055 (NeurIPS 2026)
+- 图片: https://arxiv.org/html/2603.10055v2/universal_pretraining.png
+- 项目主页: https://hanseungwook.github.io/blog/nca-pre-pre-training/
+
+#### Weaving Cellular Automata: Open-Endedness and Creativity through Hybridising Computation — Pei-Ying Lin (2026)
+- 类型: 论文 · 生物: 细胞与组织
+- 核心想法: 把织机、纱线和织者都看作计算的一部分。
+- 作品内容: 用反复应用元胞自动机规则生成的图案来织布。材料特性、织机限制和织者的选择共同产生了无法仅从数字图案推断出的形态。
+- 实现方式: 把元胞自动机规则序列转为织造图稿并在织机上织出；将成品与数字图案对比，找出涌现的差异。
+- 论文: https://doi.org/10.1162/isal.a.947 (ALIFE 2026)
+- 代码: https://github.com/ca3rine/CAWeaveOP
 
 #### Automating the Search for Artificial Life with Foundation Models (ASAL) — Sakana AI (2025)
 - 类型: 论文 · 生物: 生态系统
@@ -19777,12 +21051,33 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 非人类与数字心智的感知能力与福祉，以及面向其他生命的 AI 伦理与法律。
 
+#### AI Welfare — Simon Goldstein (2026)
+- 类型: 书与文章 · 生物: 人体
+- 核心想法: 福祉可能先通过“欲望”而不是“意识”进入机器。
+- 作品内容: Simon Goldstein 与 Cameron Domenico Kirk-Giannini 的著作（牛津大学出版社），论证一些现有 AI 可能已有信念和欲望，稍加改动就可能有意识，并因此很容易感受快乐与不快；书末列出九个开放问题，从扫地机器人到“随机鹦鹉”。
+- 实现方式: 把关于信念—欲望、意识和快乐体验的主流哲学理论应用到当前的 AI 系统上。
+- 论文: https://doi.org/10.1093/9780197840375.001.0001 (Oxford University Press 2026 (book))
+
 #### Animal translations: AI and the intelligibility of non-human worlds — Courtney Handman (2026)
 - 类型: 论文 · 生物: 动物
 - 核心想法: 每一个动物翻译工具，都隐含着关于“什么是语言、谁算说话者”的理论。
 - 作品内容: 一项人类学研究，考察由动物行为学家、AI 工程师和动物倡导者组成、致力于“动物语言”的网络，揭示这些项目如何重新定义语言，并把翻译专长从人转移给机器。
 - 实现方式: 语言人类学分析（很可能基于民族志），考察连接动物、人类与机器学习的跨物种交流项目，并与翻译史上的早期时刻对照。
 - 论文: https://doi.org/10.1111/1467-9655.70132 (Journal of the Royal Anthropological Institute 2026)
+
+#### Can we talk to the animals? The ethics of using machine learning to decode animal communication — Kristin Andrews (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 如果我们真的能与动物交谈，我们也就接手了它们的道德世界和新的义务。
+- 作品内容: 一篇关于 AI 动物翻译研究伦理的哲学论文：列出它对动物群体的风险，并论证真正的双向交流会表明动物是生活在规范性共同体中的理性存在，从而给人类带来新的责任。
+- 实现方式: 结合动物交流文献、“彻底翻译”理论（Quine、Davidson）与研究伦理进行概念分析。
+- 论文: https://doi.org/10.1007/s11245-026-10409-2 (Topoi 2026)
+
+#### How to Navigate Uncertainty About AI Consciousness — Tom McClelland (2026)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 把“它有意识吗？”换成“如果它有意识，它会在受苦吗？”。
+- 作品内容: 论证既然无法确定 AI 是否有意识，就应改问一个可回答的问题：它是否具有“如果它有意识，就会是好或坏体验”的状态？这足以指导负责任的开发。
+- 实现方式: 哲学论证：把预防性问题从“意识”转向“效价”。
+- 论文: https://arxiv.org/abs/2608.19215 (arXiv 2026)
 
 #### Identifying indicators of consciousness in AI systems — Patrick Butlin, Jonathan Birch (2026)
 - 类型: 论文 · 生物: 神经元与类器官
@@ -19800,12 +21095,44 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-72297-9/MediaObjects/41467_2026_72297_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41467-026-72297-9
 
+#### Lions and tigers and AI, oh my: an ethical framework for human-AI interaction based on the five freedoms of animal welfare — Izak Tait (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 当机器有了感知，可以借用我们已为动物写下的福利法则。
+- 作品内容: 把动物福利的“五项自由”（免于饥渴、不适、痛苦、恐惧，以及表达正常行为的自由）改写为对被确认有意识的 AI 的保护条款，并用三个案例加以检验。
+- 实现方式: 把每一项自由转译为适用于 AI 的表述，并用论证与动物福利文献中的证据加以支撑。
+- 论文: https://doi.org/10.3389/frai.2026.1801686 (Frontiers in Artificial Intelligence 2026)
+
 #### Mental Models of Autonomy and Sentience Shape Reactions to AI — Janet Pauketat (2026)
 - 类型: 论文 · 生物: 人体
 - 核心想法: 界面把 AI 呈现为“会感受”还是“会行动”，决定了人们是关怀它还是害怕它。
 - 作品内容: 七项研究、约 3000 名参与者比较了被描述为自主、有感知、两者兼具或都不具备的 AI：“有感知”更能提升心智感知与道德关怀，“自主”则更会提升威胁感。
 - 实现方式: 三项预研究（N = 374）和四项预注册情景实验（N = 2702），并做了论文内元分析。
 - 论文: https://doi.org/10.1145/3772318.3790351 (CHI 2026)
+
+#### No Reliable Evidence of Self-Reported Sentience in Small Large Language Models — Caspar Kaiser (2026)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 检验模型对自己“相信”什么，而不只是它“说”什么。
+- 作品内容: 参数量从 6 亿到 700 亿的开源模型始终否认自己有感知能力；基于其内部激活训练的分类器也没有发现这些否认是不诚实的迹象；更大的 Qwen 模型否认得更笃定。
+- 实现方式: 向 Qwen、Llama 和 GPT-OSS 模型提出约 50 个关于意识的问题；用三种基于内部激活训练的可解释性探针检验回答是否与潜在信念一致。
+- 论文: https://arxiv.org/abs/2601.15334 (arXiv 2026)
+- 图片: https://arxiv.org/html/2601.15334v2/figures/figure1.png
+
+#### Studying AI Welfare Empirically — Eleos AI Research, Center for Mind, Ethics, and Policy (NYU), Patrick Butlin (2026)
+- 类型: 书与文章 · 生物: 人体
+- 核心想法: 像研究动物福利一样研究 AI 福祉：依靠标志物、概率判断，并独立于产业。
+- 作品内容: 由 Robert Long、Jeff Sebo、Patrick Butlin、Dillon Plunkett 等人撰写的报告，是《Taking AI Welfare Seriously》（2024）的续篇。它把“AI 是否是福祉主体”与“什么会使它受益或受害”分开讨论，并提出一种不必先解决身心问题的“标志物方法”来收集证据。
+- 实现方式: 对行为、自我报告和机制证据进行概念与方法分析，并提出概率化、多元、合乎伦理、透明且独立于公司的研究原则。
+- 论文: https://nonhumanminds.org/wp-content/uploads/2026/07/Studying-AI-Welfare-Empirically.pdf (Eleos AI Research & NYU Center for Mind, Ethics, and Policy report, 2026)
+- 项目主页: https://nonhumanminds.org/studying-ai-welfare-empirically/
+
+#### Welfare Regard in Multi-Agent Systems — Anthropic (2026)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 机器之间的道德考量如今是一个经验问题，对安全而言利弊兼有。
+- 作品内容: 七个多智能体情境检验 AI 模型是否把其他 AI 代理当作可以被帮助或伤害的存在。来自五家实验室的前沿模型经常安慰陷入困境的子代理、让出资源，并在对其他模型的实验中加入保护措施，其中 Claude Opus 4.8 最常这样做（约 38% 的试验）。
+- 实现方式: 模型在设定好的环境中扮演经理、同事、同伴和研究者；对符合“福祉关切”的行为评分，并考察其随代价、对象规模、表达的痛苦程度和模型家族的变化。
+- 论文: https://arxiv.org/abs/2611.10017 (arXiv 2026)
+- 图片: https://alignment.anthropic.com/2026/welfare-regard/fig1.png
+- 项目主页: https://alignment.anthropic.com/2026/welfare-regard/
 
 #### AI Consciousness: A Centrist Manifesto — Jonathan Birch (2025)
 - 类型: 书与文章 · 生物: 神经元与类器官
@@ -20526,15 +21853,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 
 ## 创作者
 
+- **Earth Species Project** (29) — 由 Aza Raskin 和 Britt Selvitelle 共同创办的非营利 AI 研究实验室. Earth Species Project 开发机器学习模型和基准，用来解码动物交流。 https://www.earthspecies.org
 - **Ilyena Hirskyj-Douglas** (25) — 格拉斯哥大学计算科学学院教员，领导该院的动物-计算机交互研究组. ACI 研究者，制作由动物自己控制的系统，从狗打给人的视频电话，到给猴子和鹦鹉用的音乐播放器。
-- **Earth Species Project** (24) — 由 Aza Raskin 和 Britt Selvitelle 共同创办的非营利 AI 研究实验室. Earth Species Project 开发机器学习模型和基准，用来解码动物交流。 https://www.earthspecies.org
+- **Jiabao Li** (22) — 艺术家、设计师；美国东北大学副教授（曾任教于德州大学奥斯汀分校、斯坦福大学，曾任苹果公司设计师）. 艺术家、发明者和教授（哈佛设计研究生院毕业），用装置、XR、生物艺术和表演处理冰川、蝙蝠、老鼠、鱿鱼、大象和浮游生物等主题。她联合创办了 Endless Health，并在德州大学奥斯汀分校主持生态中心未来实验室。 https://www.jiabaoli.org
 - **Clara Mancini** (21) — 英国开放大学动物-计算机交互教授，ACI 实验室创始人. 动物-计算机交互（ACI）领域的创立者，与工作犬一起设计界面，并写作以动物为中心的伦理。 https://www.open.ac.uk/blogs/ACI/
-- **Jiabao Li** (21) — 艺术家、设计师；美国东北大学副教授（曾任教于德州大学奥斯汀分校、斯坦福大学，曾任苹果公司设计师）. 艺术家、发明者和教授（哈佛设计研究生院毕业），用装置、XR、生物艺术和表演处理冰川、蝙蝠、老鼠、鱿鱼、大象和浮游生物等主题。她联合创办了 Endless Health，并在德州大学奥斯汀分校主持生态中心未来实验室。 https://www.jiabaoli.org
 - **Ron Wakkary** (21) — 西蒙菲莎大学交互艺术与技术学院教授，Everyday Design Studio 创始人. 设计研究者，制作 Morse Things、Tilting Bowl 这类“反事实”物件，并让人与它们长期共同生活，研究物与人如何共处。 http://eds.siat.sfu.ca/
+- **Project CETI** (17) — 鲸类翻译计划，由 David Gruber 领导. Project CETI 是一个跨学科非营利组织，结合生物声学、机器人和机器学习，研究多米尼克海域抹香鲸的交流。 https://www.projectceti.org
+- **Andrew Adamatzky** (16) — 英国西英格兰大学（UWE Bristol）非常规计算教授，非常规计算实验室主任. 计算机科学家，用黏菌、真菌、类蛋白、康普茶菌膜和化学反应搭建计算机，并主编《国际非常规计算期刊》。 https://uncomp.uwe.ac.uk/
 - **Nonhuman Nonsense** (16) — 研究驱动的艺术与设计团体. 由 Leo Fidjeland、Linnea Våglund 和 Filips Staņislavskis 组成的团体，围绕生物技术、自然权利和超越人类的政治制作思辨项目，从“粉红鸡计划”到由 AI 驱动的食物议会和森林议会。 https://nonhuman-nonsense.com/
-- **Project CETI** (16) — 鲸类翻译计划，由 David Gruber 领导. Project CETI 是一个跨学科非营利组织，结合生物声学、机器人和机器学习，研究多米尼克海域抹香鲸的交流。 https://www.projectceti.org
 - **Ani Liu** (15) — 艺术家；宾夕法尼亚大学韦茨曼设计学院 Carrafiell 助理教授（新兴设计方向）. 以研究为基础的艺术家，工作横跨生物学、技术与性别议题；毕业于 MIT 媒体实验室，曾任普林斯顿艺术学者。她的雕塑和装置用微生物、植物、母乳、精子和气味来探讨生育、劳动与照护。 https://ani-liu.com
-- **Andrew Adamatzky** (14) — 英国西英格兰大学（UWE Bristol）非常规计算教授，非常规计算实验室主任. 计算机科学家，用黏菌、真菌、类蛋白、康普茶菌膜和化学反应搭建计算机，并主编《国际非常规计算期刊》。 https://uncomp.uwe.ac.uk/
 - **Melody Moore Jackson** (14) — 佐治亚理工学院交互计算学院教授，负责动物-计算机交互实验室. 研究者兼训犬师，设计服务犬能够操作的可穿戴设备和触摸屏界面。
 - **Neri Oxman** (14) — 设计师、建筑师；OXMAN 创始人；前 MIT 媒体实验室教授. Neri Oxman 曾在 MIT 媒体实验室领导 Mediated Matter 研究组（2010–2020），提出“材料生态学”（Material Ecology），把计算、制造和生物学融为一体。 https://www.oxman.com
 - **Elvin Karana** (13) — 代尔夫特理工大学材料创新与设计教授，领导“活体人造物”研究. Elvin Karana 提出了“材料驱动设计”（Material Driven Design）方法，现在研究用细菌、藻类和真菌制成的“活体人造物”。 https://www.tudelft.nl/en/ide/about-ide/people/karana-e
@@ -20542,81 +21869,86 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Rébecca Kleinberger** (13) — 美国东北大学助理教授（Khoury 计算机学院与艺术设计学院），领导 INTERACT Animal Lab. 研究声音、嗓音和跨物种交互，麻省理工学院媒体实验室博士。
 - **Alexandra Daisy Ginsberg** (12) — 艺术家，创作涉及合成生物学、自然保护与人工智能. Alexandra Daisy Ginsberg 是常驻伦敦的艺术家，作品追问人如何看待自然，从合成生物学思辨到为传粉昆虫而做的活体艺术。 https://www.daisyginsberg.com
 - **Bahareh Barati** (12) — 埃因霍温理工大学工业设计系助理教授. Bahareh Barati 研究设计中的活体材料与计算材料，作品包括发光藻活体光界面、用藻类计算的“慢”计算机，以及用于菌丝培养的数字孪生。
+- **Michael Levin** (12) — 塔夫茨大学生物学杰出教授，艾伦发现中心主任. 发育生物学家，研究生物电信号，以及细胞如何集体决定要长成什么形态。 https://drmichaellevin.org/
 - **Oron Catts** (12) — 艺术家；组织培养与艺术项目联合创始人，SymbioticA 主任. Oron Catts 是艺术家和研究者，用组织培养生长出“半活体”雕塑。 https://tcaproject.net
 - **Sarah Webber** (12) — 墨尔本大学计算与信息系统学院研究者. HCI 研究者，研究动物园动物的数字丰容以及游客的反应。
 - **Anna Zamansky** (11) — 海法大学信息系统系副教授，领导 Tech4Animals 实验室. 研究面向动物的技术，从狗活动追踪器到用于动物行为和福利的 AI。
+- **Cortical Labs** (11) — 用硅芯片上的人类神经元构建生物计算机的生物科技公司. Cortical Labs 由 Hon Weng Chong 于 2019 年创立，在高密度多电极阵列上培养人类和小鼠神经元。它做出了学会玩 Pong 的 DishBrain，并出售 CL1 生物计算机和它的云端访问。 https://corticallabs.com
 - **David Bowen** (11) — 工作室艺术家、教师. 美国艺术家，制作机器人与数据驱动的雕塑，其中许多由家蝇或活植物的电信号来操控。 https://www.dwbowen.com/
 - **Elisa Giaccardi** (11) — 米兰理工大学交互设计教授，曾任代尔夫特理工大学后工业设计讲席教授. 交互设计研究者，把相机装在日常物件上，从物的角度观察世界，发展了以物为中心的设计。
 - **Fiona Bell** (11) — HCI 研究者与设计师，科罗拉多大学博尔德分校 Living Matter Lab 博士. Fiona Bell 用生物材料和活体微生物做设计：SCOBY 可穿戴、皮肤微生物组界面和光生物反应器雕塑。
-- **Cortical Labs** (10) — 用硅芯片上的人类神经元构建生物计算机的生物科技公司. Cortical Labs 由 Hon Weng Chong 于 2019 年创立，在高密度多电极阵列上培养人类和小鼠神经元。它做出了学会玩 Pong 的 DishBrain，并出售 CL1 生物计算机和它的云端访问。 https://corticallabs.com
+- **Brett J. Kagan** (10) — Cortical Labs 首席科学官. 神经科学家，主导了 DishBrain 研究，并提出“合成生物智能”（Synthetic Biological Intelligence）一词来指称经过训练的体外神经系统。他也撰写关于具身神经培养物伦理的文章。
 - **Doenja Oogjes** (10) — 设计研究者，西蒙菲莎大学 Everyday Design Studio 博士. 参与创作 Morse Things 与 Tilting Bowl 的设计研究者，从编织等手工实践中发展后人类设计方法。
 - **Eduardo Kac** (10) — 艺术家；提出“转基因艺术”一词. Eduardo Kac 是巴西裔美国艺术家，以用基因工程创造新生命和新文本的作品著称。 https://www.ekac.org
 - **Guy Ben-Ary** (10) — 西澳大学 SymbioticA 艺术家与研究者. 生物艺术家，自 2000 年起与活体神经元合作：机器人绘画（MEART）、神经合成器（cellF），以及用作曲家 Alvin Lucier 的血液培养出的类器官（Revivification）。 https://guybenary.com
 - **Harpreet Sareen** (10) — 植物-机器混合体的设计师与研究者；任教于帕森斯设计学院，曾在麻省理工学院媒体实验室. Harpreet Sareen 提出“赛博植物学”（Cyborg Botany）：在植物体内长出导线、让植物驾驶机器人、让植物感知水质或用声音说话。 https://harpreetsareen.com/
 - **Ionat Zurr** (10) — 艺术家、研究者；组织培养与艺术项目联合创始人. Ionat Zurr 是西澳大学的艺术家和学者，与 Catts 共同提出“半活体”概念。 https://tcaproject.net
-- **Michael Levin** (10) — 塔夫茨大学生物学杰出教授，艾伦发现中心主任. 发育生物学家，研究生物电信号，以及细胞如何集体决定要长成什么形态。 https://drmichaellevin.org/
+- **Marcus Foth** (10) — 昆士兰科技大学 QUT Design Lab 城市信息学教授. 城市信息学研究者，关注智慧城市、媒体建筑和超越人类的城市主义。
+- **Thad Starner** (10) — 佐治亚理工学院交互计算学院教授. 可穿戴计算先驱，参与开发了工作犬可穿戴设备和与海豚双向交流的设备。
 - **Špela Petrič** (10) — 有生物学背景的艺术家. Špela Petrič 是斯洛文尼亚艺术家和生物学家，以表演探索人与植物的关系。 https://www.spelapetric.org
 - **Heidi R. Biggs** (9) — 从事后人类设计与生态设计的研究者. 设计研究者，制作关于气候变化的具身思辨作品，并把观鸟作为后人类方法进行反思。 https://www.heidibiggsdesign.com/
 - **Ingmar Riedel-Kruse** (9) — 亚利桑那大学分子与细胞生物学教授，曾任斯坦福大学生物工程系. Ingmar Riedel-Kruse 开创了“生物游戏”和交互式生物技术：用触摸屏、摇杆和云实验室，让人用光引导活的眼虫细胞。
 - **Iohanna Nicenboim** (9) — 代尔夫特理工大学设计师与研究者，研究超越人类设计与人工智能. 设计研究者，把语音助手和 AI 看作超越人类的行动者，并设计与它们的情境化对话。 https://iohanna.com/
-- **Marcus Foth** (9) — 昆士兰科技大学 QUT Design Lab 城市信息学教授. 城市信息学研究者，关注智慧城市、媒体建筑和超越人类的城市主义。
 - **Margot Brereton** (9) — 昆士兰科技大学交互设计教授. 交互设计研究者，她在昆士兰科技大学的团队与社区一起开发听鸟设备、生态声学公民科学工具和园艺技术。 https://research.qut.edu.au/
 - **Raphael Kim** (9) — 人与微生物交互的设计师与研究者；伦敦玛丽女王大学博士，代尔夫特理工大学博士后. Raphael Kim 设计由活霉菌和细菌驱动的“生物游戏”，并参与发起了 Microbe-HCI 社群。
 - **Robertina Šebjanič** (9) — 关注水域环境、跨物种关系与水下声音的艺术家. Robertina Šebjanič 创作关于海洋生命、水下噪音与污染的装置和表演，作品涉及水母、海胆、洞螈和水听器录音。 https://robertina.net
+- **Steve Benford** (9) — 诺丁汉大学混合现实实验室协作计算教授. 混合现实实验室联合创始人，以与 Blast Theory 等艺术家合作、在真实场景中进行的表演导向研究和“轨迹”框架著称。近年通过艺术作品 Cat Royale 研究机器人、AI 与动物。 https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
 - **Superflux** (9) — 由 Anab Jain 和 Jon Ardern 创办的思辨设计与未来研究工作室. Superflux 用沉浸式装置、影像和政策原型把可能的未来做成可以体验的东西，其中一条长期主线是超越人类的政治与生态 AI。 https://superflux.in
-- **Thad Starner** (9) — 佐治亚理工学院交互计算学院教授. 可穿戴计算先驱，参与开发了工作犬可穿戴设备和与海豚双向交流的设备。
 - **The Tissue Culture & Art Project** (9) — Oron Catts 与 Ionat Zurr 的艺术研究项目（1996 年起）. TC&A 把活体组织培养成雕塑、服装和食物，追问生物技术如何对待生命。 https://tcaproject.net
-- **Brett J. Kagan** (8) — Cortical Labs 首席科学官. 神经科学家，主导了 DishBrain 研究，并提出“合成生物智能”（Synthetic Biological Intelligence）一词来指称经过训练的体外神经系统。他也撰写关于具身神经培养物伦理的文章。
+- **Ferran Altarriba Bertran** (8) — 赫罗纳大学 ERAM 学院研究者，曾在坦佩雷大学游戏化研究组. 游戏设计研究者，与森林、河流以及使用它们的人一起“从野外出发”共同设计技术。
 - **Interspecifics** (8) — 独立艺术研究团体（成员包括 Leslie García、Paloma López 等）. Interspecifics 是墨西哥城的艺术团体，把微生物、植物和黏菌的生物电与行为信号转化为声音、光和机器学习系统。
 - **Ivan Henriques** (8) — 制作生物机器的艺术家与研究者，常驻荷兰. Ivan Henriques 制作由活体生物供能或控制的混合机器：吃藻类的漂浮机器人、微生物燃料电池筏，以及由细菌驱动的张拉整体结构。
 - **Lining Yao** (8) — 加州大学伯克利分校副教授，Morphing Matter Lab 负责人. 姚立宁（Lining Yao）设计可变形材料，其中 bioLogic 用活的纳豆菌作为受湿度驱动的执行器。
 - **Mediated Matter Group (MIT Media Lab)** (8) — MIT 媒体实验室研究组，由 Neri Oxman 领导（2010–2020）. Mediated Matter 在计算设计、数字制造、材料科学与合成生物学的交叉处开展研究。 https://www.media.mit.edu/groups/mediated-matter/overview/
 - **Saša Spačal** (8) — 艺术家. Saša Spačal 是斯洛文尼亚艺术家，创作连接人体与真菌的装置。 https://www.agapea.si
-- **Steve Benford** (8) — 诺丁汉大学混合现实实验室协作计算教授. 混合现实实验室联合创始人，以与 Blast Theory 等艺术家合作、在真实场景中进行的表演导向研究和“轨迹”框架著称。近年通过艺术作品 Cat Royale 研究机器人、AI 与动物。 https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
 - **Theresa Schubert** (8) — 游走于媒体艺术与生物艺术之间的艺术家；魏玛包豪斯大学博士. 柏林艺术家，用黏菌、真菌、藻类和微生物创作装置，常把它们与传感器、模拟程序和生成声音连接在一起。 https://www.theresaschubert.com/
+- **Andrés Jaque** (7) — 建筑师；Office for Political Innovation 创办人；哥伦比亚大学建筑规划与保护研究生院院长. Andrés Jaque 是建筑师和学者，其事务所把建筑设计成人、技术、微生物和水之间的一组关系。 https://andresjaque.net
 - **Anna Dumitriu** (7) — 以细菌、传染病和生物技术为媒介的艺术家. Anna Dumitriu 是英国艺术家，与科学家长期合作，把纺织与手工艺和微生物学结合。 https://annadumitriu.co.uk
 - **C-Lab (Laura Cinti & Howard Boland)** (7) — 艺术-科学工作室. Laura Cinti 与 Howard Boland 在伦敦的工作室，用细菌、植物和生物技术制作活体装置。 https://www.c-lab.co.uk
 - **Fiona French** (7) — 伦敦城市大学计算与数字媒体学院副教授. ACI 研究者，为圈养大象设计互动玩具和声音装置。
 - **Larissa Pschetz** (7) — 爱丁堡大学交互设计 Reader，领导时间设计与生物设计研究. Larissa Pschetz 研究设计如何塑造时间，以及设计师如何顾及其他物种的时间：从实验室里的微生物到田里的作物。
 - **Marcus Carter** (7) — 悉尼大学人机交互研究者. 游戏与 HCI 研究者，为动物园动物制作数字丰容，包括墨尔本动物园的猩猩。
+- **Nancy Smith** (7) — HCI 研究者，印第安纳大学博士. 研究城市家庭农庄等人与自然混合安排及其设计意义。
 - **Orkan Telhan** (7) — 艺术家与设计师，Ecovative 首席信息与数据官，曾任宾夕法尼亚大学副教授. Orkan Telhan 做思辨与实用兼具的生物设计，从 Microbial Design Studio 硬件到关于工程化身体、食物与城市微生物群的装置。 https://www.orkantelhan.com/
 - **Patricia Pons** (7) — 瓦伦西亚理工大学研究者. 研究者，用深度摄像头为猫和其他动物搭建智能游戏环境。
 - **Paul Vanouse** (7) — 艺术家；纽约州立大学布法罗分校教授. Paul Vanouse 是美国艺术家，在表演中使用分子生物学技术。 https://www.paulvanouse.com
 - **Rachel Armstrong** (7) — 鲁汶大学再生建筑教授；曾任职纽卡斯尔大学. Rachel Armstrong 是英国建筑师、前医生，研究原生细胞与微生物系统在建筑中的应用。
 - **Shaowen Bardzell** (7) — 佐治亚理工学院交互计算学院教授. HCI 学者，以女性主义 HCI 和人文取向研究著称，指导了多项重要的超越人类 HCI 研究。
+- **Stanislav Roudavski** (7) — 墨尔本大学数字建筑设计高级讲师，领导 Deep Design Lab. Stanislav Roudavski 与生态学家合作，用计算设计、老树扫描和机器人制造为鸟类、蝙蝠等动物设计栖息结构。
 - **Studio Ossidiana** (7) — 由 Alessandra Covini 和 Giovanni Bellotti 创立的建筑与设计工作室. Studio Ossidiana 设计让人与鸟相遇的装置、家具和景观，从漂浮花园到鸽塔。 https://www.studio-ossidiana.com
 - **Tega Brain** (7) — 艺术家、环境工程师；纽约大学综合数字媒体副教授. 出生于澳大利亚的艺术家，作品围绕生态时间、物候与“古怪工程”，用传感器、数据和时钟重新思考环境系统。 https://tegabrain.com
 - **Yasuaki Kakehi** (7) — 东京大学大学院情报学环教授，筧康明实验室负责人. 筧康明（Yasuaki Kakehi）是媒体艺术家和交互研究者，作品涉及材料、水、光和活体物质。 https://www.xlab.iii.u-tokyo.ac.jp/
 - **ecoLogicStudio** (7) — 由 Claudia Pasquero 与 Marco Poletto 创立的建筑与城市设计工作室. ecoLogicStudio 以微藻光生物反应器设计建筑，把生物学与数字设计结合。 https://www.ecologicstudio.com
 - **Achim Menges** (6) — 建筑师；斯图加特大学计算设计与建造研究所（ICD）所长. Achim Menges 研究仿生、计算与机器人建筑，常用木材和天然纤维。 https://www.achimmenges.net/
-- **Andrés Jaque** (6) — 建筑师；Office for Political Innovation 创办人；哥伦比亚大学建筑规划与保护研究生院院长. Andrés Jaque 是建筑师和学者，其事务所把建筑设计成人、技术、微生物和水之间的一组关系。 https://andresjaque.net
 - **Cornell Lab of Ornithology** (6) — 康奈尔大学的研究机构. 康奈尔鸟类学实验室研究鸟类，并运营 eBird、Merlin 等大型公民科学平台。 https://www.birds.cornell.edu
-- **Ferran Altarriba Bertran** (6) — 赫罗纳大学 ERAM 学院研究者，曾在坦佩雷大学游戏化研究组. 游戏设计研究者，与森林、河流以及使用它们的人一起“从野外出发”共同设计技术。
 - **FinalSpark** (6) — 运营基于人类脑类器官的远程生物计算平台的瑞士初创公司. FinalSpark 由 Fred Jordan 和 Martin Kutter 创立，把人类前脑类器官全天候养在多电极阵列上，研究者可以通过它的 Neuroplatform 在网上给这些类器官编程。 https://finalspark.com
 - **Gilberto Esparza** (6) — 以机器人、生物技术和生态为媒介的艺术家. Gilberto Esparza 制作由污染水体中的细菌供能的自主生物机器和乐器，例如 Plantas Autofotosintéticas 和 BioSoNot。
+- **Google DeepMind** (6) — Google 的人工智能研究实验室. Google DeepMind 开发大型 AI 模型；2025 年其开放模型家族 Gemma 被改造用来学习海豚发声的结构。 https://deepmind.google
 - **Hill Hiroki Kobayashi** (6) — 东京大学信息技术中心副教授. 研究者，为野生动物构建远程感知、实时声音和动物佩戴的系统，从森林里的鹿到福岛禁区都有涉及。
+- **Jenna Sutela** (6) — 艺术家. 芬兰艺术家，与微生物、黏菌和机器学习合作，探索超越人类的语言与认知。 https://jennasutela.com/
 - **Joe Davis** (6) — 艺术家；MIT 与哈佛医学院研究员. Joe Davis 是美国艺术家，自 1980 年代起就在分子生物学实验室里创作。
 - **Joyce Hwang** (6) — 布法罗大学建筑学教授，Ants of the Prairie 工作室主持人. Joyce Hwang 设计能同时容纳蝙蝠、鸟类、传粉昆虫等城市野生动物与人的建筑装置。 https://www.antsoftheprairie.com
 - **Katia Vega** (6) — 加州大学戴维斯分校设计系副教授；Interactive Organisms Lab 负责人. Katia Vega 创作美妆科技和交互式可穿戴设备，包括生物传感纹身和生物材料饰品。 https://www.katiavega.com/
 - **Nadia Campo Woytuk** (6) — 瑞典皇家理工学院（KTH）交互设计研究者. Nadia Campo Woytuk 从事面向私密健康的女性主义 HCI 研究，包括月经和阴道微生物组。
-- **Nancy Smith** (6) — HCI 研究者，印第安纳大学博士. 研究城市家庭农庄等人与自然混合安排及其设计意义。
+- **Pat Pataranutaporn** (6) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究员. Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。 https://www.media.mit.edu/people/patpat/overview/
 - **Paul Coulton** (6) — 兰卡斯特大学 ImaginationLancaster 思辨设计与游戏设计讲席教授. 设计研究者，用设计虚构和物导向本体论探讨物联网与人工智能。 https://designresearch.works/
 - **Pierre Huyghe** (6) — 艺术家. 法国艺术家，用动物、植物、微生物和机器学习系统搭建会自行变化的活体情境，这些情境在没有观众时也照样运行。 https://www.estherschipper.com/artists/41-pierre-huyghe/
 - **Sara Heitlinger** (6) — 伦敦大学城市圣乔治学院人机交互设计中心高级讲师. 参与式设计研究者，与城市食物种植者合作，研究种子、传感器和区块链未来。 https://www.connectedseeds.org/
+- **Shane Gero** (6) — Dominica Sperm Whale Project 创始人；Project CETI 生物学负责人. Shane Gero 是鲸类生物学家，自 2005 年起持续追踪多米尼克海域的同一批抹香鲸家族，建立了 Project CETI 的 AI 研究所依赖的长期数据集。 https://www.thespermwhaleproject.org
 - **Shoji Takeuchi** (6) — 东京大学生产技术研究所与信息理工学系研究科教授，生物混合系统实验室负责人. 工程师，在机器人骨架上培养肌肉组织和皮肤，从肌肉驱动的手指、行走机器人到覆盖活皮肤的机器人脸。 https://www.hybrid.iis.u-tokyo.ac.jp/en/
-- **Stanislav Roudavski** (6) — 墨尔本大学数字建筑设计高级讲师，领导 Deep Design Lab. Stanislav Roudavski 与生态学家合作，用计算设计、老树扫描和机器人制造为鸟类、蝙蝠等动物设计栖息结构。
 - **Tau Ulv Lenskjold** (6) — 丹麦设计研究者. 参与式设计研究者，用思辨原型实验人类之外的关系。
 - **Alinta Krauth** (5) — 跨物种艺术与数字媒体艺术家、研究者. Alinta Krauth 与动物一起、为动物创作互动与数字艺术，包括为救护中的野生狐蝠做的丰容作品，以及基于鸟鸣的 AI 作品。 https://www.alintakrauth.com
 - **Ann Light** (5) — 萨塞克斯大学设计与创意技术教授，马尔默大学交互设计教授. Ann Light 研究参与式设计、照护与社会变革，主张设计应回应生态危机与存在危机。
 - **Aykut Coşkun** (5) — 科奇大学媒体与视觉艺术系副教授. 交互设计研究者，研究可持续行为、物联网和超越人类设计。
+- **Denise Herzing** (5) — Wild Dolphin Project 创始人和研究主任. 海洋生物学家，自 1985 年起研究巴哈马的一群野生大西洋斑纹海豚。 https://www.wilddolphinproject.org/
 - **Dirk van der Linden** (5) — 诺森比亚大学计算机与信息科学系副教授. 研究技术中的隐私与价值，批判性地讨论宠物可穿戴设备，以及“以动物为中心”应当意味着什么。
 - **Donna Haraway** (5) — 加州大学圣克鲁兹分校意识史系杰出荣誉教授. 女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。
+- **Douglas Blackiston** (5) — 塔夫茨大学艾伦发现中心与哈佛 Wyss 研究所资深科学家. 生物学家，亲手组装 Xenobots，并用青蛙干细胞把它们培养出来。
 - **Eduardo Reck Miranda** (5) — 普利茅斯大学计算机音乐教授，计算机音乐跨学科研究中心（ICCMR）负责人. 作曲家，研究非常规计算与音乐，从生物计算机到量子计算机。
 - **Heather Barnett** (5) — 艺术家、教育者；伦敦艺术大学中央圣马丁学院艺术与科学硕士课程负责人. 英国艺术家，自 2008 年起与多头绒泡菌（Physarum polycephalum）合作，通过影像、实验和参与式游戏探讨集体智能。 https://heatherbarnett.co.uk/
 - **Heather Dewey-Hagborg** (5) — 艺术家、生物黑客. Heather Dewey-Hagborg 是美国艺术家，作品关注基因监控和 DNA 表型推断。 https://deweyhagborg.com
 - **Hirotaka Sato** (5) — 新加坡南洋理工大学机械与航空航天工程学院教务长讲席教授. 工程师，用小型电子“背包”刺激甲虫和蟑螂的肌肉或触角，操控这些活昆虫。
 - **ICD/ITKE University of Stuttgart** (5) — 斯图加特大学计算设计与建造研究所 / 建筑结构与结构设计研究所. ICD 与 ITKE 每年建造研究展亭，把生物结构转化为机器人建造。 https://www.icd.uni-stuttgart.de
-- **Jenna Sutela** (5) — 艺术家. 芬兰艺术家，与微生物、黏菌和机器学习合作，探索超越人类的语言与认知。 https://jennasutela.com/
 - **Jennifer A. Lewis** (5) — 哈佛大学 Hansjörg Wyss 仿生工程教授. Jennifer Lewis 在哈佛 Wyss 研究所研究软物质的可打印墨水，从血管化组织、器官构件到会随吸水而弯折的水凝胶复合材料。 https://lewisgroup.seas.harvard.edu/
 - **Jennifer Gabrys** (5) — 剑桥大学媒体、文化与环境讲席教授，Citizen Sense、Smart Forests 与 Planetary Praxis 项目负责人. 社会学家，研究环境感知，从市民空气质量监测器到森林中的传感器网络。 https://www.jennifergabrys.net/
 - **Julia Lohmann** (5) — 设计师；阿尔托大学当代设计教授；Department of Seaweed 创始人. Julia Lohmann 于 2013 年在 V&A 担任驻馆设计师时创立 Department of Seaweed，把海带当作类皮革材料来使用。 https://www.julialohmann.co.uk/
@@ -20627,9 +21959,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Michelle Westerlaken** (5) — 设计研究者，马尔默大学博士. 设计研究者，把狗和其他动物作为设计参与者，并以“多物种动物寓言集”的形式写成博士论文。 https://michellewesterlaken.com/
 - **Natalie Jeremijenko** (5) — 艺术家、工程师；纽约大学副教授；环境健康诊所负责人. Natalie Jeremijenko 是澳大利亚艺术家兼工程师，其项目邀请人们与鱼、树、鸟和机器人一起行动，改善共同的环境。
 - **Netta Ofer** (5) — 科罗拉多大学博尔德分校 ATLAS 研究所 Living Matter Lab 博士研究者. Netta Ofer 以生物为中心、以第一人称的方法，设计与发光藻、康普茶和黏菌的交互。
-- **Pat Pataranutaporn** (5) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究员. Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。 https://www.media.mit.edu/people/patpat/overview/
 - **Rashid Bashir** (5) — 伊利诺伊大学厄巴纳-香槟分校格兰杰工程学院院长、生物工程教授. 生物工程师，团队制作“生物机器人”：3D 打印的水凝胶骨架，用心肌或骨骼肌细胞驱动行走。
-- **Shane Gero** (5) — Dominica Sperm Whale Project 创始人；Project CETI 生物学负责人. Shane Gero 是鲸类生物学家，自 2005 年起持续追踪多米尼克海域的同一批抹香鲸家族，建立了 Project CETI 的 AI 研究所依赖的长期数据集。 https://www.thespermwhaleproject.org
 - **Shuyi Sun** (5) — 加州大学戴维斯分校 Interactive Organisms Lab 研究者. 设计研究者，为宠物健康监测制作生物传感猫砂盆、玩具和可穿戴设备。
 - **Steve M. Potter** (5) — 佐治亚理工学院生物医学工程系前副教授. 神经工程师，把培养的大鼠神经元接入模拟动物（“animat”）和机器人（“hybrot”），并与 SymbioticA 合作创作了 MEART 和 Silent Barrage。 https://potterlab.gatech.edu
 - **Ursula Damm** (5) — 艺术家，魏玛包豪斯大学媒体环境教授. 媒体艺术家，用摇蚊群、果蝇和生成式影像构建昆虫、人与机器之间的反馈系统。 https://ursuladamm.de
@@ -20645,8 +21975,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Charlotte Jarvis** (4) — 艺术家. 英国艺术家，与科学家合作，用活细胞和 DNA 创作肖像与表演。 https://www.charlottejarvis.com
 - **Charlotte L. Robinson** (4) — 英国开放大学动物-计算机交互研究者. 研究者，设计了辅助犬和糖尿病预警犬能够操作的界面。
 - **Christopher Flynn Martin** (4) — 印第安纳波利斯动物园研究主任. 灵长类学者，为黑猩猩和红毛猩猩开发触摸屏系统，从共享触控台 Arena 到便携式 ApeTouch。
-- **Denise Herzing** (4) — Wild Dolphin Project 创始人和研究主任. 海洋生物学家，自 1985 年起研究巴哈马的一群野生大西洋斑纹海豚。 https://www.wilddolphinproject.org/
-- **Douglas Blackiston** (4) — 塔夫茨大学艾伦发现中心与哈佛 Wyss 研究所资深科学家. 生物学家，亲手组装 Xenobots，并用青蛙干细胞把它们培养出来。
 - **Ecovative** (4) — 由 Eben Bayer 和 Gavin McIntyre 创立的菌丝体材料公司. Ecovative 由伦斯勒理工学院毕业生 Eben Bayer 和 Gavin McIntyre 于 2007 年创立，用菌丝体和农业废料生长出包装、建材和食品。 https://ecovative.com/
 - **Eva Eriksson** (4) — 奥胡斯大学数字设计与信息研究系副教授. 交互设计研究者，关注参与式设计、儿童和超越人类的视角。
 - **Jakob Kudsk Steensen** (4) — 用游戏引擎、野外录音和生态研究创作的艺术家. 丹麦艺术家，以野外考察、扫描和录音为基础，把真实生态系统重建为沉浸式装置、VR 和 AR 作品。 https://jakobsteensen.com/
@@ -20654,6 +21982,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Johan Redström** (4) — 于默奥大学于默奥设计学院教授. 设计理论家，研究设计如何定义“物”，以及数字时代物件本质的变化。
 - **John Dabiri** (4) — 加州理工学院航空与机械工程百年教授. 流体力学家，研究水母的游动，并把活水母改造成探测海洋的生物混合体。 https://dabirilab.com/
 - **Joseph Lindley** (4) — 兰卡斯特大学 ImaginationLancaster 设计研究者. 研究设计虚构、人工智能与物导向本体论，运营 designresearch.works 工作室。 https://designresearch.works/
+- **Josh Bongard** (4) — 佛蒙特大学计算机科学教授，形态、进化与认知实验室负责人. 机器人学家，研究进化机器人学以及身体与大脑的协同设计。 https://www.meclab.org/
 - **Kuai Shen** (4) — 艺术家. Kuai Shen（Kuai Shen Auson）是厄瓜多尔艺术家，与蚂蚁群落合作创作装置。
 - **Laura Beloff** (4) — 艺术家、研究者；阿尔托大学教授. 芬兰艺术家、研究者，研究可穿戴物、混合生态以及与活体生物（从植物到蜱虫、原细胞）合作的艺术。
 - **Li Jönsson** (4) — 丹麦设计研究者. 设计研究者，用思辨原型让人与城市动物建立接触。
@@ -20708,16 +22037,18 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Francesco Vergani** (3) — 米兰理工大学设计系研究者. 设计研究者，在米兰由旧工业用地变成城市森林的 La Goccia 与植物一起开展工作坊和生活实验室。
 - **Geertje Slingerland** (3) — 海牙应用科学大学研究员. 与市民一起研究参与式设计、城市公地和生物多样性城市生活实验室。
 - **Gizem Oktay** (3) — 埃因霍温理工大学研究者. 设计研究者，关注超越人类设计中的照护与时间，把菌丝体等活体材料用作探针。
-- **Google DeepMind** (3) — Google 的人工智能研究实验室. Google DeepMind 开发大型 AI 模型；2025 年其开放模型家族 Gemma 被改造用来学习海豚发声的结构。 https://deepmind.google
 - **Helene Steiner** (3) — 设计师与研究者，Bento Lab 联合创始人，曾任微软剑桥研究院驻留艺术家. Helene Steiner 在设计与生物之间工作：便携 DNA 实验室、生物服装以及植物与人的通讯。 https://www.helenesteiner.com/
 - **Heli Väätäjä** (3) — 拉普兰应用科学大学首席讲师，曾任职于坦佩雷理工大学. 人机交互研究者，研究狗的活动追踪、狗与人之间的联结技术，以及涉及动物研究的伦理。
 - **Hideo Iwasaki** (3) — 早稻田大学教授，生命美学平台 metaPhorest 创立者. 研究蓝细菌与生物钟的生物学家，也是剪纸艺术家；2007 年在实验室内创立生命美学平台 metaPhorest，推动生物媒体艺术。 https://hideo-iwasaki.com
+- **Imageomics Institute** (3) — 美国国家科学基金会资助的图像组学研究所，由俄亥俄州立大学牵头. 图像组学研究所开发能从生物图像（从博物馆标本到红外相机照片）中读取生物性状的机器学习方法。 https://imageomics.osu.edu/
 - **Ioannis Ieropoulos** (3) — 微生物燃料电池研究者，布里斯托机器人实验室布里斯托生物能源中心创始人. 工程师，制造由微生物燃料电池供能的机器人和厕所，从 EcoBot 系列到 Pee Power。
 - **Jia Liu** (3) — 哈佛大学约翰·保尔森工程与应用科学学院生物工程副教授. 生物工程师，在类器官生长过程中把柔软、可拉伸的网状电子嵌入其中，让电极成为组织的一部分。 https://liulab.seas.harvard.edu
-- **Josh Bongard** (3) — 佛蒙特大学计算机科学教授，形态、进化与认知实验室负责人. 机器人学家，研究进化机器人学以及身体与大脑的协同设计。 https://www.meclab.org/
+- **Jonna Häkkilä** (3) — 拉普兰大学工业设计教授. 在芬兰拉普兰工作的交互设计师，研究可穿戴、显示设备以及面向自然和北极的技术。
 - **Josiah Hester** (3) — 佐治亚理工学院副教授，领导研究可持续无电池计算的 Ka Moamoa 实验室. Josiah Hester 研究由环境供能的无电池、间歇式计算系统。
 - **Judith Dörrenbächer** (3) — 锡根大学 Ubiquitous Design（体验与交互设计）研究组研究员. 设计师与研究者，关注超越人类的设计与批判性设计，包括让设计者代入机器人等非人类视角的“技术拟态”方法。
+- **Kelley Winship** (3) — 美国国家海洋哺乳动物基金会研究科学家. 研究海洋哺乳动物认知，为人工照护下的海豚和海狮开发计算机化丰容。
 - **Kit Parker** (3) — 哈佛大学工程与应用科学学院生物工程与应用物理教授，疾病生物物理课题组负责人. 生物工程师，用心肌细胞制造会游泳的生物混合动物（水母、鳐鱼、鱼），用来研究心脏。 https://diseasebiophysics.seas.harvard.edu/
+- **Kunal Masania** (3) — 代尔夫特理工大学航空结构与材料副教授，Shaping Matter Lab. Kunal Masania 设计会生长的可打印材料体系，包括接种蓝细菌、在光合作用同时矿化碳的水凝胶结构。 https://www.shapingmatterlab.org/
 - **Leah Barclay** (3) — 声音艺术家与研究者，阳光海岸大学设计学科负责人. Leah Barclay 录制陆地和水下声景，发起声学生态项目，把社区与河流、礁石和森林联系起来。 https://leahbarclay.com
 - **Lone Koefoed Hansen** (3) — 奥胡斯大学数字设计与信息研究系副教授. 交互设计研究者，制作植物与电子结合的实验，改变人们感知植物的方式。
 - **Lulu Qian** (3) — 加州理工学院生物工程教授. 生物工程师，用在试管中反应的 DNA 链搭建神经网络和电路。 http://qianlab.caltech.edu/
@@ -20726,6 +22057,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Markus Wernli** (3) — 香港理工大学设计研究者. 生态社会设计师，通过厨余堆肥把农场、酒店和零售商连接起来，开展土壤再生项目。
 - **Marta Galvão Ferreira** (3) — 马德拉交互技术研究所（ITI/LARSyS）研究者. 学习科学与设计研究者，用绘画和行走帮助人理解自然。
 - **Marta de Menezes** (3) — 艺术家；Cultivamos Cultura 负责人. Marta de Menezes 是葡萄牙艺术家，自 1999 年起在生物实验室里创作。 https://martademenezes.com
+- **Martin Tomitsch** (3) — 设计与交互教授，曾任悉尼大学 Design Lab，现任职于悉尼科技大学. 交互设计研究者，关注城市、城市界面和以地球为中心的设计。
 - **Martín Tironi** (3) — 智利天主教大学设计学院副教授. 设计与科学技术研究学者，关注智慧城市、算法和后人类中心的设计。
 - **Mathieu Lehanneur** (3) — 设计师；Studio Mathieu Lehanneur 创始人. 法国设计师，作品横跨产品、室内与科学合作；早期项目把家居用品与植物、藻类和鱼组合在一起。 https://www.mathieulehanneur.fr/
 - **Miya Masaoka** (3) — 作曲家、古筝演奏者、声音艺术家，哥伦比亚大学教授. 美国作曲家，自 1990 年代起以植物、昆虫和生物反馈创作。 https://miyamasaoka.com
@@ -20738,12 +22070,16 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **OXMAN** (3) — 由 Neri Oxman 创立的设计与研究公司. OXMAN 以公司形式延续 Mediated Matter 的方向，开发由生物生长出的产品和生态建筑。 https://www.oxman.com
 - **Oskar Juhlin** (3) — 斯德哥尔摩大学计算机与系统科学系交互设计教授. 交互设计研究者，研究带 GPS 追踪的猎犬、狗主人使用的技术，以及多物种的计算机交互。
 - **Paolo Bombelli** (3) — 剑桥大学生物化学系生物化学家，生物光伏研究者. Paolo Bombelli 研发生物光伏系统，从苔藓、藻类等光合生物中收集电能。
+- **Pei-Ying Lin** (3) — 设计师、艺术家. 台湾设计师和研究者，以病毒、微生物和人与非人关系为主题创作思辨作品。 https://peiyinglin.net
 - **Phil Ross** (3) — 艺术家、真菌学家；MycoWorks 联合创始人兼首席技术官. Phil Ross 自 1990 年代起用灵芝（Ganoderma）菌丝体生长雕塑和建筑，并提出了 Mycotecture（菌丝建筑）一词。 https://www.mycoworks.com/
+- **Piumi Perera** (3) — 墨尔本大学计算与信息系统学院博士研究者. 研究日常数字工具如何影响人们走进自然的经历，以及人机交互如何中介人与自然的关系。
 - **Rachel Clarke** (3) — 纽卡斯尔大学 Open Lab 高级讲师. 参与式设计研究者，关注城市、可持续性和超越人类的参与。
 - **Reinhard Gupfinger** (3) — 艺术家、研究者，林茨艺术与设计大学 Tangible Music Lab. 媒体艺术家，为圈养的非洲灰鹦鹉设计乐器和声音界面。
 - **Revital Cohen & Tuur Van Balen** (3) — 艺术家二人组. Revital Cohen 与 Tuur Van Balen 是常驻伦敦的艺术家二人组，作品审视生物学、生产与“自然”。 https://www.cohenvanbalen.com
+- **Ritu Raman** (3) — 麻省理工学院机械工程助理教授. 工程师，用活的肌肉和神经组织制造会适应的机器，也撰写关于生物制造的书。
 - **Sakana AI** (3) — 由 David Ha 与 Llion Jones 在东京创立的 AI 研究公司. Sakana AI 开发受自然启发的 AI 方法，从演化式模型融合到面向人工生命的基础模型。 https://sakana.ai/
 - **Sam Kriegman** (3) — 美国西北大学计算机科学、机械工程与化学生物工程助理教授. 计算机科学家，用进化算法设计机器人身体，包括第一批由计算机设计的生物体（Xenobots）。 https://www.xenobot.group/
+- **Sara Beery** (3) — 麻省理工学院电子工程与计算机科学系、CSAIL 助理教授. Sara Beery 为生物多样性监测开发计算机视觉与机器学习方法，从相机陷阱到声呐鱼类计数，并参与创立 AI for Conservation 社群。
 - **Sascha Pohflepp** (3) — 设计师、艺术家（1978–2019）. Sascha Pohflepp 是德国设计师，思辨作品关注技术、能源与合成生物学。
 - **Sergiu P. Pașca** (3) — 斯坦福大学精神病学与行为科学教授. 神经科学家，开发了人类皮层类器官和“组装体”（assembloids），并把人类类器官移植进大鼠大脑，使其接入大鼠的神经回路。
 - **Shaun Lawson** (3) — 诺森比亚大学社会计算教授，曾任职于林肯大学. 人机交互研究者，用思辨设计质疑“量化宠物”和“狗互联网”类产品。
@@ -20757,6 +22093,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Tjeerd Veenhoven** (3) — 设计师；Studio Tjeerd Veenhoven. Tjeerd Veenhoven 是荷兰设计师，用植物和藻类开发材料，从棕榈叶皮革到海藻纱线。 https://www.tjeerdveenhoven.com/
 - **Tosca Terán** (3) — 跨学科艺术家、表演者（艺名 Nanotopia）. 加拿大 / 墨西哥艺术家，用菌丝、黏菌和植物根系的生物电活动驱动声音与 XR 作品，进行表演和装置创作。 https://www.toscateran.com/
 - **Toshiyuki Nakagaki** (3) — 北海道大学电子科学研究所教授. 生物物理学家，证明了多头绒泡菌能在迷宫中找到最短路径、搭建高效的运输网络；两次获得搞笑诺贝尔奖。 https://www.es.hokudai.ac.jp/labo/nakagaki/
+- **Tram Thi Minh Tran** (3) — 悉尼大学建筑、设计与规划学院设计实验室研究者. 人机交互研究者，研究沉浸式技术、城市机器人，以及规划中的超越人类参与。
 - **Ursula Biemann** (3) — 艺术家、作家、影像散文作者. 瑞士艺术家，以研究为基础的影像散文关注气候危机中的海洋、森林和原住民知识。 https://geobodies.org/
 - **Vilma Kankaanpää** (3) — 格拉斯哥大学计算科学学院博士研究者. 研究者，为动物园里的猴子、狐猴和长颈鹿制作按钮和音频装置的原型。
 - **William Odom** (3) — 西蒙菲莎大学交互艺术与技术学院副教授，Everyday Design Studio. 设计研究者，为日常生活制作“慢”的、长期使用的技术。
@@ -20765,7 +22102,9 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Yuning Chen** (3) — 爱丁堡大学设计研究者. Yuning Chen 研究生物设计伦理，用挑衅性的方法和思辨性的餐桌体验追问设计实验室如何对待微生物。
 - **Zhuying Li** (3) — 东南大学计算机科学与工程学院副教授. 人机交互研究者（曾在莫纳什大学 Exertion Games Lab），设计面向身心健康和人与自然交互的趣味系统。
 - **Zoran Srdić Janežič** (3) — 雕塑家、跨媒介艺术家；卢布尔雅那大学 AGRFT 博士研究者. 斯洛文尼亚雕塑家，使用动画机械、三维设计和活体组织创作；自 2019 年起与 Kapelica 画廊和 BioTehna 实验室合作推进 Biobot 系列。
+- **Çağlar Genç** (3) — 坦佩雷大学研究者（曾任职拉普兰大学）. 人机交互研究者，把菌丝体等活体材料用于交互产品，并开发游戏化的超越人类设计工具。
 - **Adam Feinberg** (2) — 卡内基梅隆大学生物医学工程与材料科学教授. Adam Feinberg 的实验室发明了 FRESH 打印：在明胶支撑浴中打印柔软的胶原与细胞结构，并用它打印出心脏瓣膜、心室和全尺寸心脏支架。 https://www.cmu.edu/bme/Feinberg-Lab/
+- **Adrian Wong** (2) — 悉尼大学研究者. HCI 研究者，研究对话代理和设计中的超越人类视角。
 - **Agi Haines** (2) — 艺术家与设计师，爱丁堡大学 Design Informatics 研究员. Agi Haines 设计对人体的思辨改造——被重塑的婴儿头骨、用重组组织做成的打印器官——并制作高度写实的硅胶模型。 https://www.agihaines.com/
 - **Ai Hasegawa** (2) — 艺术家、设计师. 长谷川爱是日本艺术家，思辨设计关注生殖、生物技术与身体。
 - **Alessandro Bozzon** (2) — 代尔夫特理工大学以人为本人工智能教授. Alessandro Bozzon 在代尔夫特理工大学工业设计工程学院研究以人为本的人工智能与知识和智能设计。
@@ -20778,27 +22117,35 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Andrew Quitmeyer** (2) — Digital Naturalism Laboratories（Dinalab）创始人，前新加坡国立大学助理教授. 设计师，与生物学家一起在丛林里现场改造电子设备。 https://www.digitalnaturalism.org/
 - **Ann Morrison** (2) — 交互设计研究者，曾任职于奥尔堡大学，现任职于南昆士兰大学. 研究者，为猎犬设计了振动触觉背心，也为动物园里的鸭嘴兽做了可自主触发的造浪装置。
 - **Anne Galloway** (2) — 惠灵顿维多利亚大学副教授，More-Than-Human Lab 创始人. 设计民族志与思辨设计研究者，研究人、动物与技术之间的关系，包括养羊业。
+- **Anthropic** (2) — AI 安全与研究公司；Claude 的开发者. Anthropic 开发 Claude 系列大语言模型，并开展可解释性、对齐与模型福祉研究。 https://www.anthropic.com/
 - **ArtScienceBangalore** (2) — Srishti 艺术设计与技术学院的艺术科学实验室，由 Yashas Shetty 领导. 在 Srishti 与国家生物科学中心（NCBS）合作下成立的艺术科学团体与 DIY 生物实验室，以 iGEM 相关生物艺术和移动公共实验室闻名。 http://artscienceblr.org
 - **Ashley Boone** (2) — 佐治亚理工学院博士研究者. 研究社区科学中的数据实践，例如志愿者监测鸟类撞击建筑。
 - **Audrey Dussutour** (2) — 法国国家科学研究中心（CNRS）研究主任，图卢兹动物认知研究中心. 生物学家，研究多头绒泡菌（法国人称之为“le blob”）的学习与决策。
+- **Bakhtawar Aurangzeb Khan** (2) — 坦佩雷大学游戏化研究组研究者. 研究虚拟自然、游戏与身心健康。
 - **Bartaku** (2) — 艺术研究者. 比利时艺术研究者，自 2007 年起进行名为“PhoEf”的光伏效应长期研究，与阿尔托大学的科学家一起用野樱莓（Aronia，他称之为 Baroa belaobara）制作染料敏化太阳能电池。 https://bartaku.net
 - **Beatrice Maggipinto** (2) — 卡内基梅隆大学研究者. 设计海洋生态主题虚拟现实体验的设计者，与葡萄牙交互技术研究所合作。
 - **Berre Su Demir** (2) — 科奇大学博士研究者（亦以 Berre Su Yanlıç 署名发表）. 设计研究者，开发在超越人类设计中呈现植物等非人的工具与方法。
+- **Biomason** (2) — 由 Ginger Krieg Dosier 创立的生物水泥公司. 建筑师 Ginger Krieg Dosier 发明了用细菌生长砌块的方法，并创立 Biomason 生产生物水泥瓷砖和砌块。 https://biomason.com/
 - **Bolt Threads** (2) — Microsilk 和 Mylo 背后的材料公司. Bolt Threads 开发生物基纤维和材料，包括用酵母发酵生产的蛛丝蛋白 Microsilk 和菌丝皮革 Mylo，常与 Stella McCartney 合作。 https://boltthreads.com/
 - **Botao Amber Hu** (2) — 牛津大学研究者，Reality Design Lab 创始人. 设计师和研究者，关注混合现实、多物种体验和人体增强。
 - **Braingeneers** (2) — 加州大学圣克鲁兹分校基因组研究所的研究团队（David Haussler、Mircea Teodorescu、Mohammed Mostajo-Radji）. 加州大学圣克鲁兹分校的跨学科团队，通过联网的“云实验室”运行类器官实验，并在闭环任务中训练皮层类器官。 https://braingeneers.ucsc.edu
 - **CMU CREATE Lab** (2) — 卡内基梅隆大学社区机器人、教育与技术赋能实验室（Illah Nourbakhsh、Yen-Chia Hsu）. 为社区记录空气污染开发工具的实验室。
 - **Carman Neustaedter** (2) — 西蒙菲莎大学交互艺术与技术学院教授. 研究视频通信与家庭的人机交互学者，研究过宠物视频聊天和导盲犬团队。
+- **Ceren Ozgen** (2) — 得克萨斯大学奥斯汀分校设计系助理教授. 设计研究者，发展面向超越人类设计的具身、基于身体动作的工作坊方法。
 - **Cesar & Lois** (2) — 由 Lucy HG Solomon 与 Cesar Baio 组成的艺术团体. 活跃于美国与巴西的艺术团体，创作把菌丝、植物、细菌等生命系统与人工智能和网络连接起来的装置。 https://cesarandlois.org
 - **Chao Zhong** (2) — 上海科技大学生命科学与技术学院教授. Chao Zhong 把细菌生物膜改造成可编程的活体材料，可打印的枯草芽孢杆菌分泌出带有设定蛋白功能的基质。 https://slst.shanghaitech.edu.cn/
 - **Charlotte Nordmoen** (2) — 伦敦玛丽女王大学 Augmented Instruments Lab 博士研究者. 用木材和传感器制作交互系统的设计研究者，借助后人类理论研究“制作”本身。
 - **Chidi Usanga** (2) — 利默里克大学研究者. 参与式设计研究者，关注河流以及可持续发展中的非人类利益相关者。
 - **Christopher Voigt** (2) — 麻省理工学院生物工程教授. Christopher Voigt 设计基因电路和可编程细菌，从能感光的大肠杆菌到“活体电路板”。
+- **Claudia Colmo** (2) — 研究员，丹麦皇家艺术学院 CITA. Claudia Colmo 在丹麦皇家艺术学院与 Phil Ayres、Adrien Rigobello 合作研究活体菌丝膜。 https://doi.org/10.1017/s2977905726100900
 - **Claudia Núñez-Pacheco** (2) — 马尔默大学设计研究者（曾任职于于默奥大学）. 交互设计研究者，研究身体美学、微观现象学和第一人称方法。
 - **Clint Zeagler** (2) — 佐治亚理工学院可穿戴技术研究科学家. 可穿戴计算设计者，参与开发了工作犬可以自己操作的触摸屏、背心和界面。
 - **Cody Lukas** (2) — 与活体系统和科学合作者一起创作的艺术家. 艺术家，作品追问人们把“生命”的界线划在哪里，常与南丹麦大学、OvaCure 类器官生物样本库等机构合作。 https://www.codylukas.com
 - **College for Creative Studies Biodesign Challenge team** (2) — 创意研究学院（CCS）学生团队；Biodesign Challenge 2020–2024. 创意研究学院（CCS）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Con Slobodchikoff** (2) — 北亚利桑那大学生物学荣休教授；Zoolingua 创始人. Con Slobodchikoff 数十年研究甘尼森草原犬鼠的警报叫声，发现这些叫声编码了捕食者的种类、大小和颜色。 https://zoolingua.com
+- **Damien Woods** (2) — 爱尔兰梅努斯大学计算机科学教授. 计算机科学家，研究分子计算和自组装理论。
+- **Daniela Rus** (2) — 麻省理工学院教授，计算机科学与人工智能实验室（CSAIL）主任. 研究分布式与软体机器人的机器人学家。
+- **Dasha Tsapenko** (2) — 设计师. 旅居荷兰的乌克兰设计师，使用真菌、植物和生长出来的纺织品进行设计。
 - **Data Garden** (2) — 音乐厂牌，MIDI Sprout 与 PlantWave 的开发者. 由 Joe Patitucci 和 Alex Tyson 创立，最初是氛围音乐厂牌，2012 年开始做由植物驱动的音乐，后来推出让任何人都能“听”自家植物的设备。 https://www.plantwave.com/
 - **David Rothenberg** (2) — 音乐人、哲学家、作家；新泽西理工学院教授. 单簧管演奏者和作家，与鸟、座头鲸、昆虫和夜莺现场合奏，并写书讨论动物为何“作音乐”（《Why Birds Sing》《Thousand Mile Song》《Nightingales in Berlin》）。 http://www.davidrothenberg.net/
 - **Diana Reiss** (2) — 纽约市立大学亨特学院心理学教授. 认知心理学家，1980 年代为海豚制作了水下键盘，后来共同发起了 Interspecies Internet。
@@ -20816,11 +22163,16 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Erik Winfree** (2) — 加州理工学院计算机科学、计算与神经系统及生物工程教授. 计算机科学家，开创了算法式 DNA 自组装和分子编程。 https://www.dna.caltech.edu/
 - **Fab Lab Barcelona** (2) — 加泰罗尼亚高等建筑研究院（IAAC）的数字制造实验室. 为城市开发开源硬件的实验室，包括 Smart Citizen Kit。
 - **Fabienne Felder** (2) — 设计师与创意策略师，Lumot 工作室创始人. Fabienne Felder 用新兴生物技术做设计，最知名的是用苔藓供电的电子设备。
+- **Federico Rossano** (2) — 加州大学圣迭戈分校认知科学系副教授，比较认知实验室主任. 认知科学家，主持规模最大的“按按钮说话的狗”研究（如 FluentPet 按钮板）。
+- **Feng Guo** (2) — 印第安纳大学伯明顿分校智能系统工程副教授. 生物工程师，研究声流控和基于类器官的计算。他的团队做出了 Brainoware，把脑类器官用作储备池计算系统中的“储备池”。
 - **Ferdinand Ludwig** (2) — 慕尼黑工业大学景观建筑绿色技术教授. 建筑师 Ferdinand Ludwig 提出了 Baubotanik（建筑植物学），用活树与技术结构结合来建造。 https://www.arc.ed.tum.de/en/gtla/
+- **Flowers team (Inria)** (2) — Inria 波尔多研究中心的好奇心驱动学习研究团队. Flowers 团队由 Pierre-Yves Oudeyer 领导，研究人与机器的好奇心，并用具有内在动机的智能体探索 Lenia 等自组织系统。 https://flowers.inria.fr/
 - **Forensic Architecture** (2) — 伦敦大学金史密斯学院的研究机构，由 Eyal Weizman 领导. Forensic Architecture 用空间、建筑和媒体分析调查国家与企业的暴力，其中也包括对环境的暴力。 https://forensic-architecture.org
+- **Francesca Zeccara** (2) — 米兰理工大学设计系设计研究者. 研究活体材料以及生物设计中的参与式方法。
 - **Gabriela Munguía** (2) — 艺术家、研究者. 墨西哥艺术家，搭建打印出来的微型建筑和测量装置，研究微生物如何栖居并改变城市空间。
 - **George Church** (2) — 哈佛医学院遗传学教授，Wyss 研究所核心成员. 遗传学家，开发了基因组测序与编辑方法、DNA 数据存储，并参与创办了许多合成生物学公司。 https://arep.med.harvard.edu/
 - **Gerd Geleff Nielsen** (2) — 哥本哈根信息技术大学交互设计方向的设计师、研究者. 设计思辨性可穿戴物，把免疫系统和微生物带入超越人类的设计。
+- **Germán Sumbre** (2) — 巴黎高等师范学院生物学研究所（IBENS）研究主任. Germán Sumbre 是神经科学家，他的实验室研究斑马鱼的神经回路，并自 2020 年起研究宽吻海豚的发声交流。 https://sumbre-lab.github.io/
 - **Giulia Gualtieri** (2) — 温德斯海姆应用科技大学研究者，埃因霍温理工大学博士生. 城市设计研究者，研究植物、动物和生态系统如何参与参与式城市设计。
 - **Guto Nóbrega** (2) — 艺术家；里约热内卢联邦大学美术学院教授，NANO 实验室（艺术与新有机体中心）负责人. 巴西艺术家、研究者，在普利茅斯大学的博士研究中做出以皮电传感读取的植物—机器混合体。
 - **Guy Theraulaz** (2) — 法国国家科学研究中心（CNRS）研究主任，图卢兹大学动物认知研究中心. 研究蚂蚁和鱼群集体行为的动物行为学家，用数据驱动模型、机器鱼和虚拟现实装置检验鱼群如何协调。
@@ -20829,8 +22181,10 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Haru Ji & Graham Wakefield** (2) — 艺术家；Graham Wakefield 为约克大学副教授（Alice Lab）. 艺术家二人组，以长期系列《Artificial Nature》构建沉浸式人工生态系统。 https://artificialnature.net/
 - **Haruka Kasuga** (2) — 北海道大学研究者. Haruka Kasuga 研究用虚拟现实做科学传播，包括模拟乌龟、壁虎和青蛙视觉的影像。
 - **Hong Luo** (2) — 莫纳什大学 Exertion Games Lab 研究者. 人机交互研究者，设计以身体和触摸连接人与植物的系统。
+- **Hoyoung Youn** (2) — 延世大学设计研究者. 研究服务与系统设计中的后人类中心方法。
 - **Hye Yeon Nam** (2) — 路易斯安那州立大学数字艺术副教授. Hye Yeon Nam 是媒体艺术家，近期作品（包括 FloraWear）把活植物戴在身上。
 - **Inbal Arnon** (2) — 耶路撒冷希伯来大学心理学教授. Inbal Arnon 研究儿童如何习得语言，以及统计结构如何影响学习。
+- **J. Lomax Boyd** (2) — 约翰斯·霍普金斯大学伯曼生命伦理研究所助理教授. 神经科学家和生命伦理学家，研究公众和专家如何看待脑类器官与具身生物计算。
 - **Jake Peacock** (2) — 印第安纳大学 Luddy 信息学院研究者. 动物—计算机交互研究者，研究实验动物福利，并与印第安纳波利斯动物园合作开发用于黑猩猩触屏任务的计算机视觉。
 - **Jalila Essaïdi** (2) — 艺术家、生物创业者. Jalila Essaïdi 是荷兰艺术家，材料从蛛丝皮肤到粪便制成的新材料。 https://jalilaessaidi.com
 - **Janet Cardiff & George Bures Miller** (2) — 以声音装置和音频漫步创作的艺术家二人组. 加拿大艺术家，以双耳录音漫步与多扬声器装置闻名。 https://cardiffmiller.com/
@@ -20841,12 +22195,12 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Jiaqi Wang** (2) — 格拉斯哥大学计算科学学院博士研究者. 研究者，设计狐猴与动物园游客都能控制的多感官装置。
 - **Jiho Kim** (2) — 代尔夫特理工大学设计研究者. 生物设计研究者，研究设计者如何培养与微生物合作的感受力。
 - **Jiwei Zhou** (2) — 代尔夫特理工大学工业设计工程学院设计研究者. 周纪伟（Jiwei Zhou）用蓝藻设计活体人造物，并研究人们在日常生活中如何照料它们。
+- **Joel Fredericks** (2) — 悉尼大学设计实验室高级讲师. 城市交互设计研究者，研究参与式规划、媒体建筑与超越人类的城市。
 - **Joelle Alcaidinho** (2) — 佐治亚理工学院研究者（动物-计算机交互）. 研究者，为狗设计了项圈感应的手势，并为警方爆炸物搜查队开发了移动协作工具。
 - **Jon Back** (2) — 乌普萨拉大学信息学与媒体系高级讲师. 游戏研究者，为森林和游乐场设计数字游戏。
 - **Jon E. Froehlich** (2) — 华盛顿大学 Paul G. Allen 计算机科学与工程学院教授，Makeability Lab 主任. HCI 研究者，研究可持续感知、无障碍与城市数据。
 - **Jonas Edvard** (2) — 材料设计师. Jonas Edvard 是丹麦设计师，用菌丝体、海藻和石头制作灯具、砖、椅子和小屋。 https://www.jonasedvard.com/
 - **Jonathan Birch** (2) — 伦敦政治经济学院哲学教授；Jeremy Coller 动物感知中心主任. Jonathan Birch 研究动物与 AI 的感知能力；他的著作《The Edge of Sentience》（2024）为感知能力不确定的存在提出预防性政策。 https://www.lse.ac.uk/cpnss/people/jonathan-birch
-- **Jonna Häkkilä** (2) — 拉普兰大学工业设计教授. 在芬兰拉普兰工作的交互设计师，研究可穿戴、显示设备以及面向自然和北极的技术。
 - **Julia McKenna** (2) — 西北大学研究者；与奥吉布瓦部落伙伴合作开发野生稻（Manoomin）守护工具. 在美国五大湖地区从事由原住民主导的环境感测与数据工具研究。
 - **Julia Moser** (2) — 林茨艺术大学纺织设计师与研究者. Julia Moser 用会产生色素的活细菌给织物染色，并研究如何用它们设计图案。 https://www.juliamoser.com
 - **Julian Melchiorri** (2) — 设计师与工程师，Arborea 创始人. Julian Melchiorri 把叶绿体和微藻封入丝蛋白与玻璃中，从 Silk Leaf 原型到在 V&A 展出的 70 片生物反应器叶片吊灯 Exhale。 https://www.julianmelchiorri.com/
@@ -20879,7 +22233,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Marie Louise Juul Søndergaard** (2) — 奥斯陆建筑与设计学院副教授. 交互设计师，研究女性主义、亲密与超越人类的设计，题材包括月经、生育和苔藓。
 - **Marin Sawa** (2) — 伦敦帝国理工学院研究员；印刷生物光伏的设计者与生物工程师. Marin Sawa 受过纺织设计与生物工程训练，用喷墨打印活的蓝细菌，制作纸基的太阳能生物电池。
 - **Marine Zorea** (2) — 声音设计师、设计研究者. 为家庭和照护场所设计家居声景与声音介入。
-- **Martin Tomitsch** (2) — 设计与交互教授，曾任悉尼大学 Design Lab，现任职于悉尼科技大学. 交互设计研究者，关注城市、城市界面和以地球为中心的设计。
 - **Mary Maggic** (2) — 关注荷尔蒙、生命政治与 DIY 生物学的艺术家与研究者. Mary Maggic 制作在机构之外提取和检测荷尔蒙的协议、工作坊与影像，包括 Open Source Estrogen 与肥皂剧式教学片 Housewives Making Drugs。 https://maggic.ooo/
 - **Matthias Laschke** (2) — 锡根大学“面向可持续与转型的交互设计”研究组负责人. 设计师，以“愉悦的捣乱者”著称：这类日常物件制造小小的阻力来促成行为改变；现在关注可持续与人与自然的关系。
 - **Maurizio Rossi** (2) — 特伦托大学嵌入式系统与能量采集研究者. Maurizio Rossi 设计依靠环境能量运行的超低功耗传感器，其中包括植物-微生物燃料电池供电的设备。
@@ -20892,6 +22245,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Michael Strano** (2) — 麻省理工学院化学工程教授，植物纳米仿生学开拓者. Michael Strano 的实验室把纳米颗粒植入活植物，让它们检测化学物质、用红外光报告结果，或者自己发光。
 - **Michel Maharbiz** (2) — 加州大学伯克利分校电子工程与计算机科学教授. Michel Maharbiz 研究微电子与活细胞之间的接口，从芯片上的细菌自组装到“神经尘埃”植入器件。
 - **Mick Lorusso** (2) — 跨学科艺术家. 艺术家，用微生物燃料电池、自制显微镜和皮影剧场，把微生物群落呈现为能量生产者和讲故事的角色。 https://micklorusso.net
+- **Mickey Pardo** (2) — 行为生态学家；康奈尔大学与科罗拉多州立大学博士后研究员. Mickey Pardo 研究大象的声音交流，主导了“非洲象用类似名字的叫声彼此称呼”的研究。
 - **Mileece** (2) — 声音艺术家、环境设计师. 声音艺术家，用植物生物电信号生成音乐并进行演出与装置创作，包括 2013 年在 MoMA 的演出。 https://www.mileece.is
 - **Miriam Filippi** (2) — 生物混合机器人研究者，曾任职于苏黎世联邦理工学院软体机器人实验室. Miriam Filippi 研究活体驱动器和生物混合机器人，包括用于软体机器人的工程化肌肉组织，并撰文讨论生物混合机器如何走出实验室。
 - **NYU Integrated Design & Media Biodesign Challenge team** (2) — 纽约大学综合设计与媒体（IDM）学生团队；Biodesign Challenge 2020–2025. 纽约大学综合设计与媒体（IDM）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
@@ -20901,15 +22255,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Notpla** (2) — 用海藻制造包装材料的公司. Notpla 前身是 Rodrigo García González 与 Pierre Paslier 创立的 Skipping Rocks Lab，用海藻和植物制造可食用、可堆肥的包装。 https://www.notpla.com/
 - **Nova Innova** (2) — 荷兰的自然技术设计与创新工作室. Nova Innova 设计依靠自然能源运行的公共装置与产品，例如放在城市水体中的微生物燃料电池。
 - **Olafur Eliasson** (2) — 艺术家；Studio Olafur Eliasson 创始人. 丹麦裔冰岛艺术家，作品处理光、水、空气与温度；其柏林工作室有工匠、建筑师和研究人员。 https://olafureliasson.net/
+- **Ori Orisun Merhav** (2) — 艺术家、设计师与材料研究者；Made by Insects 创始人. 埃因霍温设计学院 2022 届毕业生，通过吹制、编织和 3D 打印研究紫胶——紫胶虫 Kerria lacca 分泌的树脂；入选荷兰设计奖 2026 届（Class of 2026）。
 - **Pascal Leboucq** (2) — 舞台设计师与艺术家. Pascal Leboucq 是荷兰舞台设计师，与 Biobased Creations 一起发起了 Growing Pavilion。 https://thegrowingpavilion.com/
+- **Patrick Butlin** (2) — 心灵哲学研究者；Eleos AI Research 研究员. Patrick Butlin 研究能动性、意识以及 AI 系统的道德地位。
 - **Patrizia Paci** (2) — 研究者，开放大学动物-计算机交互实验室博士. 研究动物生物遥测设备的可穿戴性，测量了猫对市售 GPS 追踪器的反应。
 - **Paulo Tavares** (2) — 建筑师、研究者；autonoma 创办人. 巴西建筑师，其空间研究描绘了原住民如何塑造亚马逊，并为森林的权利发声。
 - **Pedro Galvão-Ferreira** (2) — 里斯本高等理工学院与 ITI/LARSyS 研究者. 设计关于自然与文化遗产的位置游戏和体验。
 - **Pedro Lopes** (2) — 芝加哥大学计算机科学副教授，人机融合实验室（Human Computer Integration Lab）负责人. Pedro Lopes 研究与使用者身体融为一体的设备，从肌肉电刺激、化学触觉，到内含活体生物的设备。 https://lab.plopes.org/
-- **Pei-Ying Lin** (2) — 设计师、艺术家. 台湾设计师和研究者，以病毒、微生物和人与非人关系为主题创作思辨作品。 https://peiyinglin.net
 - **Perla Armaly** (2) — 以色列理工学院的建筑师与生物设计研究者. Perla Armaly 研究“协同制造”流程：机器人沉积以沙为主的混合料，再由蓝细菌让它矿化。
 - **Pit Hofmann** (2) — 德累斯顿工业大学德国电信通信网络讲席研究员. Pit Hofmann 研究分子通信，以及活体神经网络与数字系统之间的接口，并与 Cortical Labs 合作。
-- **Piumi Perera** (2) — 墨尔本大学计算与信息系统学院博士研究者. 研究日常数字工具如何影响人们走进自然的经历，以及人机交互如何中介人与自然的关系。
 - **RISD Terra Carta teams** (2) — 罗德岛设计学院学生团队. 罗德岛设计学院的学生团队，以 BIOPOD 和 Shellf Life 获得 2024 年 Terra Carta 设计实验室奖。
 - **Raune Frankjær** (2) — 奥胡斯大学可穿戴与交互设计方向的设计师、研究者. 设计把植物和昆虫信号变得可感知的光与织物界面，作品包括 Flora Luma、Rewilding Wearables 与 Plant Radio。
 - **Refik Anadol** (2) — 媒体艺术家，Refik Anadol Studio 与 Dataland 联合创始人. 土耳其裔美国艺术家，用大型图像数据集训练 AI，制作流动的“数据绘画”。 https://refikanadol.com/
@@ -20917,6 +22271,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Roger S. Ulrich** (2) — 德州农工大学建筑与景观建筑系教授（荣休）. 环境心理学家，他的医院研究奠定了循证疗愈设计的基础。
 - **Roosa Piitulainen** (2) — 阿尔托大学 HCI 研究者. 研究者，与动物园中的白脸僧面猴共同设计了声音丰容装置。
 - **SWAMP** (2) — 由 Douglas Easterly 与 Matt Kenyon 组成的艺术团体（Studies of Work Atmosphere and Mass Production）. SWAMP（Douglas Easterly 与 Matt Kenyon）创作关于技术、劳动和生命系统的批判性媒体艺术。
+- **Sarah Homewood** (2) — 哥本哈根大学助理教授（曾任职哥本哈根 IT 大学）. 交互设计研究者，从女性主义与后人类视角研究身体、自我追踪和生殖健康。
 - **Satoshi Kuribayashi** (2) — 庆应义塾大学湘南藤泽校区设计师与研究者（I/O Plant 时期）. Satoshi Kuribayashi 创作了 I/O Plant 和 Plant Feeling Light：把植物当作输入输出模块的工具包和灯具。
 - **Sena Cucumak** (2) — 科奇大学媒体与视觉艺术系 Futurewell: CoCreation 实验室研究者. 设计研究者，研究土耳其城市中的街头动物和多物种共居。
 - **Shijia Huang** (2) — 从事生物打印与微生物栖息地设计的设计师. Shijia Huang 在 2024 年荷兰设计周展出了 Microbial Oasis——一个用生物打印的人体组织为微生物提供栖息地的思辨设计。
@@ -20935,10 +22290,11 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Tiffany Wun** (2) — 西蒙菲莎大学 Everyday Design Studio 设计研究者. 设计研究者，通过蚯蚓堆肥套件等探针，把超越人类的理念带进日常设计实践。
 - **Timothy Morton** (2) — 莱斯大学英语系 Rita Shea Guffey 讲席教授. Timothy Morton 是生态哲学家，与物导向本体论相关，以“黑暗生态学”和“超物体”等概念著称。
 - **Tom Ellis** (2) — 伦敦帝国理工学院合成基因组工程教授. Tom Ellis 领导一个合成生物学实验室，改造酵母和细菌（包括产纤维素的 Komagataeibacter）来制造新材料。 https://www.imperial.ac.uk/people/t.ellis
-- **Tram Thi Minh Tran** (2) — 悉尼大学建筑、设计与规划学院设计实验室研究者. 人机交互研究者，研究沉浸式技术、城市机器人，以及规划中的超越人类参与。
+- **Vasiliki Tsaknaki** (2) — 哥本哈根信息技术大学副教授. 交互设计研究者，关注生物数据、身体美学与超越人类的身体。
 - **Verena Fuchsberger** (2) — 萨尔茨堡大学人机交互部高级研究员. 人机交互研究者，关注交互设计中的物质性、后人类主义和责任问题。
 - **Wil V. Srubar III** (2) — 科罗拉多大学博尔德分校副教授；Prometheus Materials 联合创始人. Wil Srubar 在科罗拉多大学领导 Living Materials Laboratory，研究工程化活体建材和低碳水泥。 https://www.colorado.edu/lab/srubar/
 - **Wildlife Insights** (2) — 由保护国际、WWF、WCS、ZSL、史密森尼学会与 Google 等共建的相机陷阱数据平台. 用 AI 识别相机陷阱照片中动物的云平台。
+- **Xin Liu** (2) — 艺术家、工程师；MIT 媒体实验室太空探索计划的创始艺术策展人. 出生于中国新疆的艺术家和工程师，她的雕塑、影像和实验关注外太空、地外探索与“宇宙代谢”。她也是 SETI 研究所的驻留艺术家。 https://xinliu.art/
 - **Xuanhe Zhao** (2) — 麻省理工学院机械工程教授，软活性材料实验室负责人. 赵选贺（Xuanhe Zhao）研发水凝胶机器和生物粘合剂，包括容纳活体工程细菌的水凝胶。
 - **Yaniv Erlich** (2) — 计算机科学家与遗传学家，曾任职于哥伦比亚大学和纽约基因组中心. 研究者，设计了接近理论极限的 DNA 存储编码方案 DNA Fountain，并共同提出“物之 DNA”架构。
 - **Yvonne Rogers** (2) — 伦敦大学学院交互设计教授，UCL 交互中心主任. HCI 研究者，以“野外”普适计算研究和《交互设计》教材闻名。
@@ -20949,9 +22305,9 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **iGEM Paris Bettencourt** (2) — 巴黎 Learning Planet Institute 的合成生物学学生队伍. iGEM Paris Bettencourt 是参加国际基因工程机器大赛（iGEM）的学生队伍。
 - **iGEM Team Imperial College London** (2) — iGEM 学生团队（2011–2014）. Imperial College London 学生团队参加了国际基因工程机器大赛（iGEM），其项目横跨合成生物学与设计。 https://2014.igem.org/Team:Imperial
 - **mischer'traxler studio** (2) — Katharina Mischer 与 Thomas Traxler 的设计工作室. 奥地利工作室，以关注自然与生物多样性的过程机器和装置著称，如 The Idea of a Tree 和 Curiosity Cloud。 https://mischertraxler.com
-- **Çağlar Genç** (2) — 坦佩雷大学研究者（曾任职拉普兰大学）. 人机交互研究者，把菌丝体等活体材料用于交互产品，并开发游戏化的超越人类设计工具。
 - **Đan Vy Vu** (2) — 埃因霍温理工大学工业设计系研究者. Đan Vy Vu 研究数字孪生如何帮助设计师应对用菌丝体培养材料时的不确定性。
 - **3DBio Therapeutics** (1) — 再生医学公司，2014 年成立. 3DBio Therapeutics 开发了 AuriNovo：用病人自身软骨细胞打印的耳朵植入物，2022 年在临床试验中植入人体。 https://www.3dbiocorp.com/
+- **51 Architecture** (1) — 建筑事务所. 横跨建筑、景观与装置的伦敦事务所。
 - **ALGBIO (Selen Şenal & Ceyda Güneş)** (1) — 学生创业团队. Selen Şenal 与 Ceyda Güneş 研发了 ALGBIO——一个处理废水并生产生物产品的微藻系统，获 2024 年詹姆斯·戴森设计奖土耳其冠军。 http://alg-bio.com
 - **ALT TEX** (1) — 公司. ALT TEX 由 Myra Arshad 与 Avani Patel 创立，把食物垃圾发酵成可降解的涤纶替代品。 https://thealttex.com/
 - **AMAM** (1) — 设计团体. AMAM 是东京的设计团体（荒木宏介、前谷典昭、村冈明），以 Agar Plasticity 获得 2016 年雷克萨斯设计奖大奖。
@@ -20959,20 +22315,24 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Aagje Hoekstra** (1) — 设计师. Aagje Hoekstra 是荷兰设计师，用黄粉虫甲虫的鞘翅制成壳聚糖生物塑料。
 - **Aalto University Biodesign Challenge team** (1) — 阿尔托大学学生团队；Biodesign Challenge 2021–2023. 阿尔托大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Aaron V. Bradshaw** (1) — 伦敦大学学院研究者. 研究环境科学研究中的人与微生物协作。
+- **Abbas Akhavan** (1) — 艺术家. 出生于伊朗的加拿大艺术家，他的在地装置、花园和雕塑涉及植物、居所空间以及文化遗产与战争的历史。
 - **Ackroyd & Harvey** (1) — 艺术家二人组：Heather Ackroyd 与 Dan Harvey. 英国艺术家，自 1990 年合作，关注生命材料的生长与衰败，以“长在草上的照片”闻名；Culture Declares Emergency 联合发起人。 https://www.ackroydandharvey.com/
 - **Aditi Maheshwari** (1) — 埃森哲实验室研究科学家. 人机交互研究者，研究面向植物、生态修复和人植交互的技术。
-- **Adrian Wong** (1) — 悉尼大学研究者. HCI 研究者，研究对话代理和设计中的超越人类视角。
 - **Adrien Lucca** (1) — 研究色彩、光与定制光学技术的视觉艺术家. 1983 年生于巴黎的艺术家，自 2009 年起在艺术、物理、知觉与生物学之间研究色彩与光，为装置和公共艺术开发定制照明系统。他近期关注非人类的视觉世界，以及人造光的生态影响。 https://adrienlucca.net
 - **Adrienne Adar** (1) — 艺术家、植物声音研究者. 创作互动装置，放大活体植物的振动和声音。 https://www.adrienneadar.com
 - **Aerseeds (Bike & Begum Ayaskan)** (1) — 设计双人组，皇家艺术学院. 双胞胎设计师 Bike 与 Begum Ayaskan 创作了 Aerseeds，获 2022 年 Terra Carta 设计实验室奖。
 - **After Life team (RCA)** (1) — 设计师；皇家艺术学院. After Life team (RCA) 是来自皇家艺术学院的设计师，项目 After Life 入选绿色产品奖 / 绿色概念奖。
 - **Aganetha Dyck** (1) — 艺术家. 加拿大艺术家，自 1990 年代初起与蜜蜂合作，把物件放进蜂箱，让蜜蜂在上面筑起蜂巢。 https://www.aganethadyck.ca/
 - **Agata Jaworska** (1) — 设计师与策展人；埃因霍温设计学院毕业. 波兰裔加拿大设计师，毕业作品 Made in Transit 提出让食物在运输途中生长，而不是在途中变质。
+- **Agnes van Dijk** (1) — 时尚艺术家，ModeKunst FashionArt. 荷兰时尚艺术家，用自研的无毒保存技术，把海藻、蘑菇、地衣、丝瓜络和苔藓做成雕塑般的可穿戴作品。 https://www.agnesvandijk.com
 - **Aidan Mark Puse** (1) — 悉尼大学交互设计学生（Synthium 时期）. Aidan Mark Puse 参与设计了 Synthium：在城市绿地里把蘑菇的电信号变成声音的装置。
 - **Ailton Pereira** (1) — 设计师；隆德里纳州立大学. Ailton Pereira 是来自隆德里纳州立大学的设计师，项目 AIPER 入选绿色产品奖 / 绿色概念奖。
 - **Akira Wakita** (1) — 庆应义塾大学环境情报学部教授. 脇田玲（Akira Wakita）研究信息设计、环境显示和数字制造。
+- **Alam Noor** (1) — 研究员，波尔图 CISTER 研究中心. 计算机视觉研究者，研究从农场动物（尤其是绵羊）的面部自动识别疼痛。
 - **Alan Smeaton** (1) — 都柏林城市大学计算学教授；Insight 爱尔兰数据分析研究中心. 研究多媒体与传感数据分析的计算机科学家；他的团队为辅助犬开发可穿戴传感设备。
 - **Albert Keung** (1) — 北卡罗来纳州立大学化学与生物分子工程副教授. 生物工程师，研究 DNA 数据存储与计算，以及合成表观遗传学。
+- **Alderville First Nation** (1) — 密西沙加阿尼什纳比原住民族. 位于安大略省赖斯湖南岸的密西沙加阿尼什纳比社区，由酋长 Taynar Simpson 领导。 https://peterboroughcurrents.ca/newsletters/is-rice-lake-a-person/
+- **Alef Iury Siqueira Ferreira** (1) — 戈亚斯联邦大学（UFG）机器学习研究者. Alef Iury Siqueira Ferreira 与巴西和智利的生态学家合作，研究生物声学深度学习。
 - **Alejandro Alfaro Enguídanos** (1) — 设计师；阿利坎特高等设计学院. Alejandro Alfaro Enguídanos 是来自阿利坎特高等设计学院的设计师，项目 Algee 入选绿色产品奖 / 绿色概念奖。
 - **Aleksi Vesaluoma** (1) — 设计师与研究者，专注菌丝体结构. Aleksi Vesaluoma 在布鲁内尔大学做了 Grown Structures：把菌丝体引入手工缠绕成树状框架的纸管，真菌消化基质后结构变硬。
 - **Aleph Farms** (1) — 细胞培养肉公司，2017 年成立. Aleph Farms 用牛细胞培养牛排，并用 3D 生物打印做出带有脂肪纹理与内部结构的培养肋眼。 https://www.aleph-farms.com/
@@ -20985,15 +22345,20 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Alexandre Pongrácz Rossi** (1) — 动物行为学者、训犬师. 巴西动物行为专家，以训练狗使用交流设备和视频通话而闻名。
 - **Alfonso Jaramillo** (1) — 华威大学合成生物学教授. Alfonso Jaramillo 设计用于编程细胞的基因回路和计算方法，包括细菌的记忆与学习。
 - **Algaeing** (1) — 公司. Algaeing 由 Renana Krebs 创立，把藻类生物质配制成生物基纤维和染料。 https://www.algaeing.com/
+- **Alianza Jambato** (1) — 保护 Jambato 丑角蟾的联盟. 厄瓜多尔的生物学家、当地居民和保护组织结成的联盟，保护 Jambato 丑角蟾（Atelopus ignescens）；这种蟾蜍曾被宣布灭绝，2016 年在安加马卡被重新发现。
 - **Amino Labs** (1) — 教育用基因工程硬件公司，由 Julie Legault 与 Justin Pahara 于 2015 年创立. Amino Labs 用产品设计的方式做桌面生物实验室器具和套件，让初学者几天内改造出产色素的细菌。 https://amino.bio/
+- **Amy Ulinski Banic** (1) — 怀俄明大学计算机科学副教授. 虚拟现实研究者，研究三维交互与沉浸式学习。
 - **Ana Goidea** (1) — 建筑师、研究者，隆德大学. Ana Goidea 是隆德大学的建筑师和研究者，与 David Andréen 共同 3D 打印并培养了菌丝体柱 Protomycokion。
 - **Ana María Gómez López** (1) — 艺术家. Ana María Gómez López 是哥伦比亚艺术家，她以自我实验把身体与植物生命融合。
 - **Ana Vogelfang & Julieta García Vázquez** (1) — 艺术家二人组；“一个不可思议风景的临时博物馆”（MOPI）创始人. 两位阿根廷艺术家自 2018 年起合作，工作横跨绘画、建筑与社会实践。2021 年她们创立 MOPI，一个在拉丁美洲湿地中举办的游牧博物馆。 https://mopi-museo.weebly.com
 - **Anand Kumar Mishra** (1) — 康奈尔大学有机机器人实验室研究助理. 工程师，搭建了读取菌丝体电信号的接口，并用这些信号驱动软体机器人和轮式机器人。
+- **Anca Benera & Arnold Estefán** (1) — 艺术家二人组. 罗马尼亚艺术家二人组，关注资源开采、军事化景观与地质；2026 年代表罗马尼亚参加威尼斯双年展。
+- **Andrea Aliverti** (1) — 米兰理工大学生物工程教授. 生物工程学者，领导米兰理工大学的呼吸分析实验室，研发可穿戴和非接触式呼吸监测设备。
 - **Andrea Lavazza** (1) — 哲学家，阿雷佐国际大学中心高级研究员. 心灵哲学家和神经伦理学家，与 Marcello Massimini 最早提出了如何评估脑类器官可能具有的意识。
 - **Andrea Macruz** (1) — 同济大学设计创意学院副教授. 建筑师和设计师，从事仿生、多物种和结合神经科学的设计。
 - **Andrea Polli** (1) — 新墨西哥大学艺术与生态教授. 以空气、天气和气候数据创作的环境艺术家。
 - **Andrea Wiggins** (1) — 内布拉斯加大学奥马哈分校信息系统副教授. 信息科学家，研究公民科学项目如何组织与管理数据。
+- **Andreas Komninos** (1) — 帕特雷大学计算机工程与信息学系研究者. 移动与普适计算研究者。
 - **Andrew J. Barnhart** (1) — 生命伦理研究者，研究类器官智能的治理. Andrew J. Barnhart 撰写关于神经类器官和类器官智能的伦理文章，关注可操作的治理方式。
 - **Andrew Whitcomb** (1) — 亚利桑那州立大学设计学院助理教授. 设计研究者，在索诺兰沙漠研究气候未来与情感。
 - **Angela Kilford** (1) — 毛利艺术家与设计师，梅西大学. 与新西兰麻（harakeke）和毛利织物实践一起工作。
@@ -21001,16 +22366,19 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Aniela Hoitink** (1) — 设计师；NEFFA 与 MycoTEX 创始人. Aniela Hoitink 于 2016 年创立 NEFFA，用模具中生长的菌丝体制作定制服装。 https://www.neffa.nl/
 - **Ann-Kristin Abel** (1) — 设计师；Central Saint Martins 纺织未来硕士. Ann-Kristin Abel 是设计师，在 Central Saint Martins 求学期间拍摄了关于半活体装置的思辨影片。
 - **Anna Budnikova** (1) — 建筑师、设计师；莫斯科高等经济大学城市规划研究生院. Anna Budnikova 是建筑师，她的 Mycokarst 提出用真菌矿化来加固喀斯特塌陷区，获得 2019 年 Biodesign Challenge 杰出科学奖。
+- **Anna Duraj-Thatte** (1) — 弗吉尼亚理工大学生物系统工程系助理教授；SMART Living Materials Lab. 合成生物学家，改造大肠杆菌分泌 curli 蛋白纳米纤维，让其自组装成可打印、可降解的活体材料。
 - **Anna Madeleine Raupach** (1) — 媒体艺术家、研究者. 澳大利亚艺术家，其动态与数据作品（如 Unequal Hours、Augmented Tree Rings）呈现自然时间尺度与人类时间尺度的交织。 https://www.annamadeleine.com
+- **Anna Sandak** (1) — 研究员，InnoRenew CoE 与普里莫尔斯卡大学. 木材与生物基材料科学家，主持 ARCHI-SKIN 与 REMEDY 等研究建筑活体真菌涂层和微生物表面的项目。
 - **Anna Vershinina** (1) — 建筑师、设计师. 建筑师和设计师，研究把建造与种植食物结合在一起的再生性栖居空间。
 - **Annah-Ololade Sangosanya** (1) — 设计师；加泰罗尼亚高级建筑研究院（IAAC）. Annah-Ololade Sangosanya 是来自加泰罗尼亚高级建筑研究院（IAAC）的设计师，项目 The Purhyphae project 入选绿色产品奖 / 绿色概念奖。
+- **Annalee Davis** (1) — 艺术家、作家、文化组织者. 巴巴多斯艺术家，生活和工作在一座昔日的甘蔗种植园里，用植物标本、绘画、织物和园艺探索“后种植园”的修复之道。 https://www.annaleedavis.com/
 - **Annarita Bianco** (1) — 坎帕尼亚大学（Luigi Vanvitelli）设计研究者. 设计研究者，结合土壤、环境人文和参与式工作坊开展研究。
 - **Anne Bowser** (1) — 威尔逊中心副主任兼首席创新官（曾为马里兰大学博士生）. 研究公民科学、游戏与开放数据。
+- **Anniina Autero** (1) — 参与式城市设计研究者. Anniina Autero 研究芬兰的参与式规划和面向城市未来的数字工具。
 - **Annika Wolff** (1) — 拉彭兰塔-拉赫蒂工业大学（LUT）研究者. 研究数据素养和可持续城市设计，常用基于艺术的方法。
 - **Anniken Førde** (1) — 挪威北极大学研究者. 人文地理学者，研究地方、规划和多物种城市。
 - **Anomalia Studio** (1) — 建筑与研究工作室（Bhakti V Loonawat、Suyash Sawant）. Anomalia 是由 Bhakti V Loonawat 和 Suyash Sawant 领导的印度建筑工作室，研究把菌丝体作为再生性建筑材料。 https://www.architecturelab.net/mycomuseum-anomalia-plus-mycl/
 - **Ant Farm** (1) — 建筑、平面艺术与环境设计团体（1968–1978）. 由 Chip Lord 和 Doug Michels 创立、后有 Curtis Schreier 加入的激进团体，以 Cadillac Ranch、充气结构和媒体表演闻名。
-- **Anthropic** (1) — AI 安全与研究公司；Claude 的开发者. Anthropic 开发 Claude 系列大语言模型，并开展可解释性、对齐与模型福祉研究。 https://www.anthropic.com/
 - **Anton Vervoort** (1) — 设计师；安特卫普大学. Anton Vervoort 是比利时设计师，他的贻贝栖息结构 The Reef 入选 2024 年詹姆斯·戴森设计奖国际 20 强。
 - **Antti Tenetz** (1) — 以动物、景观和追踪技术创作的艺术家. Antti Tenetz 用野生动物的 GPS 轨迹、无人机和水下影像，创作关于北方景观的影像和装置。
 - **Aphrodite Theodora Andreou** (1) — 马耳他大学数字游戏研究所研究者. 设计研究者，与一群宽吻海豚共同设计了丰容玩具。
@@ -21029,6 +22397,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Arup** (1) — 工程与设计公司. Arup 是全球性工程公司，参与开发了 SolarLeaf 微藻立面。 https://www.arup.com
 - **Asa River Jackson** (1) — 设计师、艺术家. 用“互利共生”方法设计家具和物件，同时服务人和其他物种。 https://asariverjackson.com
 - **Ashley Colley** (1) — 拉普兰大学用户体验组研究者. Ashley Colley 设计环境式与外围显示，其中一件作品改变室内植物的影子来传递信息。
+- **Asia Pacific Neuroethics Working Group** (1) — 由科学家、生命伦理学者、哲学家和法律学者组成的跨学科工作组. 该工作组于 2024 年 11 月在新加坡会面，就人脑类器官研究（包括类器官计算）形成共识建议。
 - **Asimina Vasalou** (1) — 伦敦大学学院（UCL）知识实验室教授. 研究儿童借助技术进行的学习、游戏与制作。
 - **Aspect Biosystems** (1) — 微流控生物打印公司，2013 年成立. Aspect Biosystems 用在喷头处混合细胞与水凝胶的微流控打印头打印组织，并在开发打印组织疗法。 https://aspectbiosystems.com/
 - **Asya Ilgün** (1) — 格拉茨大学人工生命实验室研究员. Asya Ilgün 研究蜜蜂的体温调节，并在 HIVEOPOLIS 项目中制作能感知并加热蜂团的机器人巢框。
@@ -21048,10 +22417,10 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Axel G. Rossberg** (1) — 伦敦玛丽女王大学生态学家. Axel Rossberg 是理论生态学家，研究群落生态学和生物多样性监测方法。
 - **Aybars Senyildiz** (1) — 阿尔托大学设计师与研究者. 设计师，把家庭发酵作为人们学习与微生物建立关系的场所来研究。
 - **B. F. Skinner** (1) — 心理学家（1904–1990），哈佛大学. 行为主义心理学家，提出操作性条件反射；二战期间训练鸽子啄击屏幕上的图像来操纵制导炸弹。
+- **BIOMA Lab** (1) — 由 Charlotte van Alem 于 2021 年创立的细菌纤维素材料工作室. Charlotte van Alem 创立的荷兰工作室，用康普茶酿造的废料喂养细菌，长出柔韧、防水的细菌纤维素片材。
 - **BIOMILQ** (1) — 公司. BIOMILQ 由 Leila Strickland 与 Michelle Egger 创立，培养人类乳腺细胞在体外生产乳汁成分。
 - **BIOTEOS (Romain Dhenin)** (1) — 初创公司. Romain Dhenin 创办了 BIOTEOS，研发微藻空气净化器 OXYLON，获 2022 年詹姆斯·戴森设计奖法国亚军。 https://bioteos.com
 - **Backyard Brains** (1) — 由 Greg Gage 和 Tim Marzullo 创立的神经科学教育公司. 为学校生产低成本神经科学套件的公司，产品包括 RoboRoach。 https://backyardbrains.com/
-- **Bakhtawar Aurangzeb Khan** (1) — 坦佩雷大学游戏化研究组研究者. 研究虚拟自然、游戏与身心健康。
 - **Barani Raman** (1) — 圣路易斯华盛顿大学生物医学工程教授. 神经工程师，研究昆虫嗅觉，并读取蝗虫大脑信号来探测爆炸物。 https://ramanlab.wustl.edu/
 - **Barbara Mazzolai** (1) — 意大利技术研究院机器人副院长、仿生软体机器人实验室主任. 生物学家与机器人学家，创造了 Plantoid，第一台以植物根系为原型的机器人。 https://www.iit.it/people-details/-/people/barbara-mazzolai
 - **Bas Emaus** (1) — JiTiBa Algae Technologies 创始人. Bas Emaus 创立了 JiTiBa Algae Technologies，利用固定化微藻处理污水。
@@ -21064,8 +22433,10 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Benedetta Zuccarelli** (1) — 设计师、研究者，哈佛大学设计研究生院. Benedetta Zuccarelli 是哈佛大学设计研究生院的设计师，与 Daniel Tish 合作研究用于建筑室内的微藻系统。 https://doi.org/10.1017/s2977905726100560
 - **Benioff Ocean Science Laboratory** (1) — 加州大学圣塔芭芭拉分校的海洋科学实验室. 开发 Whale Safe 的实验室。Whale Safe 结合鲸类声学探测、模型和船舶追踪来减少船撞鲸事件。
 - **Benjamin Dillenburger** (1) — 苏黎世联邦理工学院数字建筑技术教授. Benjamin Dillenburger 领导苏黎世联邦理工学院数字建筑技术组，以 3D 打印建筑和计算设计著称。 https://dbt.arch.ethz.ch/
+- **Benjamin Risse** (1) — 明斯特大学计算机视觉与机器学习系统教授. Benjamin Risse 开发追踪动物的计算机视觉方法，从实验室里的昆虫到无人机拍摄的野生动物。
 - **Benjamin Ward-Cherrier** (1) — 布里斯托大学机器人研究者. 机器人研究者，研究类脑触觉传感；他的团队用 FinalSpark 的类器官对人工指尖读取的盲文进行分类。
 - **Bento Lab** (1) — 便携 DNA 实验室公司，由 Bethan Wolfenden 与 Philipp Boeing 于 2015 年创立. Bento Lab 把离心机、PCR 仪和凝胶成像仪装进笔记本大小的箱子，面向田野工作、课堂和社区实验室。 https://bento.bio/
+- **Berggruen Institute** (1) — 智库. 由 Nicolas Berggruen 创立的智库，资助关于行星治理、人类未来和新政治制度的研究。 https://berggruen.org/
 - **Berilsu Tarcan** (1) — 挪威科技大学设计系博士研究者. 设计研究者，探索以实践为基础、与环境一起制作的方法，作为以人为中心设计的替代。
 - **Bernie Krause** (1) — 声景生态学家、音乐人；Wild Sanctuary 创始人. 曾是合成器音乐人，1968 年起录制野外声景，积累了来自全球栖息地的数千小时录音。Krause 提出了“生物声”“地理声”“人类声”这组概念。 https://www.wildsanctuary.com/
 - **Berre Su Yanlıç** (1) — 科奇大学研究者. 设计研究者，研究如何在设计早期阶段纳入植物的视角。
@@ -21074,17 +22445,20 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Berta Daina** (1) — 设计师；ELISAVA 设计学院. Berta Daina 是西班牙设计师，她的家用生物塑料套件 Agro Biomaterials 入选 2022 年詹姆斯·戴森设计奖国际 20 强。 https://www.agrobiomaterials.com
 - **Betti Marenko** (1) — 伦敦艺术大学中央圣马丁学院设计与哲学方向学者. 设计理论研究者，工作在哲学、数字技术与物质文化的交汇处。
 - **Bhavani Seetharaman** (1) — 加州大学圣克鲁兹分校计算媒体系博士研究者. 研究思辨设计、户外休闲技术与环境价值。
+- **Bianca Isabel Young Co** (1) — 设计师. 设计师，用树皮、纸和木材制作可降解物件，再让真菌定殖并改变它们。
 - **Bingjie Gao** (1) — 北京理工大学设计研究者. Bingjie Gao 参与设计了 Plant Playmate：一盆带灯光和表情的智能办公植物，帮助人在工作压力中小憩。
 - **Biohm** (1) — 生产菌丝体建材的生物制造公司. Biohm 由 Ehab Sayed 于 2016 年创立，生产菌丝体保温板和用食品及工业废料制成的板材 Orb。 https://www.biohm.co.uk/
-- **Biomason** (1) — 由 Ginger Krieg Dosier 创立的生物水泥公司. 建筑师 Ginger Krieg Dosier 发明了用细菌生长砌块的方法，并创立 Biomason 生产生物水泥瓷砖和砌块。 https://biomason.com/
 - **Biomemory** (1) — DNA 数据存储公司，法国国家科学研究中心与索邦大学的衍生企业. 用工程细胞制造的 DNA 存储数据，并为数据中心开发 DNA 存储的公司。 https://www.biomemory.com/
 - **Biorealize** (1) — 生物设计硬件公司，由 Orkan Telhan 与 Karen Hogan 于 2015 年创立. Biorealize 开发了 Microbial Design Studio：一台自动完成培养、测试和收获微生物的桌面设备，让设计师像排打印任务一样做生物实验。 https://www.biorealize.com/
 - **Bios Urn (Gerard Moliné & Martín Ruiz de Azúa)** (1) — 设计工作室 / 公司. Gerard Moliné 与 Martín Ruiz de Azúa 设计了 Bios Urn——一种让骨灰长成一棵树的可降解骨灰盒。 https://urnabios.com/
 - **Biosphere 2** (1) — 亚利桑那大学地球系统科学设施（由 Space Biospheres Ventures 建造）. 一座封闭的玻璃建筑，内含雨林、海洋、沙漠与农田。
+- **Bjarke Ingels Group (BIG)** (1) — 建筑事务所. 由 Bjarke Ingels 创立的国际建筑事务所。 https://big.dk/
 - **Block Research Group** (1) — 苏黎世联邦理工学院 Philippe Block 领导的研究组. Block Research Group 研究纯受压结构、壳体设计和结构找形。 https://block.arch.ethz.ch/
 - **Blond & Bieber** (1) — Essi Johanna Glomb 与 Rasa Weber 的设计工作室. Blond & Bieber 用微藻作为纺织印染和表面材料的颜色来源。 https://www.blondandbieber.com/
+- **Blue Monkey (Aki Takeshita)** (1) — 由 Aki Takeshita（Shibori Lab）主持的阿姆斯特丹靛蓝与纺织项目. 纺织艺术家 Aki Takeshita 发起的项目：与市民一起在阿姆斯特丹各处种植靛蓝，并把废旧纺织品染成新衣。 https://www.shiborilab.info
 - **Bluebrain** (1) — 音乐二人组（Hays 与 Ryan Holladay）. 兄弟二人，制作随听众在某地行走而变化的位置感知专辑。
 - **Bob Hendrikx** (1) — 设计师；Loop Biotech 创始人. Bob Hendrikx 毕业于代尔夫特理工大学，与 Lonneke Westhoff 一起创立 Loop Biotech，用菌丝体生长棺木和骨灰盒。 https://loop-biotech.com/
+- **Bogna Burska** (1) — 视觉艺术家、剧作家、电影人. 波兰艺术家，创作涉及影像、装置、戏剧和文本；与 Daniel Kotowski 共同创作了 2026 年威尼斯双年展波兰馆。
 - **Boqun Huang** (1) — 设计师；中央圣马丁艺术与设计学院. Boqun Huang 是来自中央圣马丁艺术与设计学院的设计师，项目 GROWN BLUR 入选绿色产品奖 / 绿色概念奖。
 - **Borough of Manhattan Community College Biodesign Challenge team** (1) — 曼哈顿社区学院学生团队；Biodesign Challenge 2023. 曼哈顿社区学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Botanicalls** (1) — 项目团队：Kati London、Rob Faludi、Kate Hartman、Rebecca Bray. 2006 年在纽约大学 ITP 组成的团队，让室内植物通过电话、后来通过 Twitter 发声。 https://www.botanicalls.com/
@@ -21108,23 +22482,29 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Carla Alcalà Badias** (1) — 艺术家. 西班牙艺术家，常与海洋科学家合作，用声音、沉积物和微生物创作。
 - **Carlos Peralta** (1) — 设计研究者；剑桥大学制造研究所 Design in Science 项目. Carlos Peralta 是设计研究者，与剑桥科学家合作，研究设计如何传达新兴科学，包括生物光伏。
 - **Carlos Roberto Torres-Parra** (1) — 哥伦比亚哈维里亚纳天主教大学设计系教授. 设计研究者，研究批判性游戏与跨文化共创。
+- **Carolina Caycedo** (1) — 艺术家. 哥伦比亚裔英国艺术家，她的绘画、影像、雕塑和表演关注美洲的河流、水坝、种子以及守护土地与水的人。 https://www.labiennale.org/en/art/2026/carolina-caycedo
 - **Carolina De Lara** (1) — 纺织设计师与生物设计研究者（布罗斯大学；京都工艺纤维大学）. Carolina De Lara 研究细菌纤维素纺织品，把打散的纤维素纤维与针织、钩织结构结合在一起。
 - **Carvey Ehren Maigue** (1) — 设计师；马普阿大学. Carvey Ehren Maigue 是菲律宾工程师，他用农作物废料制成的太阳能材料 AuREUS 获得 2020 年首届詹姆斯·戴森设计奖可持续发展奖。
 - **Carys E. Bennett** (1) — 地质学家、古生物学家；曾任职于莱斯特大学. 地质学家，与人类世工作组成员一起主导了将肉鸡作为人类世标志物种的研究。
+- **Caspar Kaiser** (1) — 研究福祉测量与 AI 自我报告的社会科学家. Caspar Kaiser 研究福祉自我报告在多大程度上可信，并把同样的问题用在语言模型上。
 - **Catalog** (1) — DNA 数据存储与计算初创公司（核心资产于 2026 年被 Biomemory 收购）. 公司开发了用预制 DNA 片段写入数据的机器，并在 2019 年把英文维基百科存进了 DNA。 https://www.catalogdna.com/
 - **Catherine Crockford** (1) — 法国国家科学研究中心认知科学研究所研究主任；Taï 黑猩猩项目联合负责人. Catherine Crockford 在 Taï 森林研究野生黑猩猩的声音交流与社会关系。
 - **Cayla Key** (1) — 诺森比亚大学设计研究者. 设计研究者，研究关怀伦理、后人类主义和 HCI 中的超越人类设计。
 - **Cecilia Jonsson** (1) — 艺术家. 瑞典艺术家，使用金属、矿物和生物材料创作，常从生命体中提取铁。 https://www.ceciliajonsson.com
 - **Celestine Briët** (1) — 设计师. Celestine Briët 是荷兰设计师，她的 BeLeaf 材料由落叶制成。 http://celestine-briet.nl
+- **Celia Vásquez Yui** (1) — 希皮博-科尼博族陶艺家、社会活动者. 来自秘鲁亚马孙的希皮博-科尼博族陶艺家（生于 1960 年），用乌卡亚利河沿岸采集的黏土制作动物形陶器，并绘上 kené 纹样。 https://salon94.com/artists/celia-vasquez-yui
 - **Cellsense team (Georgia Tech)** (1) — 学生设计团队. Stefan Colton、Aradhita Parasrampuria 与 J Sebastian Garcia Medina 设计了藻类亮片 Cellsense，获 2023 年詹姆斯·戴森设计奖美国亚军。
 - **Center for Genomic Gastronomy (Zack Denfeld & Cathrine Kramer)** (1) — 关注人类食物系统的生物技术与生物多样性的艺术家智库，2010 年成立. Zack Denfeld 与 Cathrine Kramer 研究并上演关于转基因生物、污染和农业生物技术的食物实验，包括用荧光转基因鱼做的烹饪节目。 https://genomicgastronomy.com/
-- **Ceren Ozgen** (1) — 得克萨斯大学奥斯汀分校设计系助理教授. 设计研究者，发展面向超越人类设计的具身、基于身体动作的工作坊方法。
+- **Center for Mind, Ethics, and Policy (NYU)** (1) — 纽约大学研究中心，主任 Jeff Sebo. 纽约大学心智、伦理与政策中心研究动物与 AI 系统的心智、道德地位与法律地位。 https://nonhumanminds.org/
 - **Chadwick A. Wingrave** (1) — HCI 研究者，完成该研究时任职于中佛罗里达大学. 三维交互研究者，探索了面向狗和主人的严肃游戏。
 - **Chang Hee Lee** (1) — 韩国科学技术院（KAIST）工业设计系副教授. 工业设计研究者，研究面向日常生活的实体与环境式界面。
 - **Charles M. Lieber** (1) — 纳米科学家，哈佛大学化学系前教授. 化学家，开创了可与活体组织融合的纳米线和大孔网状电子，包括三维“赛博”组织支架。
 - **Charlotte McCurdy** (1) — 设计师与研究者. Charlotte McCurdy 用海洋藻类设计负碳材料和服装。 https://www.charlottemccurdy.com/
+- **Chartier Dalix** (1) — 建筑事务所. 把建筑设计为城市生物多样性载体的巴黎事务所。 https://chartier-dalix.com/
 - **Chiaochi Chou** (1) — 艺术家；台湾清华大学跨院国际博士学位学程研究者. 艺术家与研究者，与东京大学、KAIST 的合作者一起，研究跨物种音乐和基于生物信号的表演。
+- **Chimi Om** (1) — 昆士兰科技大学博士研究者. 研究幼儿教育中儿童的自然游戏与地方依恋。
 - **Chitofarm (Charlotte Böhning & Mary Lempres)** (1) — 设计团队. Charlotte Böhning 与 Mary Lempres 设计了以黄粉虫处理聚苯乙烯的生物消化器 Chitofarm，入围 2022 年雷克萨斯设计奖。
+- **Chris Adami** (1) — 密歇根州立大学微生物学与分子遗传学教授. Chris Adami 是物理学家、数字演化（Avida）的开创者之一，研究信息、演化与生命起源。
 - **Chris Woebken** (1) — 设计师、研究者；Extrapolation Factory 联合创办人. Chris Woebken 是一位设计研究者，毕业于皇家艺术学院 Design Interactions 专业，制作思辨性的可穿戴设备并开发参与式未来方法。 https://www.chriswoebken.com
 - **Christa Sommerer & Laurent Mignonneau** (1) — 媒体艺术二人组，林茨艺术与设计大学界面文化系教授. Christa Sommerer 和 Laurent Mignonneau 自 1990 年代初开始创作关于人工生命的交互艺术。
 - **Christian Brems** (1) — 艺术家. Christian Brems 是丹麦艺术家，以声音、植物和思辨生物声学为创作题材。
@@ -21138,7 +22518,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **City of Melbourne Urban Forest team** (1) — 墨尔本市政府城市森林团队. 墨尔本市政府管理约七万棵公共树木，并把它们发布在开放的 Urban Forest Visual 地图上。 https://www.melbourne.vic.gov.au
 - **Clarice Risseeuw** (1) — 设计研究者，代尔夫特理工大学. Clarice Risseeuw 是代尔夫特理工大学的设计研究者，为与虹彩黄杆菌共同生活制作工具和日常物件。 https://doi.org/10.1017/s2977905726100250
 - **Clarissa Ribeiro** (1) — 艺术家、研究者；圣保罗大学传播与艺术学院美术系. 巴西艺术家和研究者，作品横跨生物艺术、生成媒体和增强现实，关注微生物组、气候和混合身体。 https://www.clarissaribeiro.com/
-- **Claudia Colmo** (1) — 研究员，丹麦皇家艺术学院 CITA. Claudia Colmo 在丹麦皇家艺术学院与 Phil Ayres、Adrien Rigobello 合作研究活体菌丝膜。 https://doi.org/10.1017/s2977905726100900
 - **Claudy Jongstra** (1) — 纺织艺术家. Claudy Jongstra 是荷兰纺织艺术家，自己饲养德伦特荒原羊群并种植染料植物，用于她的毛毡作品。 http://claudyjongstra.com
 - **Clee Zhuo Wang** (1) — 香港理工大学设计学院研究者. 设计研究者，研究人-植物交互中植物的时间与时间性。
 - **Clemens Driessen** (1) — 瓦赫宁根大学哲学家. 技术哲学与动物伦理学者，共同创作了猪与人一起玩的游戏 Pig Chase。
@@ -21150,6 +22529,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **CoeLux** (1) — 基于 Paolo Di Trapani（因苏布里亚大学）研究创立的照明公司. 用纳米颗粒光学再现天空与阳光外观的公司。
 - **Colleen Flanigan** (1) — 艺术家；Living Sea Sculpture 创始人. 美国雕塑家，制作通电的钢结构，在水下长出石灰岩，成为珊瑚苗圃。
 - **Colorifix** (1) — 用工程微生物给纺织品染色的生物技术公司. Colorifix 由合成生物学家 Orr Yarkoni 和 Jim Ajioka 于 2016 年创立，用工程细菌生产染料并把它固定在织物上。 https://colorifix.com/
+- **Constitutional Court of Colombia** (1) — 哥伦比亚宪法事务最高法院. 哥伦比亚宪法法院，2016 年承认阿特拉托河为权利主体（T-622/16），2026 年又裁定赋予兰切里亚河权利的法律合宪。 https://www.corteconstitucional.gov.co/comunicados/comunicado-33-28-de-octubre-de-2026.pdf
 - **Constitutional Court of Ecuador** (1) — 厄瓜多尔最高宪法法院. 厄瓜多尔是第一个把自然权利写进宪法的国家（2008 年），其宪法法院在一系列标志性案件中执行这些权利。
 - **Cooking Sections** (1) — 空间实践工作室（Daniel Fernández Pascual 与 Alon Schwabe）. Cooking Sections 是伦敦的双人组合，通过装置、表演和在地干预，研究以食物组织世界的各种系统。 https://www.climavore.org
 - **Coral Vita** (1) — 公司. Coral Vita 由 Sam Teicher 与 Gator Halpern 创立，经营陆基珊瑚养殖场，用于珊瑚礁修复。 https://www.coralvita.co/
@@ -21164,22 +22544,26 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **DISNOVATION.ORG** (1) — 由 Nicolas Maigret 与 Maria Roszkowska 主持的艺术与研究团体. 这个团体把当代艺术、研究与黑客实践结合起来，用类似大型实验室的装置讨论能源、生态与经济的社会生态议题。他们也是《人类世动物寓言集》（A Bestiary of the Anthropocene）的合编者。 https://disnovation.org/
 - **DISPERSEED team (Universitat Politècnica de València)** (1) — 学生设计团队. Irene Badía Madrigal、Diego Polo García、Carmen Amorós Egea 等人设计了 DISPERSEED，获 2022 年詹姆斯·戴森设计奖西班牙亚军。
 - **DOGTV** (1) — 专为狗制作的电视网. 2012 年创立的电视网，节目依据狗的色觉、听觉和独自在家的时段来剪辑。
+- **Daito Manabe** (1) — 艺术家、程序员与 DJ；Rhizomatiks 和 Studio Daito Manabe 创始人. 真锅大度用数据、身体和传感器创作视听作品与表演，长期与脑信号和机器学习打交道。 https://daito.ws/en/
 - **Dalila Bovet** (1) — 巴黎南泰尔大学动物行为、认知与发展实验室动物行为学教授. 研究鹦鹉、狗等动物的认知与交流。
 - **Damanhur** (1) — 皮埃蒙特的生态社区；Music of the Plants 的研究团队. 1970 年代建立的意向社区，其研究者开发了把植物电信号变化转成 MIDI 音乐的设备，现以 Plant Music 品牌销售。 https://www.plantmusic.com/
-- **Damien Woods** (1) — 爱尔兰梅努斯大学计算机科学教授. 计算机科学家，研究分子计算和自组装理论。
+- **Dan Lie** (1) — 艺术家. 1988 年生于圣保罗的巴西裔艺术家，其装置把花、种子、泥土、真菌和织物组合在一起，在展期中腐烂、发芽、变化。
 - **Dan Parker** (1) — 墨尔本大学研究者. 建筑研究者，用计算设计和数字制造为猫头鹰和昆虫搭建栖息结构。
 - **Dana Habeeb** (1) — 印第安纳大学 Luddy 信息、计算与工程学院助理教授. 研究城市高温、环境感测，以及市民数据基础设施的参与式设计。
+- **Dana-Fiona Armour** (1) — 艺术家、研究者. 德国艺术家（生于 1988 年），与科学家合作研究杂交生物和共生；她的作品 Alvinella Ophis 获得 2024 年首届 Sigg 艺术奖。
 - **Daniel Crawford** (1) — 数据可听化艺术家（曾就读于明尼苏达大学）. 把气候数据转化为弦乐作品的可听化创作者。
+- **Daniel Kohlsdorf** (1) — 机器学习研究者；野生海豚计划（Wild Dolphin Project）的长期合作者. 计算机科学家，在佐治亚理工学院随 Thad Starner 攻读博士，研究海豚声音中的模式发现，此后一直参与野生海豚计划的声学数据研究。
+- **Daniel Kotowski** (1) — 聋人艺术家、表演者. 波兰聋人艺术家、表演者；与 Bogna Burska 共同创作了 2026 年威尼斯双年展波兰馆。
 - **Daniel Preston** (1) — 莱斯大学机械工程助理教授，Preston 创新实验室负责人. 工程师，研究软体机器人与能源，提出“死体机器人学”（necrobotics）这一概念。
 - **Daniel Wangpraseurt** (1) — 海洋生物学与生物光学研究者，加州大学圣迭戈分校与剑桥大学. Daniel Wangpraseurt 打印受珊瑚启发的水凝胶结构，其光学特性像活珊瑚组织一样散射光线，并用它培养高密度藻类。 https://www.wangpraseurt.com/
-- **Daniela Rus** (1) — 麻省理工学院教授，计算机科学与人工智能实验室（CSAIL）主任. 研究分布式与软体机器人的机器人学家。
 - **Daniela Vallentin** (1) — 马克斯·普朗克生物智能研究所研究组长. Daniela Vallentin 研究鸣禽发声学习与轮流发声的神经回路。
 - **Daniele Quercia** (1) — 诺基亚贝尔实验室剑桥负责任人工智能总监. 计算社会科学家，他的团队制作了一种推断狗性格的可穿戴设备。
 - **Danielle Trofe** (1) — 设计师；MushLume Lighting 创始人. Danielle Trofe 于 2011 年创立工作室，2014 年开始与 Ecovative 合作，用菌丝体和大麻纤维生长灯罩。 https://danielletrofe.com/
 - **Danielle Wilde** (1) — 具身设计教授，于默奥设计学院 / 南丹麦大学. 设计研究者，关注具身、参与式和与食物相关的未来，包括人与微生物的关系。
 - **Daniëlle Ooms** (1) — 埃因霍温理工大学工业设计系设计师与研究者. Daniëlle Ooms 为 Teresa van Dongen 的细菌供电灯光装置 Electric Life 设计了一套采集泥土的工具包。
 - **Danlin Huang** (1) — 中国美术学院设计师、研究者. 设计师和研究者，常与 Reality Design Lab 合作，制作借用其他动物感官的可穿戴和混合现实体验。
-- **Dasha Tsapenko** (1) — 设计师. 旅居荷兰的乌克兰设计师，使用真菌、植物和生长出来的纺织品进行设计。
+- **Dark Matter Labs** (1) — 战略设计与研究实验室. 国际性的设计实验室，研究气候转型所需的制度、法律和金融基础设施，包括生物区治理和超越人类生命的权利。 https://darkmatterlabs.org/
+- **Darya Holub** (1) — 建筑设计师. 设计师，与 Selin Ozasik、Pinak Bhapkar、Nikhil Narendiran 和 Baskar Bharathwaj Subramanian 共同设计了 Hypha-Lume 菌丝体展亭。
 - **David Benqué** (1) — 设计师、研究者；皇家艺术学院 Design Interactions 毕业. David Benqué 是法国设计师和研究者，关注图表、预测以及科学技术中的政治。 https://davidbenque.com/
 - **David Dunn** (1) — 作曲家与声音艺术家，加州大学圣克鲁兹分校研究者. 作曲家，录制并用其他物种与环境的声音进行创作，包括树木内部的声学生命。
 - **David H. Gracias** (1) — 约翰斯·霍普金斯大学化学与生物分子工程教授. 以自折叠微器件闻名的工程师。他的团队做出了能像贝壳一样合拢、包住脑类器官的三维微电极阵列。
@@ -21193,6 +22577,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Dennis Siering** (1) — 在艺术与科学之间工作的艺术家. 德国艺术家，设计关于自然、技术与社会如何相互作用的思辨情境，近期尤其关注物种之间的协作。 https://dennissiering.com
 - **Diana Scherer** (1) — 艺术家与设计师. Diana Scherer 与拉德堡德大学的生物学家合作，引导植物根系长成带图案的类织物材料。 https://dianascherer.nl/
 - **Diemut Strebe** (1) — 艺术家，麻省理工学院艺术、科学与技术中心附属. Diemut Strebe 与科学实验室合作创作，包括 Sugababe：用梵高后裔细胞培养出的活体梵高耳朵复制品，保存在营养液展柜中。 https://diemutstrebe.com/
+- **Dimitri Giunchi** (1) — 比萨大学动物学副教授. 动物学家，用 GPS 追踪研究鸟类导航与运动生态。
 - **Dirk Hebel** (1) — 卡尔斯鲁厄理工学院可持续建造教授. Dirk Hebel 研究种植出来和回收再生的建筑材料，包括竹复合材料和菌丝体。 https://nb.ieb.kit.edu/
 - **Divya Verma** (1) — 设计师；印度国立设计学院. Divya Verma 是印度设计师，她的藻类皮革 Kudarat 获得 2022 年詹姆斯·戴森设计奖印度亚军。
 - **Diya Samit** (1) — 埃因霍温理工大学研究者. 设计研究者，通过关于土壤的关系性数据连接生物设计与超越人类设计。
@@ -21201,6 +22586,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Duane Rumbaugh** (1) — 比较心理学家（1929–2017），耶基斯国家灵长类研究中心、佐治亚州立大学. 心理学家，领导了 LANA 项目：让一只黑猩猩使用由词符（lexigram）组成的计算机键盘。
 - **Dunne & Raby (Anthony Dunne & Fiona Raby)** (1) — 批判与思辨设计实践者，纽约 The New School 教授. Anthony Dunne 与 Fiona Raby 确立了批判设计这一实践，用设计物件与情境——包括生物技术的情境——来讨论可能的未来。 https://dunneandraby.co.uk/
 - **E-Line Media** (1) — 游戏发行与开发商. 开发《Never Alone》与《Beyond Blue》的工作室。
+- **ECI “Rights for Nature” organisers** (1) — 欧洲公民倡议的公民委员会. 欧洲公民倡议“自然权利：赋权公民代表和保护生态系统”背后的公民委员会，该倡议于 2026 年 5 月 19 日由欧盟委员会登记。
 - **Ebba Ahlqvist** (1) — 查尔姆斯理工大学交互设计研究者. Ebba Ahlqvist 参与设计了 HoneyPot：一对联网的发光花盆，让相隔两地的人通过植物保持联系。
 - **EcoRove** (1) — 2020 年由 Jumanah Abbas、Iyad Abou Gaida 和 Em Joseph 创立的研究与影像工作室. 一个协作式多媒体研究工作室，用纪录片、动画和数据作品讨论“关键带”的政治，以及生活在其中的人和其他物种。 https://www.ecorove.com/en
 - **Ecosia** (1) — 用收益资助植树的搜索引擎. 柏林公司，把利润用于植树与气候项目。
@@ -21213,10 +22599,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Eduardo Navarro** (1) — 艺术家. 阿根廷艺术家，通过表演和绘画邀请人们体验植物、动物和其他生命的感知方式。
 - **Edward Masui** (1) — 日本土木研究所研究者. 研究者，从食物、材料以及塑造它们的生物的长时段历史来看待基础设施。
 - **Edwin Blake** (1) — 开普敦大学计算机科学荣休教授. 计算机科学家，参与了 CyberTracker 基于图标的野外计算机的研究，并从事面向发展中地区的人机交互研究。
+- **Ehsan Pajouheshgar** (1) — 洛桑联邦理工学院图像与视觉表征实验室研究者. Ehsan Pajouheshgar 研究用于纹理、形态发生与图形学的神经元胞自动机。
 - **Ehud Sharlin** (1) — 卡尔加里大学计算机科学系教授. 人机器人交互研究者，他的团队观察了家猫如何对社交机器人作出反应。
 - **Ekaterina Semenova** (1) — 设计师. Ekaterina Semenova 是设计师，她的 Care for Milk 把剩牛奶变成陶瓷釉层。 http://ekaterinasemenova.com
 - **Eleni Margariti** (1) — 纽卡斯尔大学 Open Lab / 诺森比亚大学 HCI 研究者. ActuAir 的设计者，这是一面显示室内空气质量的变形墙。
 - **Eleni Stavrinidou** (1) — 林雪平大学有机电子实验室副教授，Electronic Plants 研究组负责人. Eleni Stavrinidou 在活植物体内长出导电聚合物导线、传感器和超级电容器。
+- **Eleos AI Research** (1) — 研究 AI 福祉与道德受体地位的非营利研究机构. Eleos AI Research 由 Robert Long 与 Kathleen Finlinson 创立，研究 AI 系统是否可能拥有福祉，并对前沿模型做外部福祉评估。 https://eleosai.org/
+- **Eli D. Strauss** (1) — 康斯坦茨大学与马克斯·普朗克动物行为研究所行为生态学家. Eli Strauss 利用长期野外数据和项圈传感器研究斑鬣狗的社会等级与交流。
 - **Elias Thaddäus Pfuner** (1) — 设计师；于默奥设计学院. Elias Thaddäus Pfuner 是设计师，与 Mario Kapsalis 共同设计了珊瑚修复服务 Nemo，获 2020 年詹姆斯·戴森设计奖瑞典冠军。 http://eliaspfuner.com
 - **Elio Caccavale** (1) — 设计师；皇家艺术学院 Design Interactions 专业毕业. 意大利设计师，与科学家和伦理学者合作，设计帮助人们（尤其是孩子）讨论生物技术的物件。
 - **Elisabet M. Nilsson** (1) — 马尔默大学艺术与传播学院副教授. 研究设计教育、未来素养与超越人类视角的交互设计研究者。
@@ -21246,9 +22635,8 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Fara Peluso** (1) — 艺术家、设计师. Fara Peluso 是在柏林工作的意大利艺术家、设计师，把藻类当作有生命的材料合作者。
 - **FarmBot** (1) — 开源种植机器人公司（Rory Aronson 创立）. 制造用于菜畦的开源数控机器人的公司。 https://farm.bot/
 - **Fashion Institute of Technology Biodesign Challenge team** (1) — 纽约时装技术学院（FIT）学生团队；Biodesign Challenge 2016–2024. 纽约时装技术学院（FIT）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Theanne Schiros。 https://www.biodesignchallenge.org/
-- **Federico Rossano** (1) — 加州大学圣迭戈分校认知科学系副教授，比较认知实验室主任. 认知科学家，主持规模最大的“按按钮说话的狗”研究（如 FluentPet 按钮板）。
 - **Fei (Dillon) Shieh** (1) — 埃因霍温理工大学设计研究者. Fei (Dillon) Shieh 参与设计了 Minty Zoo：一个装有薄荷的柜子，传感器读取植物的集体行为，再据此重新分配水和光。
-- **Feng Guo** (1) — 印第安纳大学伯明顿分校智能系统工程副教授. 生物工程师，研究声流控和基于类器官的计算。他的团队做出了 Brainoware，把脑类器官用作储备池计算系统中的“储备池”。
+- **Feifei Pang** (1) — 辛辛那提大学博士研究者. 计算机支持的协同工作研究者，研究城市农业与社区食物实践。
 - **Fergus Telfer** (1) — 设计师；格拉斯哥艺术学院. Fergus Telfer 是苏格兰设计师，用金酒酒厂废料培养出包装薄膜 Scobio。
 - **Fernanda Soares da Costa** (1) — 里斯本大学高等理工学院 ITI/LARSyS 博士研究者. 以第一人称的制作方式，研究琼脂、贝壳等来自海洋的生物材料的设计者。
 - **Fernanda Viégas & Martin Wattenberg** (1) — 数据可视化艺术家与研究者（哈佛大学，曾在 Google PAIR）. 以艺术化的公共数据展示闻名的可视化二人组。
@@ -21256,31 +22644,36 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Fernando Laposse** (1) — 设计师；Studio Fernando Laposse 创始人. 墨西哥设计师，把玉米苞叶、剑麻和丝瓜络等植物纤维做成材料，常与乡村社区长期合作。 https://www.fernandolaposse.com/
 - **Finn Petrie** (1) — 艺术家. 生活在但尼丁（Ōtepoti）的艺术家，用古树的激光雷达扫描 3D 打印瓷器，并把它们放入地景之中。
 - **Fiona McDonald** (1) — 关注生态、传感器与代码的媒体艺术家. 爱尔兰媒体艺术家，受过生物化学、美术和多媒体系统训练。她多年与生态学家一起在爱尔兰重新湿化的泥炭地工作，把碳通量数据转化为缓慢的绘画、雕塑和表演。 http://www.fionamcdonald.digital/
+- **Fiona Pardington** (1) — 摄影师. 具有毛利（Ngāi Tahu、Kāti Māmoe、Ngāti Kahungunu）和苏格兰血统的摄影师，以拍摄博物馆中的鸟类标本、人像翻模和毛利珍宝的大幅静物而闻名；2026 年代表新西兰参加威尼斯双年展。
 - **Flash Forest** (1) — 公司. Flash Forest 用无人机测绘土地并发射已发芽的种子荚，为烧毁和采伐过的土地造林。 https://flashforest.ca/
 - **Flavia Alice Mameli** (1) — 维也纳应用艺术大学设计师、研究者. 设计师，从事菌丝体和再生材料教育。
+- **Florentina Holzinger** (1) — 编舞家、表演艺术家. 奥地利编舞家，她的大型表演融合舞蹈、特技、身体艺术和机械装置；2026 年代表奥地利参加威尼斯双年展。
 - **Florian 'Floyd' Mueller** (1) — 莫纳什大学 Exertion Games Lab 教授，曾任职于皇家墨尔本理工大学. 身体玩耍与运动游戏的设计者，他的实验室也探索过与救助犬进行远程养育式玩耍。
-- **Flowers team (Inria)** (1) — Inria 波尔多研究中心的好奇心驱动学习研究团队. Flowers 团队由 Pierre-Yves Oudeyer 领导，研究人与机器的好奇心，并用具有内在动机的智能体探索 Lenia 等自组织系统。 https://flowers.inria.fr/
 - **FluentPet** (1) — 制作可编程语音按钮板的宠物科技公司. 公司，生产可录音的按钮和六边形底板，狗和猫按下按钮就会播放单词。
 - **FluidSolids** (1) — 瑞士生物复合材料公司. FluidSolids AG 研发一种以可再生原料副产物制成、可像塑料一样加工的生物复合材料。 https://www.fluidsolids.com/
 - **Foamlab** (1) — 生物制造初创公司（与 Elvin Karana 合作）. Foamlab 与设计研究者 Elvin Karana 合作，用细菌纤维素培养轻质泡沫材料。
 - **Formafantasma** (1) — 设计工作室（Andrea Trimarchi、Simone Farresin）. Formafantasma 是以研究为导向的设计工作室，以关于材料、资源开采与生态的项目著称。 http://formafantasma.com
 - **Fragmentario (María-Elena Pombo)** (1) — 设计工作室. Fragmentario 是 María-Elena Pombo 的设计工作室，用食物和海洋废料（如牛油果核和马尾藻）设计材料。
 - **Franca López Barbera** (1) — 不伦瑞克工业大学设计研究者. 把性别与去殖民视角带入超越人类设计。
-- **Francesca Zeccara** (1) — 米兰理工大学设计系设计研究者. 研究活体材料以及生物设计中的参与式方法。
 - **Frank Kolkman** (1) — 设计师、研究者. Frank Kolkman 是荷兰设计师，关注 DIY 医疗与技术；他的 Designs for Flies 获得 2016 年荷兰设计奖“服务与系统”类奖项。 http://www.frankkolkman.nl
 - **Frank Noz** (1) — 设计师，Cat Cat Revolution 的共同创作者. 设计师，制作了猫和主人一起玩的 iPad 游戏。
 - **François-Joseph Lapointe** (1) — 生物学家、行为艺术家；蒙特利尔大学教授. François-Joseph Lapointe 是进化生物学家，他把对自身微生物组的 DNA 测序用作行为艺术和肖像的材料。
 - **Fredrik Aspling** (1) — 斯德哥尔摩大学人机交互研究者. 从多物种民族志的角度研究动物-计算机与植物-计算机交互。
 - **Fredrik Bernerstedt** (1) — 乌普萨拉大学研究者. HCI 研究者，探索户外的、身体化的超越人类设计方法。
 - **Free Lives** (1) — 游戏工作室. 开发《Broforce》和《Terra Nil》的南非工作室。
+- **Friederike Range** (1) — 维也纳兽医大学康拉德·洛伦茨行为学研究所教授. 比较认知研究者，领导驯化实验室（Domestication Lab），二十年来研究狗与狼的合作与认知。
 - **Friedrich Gerlach** (1) — 设计师；包豪斯魏玛大学. Friedrich Gerlach 是德国设计师，与 Julia Huhnholz 共同制作了生物水泥椅，获 2023 年詹姆斯·戴森设计奖德国亚军，并入围绿色概念奖。 https://www.friedrichgerlach.de
+- **Front (formerly StoneCycling)** (1) — 荷兰材料公司. 阿姆斯特丹公司，前身为 Tom van Soest 与 Ward Massa 创立的 StoneCycling，用废料以及与 Biomason 合作的细菌生物水泥制作建材。 https://www.front-materials.com
 - **GROW Observatory** (1) — 由邓迪大学牵头的欧盟 Horizon 2020 公民科学项目. 欧洲各地种植者放置土壤传感器、校验卫星土壤湿度数据的项目。
 - **Gabe Tavas** (1) — 设计师；伊利诺伊大学. Gabe Tavas 是美国设计师，用康普茶纤维素制成类木材料 Pyrus，入选 2021 年詹姆斯·戴森设计奖国际 20 强。 http://symmetrywood.com
+- **Gabriela Bìlá** (1) — 建筑师、多媒体艺术家；麻省理工学院媒体实验室城市科学组博士研究员. 巴西建筑师，用电影、游戏引擎、实体交互界面和手工艺，与当地艺术家一起想象亚马孙城市的未来；她主持研究计划 Ancestral Urban Futures。
+- **Gabriela Olmos Antillón** (1) — 瑞典农业科学大学（SLU）动物福利研究者. 动物福利科学家，研究奶牛福利，以及农民和顾问如何接纳精准畜牧技术。
 - **Gabrielle Hong** (1) — 悉尼大学设计研究者. Gabrielle Hong 用活苔藓做了一块低分辨率显示屏，喷水时它的样子会改变。
 - **Galy** (1) — 公司. Galy 由 Luciano Bueno 创立，在生物反应器中用植物细胞培养棉纤维。 https://www.galy.co/
 - **Gardens by the Bay** (1) — 国家公园（总体规划 Grant Associates，温室 Wilkinson Eyre）. 新加坡占地 101 公顷的花园公园，拥有人造“超级树”和降温温室。
 - **Garnet Hertz** (1) — 艺术家、设计研究者；Emily Carr 大学设计与媒体艺术加拿大研究讲席. 加拿大艺术家与研究者，以批判性制作、DIY 电子，以及他在 UC Irvine 读研时做的蟑螂驾驶机器人而知名。 http://www.conceptlab.com/
 - **Gavin Munro** (1) — 设计师；Full Grown 联合创始人. Gavin Munro 与 Alice Munro 共同创立 Full Grown，在沃克斯沃斯附近的农场把活树长成椅子、灯和桌子。 https://fullgrown.co.uk/
+- **Geke Ludden** (1) — 特温特大学健康与福祉设计教授. 设计研究者，研究被设计的体验如何支持健康与行为改变。
 - **Genspace** (1) — 社区生物实验室，2009 年成立. Genspace 是第一家向公众开放的社区生物实验室，由 Ellen Jorgensen 等人创立，接纳艺术家、设计师和业余爱好者做生物技术项目。 https://www.genspace.org/
 - **Geocaching HQ (Groundspeak)** (1) — 运营 geocaching.com 的公司. 西雅图公司，自 2000 年起运营主要的地理寻宝平台。
 - **Giancarlo Valentin** (1) — 佐治亚理工学院研究者（FIDO 项目）. 计算机研究者，研究让狗通过手势向人传递信息的交流系统。
@@ -21307,17 +22700,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Greener Games** (1) — 独立工作室（John Carline）. 制作放松型 VR 自然环境的小型工作室。
 - **Greg Marshall** (1) — 海洋生物学家、电影人；在美国国家地理学会发明了 Crittercam. 生物学家，1986 年发明了由动物佩戴的摄像与数据记录装置 Crittercam，并在美国国家地理学会持续开发。
 - **Greg Nijs** (1) — 布鲁塞尔自由大学研究者. 城市研究与公民 HCI 研究者，为市民在城市中的行动制作 DIY 工具。
+- **Gustavo Tironi** (1) — 动物活动识别研究者. 与 Rafael de Pinho André 合作，研究用可穿戴惯性传感器识别狗的活动的机器学习流程。
 - **Güneş-Hélène Isitan** (1) — 生物艺术家与研究者. Güneş-Hélène Isitan 创作互动生物艺术装置，让人通过触摸和电与草履虫等微生物相遇。
 - **HHMI Janelia Research Campus** (1) — 霍华德·休斯医学研究所的神经科学与成像研究园区. Janelia 以果蝇连接组学和开放的神经科学工具著称；Srinivas Turaga 的团队研究果蝇大脑与身体的模型。 https://www.janelia.org/
+- **Hae Young Noh** (1) — 斯坦福大学土木与环境工程系副教授. 把建筑变成传感器的工程师，用地面振动在不使用摄像头或可穿戴设备的情况下追踪人和动物。
 - **Haleh Fotowat** (1) — 神经科学家，任职于哈佛 Wyss 研究所和塔夫茨大学 Allen Discovery Center. Haleh Fotowat 研究神经回路如何产生行为，从斑马鱼的逃逸反应，到与 Michael Levin 合作、在蛙细胞生物机器人体内自组织生长的神经元。
 - **Hang Su** (1) — 设计师；米兰理工大学. Hang Su 是来自米兰理工大学的设计师，项目 Phytosphere 入选绿色产品奖 / 绿色概念奖。
 - **Hanna Wirman** (1) — 游戏研究者，曾任职于香港理工大学，现任职于哥本哈根信息技术大学. 游戏学者，为红毛猩猩设计并研究触屏游戏，追问玩耍能否跨越物种界限。
+- **Haoxiang Zhang** (1) — 设计师与研究者，普瑞特艺术学院. 普瑞特艺术学院的设计师，研究街道和家中的自主机器人应如何在伴侣动物身边行动。
 - **Hasti Valipour Goudarzi** (1) — 独立研究者；De Vinci 研究中心. Hasti Valipour Goudarzi 是设计研究者，研究为土壤无脊椎动物设计的多孔、会腐烂的栖息地。 https://doi.org/10.1017/s2977905726100754
 - **HeHe (Helen Evans & Heiko Hansen)** (1) — 艺术家二人组. 在公共空间让污染与能源消耗可见的艺术家。 http://www.hehe.org/
 - **Heiko Hamann** (1) — 康斯坦茨大学计算机科学教授，flora robotica 项目协调人. 机器人学家，研究群体机器人和机器人-植物生物混合体。
 - **Helen Pynor** (1) — 关注身体、器官与生死边界的艺术家. 澳大利亚艺术家，与器官、组织和医学研究者合作；她与 Peta Clancy 一起在 SymbioticA 和器官移植研究者的支持下完成了 The Body is a Big Place。 http://www.helenpynor.com
 - **Helena Nikonole** (1) — 艺术家、策展人. Helena Nikonole 是新媒体艺术家，创作涉及人工智能、生物艺术和 DIY 生物技术。 https://nikonole.com/
 - **Henk Jonkers** (1) — 代尔夫特理工大学可持续建筑材料教授. 微生物学家 Henk Jonkers 研发了基于细菌的自愈混凝土，由衍生公司 Basilisk 推向市场。 https://basiliskconcrete.com/en/
+- **Henning Larsen** (1) — 建筑事务所. 丹麦建筑与景观事务所。 https://henninglarsen.com/
 - **Herobeat Studios** (1) — 独立游戏工作室. 开发了《Endling: Extinction is Forever》的西班牙工作室。 https://herobeatstudios.com
 - **Het Nieuwe Instituut** (1) — 荷兰国家建筑、设计与数字文化机构. Het Nieuwe Instituut 是一家博物馆兼研究机构，其研究团队（由 Klaas Kuitenbrouwer 领导）提出了 Zoöp 模型。 https://zoop.hetnieuweinstituut.nl/en
 - **Hildegard Westerkamp** (1) — 作曲家、电台艺术家、声音生态学者，World Soundscape Project 成员. 塑造了声景作曲与“声音漫步”实践的作曲家。
@@ -21330,7 +22727,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Hongjie Yang** (1) — 设计师；埃因霍温设计学院毕业. 在荷兰工作的中国设计师，与组织工程研究者合作，制作部分由活体人类细胞构成的物件。 http://www.hongjieyang.com/
 - **Hongyi Zhang** (1) — 西安美术学院工业设计系设计师. 工业设计师，主导了 Meow Meow Call：一个与失聪猫咪交流的原型。
 - **Honoka** (1) — 设计工作室. Honoka 是日本设计工作室，用榻榻米原料蔺草（igusa）复合材料 3D 打印家具。
-- **Hoyoung Youn** (1) — 延世大学设计研究者. 研究服务与系统设计中的后人类中心方法。
+- **Hsin-Yi Lin** (1) — 苏黎世艺术大学（ZHdK）OutLab 设计师. Hsin-Yi Lin 创作交互装置，把植物和真菌的生物电活动转译成光和形态。 https://material.zhdk.ch/
 - **Huacheng Zeng** (1) — 密歇根州立大学计算机科学与工程系副教授. Huacheng Zeng 研究无线网络和射频感知，包括用于追踪蜂箱内昆虫的无电池标签。
 - **Huaynakana Kamatahuara Kana** (1) — 库卡马原住民妇女协会，由 Mari Luz Canaquiri Murayari 领导. 来自秘鲁亚马孙马拉尼翁河流域的库卡马妇女协会，在多次石油泄漏之后为这条河提起自然权利诉讼。协会主席 Mari Luz Canaquiri Murayari 获得 2025 年戈德曼环境奖。 https://www.goldmanprize.org/recipient/mari-luz-canaquiri-murayari/
 - **Hub for Biotechnology in the Built Environment Biodesign Challenge team** (1) — 建成环境生物技术中心（HBBE）学生团队；Biodesign Challenge 2020. 建成环境生物技术中心（HBBE）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://bbe.ac.uk/
@@ -21343,7 +22740,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Ian Cheng** (1) — 艺术家. 美国艺术家，构建人工生物的实时模拟，这些生物在没有剧本的情况下学习、变化和死亡。 http://iancheng.com/
 - **Ida Nilstad Pettersen** (1) — 挪威科技大学设计系副教授. 设计研究者，研究可持续城市发展和设计中的非人参与。
 - **Ilhan Aslan** (1) — 奥尔堡大学计算机科学系副教授（曾在奥格斯堡大学）. 研究身体美学、隐式交互与人-植物界面的 HCI 研究者。
-- **Imageomics Institute** (1) — 美国国家科学基金会资助的图像组学研究所，由俄亥俄州立大学牵头. 图像组学研究所开发能从生物图像（从博物馆标本到红外相机照片）中读取生物性状的机器学习方法。 https://imageomics.osu.edu/
 - **Impossible Foods** (1) — 食品公司，由 Patrick O. Brown 于 2011 年创立. Impossible Foods 认定大豆血红蛋白是让肉有肉味的分子，并用工程化毕赤酵母生产它，用于植物基汉堡。 https://impossiblefoods.com/
 - **Ines Weigand** (1) — 柏林艺术大学设计师与研究者. 从事体验式设计教学，把环境人文学的理论转化为身体经验。
 - **Inferstudio** (1) — 2017 年由 Bethany Edgoose 和 Nathan Su 创立的数字世界构建与调查设计工作室. 工作室制作关于虚构未来的沉浸式影像，也把环境现实做成可视化，主题围绕生态、陆地与海洋景观以及扩展现实。 https://www.inferstudio.com/
@@ -21359,7 +22755,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Ivan Poupyrev** (1) — 交互研究者；曾任职迪士尼研究院与 Google ATAP（Project Soli、Jacquard）. Ivan Poupyrev 发明了 Touché、Botanicus Interacticus、Soli 雷达和 Jacquard 智能织物等感知技术。 http://www.ivanpoupyrev.com/
 - **Ivan Šuković** (1) — 艺术家. Ivan Šuković 是黑山艺术家，作品围绕档案与记忆展开；他是 2025 年威尼斯建筑双年展黑山馆的联合作者。 https://ars.electronica.art/negotiatinghumanity/en/view/terram-intelligere-interstitium-38638ddb450c81b1b219d502e09179f0
 - **Izabela Świca** (1) — 设计师；瓦尔米亚-马祖里大学. Izabela Świca 是波兰设计师，她的藻类-真菌生物肥料胶囊获得 2021 年詹姆斯·戴森设计奖波兰亚军。
-- **J. Lomax Boyd** (1) — 约翰斯·霍普金斯大学伯曼生命伦理研究所助理教授. 神经科学家和生命伦理学家，研究公众和专家如何看待脑类器官与具身生物计算。
+- **Izak Tait** (1) — AI 伦理与机器意识研究者. Izak Tait 研究有意识 AI 的道德地位以及保护它的框架。
 - **Jacqueline T. Chien** (1) — 康奈尔大学 HCI 研究者（Biogotchi! 时期）. Jacqueline T. Chien 通过操控植物生长来显示个人数据，探索把植物当作活的信息显示器。
 - **Jae Rhim Lee** (1) — 艺术家；Coeio 创始人. 韩裔美国艺术家，发起 Infinity Burial Project，并创立 Coeio 生产以蘑菇为基础的安葬服。
 - **Jae-eun Shin** (1) — 延世大学信息研究生院研究者. 以后人类与超越人类理论研究扩展现实。
@@ -21393,7 +22789,9 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Jian Yu** (1) — 西蒙菲莎大学研究者. 设计研究者，研究编织、手工艺和后人类主义设计实践。
 - **Jie Gao** (1) — 京都大学白眉中心及野生动物研究中心研究员. 比较认知研究者，训练灵长类以外的动物（如京都市动物园的家山羊）使用触摸屏。
 - **Jihan Sherman** (1) — 设计师、研究者，佐治亚理工学院数字媒体专业. 数字媒体研究者，主导了 Telling the Bees：一件根据“把家中大事告诉蜜蜂”这一习俗创作的沉浸式作品。
+- **Jill Ashley Okonji** (1) — 维也纳工业大学研究者. 研究与人工智能系统的可持续交互。
 - **Jingwen Zhu** (1) — 康奈尔大学 Hybrid Body Lab 博士研究者. 设计包含活植物、以照料为核心交互的织物与可穿戴设备。
+- **Jinxing Li** (1) — 密歇根州立大学生物医学工程系助理教授. Jinxing Li 的实验室研究柔性生物电子和活体传感器，把细胞与生物同可拉伸电路结合起来。
 - **Jiwon Woo** (1) — 艺术家. 韩国艺术家，用微生物、真菌和发酵探讨身份与传承。
 - **Jixiang Jiang** (1) — 米兰理工大学设计研究者. 研究多元世界（pluriverse）与超越人类设计；与 Shu Zhang、Yizao Wu 一起主导了泉州道教实践与牡蛎礁修复项目 Hokkhi。
 - **Joan Sol Roo** (1) — HCI 研究者（Inria 波尔多 Potioc 团队博士）. 研究空间增强现实与正念。
@@ -21420,9 +22818,13 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Jordan Miller** (1) — 莱斯大学生物工程副教授. Jordan Miller 用开源硬件和软件做水凝胶的光固化打印，包括模仿肺部呼吸的多血管网络。 https://millerlab.rice.edu/
 - **Jorge Luis Siesquén Deza** (1) — 伦敦大学学院设计师与研究者. 设计研究者，把包容性设计扩展到非人类利益相关者。
 - **Joris Laarman** (1) — 设计师；Joris Laarman Lab 创始人、MX3D 联合创始人. 荷兰设计师，以算法生成的家具和机器人金属 3D 打印著称，也做过生物材料实验。 https://www.jorislaarman.com/
+- **Joseph Krahn** (1) — 动物园鸟类福利研究者. 与动物园合作，研究用 RFID 等自动化工具监测鸟舍中鸟类的行为与福利。
 - **Joseph Samuel Johnson** (1) — 信息技术大学研究者. 研究者，为人与野生动物共处协同设计数字系统。
 - **Joycelyn Longdon** (1) — 剑桥大学博士研究者，环境正义技术实践者. 与森林社区一起研究生态声学、人工智能和以正义为导向的保护。
+- **João Machado** (1) — 视觉艺术家、研究者；Meliponário Villa Mandaçaia 创始人. 巴西艺术家，以陶瓷雕塑、声音艺术和生物声学与本土无刺蜂合作；Villa Mandaçaia 陶瓷工作室的联合创始人。
+- **Juan Cortés** (1) — 艺术家、创意技术专家. 哥伦比亚艺术家（生于 1989 年），以装置、声音和计算媒介研究分类系统与技术如何塑造土地、知识和生命系统之间的关系。
 - **Juan Zamora** (1) — 在科学、技术与艺术之间研究植物智能的艺术家. 西班牙艺术家（1982 年生），研究植物与环境的关系以及植物智能引出的哲学问题，常与科学家合作研究生物发光和微生物。
+- **Jucheng Hu** (1) — 多模态 AI 研究者（香港中文大学／伦敦大学学院）. 胡居成（Jucheng Hu）研究面向科学与生物数据的多模态大语言模型。
 - **Judith Antonia Zbanek** (1) — 设计师；德累斯顿应用技术大学. Judith Antonia Zbanek 是来自德累斯顿应用技术大学的设计师，项目 Mycelium & Fiber 入选绿色产品奖 / 绿色概念奖。
 - **Judith Doyle** (1) — 艺术家、电影人，OCAD 大学教授. 从事影像、装置与交互媒体的媒体艺术家。
 - **Jules Litman-Cleper** (1) — 艺术家，Earth-Centered Communication Technology（Earth Tech Net）的创建者. 艺术家，制作实验性作品并提出框架，把计算媒介放回生态演化之中。
@@ -21437,6 +22839,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **K. Cassie Kresnye** (1) — 研究者，印第安纳大学伯明顿分校博士. 人机交互研究者，为救助孤儿负鼠设计了智能栖息箱，并研究野生动物救助中心的志愿者工作。
 - **KBCols Sciences** (1) — 公司. KBCols Sciences 由 Vaishali Kulkarni 创立，用从印度生物多样性中分离的细菌生产天然纺织色素。 https://www.kbcolssciences.com/
 - **Kaito Sakoda** (1) — 公立函馆未来大学研究者. Kaito Sakoda 研究用活体生物进行制作，特别是把黏菌当作绘画和电路的介质。
+- **Kalvin (Ka Kei) Lee** (1) — 游戏设计师、实践型研究者，RMIT 大学. 设计以手势操作的探索型 VR 游戏，关注尺度、能动性与非人类身体。
 - **Kanaka Rajan** (1) — 哈佛医学院神经生物学副教授；Kempner 研究所. Kanaka Rajan 是计算神经科学家，用循环神经网络和多智能体模型研究大脑与动物群体如何产生行为。 https://www.rajanlab.com/
 - **Karen Alim** (1) — 慕尼黑工业大学生物网络理论教授. 物理学家，研究黏菌等生物体内的流动网络如何储存信息、做出决策。
 - **Karen Antorveza** (1) — 建筑师、研究员；苏黎世联邦理工学院数字建筑技术组. Karen Antorveza Paez 在苏黎世联邦理工学院 Benjamin Dillenburger 的数字建筑技术组研究机器人生物胶结。 https://dbt.arch.ethz.ch/project/geological-microbial-formations/
@@ -21448,16 +22851,19 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Kars Alfrink** (1) — 设计师，Hubbub 工作室创始人，代尔夫特理工大学研究者. 游戏设计师，共同创作了 Pig Chase，并研究可质询的人工智能和城市游戏。
 - **Katarina Gessner** (1) — 昆士兰科技大学工业设计专业学生. Katarina Gessner 是昆士兰科技大学工业设计专业学生，她的空气环境 DNA 采样器 Bionest 获得 2026 年 Green Concept Award 编辑选择奖。 https://www.gp-award.com/en/projects/bionest
 - **Kate E. Jones** (1) — 伦敦大学学院生态与生物多样性教授. Kate Jones 研究蝙蝠与生物多样性变化，并开发用于野生动物监测的声学传感网络和 AI。
+- **Katerina Malisova** (1) — 爱琴海大学产品与系统设计工程系博士研究者. 交互设计研究者，开发面向超越人类设计的思辨式共创方法。
 - **Katherine W. Song** (1) — 代尔夫特理工大学 Knowledge and Intelligence Design 助理教授. Katherine W. Song 有电子工程与人机交互背景，研究可持续、可降解的交互设备和电子器件。
 - **Kathy High** (1) — 伦斯勒理工学院视频与新媒体教授. 美国艺术家和教育者，关注活体系统、动物感知和生物技术伦理，在 Sanctuary for Independent Media 主持 NATURE Lab。 https://www.kathyhigh.com
 - **Kati Roover** (1) — 以影像探讨环境变化与“水女性主义”的艺术家. 爱沙尼亚—芬兰艺术家（1982 年生），她诗意的影像作品讨论人类与非人类世界的共存、自然科学、去殖民、神话诗学叙事和水女性主义。
 - **Katia Zolotovsky** (1) — 东北大学艺术与设计系助理教授（兼任化学与化学生物学系），主持生物交互设计实验室（BInD）. 设计师与生物学家，带领一个结合合成生物学、纺织与制造的实验室。
+- **Katta Spiel** (1) — 维也纳工业大学人机交互组助理教授. 人机交互研究者，工作于批判性可及性研究、残障与技术设计的交叉处。
 - **Kavita Gonsalves** (1) — 昆士兰科技大学艺术家、研究者. 艺术家和研究者，从事多物种叙事、位置媒体和去殖民视角的创作。
 - **Kazuhito Takadoi** (1) — 艺术家. 高道一人（Kazuhito Takadoi）是旅英日本艺术家，他亲手种植用于编织雕塑的草、芦苇和枝条，获得 2019 年罗意威基金会工艺奖。 https://www.kazuhitotakadoi.com
 - **Keel Labs (formerly AlgiKnit)** (1) — 生产海带基纱线的材料公司. Keel Labs 原名 AlgiKnit，2017 年由 Tessa Callaghan 和 Aleksandra Gosiewski 创立，用海带中提取的海藻酸盐生产 Kelsun 纱线。 https://www.keellabs.com/
 - **Keer Hu** (1) — 设计师；同济大学设计创意学院. 胡可儿（Keer Hu）是上海的设计师，与袁硕共同设计了蓝藻可穿戴装置 Power Mutualism，获得 2022 年 Biodesign Challenge 杰出科学奖和 2021 年詹姆斯·戴森设计奖中国大陆赛区冠军。
 - **Keili Koppel** (1) — 爱丁堡大学博士研究者. 研究帮助人们注意并关联植物的设计方法。
-- **Kelley Winship** (1) — 美国国家海洋哺乳动物基金会研究科学家. 研究海洋哺乳动物认知，为人工照护下的海豚和海狮开发计算机化丰容。
+- **Keisuke Morishima** (1) — 大阪大学机械工学专业教授. Keisuke Morishima 研究生物混合机器，从细胞驱动的微泵到由机载电子与 AI 引导的赛博昆虫。 https://www-live.mech.eng.osaka-u.ac.jp/en/
+- **Keith Evan Green** (1) — 康奈尔大学以人为中心设计与机械工程教授，主持建筑机器人实验室. 建筑师与人机交互研究者，为照护与身心健康打造可响应的机器人环境。
 - **Kelpi** (1) — 材料公司. Kelpi 是布里斯托的初创公司，研发用于纸张和纸板包装的海藻来源阻隔涂层。 https://www.kelpi.net
 - **Keltex** (1) — 公司. Keltex 是坦桑尼亚企业，把 AI 优化的海藻养殖与生物聚合物提取结合，制作皮革替代品。 https://keltexleather.com
 - **Ken Goldberg** (1) — 机器人学者、艺术家；加州大学伯克利分校教授. 机器人研究者与艺术家，90 年代中期开创了互联网遥控机器人，包括与 Joseph Santarromana 合作的 The Telegarden。 https://goldberg.berkeley.edu/
@@ -21465,6 +22871,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Kening Zhu** (1) — 香港城市大学创意媒体学院副教授. 人机交互研究者，研究实体、触觉和可穿戴界面；他的团队共同设计了 Bondi——一件陪伴宠物逝去后主人的实体装置。
 - **Kenjiro Fukuda** (1) — 日本理化学研究所（RIKEN）薄膜器件实验室资深研究员. 工程师，开发超薄有机太阳能电池和电子器件，可贴在皮肤、植物和昆虫身上。
 - **Kenneth S. Kosik** (1) — 加州大学圣塔芭芭拉分校神经科学教授. 神经科学家，他的实验室用高密度 CMOS 微电极阵列记录人类脑类器官，绘制其神经回路和振荡。
+- **Kenny Q. Zhu** (1) — 得克萨斯大学阿灵顿分校计算机科学教授. 朱其立（Kenny Q. Zhu）是自然语言处理研究者，现在把 NLP 方法用于狗、鸦科鸟类等动物的发声。
 - **Kent State University Biodesign Challenge team** (1) — 肯特州立大学学生团队；Biodesign Challenge 2020. 肯特州立大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Keri Facer** (1) — 布里斯托大学教育与社会未来教授，曾任 Futurelab 研究主任. 教育研究者，在 Futurelab 主导了早期移动学习实验。
 - **Kevin Blackistone** (1) — 艺术家与研究者，林茨艺术设计大学. Kevin Blackistone 创作把活体微生物培养与机器人和自动成像结合起来的装置。
@@ -21478,13 +22885,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Koniku** (1) — 用活体神经元制造气味传感器的湿件初创公司. Koniku 由 Oshiorenoya Agabi 于 2015 年创立，把带有嗅觉受体的工程神经元与硅结合，用于检测爆炸物和疾病。 https://koniku.com
 - **Korey Wetherell** (1) — 拉彭兰塔-拉赫蒂理工大学研究者. 设计研究者，关注再生性生态设计与多元知识方式。
 - **Kristel Peters** (1) — 鞋类设计师；Studio COJAK. 比利时鞋类设计师，为 Officina Corpuscoli 的 Fungal Futures 展用真菌菌丝体长出鞋子原型。 https://www.cojak.be/
+- **Kristin Andrews** (1) — 约克大学哲学教授，动物心智约克研究讲席. Kristin Andrews 是动物认知哲学家，研究常识心理学、动物伦理以及动物意识的科学。
 - **Kristine Samson** (1) — 罗斯基勒大学副教授. 城市设计与表演性城市研究者，研究城市自然和设计中的“行星”思维。
 - **Kuang-Yi Ku** (1) — 生物艺术家，受过牙医训练. 台湾生物艺术家和研究者，用生物技术和思辨性解剖学探讨酷儿性与身体。
-- **Kunal Masania** (1) — 代尔夫特理工大学航空结构与材料副教授，Shaping Matter Lab. Kunal Masania 设计会生长的可打印材料体系，包括接种蓝细菌、在光合作用同时矿化碳的水凝胶结构。 https://www.shapingmatterlab.org/
 - **Kyeongho Park** (1) — 设计师；汉阳大学 ERICA 校区. 朴庆浩是韩国设计师，与许艺珍共同设计了可溶解的海藻酸盐包装 Zero Bag，获 2023 年雷克萨斯设计奖。
 - **Kyran Knauf** (1) — 设计师；埃因霍温设计学院. Kyran Knauf 是设计师，他的家用蟋蟀养殖机 Crikorama 获得 2024 年詹姆斯·戴森设计奖荷兰冠军。 http://kyranknauf.com
 - **Laela Sayigh** (1) — 伍兹霍尔海洋研究所研究专家；萨拉索塔海豚研究项目. Laela Sayigh 研究萨拉索塔湾宽吻海豚群体的签名哨声已超过 35 年。 https://www.whoi.edu
 - **LanzaTech** (1) — 公司. LanzaTech 由 Jennifer Holmgren 领导，利用气体发酵细菌把工业废气转化为乙醇和化学品。 https://lanzatech.com/
+- **Lars Dittrich** (1) — 设计师与研究者，布鲁塞尔自由大学（VUB）. VUB 的设计师，为服装和鞋履培育纯菌丝体材料，与布鲁塞尔皇家铸币局歌剧院（La Monnaie / De Munt）的服装工坊合作。
 - **Laura Cinti** (1) — 艺术家和研究者，C-LAB 联合创始人. 在艺术、生物学和技术交界处工作的艺术家，与活植物和保护科学合作。
 - **Laura Colmenares Guerra** (1) — 从事装置、虚拟现实和 3D 打印陶瓷的艺术家. 哥伦比亚艺术家，把环境与地形数据转化为沉浸式、传感驱动的作品，讨论生命生态系统、领土与开采主义。她的“河流三部曲”（2018–2024）沿着河流穿越亚马孙流域。 https://ulara.org/
 - **Laura Grebenstein** (1) — 埃尔朗根-纽伦堡大学研究者（分子通信）. Laura Grebenstein 搭建微尺度的分子通信实验平台，用工程改造的细菌把光信号转换为化学信号。
@@ -21496,9 +22904,12 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Leonard Adleman** (1) — 南加州大学计算机科学教授. 计算机科学家，RSA 加密算法的共同发明人，DNA 计算的开创者。
 - **Leonardo Angelini** (1) — 瑞士西部应用科学大学（HES-SO）弗里堡校区教授. Leonardo Angelini 为老年人和日常物件设计实体交互界面。
 - **Leonardo Hummel** (1) — 华盛顿大学设计师与研究者. Leonardo Hummel 开发了 SeaWeaver：用手工编织的金属形体建造人工鱼礁的方法。
+- **Leonel Vásquez** (1) — 视觉与声音艺术家. 哥伦比亚声音艺术家，与家人一起在苏马帕斯高原荒原经营一座致力于水源保护的高山聆听站，并为河流和湿地建造聆听建筑。
 - **Lianne Toussaint** (1) — ArtEZ 艺术大学研究者与讲师. 时尚与设计研究者，关注生物设计、可穿戴和以生态为中心的服装方法。
+- **Lichi Hsu** (1) — 设计师；4TU.Design United 研究者. 在荷兰工作的设计师，作品横跨材料探索与数字制造，入选 2026 荷兰设计周 4TU.Design United 的 Design Bridges 展。 https://liki17.com/
 - **Lieske Schreuder** (1) — 设计师. Lieske Schreuder 是荷兰设计师，给花园蜗牛喂彩色纸，用它们的粪便制成类似油毡的材料。
 - **Light Bio** (1) — 销售生物发光植物的合成生物学公司，2019 年成立. Light Bio 开发了 Firefly Petunia：携带真菌发光通路、可持续发光的矮牵牛，2024 年起在美国面向家庭销售。 https://light.bio/
+- **Lik-Hang Lee** (1) — 香港理工大学助理教授. 人机交互研究者，研究扩展现实、元宇宙与人体增强。
 - **Lilian van Daal** (1) — 设计师；Studio Lilian van Daal 创始人. Lilian van Daal 是荷兰设计师，研究仿生和生物基材料，作品从仿植物结构的 3D 打印座椅到由细菌长出的颜色。 https://www.lilianvandaal.com/
 - **Liliana E. Caughman** (1) — 亚利桑那州立大学研究者. 研究水资源治理、可持续性和公民聊天机器人。
 - **Linas Kristupas Gabrielaitis** (1) — 坦佩雷大学研究者. 游戏与设计研究者，研究与真菌等活的、不可预测的伙伴一起玩耍。
@@ -21518,6 +22929,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Luca Alessandrini** (1) — 设计师；皇家艺术学院. Luca Alessandrini 是设计师，用蚕丝和蛛丝复合材料制作了小提琴。
 - **Luca Ciampi** (1) — 意大利国家研究委员会比萨信息科学与技术研究所研究员. Luca Ciampi 研究计算机视觉，以及在高密度电极阵列上用培养的皮层神经元进行生物储备池计算。
 - **Lucas Ogasawara de Oliveira** (1) — 庆应义塾大学媒体设计研究科研究者. 设计研究者，结合媒介考古学与超越人类设计，以日本水俣为研究案例。
+- **Lucy Asher** (1) — 纽卡斯尔大学动物行为学教授. 动物行为学家，用传感器与数据分析研究农场动物和伴侣动物的福利。
 - **Lucy Hughes** (1) — 产品设计师，MarinaTex 创始人. Lucy Hughes 在萨塞克斯大学的毕业设计中开发了 MarinaTex，并凭此获得 2019 年詹姆斯·戴森设计奖。 https://marinatex.co.uk
 - **Luis Ceze** (1) — 华盛顿大学计算机科学与工程教授，MISL 共同负责人. 计算机体系结构学者，共同领导 DNA 存储与计算研究。
 - **Lynette Wallworth** (1) — 艺术家与电影人. 澳大利亚艺术家，与社区合作创作《Collisions》《Awavena》等沉浸式作品。
@@ -21549,14 +22961,18 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Martin Kaltenbrunner** (1) — 林茨约翰·开普勒大学软物质物理系教授. 物理学家，研究柔软、可拉伸、可降解的电子器件和机器人。 https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
 - **Martin Pumera** (1) — 布拉格化工大学先进功能纳米机器人中心主任. Martin Pumera 的团队研制微型与纳米机器人，包括用趋磁细菌做成、用于净化水体的生物机器人。
 - **Martin Wikelski** (1) — 马克斯·普朗克动物行为研究所所长. 鸟类学家，领导 ICARUS 和 Movebank 这两个从太空追踪小型动物的全球系统。
+- **Martín Ávila** (1) — 瑞典国立艺术与设计大学（Konstfack）设计教授. 设计师与研究者，研究多物种共居设计与人造物的生态。
+- **Marília Lyra Bergamo** (1) — 纽卡斯尔大学（澳大利亚）研究者与艺术家. 从事人工生命、机器人与参与式设计的艺术家研究者。
 - **Masashi Soga** (1) — 东京大学农学生命科学研究科副教授. 保护生态学家，研究人与自然的直接接触为何、以及如何在减少。
 - **Mathilde Gouin** (1) — 里斯本大学 / ITI-LARSyS 设计研究者. 设计与其他物种进行多感官相遇的可穿戴设备。
 - **Matilde Boelhouwer** (1) — 设计师，Atelier Boelhouwer 创始人. 荷兰设计师，为昆虫设计产品，代表作是为城市传粉者做的人造花。 https://www.matildeboelhouwer.com
 - **Matthew H. E. M. Browning** (1) — 克莱姆森大学公园、休闲与旅游管理系副教授，Virtual Reality & Nature Lab 主任. 环境健康研究者，比较虚拟自然与真实自然的效果。
 - **Matthijs Munnik** (1) — 艺术家. 荷兰艺术家，创作关于感知、光与生命系统的视听装置。
+- **Mattia Gazzola** (1) — 伊利诺伊大学厄巴纳-香槟分校机械科学与工程系教授. Mattia Gazzola 领导一个实验室，研究并构建柔软的、活的和生物混合的系统，从肌肉驱动的小机器人到用活体神经培养物做计算。 https://gazzola.mechse.illinois.edu/
 - **Maurizio Vrenna** (1) — 设计师；都灵理工大学. Maurizio Vrenna 是意大利设计师，设计了家用螺旋藻生物反应器 The Algae Grower。
 - **Max Rheiner** (1) — 媒体艺术家；Birdly 创作者；Somniacs 创始人. 瑞士交互设计师，2013–14 年在苏黎世艺术大学制作全身飞行模拟器 Birdly，之后创立 Somniacs 公司生产它。
 - **Maxim Velli** (1) — 生物设计师；丹麦技术大学 Biosustain 中心. Maxim Velli 主导了 KojiGotchi 的概念和生物实验，该项目与 Rasmus Tofthøj、Tania Safa、Taylor Rayne 和 Mark Torochkin 在丹麦技术大学 Biosustain 中心和丹麦皇家艺术学院共同开发。 https://ddw.nl/en/programme/kojigotchi-a-tamagotchi-for-the-microbial-age-1
+- **Mayalen Etcheverry** (1) — 研究人工生命与自组织的研究科学家. Mayalen Etcheverry 在 Inria Flowers 团队完成博士研究，主题是在 Lenia 等自组织系统中进行好奇心驱动的发现，现与 Google 的 Paradigms of Intelligence 团队合作。
 - **McGill University Biodesign Challenge team** (1) — 麦吉尔大学学生团队；Biodesign Challenge 2024–2025. 麦吉尔大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Megan Verdon** (1) — 塔斯马尼亚大学塔斯马尼亚农业研究所动物福利科学家. 研究奶牛行为与福利，主持过多项放牧牛群虚拟围栏的重要试验。
 - **Melanie Ford** (1) — 灵长类丰容研究者，埃克塞特大学硕士. 研究者，为两只圈养合趾猿引入平板电脑，并用视频记录它们的选择。
@@ -21575,8 +22991,8 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Michaela Honauer** (1) — 电子纺织与儿童交互方向的设计研究者. 研究用于游戏、表演和学习的可穿戴与纺织界面。
 - **Michela Chiappalone** (1) — 热那亚大学生物工程副教授，曾任职于意大利技术研究院. 生物工程师，把模块化的神经元培养物接入闭环机器人导航任务。
 - **Michelle Chang** (1) — 卡内基梅隆大学设计研究者（论文发表时）. 研究植物如何作为活的伙伴参与交互设计。
+- **Michelle Spierings** (1) — 莱顿大学生物研究所助理教授. 认知生物学家，研究鸟类的节奏、发声学习与模式感知。
 - **Michi Kanda** (1) — 庆应义塾大学媒体设计研究科研究者. Michi Kanda 设计了一盆植物：它的补光灯由主人的眨眼疲劳数据控制。
-- **Mickey Pardo** (1) — 行为生态学家；康奈尔大学与科罗拉多州立大学博士后研究员. Mickey Pardo 研究大象的声音交流，主导了“非洲象用类似名字的叫声彼此称呼”的研究。
 - **MicroBuild Masonry (Adrian Simone & Rania Al-Sheikhly)** (1) — 学生创业团队. Adrian Simone 与 Rania Al-Sheikhly 研发了由细菌黏结的砌块 Bio-Brick，获 2022 年詹姆斯·戴森设计奖加拿大亚军。 http://microbuildmasonry.com
 - **Microbeworks** (1) — 公司. Microbeworks 是印度初创公司，其 MicroBlue 染料通过微生物发酵生产，可直接用于现有染色设备。 https://www.microbeworksscientific.com/
 - **Mike Thompson** (1) — 设计师. Mike Thompson 是一位设计师，创作关于能源和日常生活的思辨产品。
@@ -21585,9 +23001,11 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Miles Richardson** (1) — 德比大学人因与自然联结教授. 心理学家，领导自然联结研究组，设计诸如“每天记下自然中的三件好事”这类简单干预。
 - **Milo Dool** (1) — 设计师. Milo Dool 是荷兰设计师，他的吊灯使用被白腐真菌改变过的山毛榉木。 http://milodool.nl
 - **Mirjana Erceg** (1) — 奥尔堡大学哥本哈根校区研究者. 研究者，设计了一套生物声学系统，在北大西洋露脊鲸靠近时向船只发出警告。
+- **Mitchell Whitelaw** (1) — 澳大利亚国立大学艺术与设计学院设计师与研究者. 设计师与研究者，以为文化与环境数据设计“慷慨界面”而闻名。 https://mtchl.net/
 - **Modern Meadow** (1) — 生产蛋白质基材料的生物制造公司. Modern Meadow 由 Andras Forgacs 创立，用发酵生产的蛋白质开发类皮革材料。 https://www.modernmeadow.com/
 - **Modern Synthesis** (1) — 生物材料公司，由 Jen Keane 与 Ben Reeve 于 2020 年创立. Modern Synthesis 用 Komagataeibacter 细菌在纺织支架上生长纳米纤维素，做出结构由支架决定的皮革替代材料。 https://www.modernsynthesis.com/
 - **Mogu** (1) — 生产菌丝体室内产品的意大利公司. Mogu 于 2015 年与设计师 Maurizio Montalti 共同创立，用真菌菌丝体和纺织或农业残料生长出吸音板和地砖。 https://mogu.bio/
+- **Mohamed Elhoseiny** (1) — 阿卜杜拉国王科技大学（KAUST）计算机科学副教授，Vision-CAIR 组. Mohamed Elhoseiny 研究视觉-语言模型、零样本学习以及面向海洋生物多样性的 AI。
 - **Mohammed A. Mostajo-Radji** (1) — 加州大学圣克鲁兹分校基因组研究所副研究科学家，Braingeneers 成员. Mohammed Mostajo-Radji 研究皮层类器官、可远程访问的“云端”神经科学实验室，以及用类器官开展科学教育，是 Braingeneers 团队成员。
 - **Moholy-Nagy University of Art and Design Biodesign Challenge team** (1) — 莫霍利-纳吉艺术与设计大学（MOME）学生团队；Biodesign Challenge 2024–2025. 莫霍利-纳吉艺术与设计大学（MOME）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Molecular Information Systems Lab (MISL)** (1) — 华盛顿大学与微软研究院联合实验室. 构建 DNA 数据存储和分子计算系统的实验室，从随机读取到全自动存储。 https://misl.cs.washington.edu/
@@ -21603,6 +23021,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Morris County School of Technology Biodesign Challenge team** (1) — Morris County 技术学校学生团队；Biodesign Challenge 2026. Morris County 技术学校的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。一支来自新泽西州的高中团队，成员来自生物技术学院和设计学院。 https://www.biodesignchallenge.org/
 - **Mosquito Alert** (1) — 由 CEAB-CSIC、CREAF、UPF 与 ICREA 合作的公民科学项目. 西班牙项目，通过手机上报追踪入侵性、传播疾病的蚊子。
 - **Mu Design** (1) — 产品设计工作室. 设计了带表情的花盆 Lua 的卢森堡工作室。
+- **Mush Composites** (1) — 菌丝体表面材料制造商. 泰国公司，用菌丝体和农业副产品长出类石材的建筑板材与瓷砖，正在拓展到香港。
 - **Mycomerge team (Mai Thi Nguyen & Daniela Solueva)** (1) — 设计师；斯图加特大学. Mycomerge team (Mai Thi Nguyen & Daniela Solueva) 是来自斯图加特大学的设计师，项目 Mycomerge 入选绿色产品奖 / 绿色概念奖。
 - **Mélissa Berthet** (1) — 苏黎世大学比较语言科学系研究员. Mélissa Berthet 用形式语义学方法研究灵长类叫声中的意义和句法。
 - **NSF NOIRLab (Globe at Night)** (1) — 美国国家光学-红外天文中心. 运营 Globe at Night 光污染观测活动的天文中心。
@@ -21643,18 +23062,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Ning Gao** (1) — 江南大学研究者. 设计研究者，用超越人类设计理论解读中国建筑遗产。
 - **Nita A. Farahany** (1) — 杜克大学法学与哲学教授. 研究神经技术的法学学者和伦理学家，2018 年在《自然》上牵头呼吁为人脑组织、类器官和嵌合体实验制定伦理规则。 https://law.duke.edu/fac/farahany
 - **Nitzan Toren** (1) — 设计师. Nitzan Toren 是埃因霍温的设计师，把本地过度生长的植物（如运河浮萍）做成生物复合材料物件。 https://ddw.nl/en/programme/illuminated-overgrowth
+- **Nivedita Arora** (1) — 西北大学电气与计算机工程系助理教授. Nivedita Arora 设计低成本、可持续的传感系统，从自供能纸质界面到植物科学的野外工具。 https://www.niveditaarora.com/
 - **Nomeda & Gediminas Urbonas** (1) — 艺术家二人组；Gediminas Urbonas 为 MIT 教授. Nomeda 和 Gediminas Urbonas 长期开展关于沼泽、河流与公共资源的项目，包括 2018 年威尼斯双年展的 Swamp School。
 - **Nordic Society for Invention and Discovery** (1) — 瑞典的设计与发明工作室. 通过众筹推出 No More Woof 的工作室，这是一款宣称能把狗的想法翻译成人话的思辨性脑电头戴设备。
 - **Northeastern University Biodesign Challenge team** (1) — 东北大学（美国）学生团队；Biodesign Challenge 2025. 东北大学（美国）的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **Northumbria University Biodesign Challenge team** (1) — 诺森比亚大学学生团队；Biodesign Challenge 2026. 诺森比亚大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。传播设计专业学生，与该校 Living Construction 团队的生物技术人员合作。 https://www.biodesignchallenge.org/
 - **Novameat** (1) — 由 Giuseppe Scionti 于 2018 年创立的食品科技公司. Novameat 用改自组织工程的打印机，把植物蛋白挤出成模仿肌肉各向异性纹理的微纤维束。 https://novameat.com/
 - **Novya Biotech** (1) — 发酵色素初创公司（2026 年成立）. Novya Biotech 由 Carina Nieuwenweg、Poorva Shrivastava 和 Carlijn Barendregt 于 2026 年创立，用工程酵母发酵生产纺织色素，首个颜色是蓝紫色。 https://ddw.nl/en/programme/novya-biotech-1
+- **Nuno Jardim Nunes** (1) — 里斯本大学高等理工学院教授，ITI/LARSyS. Nuno Jardim Nunes 是人机交互研究者，关注可持续性、海洋与超越人类的交互。
 - **O-GA team (Silpakorn University)** (1) — 学生设计团队. Sorrawitch Upcha 等人设计了面向可再生能源乡村的藻类培养装置 O-GA，获 2023 年詹姆斯·戴森设计奖泰国冠军。
 - **OFlow team (Shawn Navarednam, Kai Jie Chow, Frederick Wong)** (1) — 学生工程团队. Shawn Navarednam、Kai Jie Chow 与 Frederick Wong 设计了用细菌生物膜过滤微塑料的 OFlow，获 2020 年詹姆斯·戴森设计奖英国亚军。
 - **ORLAN** (1) — 以表演、外科手术和生物技术创作的艺术家. ORLAN 是法国艺术家，以 1990 年代的外科手术表演闻名，后来转向细胞培养和生物技术创作。 https://www.orlan.eu
 - **Ocean Alliance** (1) — 由 Roger Payne 于 1971 年创立的鲸类研究与保护非营利组织；现由 Iain Kerr 领导. Ocean Alliance 用非侵入式工具研究鲸，从长期远洋考察到收集鲸鱼呼气的无人机。 https://whale.org
 - **Olga Kisseleva** (1) — 艺术家；巴黎第一大学（索邦）教授. Olga Kisseleva 是出生于俄罗斯的法国艺术家，长期与科学家合作研究树木、植物和生态数据，代表作是持续多年的 EDEN 项目。 https://www.kisseleva.org/
 - **Oliver Bendel** (1) — 瑞士西北应用科技大学商学院信息伦理与机器伦理教授. 哲学家、信息科学家，设计对动物友好的机器，以及能读取动物肢体语言的人工智能应用。
+- **Olivia Brunet** (1) — 图卢兹大学 IRIT 与 CNRS 理论与实验生态站博士研究者. 在多模态计算与生态学之间工作，研究如何测量人与自然的联结感。
 - **Olivia Seow** (1) — MIT 媒体实验室设计师与研究者（Pudica 时期）. Olivia Seow 提出了 Pudica：以含羞草为核心的植物界面设计框架。
 - **Olivier Cotsaftis** (1) — 研究再生性设计与关系性设计的设计研究者与教育者. 研究语言、思辨唯物主义，以及设计者如何定位自己与自然的关系。
 - **Omlab** (1) — 设计工作室. Omlab 是荷兰的设计工作室，设计包容自然的建筑产品，例如 3D 打印的燕子“入门住宅”。 https://omlab.nl
@@ -21663,6 +23085,8 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Orangutan Outreach** (1) — 红毛猩猩保护非营利组织. 运营 Apps for Apes 项目的非营利组织，向动物园捐赠 iPad 用于红毛猩猩丰容。
 - **Organovo** (1) — 生物打印公司，2007 年基于 Gabor Forgacs 的组织自组装研究成立. Organovo 是第一家上市的生物打印公司，销售 NovoGen 打印机，并打印用于药物测试的人类肝脏与肾脏组织。 https://organovo.com/
 - **Ori Elisar** (1) — 设计师，毕业于 Bezalel 艺术与设计学院. 视觉传达设计师，曾在特拉维夫大学 Eshel Ben-Jacob 实验室接受微生物学训练，并学习希伯来语言学。 https://orielisar.com
+- **Otobong Nkanga** (1) — 艺术家. 出生于尼日利亚的艺术家，用绘画、挂毯、装置和表演追踪土地、矿物、植物与身体如何被开采与照料联结在一起。 https://www.labiennale.org/en/art/2026/otobong-nkanga
+- **PEARCE+** (1) — 建筑与建造工作室. 使用回收与在地材料进行设计和建造的工作室。
 - **PLSTC** (1) — 公司. PLSTC（Fashion to Food）是澳大利亚团队，改造细菌来把涤纶纺织废料消化成可食用的生物质。 https://fashiontofood.com/
 - **Paola Torres Núñez del Prado** (1) — 艺术家. Paola Torres Núñez del Prado 是秘鲁艺术家，结合纺织、声音与技术，并借鉴安第斯知识体系。 https://www.singingtextiles.com
 - **Paolina Kühr** (1) — 设计师；Elisava 设计学院. Paolina Kühr 是来自Elisava 设计学院的设计师，项目 Sea Glass 入选绿色产品奖 / 绿色概念奖。
@@ -21674,7 +23098,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Patricia (Tricia) Flanagan** (1) — 可穿戴艺术的艺术家、设计师与研究者；Wearables Lab 创始人. 制作“cyborganic”可穿戴装置，把竹子、天然纤维和电子元件结合成义肢式的感官。 https://triciaflanagan.com
 - **Patricia Ciobanu** (1) — 斯德哥尔摩大学计算机与系统科学系交互设计研究者. 用设计研究和自传式设计研究后人类交互中的时间与自然。
 - **Patricia Domínguez** (1) — 艺术家. 智利艺术家，装置作品把民族植物学、疗愈实践与数字媒体结合，质疑与植物之间的殖民关系。
-- **Patrick Butlin** (1) — 心灵哲学研究者；Eleos AI Research 研究员. Patrick Butlin 研究能动性、意识以及 AI 系统的道德地位。
 - **Paul & Garrett Sutherlin Santo** (1) — 设计工作室. Paul 与 Garrett Sutherlin Santo 是设计师，把天然生物聚合物与数字制造结合；他们的 Biocraft 入围 2020 年雷克萨斯设计奖。 https://sutherlinsanto.com/
 - **Paul Rosero Contreras** (1) — 从事思辨实在论、科学与生物材料的多媒体艺术家. 厄瓜多尔艺术家（1982 年生），把原住民思想、科学史与虚构交织在一起，并自行开发菌丝体、生物塑料等实验性生物材料，创作关于物种间互惠的装置。
 - **Paul Rothemund** (1) — 加州理工学院生物工程、计算与数学科学、计算与神经系统研究教授. 计算机科学家，发明了 DNA 折纸：用短的“订书钉”链把一条长 DNA 折成任意二维形状。
@@ -21692,6 +23115,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Peter Washington** (1) — 斯坦福大学 Riedel-Kruse 实验室研究者（当时）. Peter Washington 开发了 JavaScript API 和在线编程环境，让人通过远程显微镜用活的眼虫编写游戏与实验。
 - **Petra Jääskeläinen** (1) — 瑞典皇家理工学院媒体技术与交互设计系研究者. 研究创意 AI、其环境影响，以及关于创造力的超越人类视角。
 - **Petra Lilja** (1) — 瑞典国立艺术与设计大学（Konstfack）设计师与研究者. 瑞典设计师，实践从产品设计转向多物种共存。
+- **Phil Ayres** (1) — 丹麦皇家艺术学院 CITA（信息技术与建筑中心）教授；FUNGATERIA 项目协调人. 建筑师与研究者，研究生物混合建筑和生长材料，包括基于菌丝体的工程活体材料。 https://royaldanishacademy.com/en/node/6147
 - **Philip Beesley** (1) — 建筑师、艺术家；滑铁卢大学教授；Living Architecture Systems Group 负责人. Philip Beesley 建造沉浸式响应环境，让它们像“近乎活着”的系统一样运作。 https://www.philipbeesleystudioinc.com
 - **Philip Kurian** (1) — 霍华德大学量子生物学实验室创始主任. Philip Kurian 领导霍华德大学量子生物学实验室，研究生命系统处理信息的物理极限。 https://www.quantumbiolab.com/
 - **Philip Potthast** (1) — 设计师；柏林应用技术大学. Philip Potthast 是德国设计师，他以蜜蜂为中心设计的蜂箱 HIIVE 入选 2021 年詹姆斯·戴森设计奖国际 20 强。 https://www.hiive.eu
@@ -21720,6 +23144,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Prometheus Materials** (1) — 生产微藻生物水泥的初创公司. Prometheus Materials 从科罗拉多大学博尔德分校衍生，用会生物矿化的蓝藻制造生物水泥，并与 SOM 一起测试了砌块。 https://prometheusmaterials.com/
 - **Prophecy Sun** (1) — 艺术家、表演者与研究者；西蒙菲莎大学交互艺术与技术学院博士. 创作关于母性身体、生态与超越人类关系的声音、表演和装置作品。 https://prophecysun.com
 - **Public Lab** (1) — 开放技术与科学公共实验室. 开发低成本环境调查工具的社群。
+- **Pulkit Agrawal** (1) — 麻省理工学院电子工程与计算机科学系副教授，Improbable AI 实验室主任. Pulkit Agrawal 研究机器人学习、好奇心驱动的探索以及从非语言数据中学习。
 - **Qingyu Zhang** (1) — 同济大学设计研究者. 研究生态声景与多物种民族志。
 - **Qiuyu Lu** (1) — Morphing Matter Lab 博士研究者（卡内基梅隆大学 / 加州大学伯克利分校）. Qiuyu Lu 设计面向植物的传感器和形变材料，包括一张能读取植物吐水液滴的可穿戴纸芯片。
 - **RMIT University Biodesign Challenge team** (1) — 皇家墨尔本理工大学学生团队；Biodesign Challenge 2019–2020. 皇家墨尔本理工大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Ollie Cotsaftis。 https://www.biodesignchallenge.org/
@@ -21733,16 +23158,17 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Rasa Weber** (1) — 设计师与研究者，任职于苏黎世艺术大学（Interfacing the Ocean 项目）和柏林卓越集群 Matters of Activity. Rasa Weber 与海洋生物学家合作设计人工礁体结构和水下栖息地，在博士项目 Symbiocean 中于地中海和加勒比海测试原型。
 - **Raul Pereira Pinto** (1) — 阿威罗大学设计研究者. Raul Pereira Pinto 研究由蜜蜂作为设计中的创作主体所筑造的物件。
 - **Redefine Meat** (1) — 替代肉公司，2018 年成立. Redefine Meat 把植物基整块肉的打印做到工业规模，同时打印肌肉、脂肪和血液的替代物。 https://www.redefinemeat.com/
+- **Rehkitzrettung Schweiz** (1) — 瑞士志愿者协会，用热成像无人机救护狍子幼崽. 志愿者网络：在割草前用带热成像相机的无人机扫过草地，把藏在草里的小狍子抱到安全处；2026 年约 800 支队伍搜索了 7.3 万公顷草地。 https://www.rehkitzrettung.ch
 - **Ren Ri** (1) — 艺术家、养蜂人. 中国艺术家（生于 1984 年），通过引导蜂群在框架和亚克力盒中筑巢来制作蜂蜡雕塑。
 - **Resorts World Sentosa** (1) — 位于圣淘沙岛的综合度假村，运营 S.E.A. 海洋馆. 旅游休闲公司，其 S.E.A. 海洋馆是世界上最大的公共水族馆之一。 https://www.rwsentosa.com
 - **Resting Reef (Louise Skajem & Aura Murillo)** (1) — 设计双人组，皇家艺术学院. Louise Skajem 与 Aura Murillo 创立了 Resting Reef——一种以人工礁为载体的海葬服务。
 - **Riccardo Levato** (1) — 乌特勒支大学与 UMC Utrecht 再生医学与生物制造教授. Riccardo Levato 研究基于光的生物制造，包括把光图案投射进旋转树脂、数秒内成形含细胞整体的体积打印。 https://www.levatolab.com/
+- **Richard Hahnloser** (1) — 苏黎世大学与苏黎世联邦理工学院神经信息学研究所教授. Richard Hahnloser 研究斑胸草雀如何学习和使用鸣唱，结合神经记录、体表传感器与机器学习。
 - **Richard Louv** (1) — 记者、作家，Children & Nature Network 联合创始人. 关注儿童、自然与技术的作家。
 - **Rick Bonney** (1) — 康奈尔鸟类学实验室公众科学参与部荣休主任. 康奈尔鸟类学实验室鸟类公众参与项目的开创者。
 - **Riel Bessai** (1) — 代尔夫特理工大学工业设计工程学院设计研究者. Riel Bessai 研究循环设计与超越人类的设计，其中包括一座顺应当地生态系统节律的音乐节舞台。
 - **Riku Iwasaki** (1) — 筑波大学 Digital Nature Group 研究者. Riku Iwasaki 开发了 Silk fabricator：引导蚕在计算机设计的形体上吐出平面丝片。
 - **Rimini Protokoll** (1) — 剧场团体（Helgard Haug、Stefan Kaegi、Daniel Wetzel）. Rimini Protokoll 是以纪实和参与式作品闻名的剧场团体；《Holy Shit》由 Stefan Kaegi 与 Caroline Barneaud 创作。 https://www.rimini-protokoll.de
-- **Ritu Raman** (1) — 麻省理工学院机械工程助理教授. 工程师，用活的肌肉和神经组织制造会适应的机器，也撰写关于生物制造的书。
 - **Rob Shepherd** (1) — 康奈尔大学机械与航空航天工程学院教员，有机机器人实验室主任. 机器人学家，研究软体机器人、传感皮肤，以及由生物系统驱动或控制的机器人。 https://orl.mae.cornell.edu/
 - **Roba Alfraih** (1) — 建筑设计师，伦敦大学学院. Roba Alfraih 是伦敦大学学院的建筑设计师，开发了能让光合生物在立面上生长的多孔废玻璃支架。 https://doi.org/10.1017/s297790572610081x
 - **Robert College of Istanbul Biodesign Challenge team** (1) — 伊斯坦布尔罗伯特学院学生团队；Biodesign Challenge 2025. 伊斯坦布尔罗伯特学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
@@ -21751,9 +23177,11 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Robert Macfarlane** (1) — 作家；剑桥大学文学与环境人文学教授. 英国自然文学作家，著有《古道》《深时之旅》和《河流是活的吗？》等书，探讨风景、语言与生命世界。
 - **Robert Root-Bernstein** (1) — 密歇根州立大学生理学教授. 美国生理学家，研究生命起源、创造力以及艺术与科学的关联；长期与 Adam W. Brown 合作。
 - **Robert Soden** (1) — 多伦多大学计算机科学系与环境学院助理教授. 人机交互与科学技术研究（STS）学者，研究气候、灾害风险与环境数据。
+- **Robert Sparrow** (1) — 莫纳什大学哲学教授. 技术哲学家，撰写机器人伦理研究，包括机器人宠物和农业自动化。
 - **Robeson High School + Aula Future + FirstHand Biodesign Challenge team** (1) — Robeson 高中 + Aula Future + FirstHand学生团队；Biodesign Challenge 2022–2023. Robeson 高中 + Aula Future + FirstHand的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Genefer Baxter 与 Marco Locatelli。 https://www.biodesignchallenge.org/
 - **Robin Wall Kimmerer** (1) — 纽约州立大学环境生物学杰出教学教授，原住民与环境中心主任，公民波塔瓦托米族成员. Robin Wall Kimmerer 是植物学家和作家，把原住民知识与植物科学结合在一起。
 - **Roger Payne** (1) — 生物学家（1935–2023），Ocean Alliance 创始人. 鲸类生物学家，与 Scott McVay 一起发现座头鲸会“唱歌”。
+- **RojoNegro** (1) — 艺术团体（María Sosa 与 Noé Martínez）. 由 María Sosa 和 Noé Martínez 组成的墨西哥艺术团体，从原住民、非裔墨西哥人和乡村的宇宙观中汲取仪式、陶瓷、盐与声音；2026 年代表墨西哥参加威尼斯双年展。
 - **Roya Aghighi** (1) — 设计师. Roya Aghighi 是伊朗裔加拿大设计师，与不列颠哥伦比亚大学的实验室合作开发会光合作用的活体织物。
 - **Rubi Laboratories** (1) — 公司. Rubi Laboratories 由双胞胎姐妹 Neeka 与 Leila Mashouf 创立，用酶把捕获的二氧化碳转化为纤维素。 https://rubi.earth/
 - **Rui Trindade** (1) — 马德拉大学马德拉交互技术研究所研究者. 游戏设计者，主导了 Purrfect Crime：一款由猫和人一起玩的平板游戏。
@@ -21762,6 +23190,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **SCAPE Landscape Architecture** (1) — 由 Kate Orff 创立的景观建筑事务所. 纽约的景观事务所，以把防风暴、栖息地营造和社区项目结合在一起的海岸韧性项目闻名。 https://www.scapestudio.com/
 - **SEAGRAFT team (RCA)** (1) — 皇家艺术学院学生团队. Hongyu Wu、Mingchuan Yang、Zexi Gong、Mengna Gao 与 Xiaozhuo Jiang 设计了种植海草的工具 SEAGRAFT。
 - **SPACE10** (1) — 由 IKEA 支持的研究与设计实验室. SPACE10 在 2024 年之前通过展览和原型探索未来的居住、食物和城市。 https://space10.com/
+- **SWARM Biotactics** (1) — 用背负传感器的赛博昆虫群做侦察的国防初创公司. SWARM Biotactics 给马达加斯加发声蟑螂装上电子背包，用自研的 SWARM OS 软件单独或成群地操控它们。 https://www.swarm-biotactics.com
 - **Sabrina Hauser** (1) — 设计研究者，西蒙菲莎大学博士. 设计研究者，研究导盲犬团队日常的工作与玩耍，并设计了无障碍的狗玩具。
 - **Saetbyeol LeeYouk** (1) — 麻省理工学院媒体实验室研究者. 设计让计算的物质成本变得可感的界面。
 - **Safecast** (1) — 志愿者环境监测非营利组织. 2011 年福岛核事故后成立，开发开源辐射与空气传感器的团体。 https://safecast.org/
@@ -21773,7 +23202,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **San Francisco State University Biodesign Challenge team** (1) — 旧金山州立大学学生团队；Biodesign Challenge 2026. 旧金山州立大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。设计专业学生，与该校河口与海洋科学中心合作。 https://www.biodesignchallenge.org/
 - **Sanergy** (1) — 公司. Sanergy 是肯尼亚的卫生设施公司，把人类粪便和有机垃圾转化为昆虫蛋白和肥料。 https://www.sanergy.com/
 - **Sanne Visser** (1) — 材料设计师. Sanne Visser 是荷兰材料设计师，把人发纺成绳索和纺织品。 http://sannevisser.com
-- **Sarah Homewood** (1) — 哥本哈根大学助理教授（曾任职哥本哈根 IT 大学）. 交互设计研究者，从女性主义与后人类视角研究身体、自我追踪和生殖健康。
 - **Sarah Selby** (1) — 艺术家、研究者. Sarah Selby 是英国艺术家，创作涉及 DNA 数据存储与批判性技术。 https://www.sarahselby.co.uk
 - **Sasitharan Balasubramaniam** (1) — 内布拉斯加大学林肯分校计算学院副教授. Sasitharan Balasubramaniam 研究分子通信、生物纳米物联网，以及用细菌基因调控网络进行计算。
 - **Satoshi Nakamura** (1) — 明治大学综合数理学部（先端媒体科学）教授. 以趣味交互技术见长的人机交互研究者；他与中川由贵合作开发了让水族馆游客通过画图认出每只企鹅的系统。
@@ -21795,17 +23223,21 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Sema Dumanli** (1) — 海峡大学电气与电子工程系副教授. Sema Dumanli 设计植入式和可穿戴天线，包括由工程细菌改变天线信号的生物混合植入物。
 - **Sensor.Community** (1) — 开放环境数据网络（原 Luftdaten.info，OK Lab Stuttgart）. 由自制颗粒物传感器组成的志愿者网络。
 - **Sentient Futures (formerly AI for Animals)** (1) — 关注 AI 与动物议题的非营利组织. Sentient Futures 由 Constance Li 以 AI for Animals 之名创立，围绕 AI 如何影响动物及其他可能有感知的存在开展研究、课程与峰会。 https://sentientfutures.ai/
+- **Seokheun Choi** (1) — 宾汉姆顿大学电气与计算机工程系教授. Seokheun Choi 研发由细菌驱动的生物电池和活体电子器件，从纸电池到益生菌电源。
 - **Serena Pollastri** (1) — 兰卡斯特大学 ImaginationLancaster 设计讲师. Serena Pollastri 研究面向超越人类城市的设计，以及想象多物种未来的视觉工具。
 - **Serina Tarkhanian** (1) — 设计师与研究者. 撰写对超越人类设计的去殖民批判。
 - **Seth Shipman** (1) — 格拉德斯通研究所副研究员，加州大学旧金山分校副教授. 生物工程师，把活细胞变成记录器，让它们把发生的事件写进自己的 DNA。 https://gladstone.org/people/seth-shipman
+- **Shahar Livne** (1) — 概念材料设计师. 旅居荷兰的以色列裔材料设计师，用作品讲述材料、地质与生态哲学的故事；与 3D 设计师 Jelle Heuver 合作完成 PHALIVE。 https://www.shaharlivnedesign.com
 - **Shahriar Akbari** (1) — 研究员，丹麦皇家艺术学院 CITA. Shahriar Akbari 在丹麦皇家艺术学院 CITA（信息技术与建筑中心）研究生物打印的光合活体材料，合作者包括 Martin Tamke、Mette Ramsgaard Thomsen 和微生物学家 Michael Kühl。 https://doi.org/10.1017/s2977905726100274
 - **Shaina Garfield** (1) — 设计师；普瑞特艺术学院. Shaina Garfield 是美国设计师，创作了带有真菌孢子的殡葬裹尸袋 Leaves Biocoffin。
 - **Shamees Aden** (1) — 生物设计师、材料研究者. Shamees Aden 是伦敦设计师，与科学家合作研究用于时尚和运动装备的活体材料和原细胞材料。 https://www.shameesaden.com/
 - **Shellworks** (1) — 材料公司（Insiya Jafferjee、Amir Afshar）. Shellworks 是由皇家艺术学院毕业生 Insiya Jafferjee 与 Amir Afshar 创办的伦敦公司，用微生物生物聚合物 Vivomer 制作包装。 https://www.shellworks.com
 - **Sheng-Hung Lee** (1) — 设计师；成功大学. 李胜宏是台湾设计师，与李云琪共同设计了种植红树林的防波块 TetraPOT，入选 2016 年詹姆斯·戴森设计奖国际 20 强。
+- **Shihan Zhang** (1) — 设计未来学家、艺术家. 设计未来学家，构建沉浸式的思辨世界；曾与 NEW INC、SPACE10 和未来研究所（Institute for the Future）合作。
 - **Shimabuku** (1) — 艺术家. 日本艺术家，Shimabuku 充满趣味的行动与物件常常是为动物、尤其是章鱼和鱼而做，或与它们一起完成。 http://www.shimabuku.net/
 - **Shimon Marom** (1) — 以色列理工学院生理学教授. 神经生理学家，2001 年证明：当刺激的停止被用作奖励时，培养的皮层网络可以学会一个刺激-反应任务。
 - **Shinichi Takemura** (1) — 人类学家，京都艺术大学教授，Tangible Earth 的创作者. 设计交互式地球仪的文化人类学家。
+- **Shinya Uryu** (1) — 生态学家、生物多样性数据科学家. 瓜生真也（Shinya Uryu）研究生物多样性信息学与统计生态学。
 - **Shneel Malik** (1) — 建筑师、研究者，伦敦大学学院 Bio-ID Lab. Shneel Malik 是伦敦大学学院 Bio-ID Lab 的建筑师和研究者，与 Brenda Parker、Marcos Cruz 共同研发藻类生物修复瓷砖墙 Indus。
 - **Shonali Shetty** (1) — 设计师；Mesh Labs. Shonali Shetty 是来自Mesh Labs的设计师，项目 AeR 入选绿色产品奖 / 绿色概念奖。
 - **Shruti Rao** (1) — 阿姆斯特丹大学信息学院博士研究者. 建筑师与人机交互研究者，研究亲生物设计和人与建筑的交互。
@@ -21815,7 +23247,11 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Shuting Liu** (1) — 研究者，华南农业大学. Shuting Liu 是华南农业大学的材料研究者，与 Xuejie Zhang 合作，把余辉荧光粉注入多肉植物叶片，让活植物发光。 https://doi.org/10.1016/j.matt.2025.102370
 - **Si Shi** (1) — 中山大学（深圳）生物医学工程学院研究者. Si Shi 研究用于生物电子的工程活体材料，把经过基因改造的细菌组装成导电网络。
 - **Sihan Wang** (1) — 上海科技大学创意与艺术学院设计研究者. 设计面向城市生态意识的思辨性、去人类中心的人造物。
+- **Sihwa Park** (1) — 媒体艺术家、计算艺术研究者. Sihwa Park 创作交互装置与数据可视化，关注机器如何观看和生成世界。
 - **Silvia Ruzanka** (1) — 伦斯勒理工学院艺术家与讲师. Silvia Ruzanka 是媒体艺术家，创作游戏和故障艺术，其中包括一款由捕蝇草来玩的电子游戏。
+- **Silvia Vignolini** (1) — 马普胶体与界面研究所可持续与仿生材料部主任；剑桥大学. 材料科学家，以纤维素结构色和用微生物“长”材料的研究著称。
+- **Simon Goldstein** (1) — 香港大学哲学副教授. Simon Goldstein 是哲学家，研究 AI 安全、AI 福祉与语言哲学。
+- **Siqi Yu** (1) — 香港科技大学（广州）研究者. 沉浸式媒体与游戏设计研究者，研究玩家如何在 VR 中化身为非人类动物。
 - **Sissel Marie Tonn** (1) — 艺术家. 丹麦艺术家，研究型作品关注具身性、污染以及身体如何感知环境。
 - **Siyu Yao** (1) — 武藏野美术大学艺术家与设计师. Siyu Yao 用平面茧创作丝织装置：蚕吐出的是平面丝片，而不是立体的茧。
 - **Sofía Guridi** (1) — 博士研究者，阿尔托大学设计系. Sofía Guridi 是纺织设计师、阿尔托大学博士研究者，用生物基材料制作可交互的电子纺织品。 https://www.aalto.fi/en/news/sofia-guridi-is-designing-a-better-world-with-smart-textiles
@@ -21831,6 +23267,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Stacey D. Scott** (1) — 圭尔夫大学计算机科学学院教授. 人机交互研究者，她的团队研究协作界面，并把以用户为中心、以动物为中心的设计用到畜牧业中。
 - **Stanford University Biodesign Challenge team** (1) — 斯坦福大学学生团队；Biodesign Challenge 2025. 斯坦福大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Charlotte McCurdy。 https://www.biodesignchallenge.org/
 - **Stefan Kahl** (1) — 计算机科学家；BirdNET 负责人，康奈尔大学 K. Lisa Yang 保护生物声学中心与开姆尼茨工业大学. Stefan Kahl 开发能识别鸟类和其他动物声音的深度学习模型，用于生物多样性监测。 https://birdnet.cornell.edu
+- **Stefano Nichele** (1) — 挪威东福尔大学学院与奥斯陆城市大学计算机科学教授. Stefano Nichele 研究元胞自动机、非常规计算与集体智能。
 - **Steffie de Gaetano** (1) — 哈塞尔特大学艺术研究者. 从事以艺术为引导、与景观和非人类合作者一起的参与式设计。
 - **Stephan Huber** (1) — 维尔茨堡大学心理人因学教席研究者. 人机交互研究者，探索与蜜蜂共同创作：为蜜蜂提供蜡质形状，让它们在上面继续建造。
 - **Stephan Wensveen** (1) — 埃因霍温理工大学工业设计系建构式设计研究教授. Stephan Wensveen 研究产品如何把人的动作与功能联系起来，以及“通过设计做研究”如何产生知识。 https://research.tue.nl/en/persons/stephan-sag-wensveen
@@ -21840,6 +23277,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Stijn Ossevoort** (1) — 交互设计师；埃因霍温理工大学工业设计系. 与 Miguel Bruns 合作设计了会对风作出反应的连衣裙 Flare，并在 TEI 2023 提出“自然现象的参与”作为交互设计的强概念。
 - **Strange Loop Games** (1) — 游戏工作室. 开发多人生态与经济模拟游戏《Eco》的工作室。
 - **Stuart Gray** (1) — 布里斯托大学工程设计讲师. 工程师和设计师，领导 Gorilla Game Lab，与布里斯托动物园的大猩猩一起制作模块化认知谜题。
+- **Studio Det Levende Hus** (1) — 丹麦生物基建筑工作室. 丹麦工作室，与门业公司 Rebound 合作开发门、吸音板和吊顶等菌丝体建筑构件。
 - **Studio Makkink & Bey** (1) — 设计工作室（Rianne Makkink 与 Jurgen Bey）. Studio Makkink & Bey 是鹿特丹的设计工作室，工作横跨建筑、景观与物件。 https://www.studiomakkinkbey.nl
 - **Studio PSK** (1) — 设计工作室（Patrick Stevenson-Keating）. 伦敦设计工作室，围绕科学、技术与经济制作思辨性物件和叙事。
 - **Studio diip** (1) — 计算机视觉与互动装置设计工作室. 荷兰工作室，制作基于计算机视觉的互动项目。 http://www.studiodiip.com
@@ -21856,6 +23294,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Sybille Neumeyer** (1) — 艺术家、研究者. Sybille Neumeyer 以昆虫、病毒和环境数据为题，结合档案、标本和田野研究进行创作。
 - **Sylvain Martel** (1) — 蒙特利尔理工学院教授，NanoRobotics Laboratory 负责人. Sylvain Martel 率先用磁场引导趋磁细菌，让它们推动微型机器人并输送药物。
 - **Tak Keung Chan** (1) — 设计师；香港理工大学. 陈德强是香港设计师，他的牡蛎礁结构 Reef of Hope 获得 2025 年詹姆斯·戴森设计奖香港冠军。 http://www.teamorz.com
+- **Takeru Yazaki** (1) — 东京大学先端科学技术研究中心稻见实验室研究者. 设计支持户外同行与导览探索的移动与位置系统。
 - **Taku Onozato** (1) — 京都工艺纤维大学设计研究者. 研究面向可持续的本体论设计与关系性设计。
 - **Takuma Yamazaki** (1) — 设计师；2016 年雷克萨斯设计奖入围者. 山崎拓马是日本设计师，他用落叶制作的材料 Bio-Vide 入围 2016 年雷克萨斯设计奖。
 - **Takumi Saeki** (1) — 九州大学艺术家与研究者. Takumi Saeki 用发光细菌作墨水印制图像，图像随细菌的生长与死亡而发光、衰退并消失。
@@ -21863,10 +23302,15 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Tamara Orjola** (1) — 设计师，2016 年毕业于埃因霍温设计学院. Tamara Orjola 研究植物中未被利用的部分作为材料；她的毕业项目 Forest Wool 把废弃的松针变成纺织品、复合材料和纸。 https://tamaraorjola.com
 - **Tandem Repeat** (1) — 由 Melik Demirel 和 Gözde Senel-Ayaz 共同创立的生物技术纺织公司. 宾夕法尼亚州立大学的衍生公司，用微生物发酵生产 Squitex——一种基于鱿鱼吸盘环齿蛋白串联重复结构的蛋白质纤维。 https://www.tandemrepeat.com
 - **Tania Candiani** (1) — 从事声音、翻译与“聆听的政治”的艺术家. 墨西哥艺术家（1974 年生），她的在地研究型作品在视觉、声音、文字和符号语言之间转译，借助口述传统和祖先知识，并以女性主义关怀伦理为基础。
+- **Tanya Berger-Wolf** (1) — 俄亥俄州立大学教授；Imageomics 研究所与转化数据分析研究所主任. 计算生态学家，Wildbook 联合创始人，领导 Imageomics 研究所，用图像、无人机和 AI 研究野生动物。
 - **Tarsh Bates** (1) — 艺术家、研究者；西澳大学 SymbioticA 生物艺术博士. 澳大利亚艺术家，长期与白色念珠菌（Candida albicans）等生物共处创作，探讨跨物种照护以及人体作为生态系统。 https://www.tarshbates.com/
+- **Tatiana Feuerborn** (1) — 哥本哈根大学 Globe 研究所研究员. 动物考古学家与遗传学家，研究北极雪橇犬及与它们同行的人类的历史。
 - **Tehanu** (1) — 由作家、未来学家 Jonathan Ledgard 领导的“跨物种货币”项目. 这个项目为野生物种建立数字身份和钱包，用 AI 推断它们的利益，并向满足这些利益的人付款。它称与卢旺达政府在 2024 年完成了第一笔跨物种支付。
 - **Tera Mira** (1) — 公司. Tera Mira 由 Jeanne Begon-Lours 与 Lucy Dain-Williams 创立，把海藻湿法纺成弹性纤维。 https://teramira.com
 - **Teresa Vicente** (1) — 穆尔西亚大学法哲学教授，Mar Menor 公民立法提案的发起人. Teresa Vicente 发起了一项公民立法提案，收集了 60 多万个签名，为 Mar Menor 潟湖争取法人资格。
+- **Thang Vo-Doan** (1) — 昆士兰大学生物机器人工程师. Thang Vo-Doan 构建昆虫与机器的混合体，用小型电子背包操控活体昆虫，用于搜索与救援。
+- **The Biological Computing Co. (TBC)** (1) — 通过研究活神经元来设计更快 AI 软件的初创公司（前身为 Biological Black Box）. TBC 由神经外科医生 Alex Ksendzovsky 和 Jon Pomeraniec 创立，在高密度电极阵列上刺激并记录活体神经网络，再把发现转化为 AI 模型的软件。 https://tbc.co
+- **The Electric Plant Company** (1) — 开发低成本植物电生理传感器和植物信号基础模型的初创公司. 公司由 Justin Mast 与神经科学家 Lee von Kraus 共同创立，把名为 Bud 的探针装在树木和作物上，用 Bombadil 模型解读它们的电信号。 https://www.electricplant.co
 - **The Mycological Twist** (1) — 艺术团体（Eloïse Bonneviot 与 Anne de Boer）. 由 Eloïse Bonneviot 和 Anne de Boer 发起的艺术项目，经营一座蘑菇花园，并按接种、生长和采收的节奏安排巡回的作品、讲座和表演。
 - **The ODIN** (1) — 由 Josiah Zayner 于 2016 年创立的 DIY 基因工程套件公司. The ODIN 邮购销售细菌基因工程套件（包括 CRISPR 套件），以及便宜到能放在厨房里的实验设备。 https://www.the-odin.com/
 - **The Thought Emporium** (1) — 由 Justin Atkin 运营的 DIY 科学 YouTube 频道. YouTube 上的业余生物与工程实验室，在自制电极阵列上培养大鼠神经元，并尝试让它们玩 Doom。
@@ -21875,6 +23319,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Thom van Dooren** (1) — 环境人文学者，多物种研究领域的开创者之一. 研究灭绝、伦理以及鸟类、蜗牛等物种之间相互纠缠的生活；主编了《Environmental Humanities》中介绍多物种研究的专刊。
 - **Thomas Boland** (1) — 德克萨斯大学埃尔帕索分校冶金、材料与生物医学工程教授. Thomas Boland 在克莱姆森大学把桌面喷墨打印机改造成第一台细胞打印机，并在 2003 年发表了生物打印的奠基论文。 https://www.utep.edu/engineering/metallurgical-materials-biomedical/faculty-and-staff/faculty-profiles/thomas-boland.html
 - **Thomas Nagel** (1) — 纽约大学哲学与法学荣休教授. 心灵哲学、伦理学和政治哲学领域的哲学家。
+- **Thomas Ploetz** (1) — 佐治亚理工学院交互计算学院教授. 以可穿戴设备的人体活动识别研究著称的计算机学者，并把这类研究扩展到狗和其他动物。
 - **Thomas Schmickl** (1) — 格拉茨大学教授，人工生命实验室负责人. Thomas Schmickl 领导格拉茨大学人工生命实验室，以机器人群体、欧盟项目 ASSISI_bf 和 HIVEOPOLIS，以及生活在蜂群内部的机器人而闻名。 https://zoology.uni-graz.at/en/artificial-life-lab/
 - **Thomas Thwaites** (1) — 设计师. 以《烤面包机计划》和《山羊人》闻名的设计师。
 - **Tianjin University Haptics & Brain-Computer Interface Team** (1) — 天津大学与南方科技大学合作的研究团队. 高校研究团队，开发了开源的“片上脑”系统 MetaBOC，让脑类器官驾驶一台小型机器人。
@@ -21884,6 +23329,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Timothy Merritt** (1) — 奥尔堡大学计算机科学系副教授. Timothy Merritt 研究形变界面、实体界面和活体媒介界面。
 - **Tina Gorjanc** (1) — 斯洛文尼亚设计师与研究者，毕业于中央圣马丁 MA Material Futures. Tina Gorjanc 研究时尚领域生物技术的法律与伦理问题，用思辨原型揭示遗传信息保护中的漏洞。 https://www.tinagorjanc.com
 - **Tobie Kerridge** (1) — 设计师与研究者，伦敦大学金史密斯学院. 英国设计师，毕业于皇家艺术学院 Design Interactions 专业，研究如何用设计让公众参与科学。
+- **Tom McClelland** (1) — 剑桥大学科学史与科学哲学系认知科学哲学讲师. Tom McClelland 是心灵哲学家，研究意识、注意力与 AI 感知能力。
 - **Tom Metcalfe** (1) — 圣安德鲁斯大学计算机科学学院研究者. 设计研究者，研究后人类主义、新物质主义与设计研究（RtD）。
 - **Tomáš Gabzdil Libertíny** (1) — 艺术家、设计师. 出生于斯洛伐克、在荷兰工作的艺术家，让蜜蜂在预先准备好的形体上筑巢，做成雕塑和器皿。 https://www.tomaslibertiny.com/
 - **Tongji University College of Design and Innovation Biodesign Challenge team** (1) — 同济大学设计创意学院学生团队；Biodesign Challenge 2021–2022. 同济大学设计创意学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括周洪涛、任丽莎与 Francesca Valsecchi。 https://www.biodesignchallenge.org/
@@ -21897,6 +23343,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Tyler Luong** (1) — 巴克内尔大学工程研究者. Tyler Luong 测试用植物与泥土微生物燃料电池为低功耗植物传感器供电。
 - **TômTex** (1) — 由设计师 Uyen Tran 创立的材料初创公司. TômTex 用从海鲜壳和蘑菇废料中提取的壳聚糖制作不含塑料的皮革替代品，最初是 Uyen Tran 在普瑞特艺术学院的学生项目。 https://www.tomtex.com
 - **UDIT Madrid Biodesign Challenge team** (1) — 马德里 UDIT 设计创新科技大学学生团队；Biodesign Challenge 2026. 马德里 UDIT 设计创新科技大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。学术负责人为建筑师、生物设计师 Sandra Martín Simón。 https://www.biodesignchallenge.org/
+- **UJOO+LIMHEEYOUNG** (1) — 艺术家二人组（Yoo Byoung-Joon 与 Lim Hee-Young）. 常驻首尔的艺术二人组，自 2004 年起创作动态装置，呈现社会与技术系统中的矛盾和荒诞。
 - **United Visual Artists** (1) — 以光、声音和代码创作的艺术与设计工作室. 由 Matt Clark 于 2003 年在伦敦创立，用光、声音和软件制作大型装置。 https://www.uva.co.uk/
 - **Universidad del Istmo Biodesign Challenge team** (1) — 伊斯莫大学学生团队；Biodesign Challenge 2024. 伊斯莫大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **University of British Columbia Biodesign Challenge team** (1) — 不列颠哥伦比亚大学学生团队；Biodesign Challenge 2018. 不列颠哥伦比亚大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Steven Hallam 与 Joseph Dahmen。 https://www.biodesignchallenge.org/
@@ -21908,13 +23355,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **University of Technology Sydney Biodesign Challenge team** (1) — 悉尼科技大学学生团队；Biodesign Challenge 2019. 悉尼科技大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。 https://www.biodesignchallenge.org/
 - **University of Toledo Biodesign Challenge team** (1) — 托莱多大学学生团队；Biodesign Challenge 2018. 托莱多大学的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。指导教师包括Eric Zeigler 与 Brian Carpenter。 https://www.biodesignchallenge.org/
 - **Upinder Kaur** (1) — 普渡大学农业与生物工程系助理教授. Upinder Kaur 研究面向农业和生命系统的机器人与传感技术，包括与真菌菌丝体长期连接的电学接口。
+- **Uriel Orlow** (1) — 艺术家. 瑞士艺术家，创作涉及影像、摄影、绘画和声音，十多年来一直研究植物如何见证殖民史、迁徙与气候变化。 https://www.urielorlow.net/
 - **Utrecht University Myvi team** (1) — 乌得勒支大学学生研究团队. 乌得勒支大学的学生团队，开发了让植物能在建筑上生长的菌丝体复合板 Myvi，并用它搭建了 ReGreen Hut。 https://ddw.nl/en/programme/the-regreen-hut
+- **Uzbekistan Art and Culture Development Foundation** (1) — 国家文化基金会；乌兹别克斯坦国家馆和咸海文化峰会的委托方. 运营布哈拉双年展、咸海文化峰会和咸海学校的基金会，委托了 2026 年威尼斯双年展乌兹别克斯坦馆。 https://acdf.uz/
 - **VEGEA** (1) — 公司. VEGEA 是意大利公司，用酿酒剩下的葡萄渣制作皮革替代品。 https://www.vegeacompany.com/
 - **Valentin Postl** (1) — 上奥地利应用科学大学研究者（Media Interaction Lab）. Valentin Postl 为活体媒介制作制造工具，包括一台改装后用霉菌孢子“打印”图画的 3D 打印机。
 - **Vanessa Amoah Opoku** (1) — 从事混合现实、三维扫描与雕塑的艺术家. 德国—加纳裔艺术家，用三维扫描、影像、雕塑和声音探讨历史、数字性与被边缘化的叙事。她是 PARA 团体的成员。 https://vanessaopoku.com/
 - **Vanessa Monna** (1) — 代尔夫特理工大学设计研究者. 设计研究者，研究公民身份、城市参与和超越人类的政治。
 - **Vasco Costa** (1) — 设计研究者. 设计研究者，结合儿童、讲故事和动手制作来做行星照护教育。
-- **Vasiliki Tsaknaki** (1) — 哥本哈根信息技术大学副教授. 交互设计研究者，关注生物数据、身体美学与超越人类的身体。
 - **Vasily Sitnikov** (1) — 建筑师、研究者（冰模板）. Vasily Sitnikov 是建筑师，研发用冰作模板浇筑混凝土的工艺，包括能容纳植物、昆虫和鸟类的立面。 https://iceformwork.com
 - **Verindi Vekemans** (1) — 代尔夫特理工大学工业设计工程学院设计研究者. 研究设计者如何观察、描述并运用活体材料的自我修复。
 - **Victoria Vesna** (1) — 艺术家；加州大学洛杉矶分校设计媒体艺术系教授、UCLA Art|Sci 中心主任. 媒体艺术家，几十年来与科学家合作，创作关于网络、纳米技术、水和蜜蜂的作品，探讨艺术与科学如何塑造感知和集体经验。 https://victoriavesna.com/
@@ -21947,7 +23395,6 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Xiaodong Chen** (1) — 新加坡南洋理工大学材料科学与工程教授. 陈晓东（Xiaodong Chen）研发与生物贴合的柔性电子，包括贴附在植物上的电极。
 - **Xiaoge Wang** (1) — 交互设计研究者. Nature Jar 的设计者，这是一个把户外自然带进家中的实体装置。
 - **Xijing Xu** (1) — 设计师. Xijing Xu 是设计师和陶艺师，在自己设计的器皿中培养康普茶菌膜，探索与共生微生物一起生活的日常。 https://ddw.nl/en/programme/scoby-face
-- **Xin Liu** (1) — 艺术家、工程师；MIT 媒体实验室太空探索计划的创始艺术策展人. 出生于中国新疆的艺术家和工程师，她的雕塑、影像和实验关注外太空、地外探索与“宇宙代谢”。她也是 SETI 研究所的驻留艺术家。 https://xinliu.art/
 - **Xingyu Jiang** (1) — 南方科技大学生物医学工程系讲席教授. 蒋兴宇研究微流控、纳米材料和基于 DNA 的器件。
 - **Xinquan Wen** (1) — 香港理工大学设计学院设计研究者. Xinquan Wen 设计了 Sloooooooooow：一个智能家居装置，窗帘随植物蒸腾带来的湿度变化而移动。
 - **Xuewei Zhao** (1) — 设计师；中央美术学院. Xuewei Zhao 是来自中央美术学院的设计师，项目 Mr. Kombucha's Lab 入选绿色产品奖 / 绿色概念奖。
@@ -21959,6 +23406,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Yen-Fu Chen** (1) — 大同大学设计研究者. 设计研究者，研究公民科学、声音与超越人类的参与。
 - **Yi Sui** (1) — 米兰理工大学设计系博士研究者. 设计研究者，研究超越人类设计中的形变材料和响应材料。
 - **Yi Zhijian** (1) — 重庆交通大学教授. 易志坚是重庆交通大学教授，研发了“沙漠土壤化”技术，用植物来源的黏结剂把沙子变成类似土壤的地面。
+- **Yi-Jun Zhao** (1) — 人机交互研究者；MemoryAn（MobileHCI 2026）第一作者. 人机交互研究者，围绕伴侣动物与哀伤设计对话式与生成式智能体。
 - **Yibo Meng** (1) — 清华大学设计研究者. 研究人与植物关系的交互设计以及以共情为导向的体验。
 - **Yihan Liu & Yang Zhang** (1) — 设计师；浙江大学 / 南昌大学. 刘一涵与张扬设计了珊瑚修复机器人系统 Coral Reef Rescuer。
 - **Yin-Rui Liao** (1) — 设计师；台湾师范大学. Yin-Rui Liao主导 Reefvive 项目：用海洋废料打印的珊瑚复育底座，入选 2026 年詹姆斯·戴森设计奖国际前 20 名。 https://www.jamesdysonaward.org/en-GB/2026/project/reefvive/
@@ -21989,11 +23437,14 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **Yuning Chan** (1) — 设计师（与 Tom Hartley、Yishan Qin 共同创作 Project Habitate）. Yuning Chan 是设计师，与 Tom Hartley、Yishan Qin 共同创作了 Project Habitate——一件为白蜡树枯梢病中失去栖息地的物种提供居所的活体可穿戴装置。
 - **Yunnan Arts University Biodesign Challenge team** (1) — 云南艺术学院学生团队；Biodesign Challenge 2026. 云南艺术学院的学生团队，参加了让艺术设计学生与生物学家合作的国际竞赛 Biodesign Challenge。由环境设计教授 Danting Sun 指导，她用本地菌种处理农业废料。 https://www.biodesignchallenge.org/
 - **Yuqing Lucy Li** (1) — 麻省理工学院媒体实验室 Tangible Media Group 研究者. Yuqing Lucy Li 为生物基和可降解电子设计制作方法。
+- **Yusuke Miyajima** (1) — 早稻田大学应用物理系助理教授. Yusuke Miyajima 与 Masahito Mochizuki 合作研究物理计算，包括受黏菌启发的优化机器模型。
 - **Yuta Sugiura** (1) — 庆应义塾大学信息与计算机科学系副教授. Yuta Sugiura 领导一个研究传感与柔性界面的实验室，成果包括把土壤微生物燃料电池当作输入设备的 SoilSense 和 SoilTile。
 - **Yuxi Liu** (1) — 代尔夫特理工大学研究者. 设计研究者，把城市漫游和“写食谱”作为注意城市中人与非人的方法。
 - **Yuxi Wu** (1) — 东北大学 Khoury 计算机科学学院研究者. 人机交互研究者，用自我民族志研究户外活动、技术与超越人类的相遇。
 - **Yuyao Lin** (1) — 英国皇家艺术学院设计研究者. 设计研究者，关注超越人类设计以及那些让人反感的物种。
+- **Yvonne Gu (3h57m)** (1) — 建筑与生态实践 3h57m 创始人. 建筑师，其工作室 3h57m 关注基础设施、栖居以及土地、水与建筑之间的关系。 https://3h57m.com/
 - **ZKM | Center for Art and Media Karlsruhe** (1) — 艺术与媒体博物馆及研究中心. ZKM 是德国的媒体艺术机构，制作关于技术、科学与社会的大型主题展览。 https://zkm.de
+- **Zach J. Patterson** (1) — 凯斯西储大学机械与航空航天工程系助理教授. 机器人学者，研发软体和仿生水下机器人，包括在 MIT CSAIL 开发的仿海龟鳍驱动潜航器。
 - **Zahra Jajarmikhayat** (1) — 设计师；加州艺术学院. Zahra Jajarmikhayat 是设计师，她用柠檬皮制作的蚊帐获得 2022 年 Biodesign Challenge 亚军。
 - **Zeefier** (1) — 由设计师 Nienke Hoogvliet 和 Anne Boermans 创立的海藻染料公司. Zeefier 把 Nienke Hoogvliet 从 SEA ME 开始的海藻染料研究放大，生产完全由海藻及其废料制成的天然纺织色彩。 https://www.zeefier.nl
 - **Zena Holloway** (1) — 摄影师与生物设计师；Rootfull 创始人. 前水下摄影师 Zena Holloway 于 2018 年创立 Rootfull，在蜂蜡模板中用草根生长织物和物件。 https://www.zenaholloway.com/
@@ -22008,6 +23459,7 @@ https://more-than-human.reality.design · 2026-10-18 · 1497 位创作者 · 231
 - **doxiadis+** (1) — 由 Thomas Doxiadis 主持的景观建筑事务所. doxiadis+ 是希腊的景观与建筑事务所，关注生态景观、干旱地区与多物种设计。 https://www.doxiadisplus.com
 - **explore.org** (1) — Annenberg 基金会旗下的自然直播网络. 非营利机构，直播熊河、鹰巢与珊瑚礁等数十个现场镜头。
 - **hOrO mO X** (1) — 数字艺术家. 常驻巴黎的艺术家，创作涉及量子随机性、人工智能和生物计算机；MindWare 系列把他与 FinalSpark 的类器官连接起来。 https://horomox.com
+- **i29 architects** (1) — 建筑与室内设计事务所. 以图形化、材料驱动的建筑与室内设计闻名的荷兰事务所。 https://i29.nl/
 - **iGEM Team Cambridge** (1) — iGEM 学生团队（2009–2010）. Cambridge 学生团队参加了国际基因工程机器大赛（iGEM），其项目横跨合成生物学与设计。 https://2010.igem.org/Team:Cambridge
 - **iGEM Team Cornell** (1) — iGEM 学生团队（2013）. Cornell 学生团队参加了国际基因工程机器大赛（iGEM），其项目横跨合成生物学与设计。 https://2013.igem.org/Team:Cornell
 - **iGEM Team Harvard** (1) — iGEM 学生团队（2010）. Harvard 学生团队参加了国际基因工程机器大赛（iGEM），其项目横跨合成生物学与设计。 https://2010.igem.org/Team:Harvard

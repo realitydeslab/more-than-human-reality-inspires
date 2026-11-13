@@ -1,0 +1,1269 @@
+{
+ "batch": "sweep-2026-11-biocomp",
+ "creators": [
+  {
+   "id": "mattia-gazzola",
+   "name": "Mattia Gazzola",
+   "kind": "person",
+   "role": "Professor of Mechanical Science and Engineering, University of Illinois Urbana-Champaign",
+   "role_zh": "伊利诺伊大学厄巴纳-香槟分校机械科学与工程系教授",
+   "based": "Urbana-Champaign, US",
+   "based_zh": "厄巴纳-香槟，美国",
+   "bio": "Mattia Gazzola leads a lab that models and builds soft, living and biohybrid systems, from muscle-powered bots to computation with living neural cultures.",
+   "bio_zh": "Mattia Gazzola 领导一个实验室，研究并构建柔软的、活的和生物混合的系统，从肌肉驱动的小机器人到用活体神经培养物做计算。",
+   "why": "His group showed that controlling the chaos of living neuron cultures with light makes them far more reliable as computers.",
+   "why_zh": "他的团队证明，用光控制活神经元培养物的混沌活动，可以让它们作为计算机变得可靠得多。",
+   "links": {
+    "site": "https://gazzola.mechse.illinois.edu/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "the-biological-computing-co",
+   "name": "The Biological Computing Co. (TBC)",
+   "kind": "company",
+   "role": "Start-up that studies living neurons to design faster AI software (formerly Biological Black Box)",
+   "role_zh": "通过研究活神经元来设计更快 AI 软件的初创公司（前身为 Biological Black Box）",
+   "based": "Baltimore and San Francisco, US",
+   "based_zh": "巴尔的摩与旧金山，美国",
+   "bio": "Founded by neurosurgeons Alex Ksendzovsky and Jon Pomeraniec, TBC stimulates and records living neural networks on dense electrode arrays and turns what it finds into software for AI models.",
+   "bio_zh": "TBC 由神经外科医生 Alex Ksendzovsky 和 Jon Pomeraniec 创立，在高密度电极阵列上刺激并记录活体神经网络，再把发现转化为 AI 模型的软件。",
+   "why": "It is a different business model for wetware: the neurons stay in the lab as a research instrument, and only software ships.",
+   "why_zh": "它代表湿件的另一种商业模式：神经元留在实验室里当研究工具，对外交付的只有软件。",
+   "links": {
+    "site": "https://tbc.co"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daito-manabe",
+   "name": "Daito Manabe",
+   "kind": "person",
+   "role": "Artist, programmer and DJ; founder of Rhizomatiks and Studio Daito Manabe",
+   "role_zh": "艺术家、程序员与 DJ；Rhizomatiks 和 Studio Daito Manabe 创始人",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Daito Manabe makes audiovisual works and performances from data, bodies and sensors, and has long worked with brain signals and machine learning.",
+   "bio_zh": "真锅大度用数据、身体和传感器创作视听作品与表演，长期与脑信号和机器学习打交道。",
+   "why": "With SoftBank and the University of Tokyo he turned living brain organoids into a listening, rhythm-keeping instrument shown to the public.",
+   "why_zh": "他与软银和东京大学合作，把活的脑类器官变成能“聆听”、能记住节奏的装置，并向公众展出。",
+   "links": {
+    "site": "https://daito.ws/en/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "asia-pacific-neuroethics-working-group",
+   "name": "Asia Pacific Neuroethics Working Group",
+   "kind": "lab",
+   "role": "Interdisciplinary working group of scientists, bioethicists, philosophers and lawyers",
+   "role_zh": "由科学家、生命伦理学者、哲学家和法律学者组成的跨学科工作组",
+   "based": "Asia-Pacific",
+   "based_zh": "亚太地区",
+   "bio": "The group met in Singapore in November 2024 and wrote consensus recommendations on human brain organoid research, including organoid computing.",
+   "bio_zh": "该工作组于 2024 年 11 月在新加坡会面，就人脑类器官研究（包括类器官计算）形成共识建议。",
+   "why": "It gives one of the first regional rule sets for consent, moral status and dual use in brain-organoid work.",
+   "why_zh": "它为脑类器官研究中的知情同意、道德地位和军民两用问题提供了首批区域性规则之一。",
+   "links": {},
+   "connected_to": [
+    "brett-kagan"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keisuke-morishima",
+   "name": "Keisuke Morishima",
+   "kind": "person",
+   "role": "Professor of Mechanical Engineering, The University of Osaka",
+   "role_zh": "大阪大学机械工学专业教授",
+   "based": "Osaka, Japan",
+   "based_zh": "大阪，日本",
+   "bio": "Keisuke Morishima works on biohybrid machines, from cell-powered micro-pumps to cyborg insects guided by onboard electronics and AI.",
+   "bio_zh": "Keisuke Morishima 研究生物混合机器，从细胞驱动的微泵到由机载电子与 AI 引导的赛博昆虫。",
+   "why": "His lab lets cyborg insects use their own climbing skills instead of steering them around every obstacle, a stance he calls biohybrid physical AI.",
+   "why_zh": "他的实验室让赛博昆虫发挥自身的攀爬本领，而不是每遇障碍都去操控它，他称之为“生物混合物理 AI”。",
+   "links": {
+    "site": "https://www-live.mech.eng.osaka-u.ac.jp/en/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thang-vo-doan",
+   "name": "Thang Vo-Doan",
+   "kind": "person",
+   "role": "Biorobotics engineer, The University of Queensland",
+   "role_zh": "昆士兰大学生物机器人工程师",
+   "based": "Brisbane, Australia",
+   "based_zh": "布里斯班，澳大利亚",
+   "bio": "Thang Vo-Doan builds insect-machine hybrids, steering live insects with small electronic backpacks for search and rescue.",
+   "bio_zh": "Thang Vo-Doan 构建昆虫与机器的混合体，用小型电子背包操控活体昆虫，用于搜索与救援。",
+   "why": "His Paraborg work asks what a cyborg insect can do after it finds a survivor: carry and inject medicine.",
+   "why_zh": "他的 Paraborg 项目提出：赛博昆虫找到幸存者之后还能做什么？答案是携带并注射药物。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "electric-plant",
+   "name": "The Electric Plant Company",
+   "kind": "company",
+   "role": "Start-up building low-cost plant electrophysiology sensors and a foundation model for plant signals",
+   "role_zh": "开发低成本植物电生理传感器和植物信号基础模型的初创公司",
+   "based": "United States",
+   "based_zh": "美国",
+   "bio": "Co-founded by Justin Mast and neuroscientist Lee von Kraus, the company clips 'Bud' probes onto trees and crops and reads their electrical signals with the Bombadil model.",
+   "bio_zh": "公司由 Justin Mast 与神经科学家 Lee von Kraus 共同创立，把名为 Bud 的探针装在树木和作物上，用 Bombadil 模型解读它们的电信号。",
+   "why": "It moves cyborg-botany ideas from art and lab prototypes to farms and forests at scale.",
+   "why_zh": "它把“赛博植物”的想法从艺术和实验室原型推向大规模的农田与森林。",
+   "links": {
+    "site": "https://www.electricplant.co"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jinxing-li",
+   "name": "Jinxing Li",
+   "kind": "person",
+   "role": "Assistant Professor of Biomedical Engineering, Michigan State University",
+   "role_zh": "密歇根州立大学生物医学工程系助理教授",
+   "based": "East Lansing, US",
+   "based_zh": "东兰辛，美国",
+   "bio": "Jinxing Li's lab makes soft bioelectronics and living sensors that join cells and organisms with stretchable circuits.",
+   "bio_zh": "Jinxing Li 的实验室研究柔性生物电子和活体传感器，把细胞与生物同可拉伸电路结合起来。",
+   "why": "His team bioprinted living mycelium onto stretchable electrodes to make a self-healing fungal skin that senses heat.",
+   "why_zh": "他的团队把活菌丝体生物打印到可拉伸电极上，做成能感知热量、能自我修复的真菌皮肤。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nivedita-arora",
+   "name": "Nivedita Arora",
+   "kind": "person",
+   "role": "Assistant Professor of Electrical and Computer Engineering, Northwestern University",
+   "role_zh": "西北大学电气与计算机工程系助理教授",
+   "based": "Evanston, US",
+   "based_zh": "埃文斯顿，美国",
+   "bio": "Nivedita Arora designs low-cost, sustainable sensing systems, from self-powered paper interfaces to field tools for plant science.",
+   "bio_zh": "Nivedita Arora 设计低成本、可持续的传感系统，从自供能纸质界面到植物科学的野外工具。",
+   "why": "Her lab cut the cost of measuring a living leaf's photosynthesis by about a thousand times.",
+   "why_zh": "她的实验室把测量活叶片光合作用的成本降低了约一千倍。",
+   "links": {
+    "site": "https://www.niveditaarora.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yusuke-miyajima",
+   "name": "Yusuke Miyajima",
+   "kind": "person",
+   "role": "Assistant Professor of Applied Physics, Waseda University",
+   "role_zh": "早稻田大学应用物理系助理教授",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Yusuke Miyajima works with Masahito Mochizuki on physical computing, including models of slime-mould-inspired optimisation machines.",
+   "bio_zh": "Yusuke Miyajima 与 Masahito Mochizuki 合作研究物理计算，包括受黏菌启发的优化机器模型。",
+   "why": "His group showed that the slime-mould 'amoeba' solver is mathematically a recurrent neural network, opening it to many physical substrates.",
+   "why_zh": "他的团队证明，黏菌“变形虫”求解器在数学上等同于循环神经网络，从而可以在多种物理基底上实现。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "swarm-biotactics",
+   "name": "SWARM Biotactics",
+   "kind": "company",
+   "role": "Defence start-up building swarms of cyborg insects with sensor backpacks",
+   "role_zh": "用背负传感器的赛博昆虫群做侦察的国防初创公司",
+   "based": "Kassel, Germany",
+   "based_zh": "卡塞尔，德国",
+   "bio": "SWARM Biotactics fits Madagascar hissing cockroaches with electronic backpacks and steers them, alone or as swarms, with its SWARM OS software.",
+   "bio_zh": "SWARM Biotactics 给马达加斯加发声蟑螂装上电子背包，用自研的 SWARM OS 软件单独或成群地操控它们。",
+   "why": "It is one of the first companies selling cyborg insects to militaries, which makes the ethics of insect cyborgs concrete.",
+   "why_zh": "它是最早向军方出售赛博昆虫的公司之一，让昆虫赛博化的伦理问题变得具体。",
+   "links": {
+    "site": "https://www.swarm-biotactics.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hsin-yi-lin",
+   "name": "Hsin-Yi Lin",
+   "kind": "person",
+   "role": "Designer, Zurich University of the Arts (ZHdK) OutLab",
+   "role_zh": "苏黎世艺术大学（ZHdK）OutLab 设计师",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Hsin-Yi Lin makes interactive installations that translate the bioelectrical activity of plants and fungi into light and form.",
+   "bio_zh": "Hsin-Yi Lin 创作交互装置，把植物和真菌的生物电活动转译成光和形态。",
+   "why": "Her work turns the slow, hidden signalling of a forest floor into something visitors can watch breathe.",
+   "why_zh": "她的作品让森林地面缓慢而隐秘的信号变成观众能看到的“呼吸”。",
+   "links": {
+    "site": "https://material.zhdk.ch/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "seokheun-choi",
+   "name": "Seokheun Choi",
+   "kind": "person",
+   "role": "Professor of Electrical and Computer Engineering, Binghamton University",
+   "role_zh": "宾汉姆顿大学电气与计算机工程系教授",
+   "based": "Binghamton, US",
+   "based_zh": "宾汉姆顿，美国",
+   "bio": "Seokheun Choi builds bacteria-powered biobatteries and living electronics, from paper batteries to probiotic power sources.",
+   "bio_zh": "Seokheun Choi 研发由细菌驱动的生物电池和活体电子器件，从纸电池到益生菌电源。",
+   "why": "His villi-shaped living battery treats bacteria as tenants whose habitat must be designed, not just as fuel.",
+   "why_zh": "他的绒毛状活体电池把细菌当作需要精心设计栖息地的“住户”，而不只是燃料。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "feng-guo--brainobot",
+   "creator_ids": [
+    "feng-guo"
+   ],
+   "title": "Brainobot: brain organoid computing for robotic decision-making",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "organoid-intelligence",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "A humanoid robot whose high-level decisions come from a living human brain organoid: camera input is turned into electrical stimulation, and the organoid's response decides whether to grasp an object or chase a laser dot.",
+   "description_zh": "一台人形机器人，它的高层决策来自一个活的人脑类器官：摄像头输入被转成电刺激，类器官的反应决定机器人去抓取物体还是追逐激光点。",
+   "idea_en": "Put a living organoid at the top of a robot's control stack, not just in a dish.",
+   "idea_zh": "把活的类器官放在机器人控制系统的最上层，而不只是放在培养皿里。",
+   "method": "Brain organoids on a high-density multielectrode array act as a physical reservoir (the Brainoware approach); a trained linear readout maps their spiking to motor commands in a closed loop with the robot.",
+   "method_zh": "脑类器官置于高密度多电极阵列上，作为物理“储备池”（延续 Brainoware 方法）；训练过的线性读出层把它们的放电映射为运动指令，与机器人形成闭环。",
+   "keywords": [
+    "Brainobot",
+    "brain organoid",
+    "reservoir computing",
+    "humanoid robot",
+    "closed-loop embodiment",
+    "Brainoware"
+   ],
+   "images": [
+    "https://www.biorxiv.org/content/biorxiv/early/2026/09/15/2026.09.09.750426/F1.large.jpg"
+   ],
+   "paper": {
+    "url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1",
+    "doi": "10.64898/2026.09.09.750426",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "Brain organoid computing for robotic decision-making"
+   },
+   "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1"
+  },
+  {
+   "id": "cortical-labs--embodied-neurocomputation",
+   "creator_ids": [
+    "cortical-labs",
+    "brett-kagan"
+   ],
+   "title": "Embodied Neurocomputation (and the CL1 robot dog)",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "organoid-intelligence",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "Cortical Labs and Honda Research Institute ran 26 living neuron cultures for over 4,000 hours, testing about 1,300 ways of encoding an odour-like gradient for a virtual forager; 12 settings learned reliably and beat silicon DQN agents with the same number of trials. The company then let CL1 neurons steer a four-legged robot dog toward a target.",
+   "description_zh": "Cortical Labs 与本田研究所用 26 个活神经元培养物运行了 4000 多小时，测试了约 1300 种为虚拟觅食者编码“气味梯度”的方式；其中 12 种设置能稳定学习，在相同尝试次数下胜过硅基 DQN 智能体。随后公司让 CL1 上的神经元引导一只四足机器狗走向目标。",
+   "idea_en": "How you talk to living neurons matters as much as the neurons: treat the encoding itself as the design problem.",
+   "idea_zh": "怎样与活神经元“对话”和神经元本身同样重要：把编码方式本身当作设计问题。",
+   "method": "Human iPSC-derived neurons on CL1 multielectrode chips receive stimulation encoding position along a gradient; an Optuna-driven search tunes stimulation parameters across cultures, and spike-rate decoding drives the agent and, in the demo, the robot's gait commands.",
+   "method_zh": "CL1 多电极芯片上的人源 iPSC 神经元接收编码梯度位置的电刺激；用 Optuna 在多个培养物上搜索刺激参数，再把放电率解码为智能体的动作，在演示中则驱动机器狗的步态指令。",
+   "keywords": [
+    "Cortical Labs",
+    "CL1",
+    "Honda Research Institute",
+    "synthetic biological intelligence",
+    "encoding",
+    "robot dog",
+    "NeurIPS 2026"
+   ],
+   "images": [
+    "https://www.arxiv.org/html/2605.13315v2/fig_2_experiment.png",
+    "https://static.techno-science.net/illustrations/libre/2026/10/31/robotdog-2048x1152.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2605.13315",
+    "doi": "",
+    "arxiv": "2605.13315",
+    "venue": "NeurIPS 2026",
+    "title": "Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation"
+   },
+   "source_url": "https://www.techno-science.net/en/news/robot-dog-human-neurons-chip-29686"
+  },
+  {
+   "id": "mattia-gazzola--chaos-controlled-reservoir",
+   "creator_ids": [
+    "mattia-gazzola"
+   ],
+   "title": "Computing with Living Neurons: Chaos-Controlled Reservoir Computing with Knowledge Transplant",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "organoid-intelligence",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "Living neuron cultures are unreliable computers because each one behaves differently and drifts. This work first maps each culture's dynamics, then uses weak light pulses to hold it in a stable regime; accuracy and lifetime improve about threefold, and a readout learned on one 'expert' culture can be transplanted to a similar 'student' culture.",
+   "description_zh": "活神经元培养物之所以是不可靠的计算机，是因为每一个都不一样，而且会漂移。这项研究先测绘每个培养物的动力学特征，再用微弱光脉冲把它稳定在可控状态；准确率和使用寿命提升约三倍，而且在一个“专家”培养物上学到的读出层可以移植给相似的“学生”培养物。",
+   "idea_en": "Tame a living computer's chaos first, then teach it, and pass what one culture learned to another.",
+   "idea_zh": "先驯服活体计算机的混沌，再去教它，还能把一个培养物学到的东西传给另一个。",
+   "method": "Optogenetic neural cultures on microelectrode arrays are characterised by their phase-portrait attractors; low-power optical chaos control stabilises activity before a reservoir-computing readout is trained, and attractor-matched cultures share readouts.",
+   "method_zh": "微电极阵列上的光遗传神经培养物先按相图吸引子进行刻画；在训练储备池计算读出层之前，用低功率光学混沌控制稳定其活动；吸引子相似的培养物可共享读出层。",
+   "keywords": [
+    "reservoir computing",
+    "chaos control",
+    "optogenetics",
+    "neural culture",
+    "knowledge transplant",
+    "UIUC"
+   ],
+   "images": [
+    "https://arxiv.org/html/2604.02552v1/apparatus_v8.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2604.02552",
+    "doi": "",
+    "arxiv": "2604.02552",
+    "venue": "arXiv 2026",
+    "title": "Computing with Living Neurons: Chaos-Controlled Reservoir Computing with Knowledge Transplant"
+   },
+   "source_url": "https://arxiv.org/abs/2604.02552"
+  },
+  {
+   "id": "the-biological-computing-co--neuron-derived-ai",
+   "creator_ids": [
+    "the-biological-computing-co"
+   ],
+   "title": "TBC neuron-derived AI software",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "wetware",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "product",
+   "description": "A start-up that grows living neural networks on dense electrode arrays, probes them with targeted experiments, and turns what it learns into an add-on layer for AI video models. Its July 2026 proof of concept on the OASIS 500M model claims about 5x faster generation, running on ordinary GPUs.",
+   "description_zh": "一家初创公司在高密度电极阵列上培养活体神经网络，用有针对性的实验探测它们，再把学到的规律变成 AI 视频模型的附加层。2026 年 7 月它在 OASIS 500M 模型上发布概念验证，声称生成速度提高约 5 倍，且运行在普通 GPU 上。",
+   "idea_en": "Use living neurons as a lab for discovering algorithms, then ship only the software.",
+   "idea_zh": "把活神经元当作发现算法的实验室，最后只交付软件。",
+   "method": "Neurons on arrays with up to 4,096 electrodes are stimulated with encodings of a model's internal problem; response patterns guide a post-training layer wrapped around each diffusion-transformer block (company claims, not peer reviewed).",
+   "method_zh": "在最多 4096 个电极的阵列上，用模型内部问题的编码去刺激神经元；其反应模式指导一个训练后附加层，包裹在每个扩散 Transformer 模块外（公司自述，未经同行评审）。",
+   "keywords": [
+    "The Biological Computing Co.",
+    "TBC",
+    "Biological Black Box",
+    "living neural networks",
+    "video generation",
+    "OASIS 500M"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/6a5e313cdc30c3120fae4fd7/6a67d317f8e07014e600ee02_cf151a164787909cba0ee21923ad4e51_Open%20Graph.jpg"
+   ],
+   "source_url": "https://tbc.co"
+  },
+  {
+   "id": "daito-manabe--brain-processing-unit",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "Brain Processing Unit (BPU)",
+   "year": 2025,
+   "field": "organoid",
+   "sub": "neural-art",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "artwork",
+   "description": "An art–science project in which lab-grown brain organoids 'listen' to music through light stimulation modelled on the inner ear and could tell six genres apart at over 70% accuracy; after rhythmic stimulation they kept producing the rhythm on their own. The data became an exhibition of sound and visuals in Tokyo.",
+   "description_zh": "一个艺术与科学合作项目：实验室培养的脑类器官通过模拟内耳频率分析的光刺激“聆听”音乐，能以 70% 以上的准确率区分六种音乐流派；接受节奏性电刺激后，它们在刺激停止后仍会自发地重现这个节奏。这些数据在东京被呈现为一场声音与影像展览。",
+   "idea_en": "Let an audience hear and see what a living organoid does with music.",
+   "idea_zh": "让观众听见、看见一个活类器官如何处理音乐。",
+   "method": "Cerebral organoids from the Ikeuchi Lab (University of Tokyo) receive optical and electrical stimulation; their recorded activity is classified and sonified/visualised by Daito Manabe, supported by SoftBank's Research Institute of Advanced Technology.",
+   "method_zh": "东京大学池内实验室的大脑类器官接受光刺激与电刺激；记录到的活动被分类，并由真锅大度转化为声音和影像，项目由软银先端技术研究所支持。",
+   "keywords": [
+    "Brain Processing Unit",
+    "BPU",
+    "Daito Manabe",
+    "SoftBank",
+    "Ikeuchi Lab",
+    "Cellular Ears",
+    "S+T+ARTS Prize 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FTxXHvZRLHM"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/05/brainprocessingunit-pp-7-01192.jpg",
+    "https://ars.electronica.art/starts-prize/files/2025/05/brainprocessingunit-pp-7-01153.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/brain-processing-unit/",
+   "collections": [
+    "starts-prize"
+   ]
+  },
+  {
+   "id": "lomax-boyd--consciousness-views-biocomputers",
+   "creator_ids": [
+    "lomax-boyd"
+   ],
+   "title": "Views on the distribution of consciousness influence ethical judgements toward brain organoids as biological computers",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "ethics",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "A survey study asking people how widely they think consciousness is spread in nature, and how that shapes their concern about organoid biocomputers. People who think consciousness is common were more likely to grant moral concern to organoids embedded in virtual worlds.",
+   "description_zh": "一项问卷研究，询问人们认为意识在自然界中分布得有多广，以及这如何影响他们对类器官生物计算机的担忧。认为意识很普遍的人，更倾向于对嵌入虚拟世界的类器官给予道德关注。",
+   "idea_en": "Public reactions to organoid computers depend on people's prior picture of where minds exist.",
+   "idea_zh": "公众如何看待类器官计算机，取决于他们原本认为心智存在于哪里。",
+   "method": "Exploratory online survey measuring beliefs about the distribution of consciousness across organisms and machines, and ethical judgements about embodied organoid biocomputers.",
+   "method_zh": "探索性在线问卷，测量受访者对意识在生物和机器中分布的看法，以及他们对具身类器官生物计算机的伦理判断。",
+   "keywords": [
+    "brain organoids",
+    "biocomputers",
+    "consciousness",
+    "moral status",
+    "public attitudes"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/nc/niag023",
+    "doi": "10.1093/nc/niag023",
+    "arxiv": "",
+    "venue": "Neuroscience of Consciousness 2026",
+    "title": "Views on the distribution of consciousness influence ethical judgements toward brain organoids as biological computers: an exploratory study"
+   },
+   "source_url": "https://doi.org/10.1093/nc/niag023"
+  },
+  {
+   "id": "asia-pacific-neuroethics-working-group--brain-organoid-recommendations",
+   "creator_ids": [
+    "asia-pacific-neuroethics-working-group",
+    "brett-kagan"
+   ],
+   "title": "Ethics and Regulation of Human Brain Organoid Research: Recommendations from the Asia Pacific Neuroethics Working Group",
+   "year": 2026,
+   "field": "organoid",
+   "sub": "ethics",
+   "organisms": [
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "A consensus paper by scientists, bioethicists, philosophers and lawyers on how to govern human brain organoid research in the Asia-Pacific, covering possible sentience, donor consent, privacy, dual use and fair access, including organoids used for computing.",
+   "description_zh": "一份由科学家、生命伦理学者、哲学家和法律学者共同撰写的共识论文，讨论亚太地区应如何治理人脑类器官研究，涵盖可能的感知能力、捐赠者同意、隐私、军民两用和公平获取，也包括用于计算的类器官。",
+   "idea_en": "Write the rules for organoid computing before it scales, with regional voices at the table.",
+   "idea_zh": "在类器官计算规模化之前就制定规则，并让本地区的声音参与其中。",
+   "method": "Interdisciplinary workshop in Singapore (November 2024) followed by structured consensus drafting of recommendations.",
+   "method_zh": "2024 年 11 月在新加坡举行跨学科研讨会，随后以结构化方式起草共识建议。",
+   "keywords": [
+    "brain organoids",
+    "neuroethics",
+    "consent",
+    "moral status",
+    "dual use",
+    "Asia Pacific"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s41649-025-00398-6",
+    "doi": "10.1007/s41649-025-00398-6",
+    "arxiv": "",
+    "venue": "Asian Bioethics Review 2026",
+    "title": "Ethics and Regulation of Human Brain Organoid Research: Recommendations from the Asia Pacific Neuroethics Working Group"
+   },
+   "source_url": "https://link.springer.com/article/10.1007/s41649-025-00398-6"
+  },
+  {
+   "id": "ritu-raman--muscle-thin-film-swimmer",
+   "creator_ids": [
+    "ritu-raman"
+   ],
+   "title": "Muscle thin-film swimmer",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A soft robot the size of a stick of gum swims with two gel fins lined with a single layer of light-sensitive muscle. Flashing light on one fin or the other steers it, and it followed a moving light through a water maze at up to four body lengths per minute.",
+   "description_zh": "一台口香糖大小的软体机器人，用两片衬有单层光敏肌肉的凝胶鳍游动。光照哪一侧的鳍，它就朝那边转向；它跟随移动的光穿过水中迷宫，速度最高可达每分钟四个体长。",
+   "idea_en": "Flat sheets of trained muscle can be a more efficient engine than bulky tissue.",
+   "idea_zh": "经过训练的平面肌肉薄膜，可以比厚重的肌肉组织更高效地充当引擎。",
+   "method": "Optogenetic mouse skeletal muscle cells grow as aligned fibres on grooved GelMA hydrogel films about 0.5 mm thick, are 'exercised' with light, and are actuated by alternating blue light on each fin.",
+   "method_zh": "光遗传小鼠骨骼肌细胞在约 0.5 毫米厚、带沟槽的 GelMA 水凝胶薄膜上长成定向纤维，先用光“锻炼”，再交替照射两侧鳍片驱动游动。",
+   "keywords": [
+    "skeletal muscle",
+    "optogenetics",
+    "GelMA",
+    "thin-film actuator",
+    "swimming robot",
+    "MIT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=omkiYBBrGZs"
+   },
+   "images": [
+    "https://news.mit.edu/sites/default/files/images/202609/MIT-RoboMuscle-01-press.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adfm.78065",
+    "doi": "10.1002/adfm.78065",
+    "arxiv": "",
+    "venue": "Advanced Functional Materials 2026",
+    "title": "2D Skeletal Muscle Thin Film Actuators Enhance Efficiency of Biohybrid Robots"
+   },
+   "source_url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"
+  },
+  {
+   "id": "ritu-raman--biohybrid-tendons",
+   "creator_ids": [
+    "ritu-raman"
+   ],
+   "title": "Biohybrid tendons for muscle-powered robots",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Lab-grown muscle is joined to a robot gripper through tough hydrogel 'tendons' instead of being stretched directly across the skeleton. The gripper closes about three times faster and with about 30 times more force, and the muscle-tendon units still worked after 7,000 contractions.",
+   "description_zh": "实验室培养的肌肉通过坚韧的水凝胶“肌腱”连接到机器人夹爪上，而不是直接绷在骨架上。夹爪闭合速度提高约三倍、力量提高约 30 倍，这些肌肉—肌腱单元在收缩 7000 次后仍能工作。",
+   "idea_en": "Borrow the body's tendon: a modular connector lets small living muscles drive bigger machines.",
+   "idea_zh": "借用身体的肌腱结构：一个模块化连接件，让小块活肌肉也能驱动更大的机器。",
+   "method": "A mathematical model of the muscle–tendon–skeleton interface guided the design of tissue-engineered skeletal muscle bonded to tough hydrogel tendons that attach to 3D-printed skeletons and grippers.",
+   "method_zh": "基于肌肉—肌腱—骨骼界面的数学模型，设计出组织工程骨骼肌与坚韧水凝胶肌腱的组合，再连接到 3D 打印骨架和夹爪上。",
+   "keywords": [
+    "biohybrid tendon",
+    "skeletal muscle",
+    "hydrogel",
+    "gripper",
+    "power-to-weight",
+    "MIT"
+   ],
+   "images": [
+    "https://news.mit.edu/sites/default/files/images/202512/MIT-ArtificialTendons-01-press.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/advs.202512680",
+    "doi": "10.1002/advs.202512680",
+    "arxiv": "",
+    "venue": "Advanced Science 2025",
+    "title": "Biohybrid Tendons Enhance the Power‐to‐Weight Ratio and Modularity of Muscle‐Powered Robots"
+   },
+   "source_url": "https://news.mit.edu/2025/artificial-tendons-give-muscle-powered-robots-boost-1201"
+  },
+  {
+   "id": "damien-woods--thermodynamic-dna-computer",
+   "creator_ids": [
+    "damien-woods"
+   ],
+   "title": "A thermodynamically favoured molecular computer",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "molecular",
+   "organisms": [
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "A DNA computer that runs programs simply by heating and cooling a drop of salty water: short DNA strands settle onto a scaffold strand, and the lowest-energy arrangement they reach is the answer. It ran ten programs, including 100-bit sums, multiplication and division, and could be reused for 25 calculations in a row.",
+   "description_zh": "一台只需把一滴盐水加热再冷却就能运行程序的 DNA 计算机：短 DNA 链结合到一条支架链上，它们最终到达的最低能量排列就是答案。它运行了十个程序，包括 100 位加法、乘法和除法，并能连续重复使用完成 25 次计算。",
+   "idea_en": "Let the computation roll downhill: design the answer to be the most stable state of the molecules.",
+   "idea_zh": "让计算“顺势而下”：把答案设计成分子最稳定的状态。",
+   "method": "In the Scaffolded DNA Computer model, input and program strands hybridise to a long scaffold during a thermal anneal; thermodynamic equilibrium, not kinetic control, enforces the correct output, read out by imaging or sequencing.",
+   "method_zh": "在“支架式 DNA 计算机”模型中，输入链和程序链在热退火过程中与一条长支架链杂交；保证输出正确的是热力学平衡，而不是动力学控制，结果通过成像或测序读出。",
+   "keywords": [
+    "DNA computing",
+    "molecular programming",
+    "thermodynamic equilibrium",
+    "Scaffolded DNA Computer",
+    "Maynooth University"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10996-5/MediaObjects/41586_2026_10996_Fig1_HTML.png",
+    "https://www.maynoothuniversity.ie/sites/default/files/assets/images/MUI_8522.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-026-10996-5",
+    "doi": "10.1038/s41586-026-10996-5",
+    "arxiv": "",
+    "venue": "Nature 2026",
+    "title": "A thermodynamically favoured molecular computer"
+   },
+   "source_url": "https://www.maynoothuniversity.ie/news-events/mu-researchers-build-world-first-dna-computer-published-nature"
+  },
+  {
+   "id": "keisuke-morishima--terrain-aware-cyborg-insect",
+   "creator_ids": [
+    "keisuke-morishima"
+   ],
+   "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "A cyborg cockroach whose backpack recognises the ground ahead (flat, up, down or hole) and, instead of steering around every obstacle, lets the insect climb over it by itself. Fewer stimulation commands meant fewer detours and steadier progress.",
+   "description_zh": "一只赛博蟑螂，背包能识别前方地形（平地、上坡、下坡或坑洞）；它不再绕开每一个障碍，而是让昆虫自己爬过去。更少的刺激指令带来更少的绕路和更平稳的前进。",
+   "idea_en": "Steer less: let the animal's own skills do the work and intervene only when needed.",
+   "idea_zh": "少操控一些：让动物自身的本领去完成工作，只在必要时介入。",
+   "method": "An onboard multilayer perceptron classifies terrain from IMU data (92% offline accuracy) and feeds a reactive controller that mixes goal-seeking, obstacle avoidance, wall-following and innate climbing, modulating antenna/cercus stimulation.",
+   "method_zh": "机载多层感知机根据惯性测量数据识别地形（离线准确率 92%），并接入一个反应式控制器，综合目标导向、避障、沿墙行走和天生的攀爬行为，调节对触角和尾须的刺激。",
+   "keywords": [
+    "cyborg insect",
+    "Madagascar hissing cockroach",
+    "terrain recognition",
+    "biohybrid physical AI",
+    "Osaka University"
+   ],
+   "images": [
+    "https://mediasvc.eurekalert.org/Api/v1/Multimedia/0883e1fb-d089-459c-8ba4-136b70f3634d/Rendition/low-res/Content/Public"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.device.2026.101277",
+    "doi": "10.1016/j.device.2026.101277",
+    "arxiv": "",
+    "venue": "Device 2026",
+    "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects"
+   },
+   "source_url": "https://www.eurekalert.org/news-releases/1140927"
+  },
+  {
+   "id": "thang-vo-doan--paraborg",
+   "creator_ids": [
+    "thang-vo-doan"
+   ],
+   "title": "Paraborg: paramedic cyborg insects",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "Giant burrowing cockroaches carry a camera and a remotely fired auto-injector through rubble to deliver emergency medicine to trapped people. They reached every checkpoint in tests, and the full navigate-and-inject task worked in 72% of attempts.",
+   "description_zh": "巨型穴居蟑螂背着摄像头和可远程触发的自动注射器穿过瓦砾，为被困人员送去急救药物。测试中它们到达了所有检查点，完整的“导航并注射”任务成功率为 72%。",
+   "idea_en": "A cyborg insect that finds a survivor could also be the first responder.",
+   "idea_zh": "找到幸存者的赛博昆虫，也可以成为第一个施救者。",
+   "method": "A supervised control platform steers Macropanesthia rhinoceros cockroaches by electrical stimulation while an onboard camera and micro-injector deliver a dose on command; accuracy rose to 95% within 15 cm of the target.",
+   "method_zh": "一个受监督的控制平台通过电刺激操控犀牛蟑螂（Macropanesthia rhinoceros），机载摄像头和微型注射器按指令给药；在距目标 15 厘米以内时，准确率可达 95%。",
+   "keywords": [
+    "Paraborg",
+    "cyborg insect",
+    "drug delivery",
+    "search and rescue",
+    "University of Queensland",
+    "UNSW"
+   ],
+   "images": [
+    "https://assets.newatlas.com/dims4/default/2193802/2147483647/strip/true/crop/4784x2512+0+339/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F42%2F8e%2F1f830b0843ecad00f506883719bf%2Feait-mda-2026-cyborg-cockroach-11.jpeg&na.image_optimisation=0"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/advs.76973",
+    "doi": "10.1002/advs.76973",
+    "arxiv": "",
+    "venue": "Advanced Science 2026",
+    "title": "Paraborg: Paramedic Cyborg Insects for In Situ Emergency Drug‐Delivery"
+   },
+   "source_url": "https://newatlas.com/robotics/cyborg-cockroach-paramedics/"
+  },
+  {
+   "id": "swarm-biotactics--cyborg-insect-swarms",
+   "creator_ids": [
+    "swarm-biotactics"
+   ],
+   "title": "SWARM Biotactics cyborg insect swarms",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "insects"
+   ],
+   "kind": "product",
+   "description": "A defence company that fits cockroaches with sensor backpacks and steers them, singly or as swarms, into rubble, tunnels and buildings for reconnaissance. It says it is working with the German Bundeswehr and NATO customers, though independent evidence of field use is thin.",
+   "description_zh": "一家国防公司，给蟑螂装上传感器背包，单独或成群地把它们派进瓦砾、隧道和建筑中执行侦察。公司称正与德国联邦国防军和北约客户合作，但实地使用的独立证据很少。",
+   "idea_en": "Cyborg insects have left the lab and entered the arms market, so insect welfare and dual use are now product questions.",
+   "idea_zh": "赛博昆虫已经走出实验室、进入军火市场，昆虫福利和军民两用问题因此变成了产品问题。",
+   "method": "Madagascar hissing cockroaches wear 3–15 g backpacks with cameras, microphones and radios; electrodes on the antennae deliver steering pulses, coordinated by the company's SWARM OS orchestration software.",
+   "method_zh": "马达加斯加发声蟑螂背负 3–15 克的背包，内含摄像头、麦克风和无线电；触角上的电极发送转向脉冲，由公司的 SWARM OS 编排软件统一协调。",
+   "keywords": [
+    "SWARM Biotactics",
+    "cyborg cockroach",
+    "swarm",
+    "defence",
+    "dual use",
+    "Bundeswehr"
+   ],
+   "images": [
+    "https://www.swarm-biotactics.com/wp-content/uploads/swarm-biotactics_social.jpg"
+   ],
+   "source_url": "https://www.swarm-biotactics.com"
+  },
+  {
+   "id": "electric-plant--bombadil",
+   "creator_ids": [
+    "electric-plant"
+   ],
+   "title": "Bud and Bombadil: plant-signal sensors and foundation model",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "plant-interfaces",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Cheap probes screwed into a tree's living cambium stream its electrical signals over a low-power network, and a foundation model called Bombadil, trained on about 125 species, tells growers when plants need water or nutrients.",
+   "description_zh": "把廉价探针拧进树木活的形成层，通过低功耗网络传回电信号；名为 Bombadil 的基础模型在约 125 个物种的数据上训练，告诉种植者植物何时需要水或养分。",
+   "idea_en": "Treat plant electrophysiology like a language and train a model to read it at farm scale.",
+   "idea_zh": "把植物电生理当作一种语言，训练模型在农场尺度上读懂它。",
+   "method": "'Bud' sensors with stainless-steel screw electrodes reach the cambium and send voltage traces to a base station; the Bombadil model analyses them in the cloud and feeds dashboards and alerts.",
+   "method_zh": "Bud 传感器用不锈钢螺钉电极接触形成层，把电压信号发送到基站；Bombadil 模型在云端分析，并输出到仪表盘和告警系统。",
+   "keywords": [
+    "Electric Plant",
+    "Bombadil",
+    "plant electrophysiology",
+    "foundation model",
+    "agriculture",
+    "forestry"
+   ],
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800"
+   ],
+   "source_url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
+  },
+  {
+   "id": "josh-bongard--language-controlled-xenobots",
+   "creator_ids": [
+    "josh-bongard",
+    "michael-levin",
+    "douglas-blackiston"
+   ],
+   "title": "Toward Controlling Biology with Language: prompt-conditioned interventions for xenobots",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "cells",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Researchers re-analysed 155 archived videos of xenobots (frog-cell living machines) given an electrical pulse, and trained a model that turns a plain-language instruction such as 'stop the bot' into a pulse duration. Long pulses reliably stop bots; turning and restarting are not controlled by the pulse.",
+   "description_zh": "研究者重新分析了 155 段存档视频，内容是接受电脉冲的异种机器人（由青蛙细胞构成的活体机器），并训练了一个模型，把“让它停下”这样的自然语言指令转成脉冲时长。长脉冲能可靠地让机器人停下；转向和重新启动则不受脉冲控制。",
+   "idea_en": "Language could become an interface to living matter, but only for behaviours the stimulus actually controls.",
+   "idea_zh": "语言可能成为操控活体物质的界面，但只适用于刺激真正能控制的那些行为。",
+   "method": "Two independent trackers re-measure each bot's motion before and after a pulse; a blind language critic labels outcomes, and an offline-learned prompt-to-intervention model outputs a dose-response curve tested on unseen instructions and bots.",
+   "method_zh": "用两套独立的追踪方法重新测量每个机器人在脉冲前后的运动；由一个盲评的语言评判器标注结果，再用离线学习的“提示—干预”模型输出剂量—反应曲线，并在未见过的指令和机器人上测试。",
+   "keywords": [
+    "xenobots",
+    "biobots",
+    "natural language",
+    "offline learning",
+    "electrical stimulation",
+    "Levin",
+    "Bongard"
+   ],
+   "images": [
+    "https://arxiv.org/html/2610.02247v2/figures/fig1_overview.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2610.02247",
+    "doi": "",
+    "arxiv": "2610.02247",
+    "venue": "arXiv 2026",
+    "title": "Toward Controlling Biology with Language: Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots"
+   },
+   "source_url": "https://arxiv.org/abs/2610.02247"
+  },
+  {
+   "id": "andrew-adamatzky--oyster-mycelium-star-array",
+   "creator_ids": [
+    "andrew-adamatzky"
+   ],
+   "title": "Directional spiking in oyster mycelium recorded with a star-shaped electrode array",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "An eight-channel star of electrodes around a patch of oyster-mushroom mycelium shows that its electrical spikes are not uniform: some directions fire more and louder, spikes come in bursts, and events travel between sectors in repeatable patterns.",
+   "description_zh": "在一块平菇菌丝体周围布置八通道星形电极，结果显示其电脉冲并不均匀：某些方向放电更多、更强，脉冲成簇出现，事件会以可重复的模式在各扇区之间传播。",
+   "idea_en": "A fungal network has directions: map where signals flow before using it as a sensor or computer.",
+   "idea_zh": "真菌网络是有方向的：在把它当作传感器或计算机之前，先弄清信号往哪里流。",
+   "method": "Pleurotus ostreatus colonising wood shavings is recorded with an 8-channel differential star-shaped electrode array; spike statistics, burst clustering, cross-channel correlation and propagation delays are analysed.",
+   "method_zh": "对在木屑中生长的平菇（Pleurotus ostreatus）菌丝，用八通道差分星形电极阵列记录电位，分析脉冲统计、簇发、通道间相关性和传播延迟。",
+   "keywords": [
+    "Pleurotus ostreatus",
+    "fungal electrophysiology",
+    "electrode array",
+    "spiking",
+    "unconventional computing"
+   ],
+   "images": [
+    "https://arxiv.org/html/2601.08099v1/figs/agg_spike_rate_polar.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2601.08099",
+    "doi": "",
+    "arxiv": "2601.08099",
+    "venue": "arXiv 2026",
+    "title": "Directional Electrical Spiking, Bursting, and Information Propagation in Oyster Mycelium Recorded with a Star-Shaped Electrode Array"
+   },
+   "source_url": "https://arxiv.org/abs/2601.08099"
+  },
+  {
+   "id": "andrew-adamatzky--fungal-security-resilience",
+   "creator_ids": [
+    "andrew-adamatzky"
+   ],
+   "title": "Fungal systems for security and resilience",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "speculation"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "publication",
+   "description": "A position paper proposing living mycelium networks as infrastructure for disrupted environments: distributed sensors under roads and buildings, self-healing materials, and hard-to-spot tamper and anomaly detectors that keep working when digital systems fail.",
+   "description_zh": "一篇立场论文，提出把活的菌丝网络当作受扰环境中的基础设施：埋在道路和建筑下的分布式传感器、能自我修复的材料，以及在数字系统失效时依然工作、难以察觉的篡改与异常探测层。",
+   "idea_en": "When electronics break, a living network that grows back may be the more resilient sensor.",
+   "idea_zh": "当电子设备损坏时，一个能重新长回来的活网络，可能是更有韧性的传感器。",
+   "method": "Conceptual mapping of fungal properties (decentralised control, embodied memory, self-repair, electrical spiking) onto infrastructure protection, environmental monitoring and tamper evidence.",
+   "method_zh": "从概念上把真菌的特性（去中心化控制、具身记忆、自我修复、电脉冲）对应到基础设施保护、环境监测和防篡改等应用。",
+   "keywords": [
+    "mycelium",
+    "resilience",
+    "distributed sensing",
+    "self-healing",
+    "security"
+   ],
+   "images": [
+    "https://arxiv.org/html/2602.10543v1/figs/mycelium2.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2602.10543",
+    "doi": "",
+    "arxiv": "2602.10543",
+    "venue": "arXiv 2026",
+    "title": "Fungal systems for security and resilience"
+   },
+   "source_url": "https://arxiv.org/abs/2602.10543"
+  },
+  {
+   "id": "kunal-masania--mycelium-mea",
+   "creator_ids": [
+    "kunal-masania"
+   ],
+   "title": "Microelectrode array measurements of fungal mycelium reveal growth-associated electrical activity",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A custom microelectrode array, combined with time-lapse imaging and impedance, shows that the spontaneous electrical spikes of mycelium appear while it grows and stop with sterile controls or biocide, so the signals are tied to growth rather than noise.",
+   "description_zh": "一个定制的微电极阵列，结合延时成像和阻抗测量，显示菌丝体的自发电脉冲在其生长时出现，而在无菌对照或加入杀菌剂后消失，说明这些信号与生长有关，而不是噪声。",
+   "idea_en": "Before building fungal sensors, check that the spikes really come from the living fungus.",
+   "idea_zh": "在制造真菌传感器之前，先确认那些电脉冲真的来自活的真菌。",
+   "method": "Mycelium is grown directly over a custom MEA; extracellular potentials are recorded alongside optical growth tracking and impedance spectroscopy across three growth runs, a sterile control and a biocide treatment.",
+   "method_zh": "菌丝体直接长在定制的微电极阵列上；在三次生长实验、一次无菌对照和一次杀菌剂处理中，同时记录胞外电位、光学生长追踪和阻抗谱。",
+   "keywords": [
+    "mycelium",
+    "microelectrode array",
+    "fungal bioelectricity",
+    "engineered living materials",
+    "TU Delft"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1557%2Fs43579-026-01041-7/MediaObjects/43579_2026_1041_Figa_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1557/s43579-026-01041-7",
+    "doi": "10.1557/s43579-026-01041-7",
+    "arxiv": "",
+    "venue": "MRS Communications 2026",
+    "title": "Microelectrode array measurements of fungal mycelium reveal growth-associated electrical activity"
+   },
+   "source_url": "https://link.springer.com/article/10.1557/s43579-026-01041-7"
+  },
+  {
+   "id": "jinxing-li--mycoelectronics",
+   "creator_ids": [
+    "jinxing-li"
+   ],
+   "title": "Mycoelectronics: bioprinted living fungal bioelectronics",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Living mycelium is 3D-printed onto a stretchable electrode array to make a skin-like patch that senses heat; it heals itself after damage and can grow sensor paths into hard-to-reach places. Linked to a circuit, the fungal sensor triggered a 'reflex' that moved a muscle.",
+   "description_zh": "把活的菌丝体 3D 打印到可拉伸电极阵列上，做成能感知热量的类皮肤贴片；它受损后能自我修复，还能把传感通路长进难以到达的地方。接上电路后，这个真菌传感器触发了一个让肌肉动起来的“反射”。",
+   "idea_en": "Grow the sensor: a fungal skin that heals itself and senses heat.",
+   "idea_zh": "把传感器“种”出来：一层能自我修复、能感知热量的真菌皮肤。",
+   "method": "Fungal bioink is bioprinted onto graphene electrodes on SEBS; heat-induced vacuole fusion changes ion transport and conductivity in the hyphae, which the electrodes read as a temperature signal driving a bioelectronic reflex arc.",
+   "method_zh": "把真菌生物墨水打印到 SEBS 上的石墨烯电极上；受热时菌丝内液泡融合，改变离子传输和电导率，电极把它读成温度信号，再驱动一条生物电子反射弧。",
+   "keywords": [
+    "mycoelectronics",
+    "bioprinting",
+    "mycelium",
+    "thermal sensing",
+    "self-healing",
+    "reflex arc",
+    "PNAS"
+   ],
+   "images": [
+    "https://inews.gtimg.com/om_bt/OEaVK_aEfzwZ7P3j5p0EvKA2rRjT1-cbEvoUCytpNoSggAA/641",
+    "https://inews.gtimg.com/om_bt/OrAka1-Gid2nwVLaCYtWApkLSU536TcpkrdpNf_qvyw2oAA/641"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.2530456123",
+    "doi": "10.1073/pnas.2530456123",
+    "arxiv": "",
+    "venue": "PNAS 2026",
+    "title": "Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation"
+   },
+   "source_url": "https://par.nsf.gov/biblio/10650372"
+  },
+  {
+   "id": "nivedita-arora--leaf-photosynthesis-monitor",
+   "creator_ids": [
+    "nivedita-arora"
+   ],
+   "title": "Towards Accessible, Autonomous Photosynthesis Monitoring on Living Leaves",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "plant-interfaces",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A small clamp-on dome that closes over a living leaf, measures how fast it draws down CO2, then opens to refresh the air, logging photosynthesis for days. Each chamber costs about USD 62, around a thousand times less than lab instruments, so many leaves can be watched at once.",
+   "description_zh": "一个夹在活叶片上的小罩子，会定时合上测量叶片吸收 CO2 的速度，再打开换气，连续多天记录光合作用。每个罩子约 62 美元，比实验室仪器便宜约一千倍，因此可以同时观察许多叶片。",
+   "idea_en": "Make a plant's breathing cheap and continuous to watch.",
+   "idea_zh": "让观察植物的“呼吸”变得便宜而持续。",
+   "method": "A 3D-printed clamp and thermoformed dome form an automated chamber with a low-cost CO2 sensor; periodic closing and opening measures net photosynthesis without pumps or gas tubing, guided by a study with 13 plant biologists.",
+   "method_zh": "3D 打印夹具和热成型罩构成带低成本 CO2 传感器的自动腔室；定期开合即可测量净光合作用，无需气泵或气管，设计依据对 13 位植物生物学家的调研。",
+   "keywords": [
+    "photosynthesis",
+    "living leaves",
+    "CO2 sensing",
+    "low-cost instrument",
+    "plant science",
+    "HCI"
+   ],
+   "images": [
+    "https://arxiv.org/html/2611.13387v1/fig1.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2611.13387",
+    "doi": "",
+    "arxiv": "2611.13387",
+    "venue": "arXiv 2026",
+    "title": "Towards Accessible, Autonomous Photosynthesis Monitoring on Living Leaves"
+   },
+   "source_url": "https://arxiv.org/abs/2611.13387"
+  },
+  {
+   "id": "yusuke-miyajima--amoeba-solver-rnn",
+   "creator_ids": [
+    "yusuke-miyajima"
+   ],
+   "title": "Amoeba-inspired optimisation machine as a recurrent neural network",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "paper",
+   "description": "The 'amoeba' solver, modelled on how a slime mould spreads its body to solve the travelling-salesman problem, is simplified into a recurrence that drops the mould's volume-conservation rule. It finds solutions in fewer steps, handles up to 180 cities, and turns out to be a recurrent neural network with fixed weights.",
+   "description_zh": "“变形虫”求解器模仿黏菌伸展身体来解决旅行商问题；研究者把它简化为一个递推公式，去掉了黏菌的体积守恒约束。新模型用更少的步数找到解，可处理多达 180 个城市，而且在数学上等同于一个固定权重的循环神经网络。",
+   "idea_en": "Slime-mould problem solving and neural networks may share one computational principle, so the mould can be rebuilt in light, spin or fluid.",
+   "idea_zh": "黏菌解题和神经网络可能共享同一个计算原理，因此黏菌可以用光、自旋或流体重新实现。",
+   "method": "Five modifications to the Amoeba TSP model yield a simple recurrence formula; its equivalence to a fixed-weight RNN is proven, and photonic, spintronic and fluidic implementations are proposed, with a spintronic example.",
+   "method_zh": "对 Amoeba TSP 模型做五项修改得到一个简单的递推公式；证明它与固定权重 RNN 等价，并提出光子、自旋电子和流体实现方案，给出一个自旋电子示例。",
+   "keywords": [
+    "Physarum polycephalum",
+    "amoeba TSP",
+    "combinatorial optimisation",
+    "recurrent neural network",
+    "physical computing",
+    "Waseda"
+   ],
+   "images": [
+    "https://www.waseda.jp/top/en/assets/uploads/2026/08/Infographics-Slime-Mold-Inspired-Computing-scaled.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1103/zgvb-cfpg",
+    "doi": "10.1103/zgvb-cfpg",
+    "arxiv": "",
+    "venue": "Physical Review Research 2026",
+    "title": "Mathematical model of the amoeba-inspired combinatorial optimization machine for physical implementation and its equivalence to recurrent neural networks"
+   },
+   "source_url": "https://www.waseda.jp/top/en/news/89206"
+  },
+  {
+   "id": "hsin-yi-lin--symbiotic-forest",
+   "creator_ids": [
+    "hsin-yi-lin"
+   ],
+   "title": "Symbiotic Forest",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation in which custom sensors pick up the faint bioelectrical activity of living plants and fungi and render it as a slow, breathing light pattern, so visitors can feel a connection to organisms they usually overlook.",
+   "description_zh": "一件交互装置：定制传感器捕捉活植物和真菌微弱的生物电活动，并把它呈现为缓慢“呼吸”的光影，让观众感受到与平时忽视的生物之间的联系。",
+   "idea_en": "Show bioelectric signals as breathing, a rhythm every visitor already understands.",
+   "idea_zh": "把生物电信号呈现为“呼吸”，一种每位观众都懂的节奏。",
+   "method": "Custom electronic sensors on plants and mycelium feed a visualisation tool; the piece is built from mycelium, ceramic, PLA and electronics.",
+   "method_zh": "放在植物和菌丝体上的定制电子传感器把信号输入可视化工具；作品由菌丝体、陶瓷、PLA 和电子元件构成。",
+   "keywords": [
+    "bioelectricity",
+    "mycelium",
+    "plants",
+    "installation",
+    "ZHdK",
+    "OutLab"
+   ],
+   "images": [
+    "https://framerusercontent.com/images/w0jgw0TnEO2ohzkMmkYvOyM4B7k.jpg?width=2000&height=1335",
+    "https://framerusercontent.com/images/u0bTbjUt0rI5ranAvugv4mc5owI.jpg?width=2000&height=1335"
+   ],
+   "source_url": "https://material.zhdk.ch/projects/symbiotic-forest"
+  },
+  {
+   "id": "seokheun-choi--villi-living-biobattery",
+   "creator_ids": [
+    "seokheun-choi"
+   ],
+   "title": "Intestinal villi-inspired living biobatteries",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A bacteria-powered battery shaped like the finger-like villi of the small intestine: the extra surface gives microbes room to live without clogging, and the device held about 0.75 V for at least 14 hours, enough for small LEDs or sensors.",
+   "description_zh": "一种形似小肠绒毛的细菌电池：绒毛增加的表面积让微生物有地方生活又不会堵塞，装置在至少 14 小时内保持约 0.75 伏电压，足以点亮小 LED 或驱动传感器。",
+   "idea_en": "Design the microbes' habitat, not just the electrode, and a living battery lasts longer.",
+   "idea_zh": "设计的是微生物的栖息地而不只是电极，活体电池就能更持久。",
+   "method": "Villi-shaped conductive hydrogel anodes are seeded with electroactive bacteria and separated from a modified carbon-cloth cathode by an ion-exchange membrane, fed with nutrient medium.",
+   "method_zh": "绒毛状导电水凝胶阳极中接种产电细菌，通过离子交换膜与改性碳布阴极隔开，并持续供给营养液。",
+   "keywords": [
+    "biobattery",
+    "microbial fuel cell",
+    "conductive hydrogel",
+    "villi",
+    "exoelectrogens",
+    "Binghamton"
+   ],
+   "images": [
+    "https://www.binghamton.edu/news/images/uploads/features/Villi.jpg",
+    "https://www.binghamton.edu/news/images/uploads/features/biobattery-graphic.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/smll.76091",
+    "doi": "10.1002/smll.76091",
+    "arxiv": "",
+    "venue": "Small 2026",
+    "title": "Intestinal Villi‐Inspired Living Biobatteries via Habitat‐Engineered Conductive Hydrogel Architectures"
+   },
+   "source_url": "https://www.binghamton.edu/news/story/6533/small-intestines-new-biobattery"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Yiqian Wu, Ziming Wang, Michail Giannakos, Morten Fjeld: 'Blooming Tree in the Air: Speculating on a Plant–Robot Hybrid That Grows and Flies' (NordiCHI 2026 Adjunct)",
+   "why": "Speculative plant–robot hybrid; no abstract or image reachable (ACM blocks scripts).",
+   "link": "https://doi.org/10.1145/3821402.3830128",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Akyildiz, Sayin, Saygili, Unluturk: molecular type division multiplexing via algae VOCs (ACM NanoCom 2026)",
+   "why": "Algae volatiles as a molecular communication channel; still no abstract or visual.",
+   "link": "https://doi.org/10.1145/3818305.3830272",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Nazar Zadeh Attar, Magarini, Mura et al.: plant stress decoding from electrophysiological signals (ACM NanoCom 2026)",
+   "why": "Plant bioelectric signals framed as a communication channel.",
+   "link": "https://doi.org/10.1145/3818305.3830252",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Takeuchi lab: light-driven quadrupedal walking biohybrid robot with antagonistic muscle rings (Adv. Robotics Research 2026)",
+   "why": "Follow-up to the biohybrid biped; no public figure or video found yet.",
+   "link": "https://doi.org/10.1002/adrr.202500203",
+   "found_via": "shoji-takeuchi",
+   "status": "no_media"
+  },
+  {
+   "name": "Oehlsen, Stegbauer et al.: biodegradable printed circuit boards from Aspergillus niger mycelium (Cleaner Materials 2026)",
+   "why": "Compostable fungal PCB substrate; better suited to the bio-materials field.",
+   "link": "https://doi.org/10.1016/j.clema.2026.100416",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Paris Brown, Shyni Varghese: 'Computing inspired by the brain: a journey from algorithms to organoids' (Nature Computational Science 2026)",
+   "why": "Review linking neuromorphic computing to organoid intelligence; paper-only.",
+   "link": "https://doi.org/10.1038/s43588-026-01012-x",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Van Gyseghem, Dierickx, Barnhart: systematic review of consciousness concepts in brain-organoid ethics (AJOB Neuroscience 2026); 'Disentangling Intelligence and Consciousness in Human Brain Organoids'",
+   "why": "Ethics literature on organoid consciousness; paper-only.",
+   "link": "https://doi.org/10.1080/21507740.2026.2649187",
+   "found_via": "andrew-j-barnhart",
+   "status": "open"
+  },
+  {
+   "name": "Nadimi et al.: stimulus-evoked network dynamics in human cortical organoids (arXiv 2607.28068)",
+   "why": "Sceptical result: evoked organoid responses are near-synchronous bursts with no propagation; useful counterpoint for OI claims.",
+   "link": "https://arxiv.org/abs/2607.28068",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Grigoryan, Romano, Stefanini, De Masi: biohybrid fish-school experiments with robotic fish (arXiv 2609.35554)",
+   "why": "Live fish among robotic fish; more ACI than biocomputing.",
+   "link": "https://arxiv.org/abs/2609.35554",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Barros, Lopez Bernal, Scherer: Biological-Hybrid Intelligence framework (arXiv 2608.18748)",
+   "why": "Conceptual framework for splitting computation between neurons and AI.",
+   "link": "https://arxiv.org/abs/2608.18748",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Brennen Hill: world-model formation in neural organoids via an LLM-generated curriculum (NeurIPS 2025 workshops)",
+   "why": "Proposed task curriculum for organoids; no experiments yet.",
+   "link": "https://arxiv.org/abs/2509.04633",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Soliman, Forbes, Damian: yeast-driven, bioimpedance-sensitive biohybrid soft robots (Cyborg and Bionic Systems 2025) and yeast–silicone fermentation-powered robots (Research Square 2026)",
+   "why": "Fermenting yeast as a living pneumatic engine.",
+   "link": "https://doi.org/10.34133/cbsystems.0233",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Schick et al.: Physarum escapes a blue-light trap along its longest axis (PRX Life 2026)",
+   "why": "Slime-mould decision-making explained by cytoplasmic flow.",
+   "link": "https://www.sciencealert.com/physicists-discover-how-slime-mold-makes-decisions-without-a-brain",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Morishima lab: Insect Synergy Circuit (ROBOMECH Journal 2026); cyborg insect visual-perception navigation (Adv. Intell. Syst.)",
+   "why": "Controller that reads heartbeat and neural activity before stimulating the insect.",
+   "link": "https://www.eurekalert.org/news-releases/1129899",
+   "found_via": "keisuke-morishima",
+   "status": "open"
+  },
+  {
+   "name": "Independent CL1_LLM_Encoder project: living neurons re-weighting an LLM's token selection (2026)",
+   "why": "Community hack on Cortical Labs' cloud CL1; claims inconsistent, not peer reviewed.",
+   "link": "https://hackernoon.com/i-wired-800000-living-neurons-into-an-llm-heres-what-actually-happened",
+   "found_via": "cortical-labs",
+   "status": "open"
+  },
+  {
+   "name": "Simulacra Naturae – Entangled Biomes (SIGGRAPH 2026 Art Gallery)",
+   "why": "New iteration of an existing organoid-driven artwork (nefeli-manoudaki--simulacra-naturae); could be added as extra media.",
+   "link": "https://doi.org/10.1145/3799824.3812690",
+   "found_via": "nefeli-manoudaki",
+   "status": "duplicate"
+  },
+  {
+   "name": "SIGGRAPH Asia 2026 Art Gallery: 'Threads of Becoming: From Microscopic Fibers to Living Interfaces', 'Bug in my Software'",
+   "why": "Titles suggest living-material and insect works; abstracts not yet public (show runs Dec 2026).",
+   "link": "https://doi.org/10.1145/3829214.3839402",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "UIST 2026 proceedings (Detroit)",
+   "why": "Scanned 251 papers via Crossref: no living-organism interface papers; AquaWeave liquid-activated bio-textiles (10.1145/3830398.3830607) may fit the bio field.",
+   "link": "https://dl.acm.org/doi/proceedings/10.1145/3830398",
+   "found_via": "seed",
+   "status": "off_topic"
+  }
+ ]
+}

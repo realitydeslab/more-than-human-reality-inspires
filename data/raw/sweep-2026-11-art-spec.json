@@ -1,0 +1,1513 @@
+{
+ "batch": "sweep-2026-11-art-spec",
+ "creators": [
+  {
+   "id": "otobong-nkanga",
+   "name": "Otobong Nkanga",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Antwerp, BE",
+   "bio": "Nigerian-born artist whose drawings, tapestries, installations and performances trace how land, minerals, plants and bodies are bound together by extraction and care.",
+   "why": "She builds works that are also living sites, where plants, soil, water and people meet and slowly change the artwork.",
+   "links": {
+    "site": "https://www.labiennale.org/en/art/2026/otobong-nkanga"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "出生于尼日利亚的艺术家，用绘画、挂毯、装置和表演追踪土地、矿物、植物与身体如何被开采与照料联结在一起。",
+   "why_zh": "她的作品同时也是活的场所：植物、土壤、水和人在这里相遇，并慢慢改变作品本身。",
+   "based_zh": "安特卫普，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "celia-vasquez-yui",
+   "name": "Celia Vásquez Yui",
+   "kind": "person",
+   "role": "Shipibo-Konibo ceramic artist and activist",
+   "based": "Pucallpa, PE",
+   "bio": "Shipibo-Konibo ceramicist from the Peruvian Amazon (b. 1960) who makes zoomorphic vessels painted with kené designs, using clays gathered along the Ucayali River.",
+   "why": "Her ceramic animal assemblies carry an Amazonian cosmology in which every species has a mother spirit, and present it as a claim for the rights of nature.",
+   "links": {
+    "site": "https://salon94.com/artists/celia-vasquez-yui"
+   },
+   "role_zh": "希皮博-科尼博族陶艺家、社会活动者",
+   "bio_zh": "来自秘鲁亚马孙的希皮博-科尼博族陶艺家（生于 1960 年），用乌卡亚利河沿岸采集的黏土制作动物形陶器，并绘上 kené 纹样。",
+   "why_zh": "她的陶塑动物群承载着一种亚马孙宇宙观：每个物种都有自己的母亲之灵，并把它作为自然权利的主张呈现出来。",
+   "based_zh": "普卡尔帕，秘鲁",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "uriel-orlow",
+   "name": "Uriel Orlow",
+   "kind": "person",
+   "role": "Artist",
+   "based": "London, UK",
+   "bio": "Swiss artist working across film, photography, drawing and sound, who has spent more than a decade researching plants as witnesses of colonial history, migration and climate change.",
+   "why": "He treats plants as political actors and invites people to listen to, read to and learn from them.",
+   "links": {
+    "site": "https://www.urielorlow.net/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "瑞士艺术家，创作涉及影像、摄影、绘画和声音，十多年来一直研究植物如何见证殖民史、迁徙与气候变化。",
+   "why_zh": "他把植物当作政治行动者，邀请人们倾听植物、为植物朗读、向植物学习。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "annalee-davis",
+   "name": "Annalee Davis",
+   "kind": "person",
+   "role": "Artist, writer and cultural organiser",
+   "based": "Barbados",
+   "bio": "Barbadian artist who lives and works on a former sugar plantation and develops strategies for post-plantation restoration through herbaria, drawings, textiles and gardening.",
+   "why": "She uses the plants and lost species of one plantation to think about ecological and historical repair in the Caribbean.",
+   "links": {
+    "site": "https://www.annaleedavis.com/"
+   },
+   "role_zh": "艺术家、作家、文化组织者",
+   "bio_zh": "巴巴多斯艺术家，生活和工作在一座昔日的甘蔗种植园里，用植物标本、绘画、织物和园艺探索“后种植园”的修复之道。",
+   "why_zh": "她通过一座种植园里的植物和消失的物种，思考加勒比地区的生态与历史修复。",
+   "based_zh": "巴巴多斯",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "abbas-akhavan",
+   "name": "Abbas Akhavan",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Montréal, CA",
+   "bio": "Iranian-born Canadian artist whose site-specific installations, gardens and sculptures deal with plants, domestic space and the histories of cultural heritage and war.",
+   "why": "He makes architecture into a habitat for plants and asks how empire, botany and display are tangled together.",
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "出生于伊朗的加拿大艺术家，他的在地装置、花园和雕塑涉及植物、居所空间以及文化遗产与战争的历史。",
+   "why_zh": "他把建筑变成植物的栖息地，追问帝国、植物学与展示之间如何纠缠在一起。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "florentina-holzinger",
+   "name": "Florentina Holzinger",
+   "kind": "person",
+   "role": "Choreographer and performance artist",
+   "based": "Vienna, AT",
+   "bio": "Austrian choreographer whose large-scale performances combine dance, stunts, body art and machinery; she represented Austria at the 2026 Venice Biennale.",
+   "why": "She stages the human body inside water cycles, waste and machines to make ecological complicity physical.",
+   "links": {},
+   "role_zh": "编舞家、表演艺术家",
+   "bio_zh": "奥地利编舞家，她的大型表演融合舞蹈、特技、身体艺术和机械装置；2026 年代表奥地利参加威尼斯双年展。",
+   "why_zh": "她把人的身体放进水循环、废弃物和机器之中，让人对生态的共谋有切身感受。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bogna-burska",
+   "name": "Bogna Burska",
+   "kind": "person",
+   "role": "Visual artist, playwright and filmmaker",
+   "based": "Warsaw, PL",
+   "bio": "Polish artist working with video, installation, theatre and text; co-author with Daniel Kotowski of the 2026 Polish Pavilion in Venice.",
+   "why": "She explores communication beyond spoken human language, including whale song and sign language.",
+   "links": {},
+   "role_zh": "视觉艺术家、剧作家、电影人",
+   "bio_zh": "波兰艺术家，创作涉及影像、装置、戏剧和文本；与 Daniel Kotowski 共同创作了 2026 年威尼斯双年展波兰馆。",
+   "why_zh": "她探索人类口语之外的交流方式，包括鲸歌和手语。",
+   "based_zh": "华沙，波兰",
+   "connected_to": [
+    "daniel-kotowski"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-kotowski",
+   "name": "Daniel Kotowski",
+   "kind": "person",
+   "role": "Deaf artist and performer",
+   "based": "Warsaw, PL",
+   "bio": "Polish Deaf artist and performer; co-author with Bogna Burska of the 2026 Polish Pavilion in Venice.",
+   "why": "He brings Deaf culture and sign language into dialogue with the communication of whales.",
+   "links": {},
+   "role_zh": "聋人艺术家、表演者",
+   "bio_zh": "波兰聋人艺术家、表演者；与 Bogna Burska 共同创作了 2026 年威尼斯双年展波兰馆。",
+   "why_zh": "他让聋人文化和手语与鲸的交流方式展开对话。",
+   "based_zh": "华沙，波兰",
+   "connected_to": [
+    "bogna-burska"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "uzbekistan-acdf",
+   "name": "Uzbekistan Art and Culture Development Foundation",
+   "kind": "lab",
+   "role": "State cultural foundation; commissioner of the Uzbekistan Pavilion and the Aral Culture Summit",
+   "based": "Tashkent, UZ",
+   "bio": "Foundation that runs the Bukhara Biennial, the Aral Culture Summit and the Aral School, and commissioned the 2026 Uzbekistan Pavilion in Venice.",
+   "why": "It brings artists, scientists and local communities together around the Aral Sea, one of the largest human-made ecological disasters.",
+   "links": {
+    "site": "https://acdf.uz/"
+   },
+   "role_zh": "国家文化基金会；乌兹别克斯坦国家馆和咸海文化峰会的委托方",
+   "bio_zh": "运营布哈拉双年展、咸海文化峰会和咸海学校的基金会，委托了 2026 年威尼斯双年展乌兹别克斯坦馆。",
+   "why_zh": "它把艺术家、科学家和当地社区聚集在咸海周围，而咸海是人类造成的最大生态灾难之一。",
+   "based_zh": "塔什干，乌兹别克斯坦",
+   "connected_to": [
+    "xin-liu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fiona-pardington",
+   "name": "Fiona Pardington",
+   "kind": "person",
+   "role": "Photographer",
+   "based": "New Zealand",
+   "bio": "Māori (Ngāi Tahu, Kāti Māmoe, Ngāti Kahungunu) and Scottish photographer known for large still lifes of taxidermied birds, life casts and taonga from museum collections; she represented New Zealand at the 2026 Venice Biennale.",
+   "why": "She photographs extinct and endangered birds as ancestors, returning museum specimens to a living relationship.",
+   "links": {},
+   "role_zh": "摄影师",
+   "bio_zh": "具有毛利（Ngāi Tahu、Kāti Māmoe、Ngāti Kahungunu）和苏格兰血统的摄影师，以拍摄博物馆中的鸟类标本、人像翻模和毛利珍宝的大幅静物而闻名；2026 年代表新西兰参加威尼斯双年展。",
+   "why_zh": "她把灭绝和濒危的鸟当作祖先来拍摄，让博物馆标本重新回到有生命的关系之中。",
+   "based_zh": "新西兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anca-benera-arnold-estefan",
+   "name": "Anca Benera & Arnold Estefán",
+   "kind": "studio",
+   "role": "Artist duo",
+   "based": "Bucharest, RO",
+   "bio": "Romanian artist duo working on extraction, militarised landscapes and geology; they represented Romania at the 2026 Venice Biennale.",
+   "why": "They listen to seas, sediments and landscapes as archives where ecological and political histories are stored.",
+   "links": {},
+   "role_zh": "艺术家二人组",
+   "bio_zh": "罗马尼亚艺术家二人组，关注资源开采、军事化景观与地质；2026 年代表罗马尼亚参加威尼斯双年展。",
+   "why_zh": "他们把海洋、沉积物和地貌当作档案来倾听，其中储存着生态与政治的历史。",
+   "based_zh": "布加勒斯特，罗马尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dark-matter-labs",
+   "name": "Dark Matter Labs",
+   "kind": "studio",
+   "role": "Strategic design and research lab",
+   "based": "London, UK",
+   "bio": "International design lab working on the institutional, legal and financial infrastructure for climate transition, including bioregional governance and rights for more-than-human life.",
+   "why": "It prototypes new institutions in which ecosystems and future generations have standing.",
+   "links": {
+    "site": "https://darkmatterlabs.org/"
+   },
+   "role_zh": "战略设计与研究实验室",
+   "bio_zh": "国际性的设计实验室，研究气候转型所需的制度、法律和金融基础设施，包括生物区治理和超越人类生命的权利。",
+   "why_zh": "它为新的制度做原型，让生态系统和后代也能拥有地位。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "berggruen-institute"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "berggruen-institute",
+   "name": "Berggruen Institute",
+   "kind": "lab",
+   "role": "Think tank",
+   "based": "Los Angeles, US",
+   "bio": "Think tank founded by Nicolas Berggruen that funds research on planetary governance, the future of the human and new political institutions.",
+   "why": "Its Planetary Civics programme asks how life on Earth, not only nations, could be governed.",
+   "links": {
+    "site": "https://berggruen.org/"
+   },
+   "role_zh": "智库",
+   "bio_zh": "由 Nicolas Berggruen 创立的智库，资助关于行星治理、人类未来和新政治制度的研究。",
+   "why_zh": "它的“行星公民”项目追问：不只是国家，地球上的生命整体应如何被治理。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "dark-matter-labs"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ujoo-limheeyoung",
+   "name": "UJOO+LIMHEEYOUNG",
+   "kind": "studio",
+   "role": "Artist duo (Yoo Byoung-Joon and Lim Hee-Young)",
+   "based": "Seoul, KR",
+   "bio": "Seoul-based duo making kinetic installations since 2004 that stage the contradictions and absurdities of social and technological systems.",
+   "why": "They use extinct and flightless animals as mirrors for agency lost to automation.",
+   "links": {
+    "vimeo": "https://vimeo.com/ujoolimheeyoung"
+   },
+   "role_zh": "艺术家二人组（Yoo Byoung-Joon 与 Lim Hee-Young）",
+   "bio_zh": "常驻首尔的艺术二人组，自 2004 年起创作动态装置，呈现社会与技术系统中的矛盾和荒诞。",
+   "why_zh": "他们用灭绝的、不会飞的动物来映照在自动化中失去的能动性。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leonel-vasquez",
+   "name": "Leonel Vásquez",
+   "kind": "person",
+   "role": "Visual and sound artist",
+   "based": "Sibaté, CO",
+   "bio": "Colombian sound artist who, with his family, runs a high-mountain listening station in the Sumapaz páramo dedicated to water conservation, and builds listening architectures for rivers and wetlands.",
+   "why": "He treats listening as a restorative act and bodies of water as living beings with voice.",
+   "links": {},
+   "role_zh": "视觉与声音艺术家",
+   "bio_zh": "哥伦比亚声音艺术家，与家人一起在苏马帕斯高原荒原经营一座致力于水源保护的高山聆听站，并为河流和湿地建造聆听建筑。",
+   "why_zh": "他把聆听当作一种修复行动，把水体看作有声音的生命。",
+   "based_zh": "锡巴特，哥伦比亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joao-machado",
+   "name": "João Machado",
+   "kind": "person",
+   "role": "Visual artist and researcher; founder of Meliponário Villa Mandaçaia",
+   "based": "Bocaina de Minas, BR",
+   "bio": "Brazilian artist working across ceramic sculpture, sound art and bioacoustics with native stingless bees; co-founder of the Villa Mandaçaia ceramics studio.",
+   "why": "His sculptures are functioning homes for bees, made with beekeepers and Indigenous knowledge holders.",
+   "links": {},
+   "role_zh": "视觉艺术家、研究者；Meliponário Villa Mandaçaia 创始人",
+   "bio_zh": "巴西艺术家，以陶瓷雕塑、声音艺术和生物声学与本土无刺蜂合作；Villa Mandaçaia 陶瓷工作室的联合创始人。",
+   "why_zh": "他的雕塑是真正能住蜂的家，与养蜂人和原住民知识持有者一起完成。",
+   "based_zh": "博凯纳迪米纳斯，巴西",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "juan-cortes",
+   "name": "Juan Cortés",
+   "kind": "person",
+   "role": "Artist and creative technologist",
+   "based": "Bogotá, CO",
+   "bio": "Colombian artist (b. 1989) working across installation, sound and computation on how classification systems and technologies shape relations between territory, knowledge and living systems.",
+   "why": "He reworks colonial botanical images with living Andean plants to question how nature is classified.",
+   "links": {},
+   "role_zh": "艺术家、创意技术专家",
+   "bio_zh": "哥伦比亚艺术家（生于 1989 年），以装置、声音和计算媒介研究分类系统与技术如何塑造土地、知识和生命系统之间的关系。",
+   "why_zh": "他用活的安第斯植物重做殖民时期的植物学图像，质疑自然是如何被分类的。",
+   "based_zh": "波哥大，哥伦比亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gabriela-bila",
+   "name": "Gabriela Bìlá",
+   "kind": "person",
+   "role": "Architect and multimedia artist; PhD researcher, MIT Media Lab City Science",
+   "based": "Cambridge, US",
+   "bio": "Brazilian architect who uses cinema, game engines, tangible interfaces and crafts to imagine Amazonian urban futures with local artists; she leads the research initiative Ancestral Urban Futures.",
+   "why": "She imagines cities that grow with the forest rather than over it.",
+   "links": {},
+   "role_zh": "建筑师、多媒体艺术家；麻省理工学院媒体实验室城市科学组博士研究员",
+   "bio_zh": "巴西建筑师，用电影、游戏引擎、实体交互界面和手工艺，与当地艺术家一起想象亚马孙城市的未来；她主持研究计划 Ancestral Urban Futures。",
+   "why_zh": "她想象的城市与森林一起生长，而不是吞没森林。",
+   "based_zh": "剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dana-fiona-armour",
+   "name": "Dana-Fiona Armour",
+   "kind": "person",
+   "role": "Artist-researcher",
+   "based": "Paris, FR",
+   "bio": "German artist (b. 1988) who works with scientists on hybrid organisms and symbiosis; her Alvinella Ophis won the first Sigg Art Prize in 2024.",
+   "why": "She turns endangered animals into data-driven sculptures that show how oceans are changing.",
+   "links": {},
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "德国艺术家（生于 1988 年），与科学家合作研究杂交生物和共生；她的作品 Alvinella Ophis 获得 2024 年首届 Sigg 艺术奖。",
+   "why_zh": "她把濒危动物变成由数据驱动的雕塑，让人看见海洋正在发生的变化。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shihan-zhang",
+   "name": "Shihan Zhang",
+   "kind": "person",
+   "role": "Design futurist and artist",
+   "based": "San Francisco, US",
+   "bio": "Design futurist who builds immersive speculative worlds; she has worked with NEW INC, SPACE10 and the Institute for the Future.",
+   "why": "She imagines new kinds of jobs in which humans work for species and biomes.",
+   "links": {},
+   "role_zh": "设计未来学家、艺术家",
+   "bio_zh": "设计未来学家，构建沉浸式的思辨世界；曾与 NEW INC、SPACE10 和未来研究所（Institute for the Future）合作。",
+   "why_zh": "她想象一种新型工作：人类为物种和生物群落工作。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "constitutional-court-of-colombia",
+   "name": "Constitutional Court of Colombia",
+   "kind": "lab",
+   "role": "Highest court for constitutional matters in Colombia",
+   "based": "Bogotá, CO",
+   "bio": "Colombia's constitutional court, which in 2016 recognised the Atrato River as a subject of rights (T-622/16) and in 2026 upheld the law granting rights to the Ranchería River.",
+   "why": "Its rulings made Colombia a leading laboratory for rivers as rights-holders.",
+   "links": {
+    "site": "https://www.corteconstitucional.gov.co/comunicados/comunicado-33-28-de-octubre-de-2026.pdf"
+   },
+   "role_zh": "哥伦比亚宪法事务最高法院",
+   "bio_zh": "哥伦比亚宪法法院，2016 年承认阿特拉托河为权利主体（T-622/16），2026 年又裁定赋予兰切里亚河权利的法律合宪。",
+   "why_zh": "它的判决让哥伦比亚成为“河流作为权利主体”的重要试验场。",
+   "based_zh": "波哥大，哥伦比亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alianza-jambato",
+   "name": "Alianza Jambato",
+   "kind": "lab",
+   "role": "Conservation alliance for the Jambato harlequin toad",
+   "based": "Quito, EC",
+   "bio": "Ecuadorian alliance of biologists, local people and conservation groups protecting the Jambato harlequin toad (Atelopus ignescens), rediscovered in Angamarca in 2016 after being declared extinct.",
+   "why": "It brought a rights-of-nature case in the name of a single toad species.",
+   "links": {},
+   "role_zh": "保护 Jambato 丑角蟾的联盟",
+   "bio_zh": "厄瓜多尔的生物学家、当地居民和保护组织结成的联盟，保护 Jambato 丑角蟾（Atelopus ignescens）；这种蟾蜍曾被宣布灭绝，2016 年在安加马卡被重新发现。",
+   "why_zh": "它以一种蟾蜍的名义提起了自然权利诉讼。",
+   "based_zh": "基多，厄瓜多尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alderville-first-nation",
+   "name": "Alderville First Nation",
+   "kind": "lab",
+   "role": "Mississauga Anishinaabe First Nation",
+   "based": "Alderville, CA",
+   "bio": "Mississauga Anishinaabe community on the south shore of Rice Lake, Ontario, led by Chief Taynar Simpson.",
+   "why": "Its council declared Rice Lake (Pemadashkodeyong) a legal person in 2025, using its own constitution.",
+   "links": {
+    "site": "https://peterboroughcurrents.ca/newsletters/is-rice-lake-a-person/"
+   },
+   "role_zh": "密西沙加阿尼什纳比原住民族",
+   "bio_zh": "位于安大略省赖斯湖南岸的密西沙加阿尼什纳比社区，由酋长 Taynar Simpson 领导。",
+   "why_zh": "2025 年，它的议会依据本族宪法宣布赖斯湖（Pemadashkodeyong）为法律人格主体。",
+   "based_zh": "奥尔德维尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eci-rights-for-nature",
+   "name": "ECI “Rights for Nature” organisers",
+   "kind": "lab",
+   "role": "Citizens' committee of a European Citizens' Initiative",
+   "based": "Brussels, BE",
+   "bio": "Citizens' committee behind the European Citizens' Initiative “Rights for Nature: Empower Citizens to Represent and Protect Ecosystems”, registered by the European Commission on 19 May 2026.",
+   "why": "They are trying to bring rights of nature into EU law through a million signatures.",
+   "links": {},
+   "role_zh": "欧洲公民倡议的公民委员会",
+   "bio_zh": "欧洲公民倡议“自然权利：赋权公民代表和保护生态系统”背后的公民委员会，该倡议于 2026 年 5 月 19 日由欧盟委员会登记。",
+   "why_zh": "他们试图通过一百万个签名，把自然权利写进欧盟法律。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carolina-caycedo",
+   "name": "Carolina Caycedo",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Los Angeles, US",
+   "bio": "Colombian-British artist whose drawings, films, sculptures and performances address rivers, dams, seeds and the defenders of land and water in the Americas.",
+   "why": "She makes river and seed communities, and the activists who defend them, the protagonists of her work.",
+   "links": {
+    "site": "https://www.labiennale.org/en/art/2026/carolina-caycedo"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "哥伦比亚裔英国艺术家，她的绘画、影像、雕塑和表演关注美洲的河流、水坝、种子以及守护土地与水的人。",
+   "why_zh": "她让河流与种子的群落，以及守护它们的行动者，成为作品的主角。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rojonegro",
+   "name": "RojoNegro",
+   "kind": "studio",
+   "role": "Artist collective (María Sosa and Noé Martínez)",
+   "based": "Mexico City, MX",
+   "bio": "Mexican collective of María Sosa and Noé Martínez working with ritual, ceramics, salt and sound drawn from Indigenous, Afro-Mexican and rural cosmologies; they represented Mexico at the 2026 Venice Biennale.",
+   "why": "They design rituals of attention in which plants, minerals and breath act as agents.",
+   "links": {},
+   "role_zh": "艺术团体（María Sosa 与 Noé Martínez）",
+   "bio_zh": "由 María Sosa 和 Noé Martínez 组成的墨西哥艺术团体，从原住民、非裔墨西哥人和乡村的宇宙观中汲取仪式、陶瓷、盐与声音；2026 年代表墨西哥参加威尼斯双年展。",
+   "why_zh": "他们设计专注的仪式，让植物、矿物和呼吸成为行动者。",
+   "based_zh": "墨西哥城，墨西哥",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "otobong-nkanga--soft-offerings",
+   "creator_ids": [
+    "otobong-nkanga"
+   ],
+   "title": "Soft Offerings to Silenced Voices and to All Who Have Turned to Dust",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "plants",
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "For the 2026 Venice Biennale, Nkanga wrapped the four columns of the Central Pavilion façade in locally made brick and hung ceramic pots, Murano glass vessels and small insect shelters on them; climbing plants rooted in the pots are meant to cover the columns by the end of the show. In Carlo Scarpa's Sculpture Garden, a companion work, And Still, Here We Are, lays out quarried rocks that hold rainwater and aromatic plants.",
+   "description_zh": "在 2026 年威尼斯双年展上，Nkanga 用本地烧制的砖包裹了中央馆立面的四根柱子，并在上面挂上陶罐、穆拉诺玻璃器皿和小小的昆虫栖所；种在陶罐里的攀援植物会在展期内逐渐把柱子覆盖。在 Carlo Scarpa 设计的雕塑花园里，配套作品 And Still, Here We Are 摆放着采石场的岩石，石洞里盛着雨水，也长着芳香植物。",
+   "idea_en": "Let plants and insects slowly take over the most symbolic building of the art world, so the artwork is finished by other species.",
+   "idea_zh": "让植物和昆虫慢慢占领艺术界最具象征性的建筑，由其他物种来完成作品。",
+   "method": "Brick cladding, ceramic planters and insect hotels are fixed to the pavilion columns and planted with climbers that grow over the six-month exhibition; the garden piece uses rocks as basins for rain and plants.",
+   "method_zh": "在展馆柱子上砌砖、固定陶制花盆和昆虫旅馆，种上攀援植物，让它们在六个月的展期中生长；花园部分用岩石承接雨水、种植植物。",
+   "keywords": [
+    "Biennale Arte 2026",
+    "In Minor Keys",
+    "Central Pavilion",
+    "insect hotel",
+    "climbing plants",
+    "Murano glass",
+    "Giardini"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/otobong-nkanga-b.jpg?itok=f0VdADPv",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/nkanga-1.jpg?itok=S49x6Icl",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/otobongnkanga.jpg?itok=QJh2Vr6G"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/otobong-nkanga",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "celia-vasquez-yui--council-of-the-mother-spirits",
+   "creator_ids": [
+    "celia-vasquez-yui"
+   ],
+   "title": "The Council of the Mother Spirits of the Animals",
+   "year": 2022,
+   "field": "speculation",
+   "sub": "myth-ritual",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An assembly of zoomorphic ceramic sculptures of Amazonian animals, painted with Shipibo kené patterns, stands on a tiered platform like a ritual gathering or a parliament of species. First shown at Salon 94 in New York in 2022, it was presented in the Central Pavilion of the 2026 Venice Biennale.",
+   "description_zh": "一群亚马孙动物形态的陶塑，绘有希皮博族的 kené 纹样，排列在阶梯式平台上，如同一场仪式集会，又像一个物种议会。作品 2022 年首次在纽约 Salon 94 展出，2026 年在威尼斯双年展中央馆展出。",
+   "idea_en": "Give each species a 'mother spirit' and seat them together as a council, and the rights of nature become a scene you can face.",
+   "idea_zh": "给每个物种一个“母亲之灵”，让它们围坐成议会，自然的权利就成了可以直面的场景。",
+   "method": "Vessels are hand-built from clays gathered at sites hundreds of kilometres apart along the Ucayali River and painted with kené, a visual language believed to act on the viewer as 'design medicine'.",
+   "method_zh": "陶器用乌卡亚利河沿岸相距数百公里的多处黏土手工塑成，并绘上 kené 纹样；这种视觉语言被认为能像“设计之药”一样作用于观看者。",
+   "keywords": [
+    "Shipibo-Konibo",
+    "kené",
+    "Ucayali River",
+    "mother spirits",
+    "parliament of animals",
+    "Biennale Arte 2026",
+    "In Minor Keys"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6QMT_VI__Sg"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/celiavasquezyui-1.jpg?itok=-Cpy5kE8",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/vasquezyui-1.jpg?itok=4nnefnHy",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/celiavasquezyui-2.jpg?itok=4fgP-79h"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/celia-v%C3%A1squez-yui",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "uriel-orlow--botanical-biennale",
+   "creator_ids": [
+    "uriel-orlow"
+   ],
+   "title": "Botanical Biennale and Reveries of Collective Walkers (Reading to Plants)",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants",
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "At the 2026 Venice Biennale, Orlow showed five plant projects: silkscreen billboards mapping where the plants growing around the Biennale sites come from, an invitation for visitors to read aloud to plants, photographs of the ghostly outlines that pressed specimens left in herbaria, a tile drawing of slope-binding vetiver, and videos on the root–fungus networks through which trees communicate.",
+   "description_zh": "在 2026 年威尼斯双年展上，Orlow 展出五个植物项目：用丝网印刷广告牌标出双年展场地周边植物的来源地；邀请观众给植物朗读；拍摄压制标本在植物标本馆纸张上留下的幽灵般轮廓；用瓷砖绘制能固坡的香根草；以及讲述树木如何通过根与真菌网络交流的影像。",
+   "idea_en": "Treat the exhibition grounds as a meeting place of plants from everywhere, and ask visitors to address them directly.",
+   "idea_zh": "把展场看作来自世界各地植物的相遇之地，并邀请观众直接对它们说话。",
+   "method": "Research in herbaria in Paris, Madrid, Cape Town, Kew, Berlin, Florence, Brussels and Lisbon, combined with participatory reading sessions, printed billboards and video.",
+   "method_zh": "在巴黎、马德里、开普敦、邱园、柏林、佛罗伦萨、布鲁塞尔和里斯本的植物标本馆开展研究，结合参与式朗读、印刷广告牌和影像。",
+   "keywords": [
+    "botanical decolonisation",
+    "herbarium",
+    "Herbarium Ghosts",
+    "reading to plants",
+    "vetiver",
+    "mycorrhiza",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XowhmjNX1Qs"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/urlowuriel.jpg?itok=kfH4VjwL",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/orlow-1.jpg?itok=zq_eJNAD",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/uriel-orlow-b.jpg?itok=lOIe-zH1"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/uriel-orlow",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "annalee-davis--let-this-be-my-cathedral",
+   "creator_ids": [
+    "annalee-davis"
+   ],
+   "title": "Let This Be My Cathedral",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "restoration",
+   "organisms": [
+    "plants",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A semicircular installation made for the 2026 Venice Biennale: a wall herbarium of plants grown in Davis's garden on a former Barbados sugar plantation, a hand-embroidered textile, palm drawings stencilled with a torch across the floor, and a life-size reproduction of an Eskimo curlew, a bird last seen on Barbados in 1963 and presumed extinct.",
+   "description_zh": "为 2026 年威尼斯双年展创作的半圆形装置：墙上是一组植物标本，来自 Davis 在巴巴多斯一座旧甘蔗种植园里的花园；还有手工刺绣的织物、用火焰喷枪在地面上模印的棕榈图案，以及一只等大的爱斯基摩杓鹬复制品——这种鸟最后一次在巴巴多斯被看到是 1963 年，被推定已经灭绝。",
+   "idea_en": "Turn a plantation garden into a chapel of attention where extinction is grieved and repair begins.",
+   "idea_zh": "把种植园里的花园变成一座专注的礼拜堂，在这里哀悼灭绝，也开始修复。",
+   "method": "Plants from vernacular Caribbean gardening are collected, pressed and mounted as a herbarium, combined with embroidery, torch-burnt drawing and a cast bird.",
+   "method_zh": "收集、压制加勒比民间园艺中的植物并装裱成标本墙，再结合刺绣、火焰烧制的绘画和鸟的铸模。",
+   "keywords": [
+    "post-plantation",
+    "herbarium",
+    "Eskimo curlew",
+    "extinction",
+    "Barbados",
+    "Biennale Arte 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/davis-annalee-b.jpg?itok=eDoD3cwP",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/davis1.jpg?itok=vEBiHMEA",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/annaleedavis.jpg?itok=SASyOndc"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/annalee-davis",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "abbas-akhavan--entre-chien-et-loup",
+   "creator_ids": [
+    "abbas-akhavan"
+   ],
+   "title": "Entre chien et loup",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "For the Canada Pavilion at the 2026 Venice Biennale, Akhavan turned the building into a Wardian case, the sealed glass box once used to ship plants around the British Empire. A custom pool under grow lights and misters holds living giant water lilies of the genus Victoria, germinated in Padua in collaboration with Kew Gardens, recalling their display at the Crystal Palace in 1851.",
+   "description_zh": "在 2026 年威尼斯双年展加拿大馆，Akhavan 把整座建筑改造成一个“沃德箱”——当年大英帝国用来在世界各地运输植物的密封玻璃箱。生长灯和喷雾装置下的定制水池里养着活的王莲（Victoria 属），它们与邱园合作、在帕多瓦育苗，令人想起 1851 年王莲在水晶宫的展出。",
+   "idea_en": "Make the pavilion itself a greenhouse, so a living plant tells the story of empire and botanical collecting.",
+   "idea_zh": "让展馆本身成为温室，由一株活的植物讲述帝国与植物采集的历史。",
+   "method": "The pavilion façade is replaced with glass panels; a water tank with grow lights and misting keeps tropical Victoria lilies alive through the Venetian season.",
+   "method_zh": "展馆立面换成玻璃，配有生长灯和喷雾系统的水池让热带王莲在威尼斯的季节里存活。",
+   "keywords": [
+    "Canada Pavilion",
+    "Wardian case",
+    "Victoria water lily",
+    "Kew",
+    "Crystal Palace",
+    "Biennale Arte 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/canada1.jpg?itok=ZT8OUqki",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/canada.jpg?itok=BBvs32Kp"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/canada",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "florentina-holzinger--seaworld-venice",
+   "creator_ids": [
+    "florentina-holzinger"
+   ],
+   "title": "Seaworld Venice",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "The Austrian Pavilion at the 2026 Venice Biennale became an underwater theme park, sewage treatment plant and sacred building at once: visitors' urine is filtered and fed into glass tanks where performers live and dance, while flooding, a jet ski and robotic hounds stage a water system out of control.",
+   "description_zh": "2026 年威尼斯双年展奥地利馆同时被做成水下主题乐园、污水处理厂和圣殿：观众的尿液经过过滤后流入玻璃水箱，表演者在其中生活和舞蹈；洪水、水上摩托和机器猎犬一起呈现一个失控的水系统。",
+   "idea_en": "Put visitors' own waste into the water that sustains the performers, so the water cycle and our place in it become impossible to ignore.",
+   "idea_zh": "把观众自己的排泄物送进维持表演者生存的水里，让人无法再忽视水循环和自己在其中的位置。",
+   "method": "Toilets in the pavilion connect through filtration stages to performance tanks; daily live performance runs inside this 'machinic organism' for the length of the Biennale.",
+   "method_zh": "展馆里的厕所通过多级过滤与表演水箱相连；整个双年展期间，每天都有表演在这个“机器有机体”里进行。",
+   "keywords": [
+    "Austrian Pavilion",
+    "water cycle",
+    "urine",
+    "sewage treatment",
+    "sea-level rise",
+    "performance",
+    "Biennale Arte 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/austria1.jpg?itok=c4NYUG_L",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/austria.jpg?itok=u_xniIW-"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/austria",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "bogna-burska--liquid-tongues",
+   "creator_ids": [
+    "bogna-burska",
+    "daniel-kotowski"
+   ],
+   "title": "Liquid Tongues",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "The Polish Pavilion at the 2026 Venice Biennale: an audio-video installation in which Chór w Ruchu (Choir in Motion), a choir of hearing and Deaf singers, interprets whale communication codes and songs in spoken English and International Sign. Much of the footage was made underwater, where signing works freely and spoken sound is distorted.",
+   "description_zh": "2026 年威尼斯双年展波兰馆：一件音视频装置，由健听者和聋人组成的 Chór w Ruchu（运动合唱团）用英语口语和国际手语诠释鲸的交流编码和鲸歌。大量影像在水下拍摄——在那里手语可以自由交流，而口语声音会被扭曲。",
+   "idea_en": "Learn from whale cultures and Deaf culture at once: communication does not have to be spoken to be language.",
+   "idea_zh": "同时向鲸的文化和聋人文化学习：语言不一定要靠说出来。",
+   "method": "Whale song research is translated into choral voice, sign and choreography modelled on fish schools, filmed in and out of water and played back with low-frequency sound the body can feel.",
+   "method_zh": "把鲸歌研究转化为合唱、手语和模仿鱼群运动的编舞，在水中和水面上拍摄，并用身体可感的低频声音播放。",
+   "keywords": [
+    "Polish Pavilion",
+    "whale song",
+    "International Sign",
+    "Deaf Gain",
+    "Chór w Ruchu",
+    "Biennale Arte 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/polonia1.jpg?itok=wV8mu4eC"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/poland",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "uzbekistan-acdf--the-aural-sea",
+   "creator_ids": [
+    "uzbekistan-acdf",
+    "xin-liu"
+   ],
+   "title": "The Aural Sea",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "myth-ritual",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "The Uzbekistan Pavilion at the 2026 Venice Biennale treats the vanished Aral Sea as shared ground for myth-making, starting from the invented myths of the eighteen-year-old Uzbek writer Allayar Darmenov, in which swordfish swim through the remains of saxaul forests. Seven artists, including Xin Liu and A.A. Murakami, respond with installations, interactive works and paintings built around listening and salt.",
+   "description_zh": "2026 年威尼斯双年展乌兹别克斯坦馆把消失的咸海当作共同创造神话的土地，起点是十八岁的乌兹别克作家 Allayar Darmenov 编出的神话：剑鱼游过梭梭林的残迹。包括 Xin Liu 和 A.A. Murakami 在内的七位艺术家，以聆听和盐为线索，创作了装置、互动作品和绘画。",
+   "idea_en": "When an ecosystem has disappeared, new myths can keep it imaginable and give people a way to act.",
+   "idea_zh": "当一个生态系统已经消失，新的神话能让它仍然可以被想象，并给人行动的方式。",
+   "method": "Curated by five graduates of the Bukhara Biennial Curatorial School; the pavilion links to the Aral Culture Summit and the Aral School, which bring artists, scientists and local knowledge together in Karakalpakstan.",
+   "method_zh": "由布哈拉双年展策展学校的五位学员共同策划；展馆与咸海文化峰会和咸海学校相连，后者在卡拉卡尔帕克斯坦把艺术家、科学家和本地知识聚在一起。",
+   "keywords": [
+    "Aral Sea",
+    "Karakalpakstan",
+    "myth-making",
+    "salt",
+    "Uzbekistan Pavilion",
+    "A.A. Murakami",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f-uAmUlJ9O0"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/uzbekistan1.jpg?itok=U4K_rEFv",
+    "https://images-eflux.b-cdn.net/assets/fcdfd77a-404a-4812-ace3-0412c751606b.jpg"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/uzbekistan-republic",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "fiona-pardington--taharaki-skyside",
+   "creator_ids": [
+    "fiona-pardington"
+   ],
+   "title": "Taharaki Skyside",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "New Zealand's 2026 Venice Biennale presentation: seventeen towering photographic portraits of taxidermied native birds from museum collections in Aotearoa and Australia, some extinct and others critically endangered, set against habitats taken from 19th-century photographs.",
+   "description_zh": "新西兰在 2026 年威尼斯双年展的展览：十七幅巨大的摄影肖像，拍摄的是新西兰和澳大利亚博物馆收藏的本土鸟类标本，其中有的已经灭绝，有的极度濒危，背景是取自 19 世纪照片的栖息地。",
+   "idea_en": "Photograph museum specimens as ancestors looking back at us, not as data in a drawer.",
+   "idea_zh": "把博物馆标本当作回望我们的祖先来拍摄，而不是抽屉里的数据。",
+   "method": "Large-format photographs of museum bird specimens are printed at monumental scale and composited with archival habitat imagery, grounded in the Māori view of birds as ancestors and messengers.",
+   "method_zh": "用大画幅拍摄博物馆中的鸟类标本，以巨幅尺寸输出，并与档案中的栖息地影像合成；背后是毛利人把鸟视为祖先和信使的观念。",
+   "keywords": [
+    "New Zealand Pavilion",
+    "taxidermy",
+    "extinct birds",
+    "Māori",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NBkZWtAwd48"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/nuova-zelanda1.jpg?itok=Wvx2lk-H",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/nuovazelanda.jpg?itok=L_qTwMWJ"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/new-zealand",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "anca-benera-arnold-estefan--black-seas",
+   "creator_ids": [
+    "anca-benera-arnold-estefan"
+   ],
+   "title": "Black Seas – Scores for the Sonic Eye",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "The Romanian Pavilion at the 2026 Venice Biennale listens to the Black Sea as a living archive: sound, moving image and sculpture draw on oceanographic research into its oxygen-starved depths, sediments and fossil time, fed by the Danube, Don and Dnieper. A second venue links the Black Sea coast to the Atlantic and the Namib Desert through industrial circulation.",
+   "description_zh": "2026 年威尼斯双年展罗马尼亚馆把黑海当作一座活的档案来聆听：声音、影像和雕塑取材于对黑海缺氧深层、沉积物和化石时间的海洋学研究，这片海由多瑙河、顿河和第聂伯河汇入。第二个展场通过工业流通，把黑海沿岸与大西洋和纳米布沙漠联系起来。",
+   "idea_en": "Listen to a sea's sediments and dead zones as records of empire, extraction and ecological change.",
+   "idea_zh": "把海洋的沉积物和死亡区当作帝国、开采与生态变化的记录来聆听。",
+   "method": "Sustained research with oceanographic data and field recordings is turned into sound scores, video and sculptural elements across two venues.",
+   "method_zh": "以海洋学数据和田野录音为基础的长期研究，被转化为分布在两个展场的声音乐谱、影像和雕塑。",
+   "keywords": [
+    "Romanian Pavilion",
+    "Black Sea",
+    "anoxia",
+    "sediment",
+    "deep listening",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=m3GuCKmTwZw"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/romania1.jpg?itok=39X6OYK4",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/romania.jpg?itok=PUBJZDBu"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/romania",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "jenna-sutela--aeolian-suite",
+   "creator_ids": [
+    "jenna-sutela"
+   ],
+   "title": "Aeolian Suite",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Finland's pavilion at the 2026 Venice Biennale is turned into a windscape: fuzzy kinetic sculptures arranged like a wind rose resemble microphone wind muffs, while a composition built from meteorological data, instruments and recordings of the five Venetian winds lets the wind 'take over the microphone'.",
+   "description_zh": "2026 年威尼斯双年展芬兰馆被改造成一片风景：毛茸茸的动态雕塑像风玫瑰图一样排成一圈，形似麦克风防风罩；一段由气象数据、乐器和威尼斯五种风的录音构成的作品，让风“接管麦克风”。",
+   "idea_en": "Stop cancelling noise: let an uncomputable force like the wind be the performer.",
+   "idea_zh": "不再消除噪声：让风这种无法计算的力量来当表演者。",
+   "method": "Wind recordings from Venice, Helsinki and elsewhere and weather data drive a multichannel sound composition and kinetic sculptures inside the Aalto pavilion.",
+   "method_zh": "来自威尼斯、赫尔辛基等地的风声录音和气象数据，驱动阿尔托设计的展馆里的多声道声音作品和动态雕塑。",
+   "keywords": [
+    "Finland Pavilion",
+    "wind",
+    "Tramontana",
+    "Bora",
+    "Scirocco",
+    "weather data",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5XGYIBxy-DY"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/finlandia1.jpg?itok=AdvJXIZw"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/finland",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "carolina-caycedo--we-save-our-seed",
+   "creator_ids": [
+    "carolina-caycedo"
+   ],
+   "title": "We Save Our Seed for the Following Season",
+   "year": 2023,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Jacquard tapestries combining woven, printed and organic materials that honour women who keep land-based knowledge, from Japanese American gardeners in WWII internment camps to a Tlingit healer gathering crowberries. At the 2026 Venice Biennale they hung with three large wooden seeds in jute nets that stand for the Three Sisters: corn, beans and squash grown together.",
+   "description_zh": "提花挂毯结合编织、印花和有机材料，致敬守护土地知识的女性：从二战拘留营里种花园的日裔美国人，到采摘岩高兰的特林吉特族疗愈者。在 2026 年威尼斯双年展上，它们与三颗装在黄麻网里的木制大种子一同展出，象征“三姐妹”——玉米、豆子和南瓜相互依存地种在一起。",
+   "idea_en": "Seeds and the women who save them carry sovereignty and mutualism across borders and generations.",
+   "idea_zh": "种子以及保存种子的女性，把主权与互惠带过边界、传给后代。",
+   "method": "Jacquard weaving with printed cotton twill and organic inclusions, paired with carved wooden seeds suspended in nets.",
+   "method_zh": "提花织造结合印花棉斜纹布和有机材料，配以悬挂在网中的木雕种子。",
+   "keywords": [
+    "Three Sisters",
+    "seed keeping",
+    "Jacquard",
+    "Tlingit",
+    "land-based knowledge",
+    "Biennale Arte 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/caycedo1.jpg?itok=BetVgKEm",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/artists/1300x600/caycedo-carolina-b.jpg?itok=RGLAwDAV"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/carolina-caycedo",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "rojonegro--actos-invisibles",
+   "creator_ids": [
+    "rojonegro"
+   ],
+   "title": "Actos invisibles para sostener el universo",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "myth-ritual",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "The Mexico Pavilion at the 2026 Venice Biennale is laid out as an invocation: tobacco plants greet visitors, a line of salt drawn like a Mesoamerican speech scroll carries bird-shaped clay vessels, and a breathing soundtrack mixes with sounds of the earth. Over months the salt absorbs moisture and slowly erodes the ceramics.",
+   "description_zh": "2026 年威尼斯双年展墨西哥馆被布置成一场祈请：烟草植物迎接观众，一条盐线画成中美洲“言语卷轴”的样子，上面放着鸟形陶器，呼吸的节奏与大地的声音交织。数月之间，盐吸收湿气，慢慢侵蚀这些陶器。",
+   "idea_en": "Design a ritual of slow attention in which plants, salt and clay carry on the work.",
+   "idea_zh": "设计一场缓慢专注的仪式，让植物、盐和陶土自己把作品继续下去。",
+   "method": "Tobacco, salt, clay and an audiovisual recording paced by breath are arranged as a ritual path drawing on Indigenous, Afro-Mexican and rural cosmologies.",
+   "method_zh": "用烟草、盐、陶土和以呼吸为节奏的音视频，排布成一条仪式之路，取材于原住民、非裔墨西哥人和乡村的宇宙观。",
+   "keywords": [
+    "Mexico Pavilion",
+    "tobacco",
+    "salt",
+    "vírgula",
+    "ritual",
+    "relational ecologies",
+    "Biennale Arte 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AwWMHJRjRk8"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/messico1.jpg?itok=7ywGk2wN",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/national-participations/1300x600/messico.jpg?itok=SP4d1xbg"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2026/mexico",
+   "collections": [
+    "venice-biennale-arte-2026"
+   ]
+  },
+  {
+   "id": "dark-matter-labs--planetary-compendium",
+   "creator_ids": [
+    "dark-matter-labs",
+    "berggruen-institute"
+   ],
+   "title": "The Planetary Compendium: Case Studies on Planetary Governance",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An online 'Wunderkammer' of planetary governance co-developed by the Berggruen Institute and Dark Matter Labs: ten illustrated and animated case studies, from lunar governance and rights of nature to geoengineering ethics, transboundary risk and interspecies communication. It received an Honorary Mention in Digital Humanity at the 2026 Prix Ars Electronica.",
+   "description_zh": "由 Berggruen Institute 与 Dark Matter Labs 共同开发的线上行星治理“珍奇柜”：十个配有插画和动画的案例，涵盖月球治理、自然权利、地球工程伦理、跨境风险和跨物种交流。它获得 2026 年 Prix Ars Electronica 数字人文类荣誉提名。",
+   "idea_en": "Collect past, present and speculative experiments in governing a planet beyond nations and species, so they can be compared and reused.",
+   "idea_zh": "收集过去、现在和思辨性的行星治理实验——超越国家与物种的边界——让它们可以被比较和借用。",
+   "method": "An audiovisual web platform combining essays, artefacts, illustrations, animation and sound design for each case study; visual concept and experience design by Anahat Kaur and Arianna Smaron.",
+   "method_zh": "一个音视频网络平台，每个案例都配有文章、物件、插画、动画和声音设计；视觉概念和体验设计由 Anahat Kaur 与 Arianna Smaron 完成。",
+   "keywords": [
+    "planetary governance",
+    "rights of nature",
+    "interspecies communication",
+    "Prix Ars Electronica 2026",
+    "Digital Humanity",
+    "Honorary Mention"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Dj47C5XreAw"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3906073/preview/",
+    "https://archive.aec.at/asset/3906074/preview/"
+   ],
+   "source_url": "https://governtheplanet.org/",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "ujoo-limheeyoung--no-bird",
+   "creator_ids": [
+    "ujoo-limheeyoung"
+   ],
+   "title": "No Bird",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A kinetic installation that starts from the extinction of flightless birds: a bird-like walking machine leaves tracks in sand while a second machine endlessly erases them, resetting the ground. It received an Honorary Mention in Interactive Art+ at the 2026 Prix Ars Electronica.",
+   "description_zh": "一件从不会飞的鸟类灭绝出发的动态装置：一台像鸟一样行走的机器在沙上留下足迹，另一台机器不停地把它们抹去，让地面回到原样。它获得 2026 年 Prix Ars Electronica 互动艺术+类荣誉提名。",
+   "idea_en": "Flightless birds that lost what they no longer needed become a mirror for humans losing agency to automation.",
+   "idea_zh": "因为不再需要而失去飞行能力的鸟，成了人类在自动化中失去能动性的镜子。",
+   "method": "Two custom mechanical devices, an algorithmic bird gait and a sand-raking eraser, run in a loop with no accumulation.",
+   "method_zh": "两台定制机械装置——按算法步态行走的“鸟”和耙平沙面的“橡皮擦”——循环运转，没有任何积累。",
+   "keywords": [
+    "flightless birds",
+    "extinction",
+    "kinetic art",
+    "automation",
+    "Prix Ars Electronica 2026",
+    "Interactive Art+"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1167212108"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3898399/preview/",
+    "https://archive.aec.at/asset/3898400/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/319445/",
+   "collections": [
+    "prix-ars-electronica"
+   ]
+  },
+  {
+   "id": "leonel-vasquez--cuna-de-humedales",
+   "creator_ids": [
+    "leonel-vasquez"
+   ],
+   "title": "Cuna de Humedales",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "restoration",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A floating, resonant membrane on a wetland of the Bogotá Savannah, once a vast amphibious system of rivers and marshes, that serves as a place for listening and ritual with the water. Beneath it, underwater soundscapes, including recordings of native Sabana fish, answer Andean lullabies, songs and offerings to water. Prize of Distinction, S+T+ARTS Prize Buen-TEK 2026.",
+   "description_zh": "一张漂浮在波哥大草原湿地上的共鸣膜——这片草原曾是由河流和沼泽连成的广阔两栖系统——它是与水一同聆听和举行仪式的场所。膜下播放水下声景，包括草原本土鱼类的录音，与安第斯的摇篮曲、歌谣和献给水的供奉相互应答。获 2026 年 S+T+ARTS Prize Buen-TEK 优异奖。",
+   "idea_en": "Restore a wetland acoustically and symbolically, treating water as a living being with memory and voice.",
+   "idea_zh": "从声音和象征上修复一片湿地，把水当作有记忆、有声音的生命。",
+   "method": "A floating architecture with an underwater sound system and hydrophone recordings, activated through community listening sessions and rituals grounded in Buen Vivir and Andean Indigenous practices of venerating water.",
+   "method_zh": "带有水下音响和水听器录音的漂浮建筑，通过社区聆听和仪式来激活，依据“美好生活”（Buen Vivir）理念和安第斯原住民敬水的传统。",
+   "keywords": [
+    "Bogotá Savannah",
+    "wetlands",
+    "hydrophone",
+    "Buen Vivir",
+    "Lo-TEK",
+    "S+T+ARTS Buen-TEK 2026"
+   ],
+   "images": [
+    "https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-4-1024x683.jpg",
+    "https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-5.jpg",
+    "https://starts.eu/wp-content/uploads/CUNA-DE-HUMEDALES-7-1024x683.jpg"
+   ],
+   "source_url": "https://starts.eu/prize-buen-tek-winners-2026/prizes-of-distinction-leonel-vasquez",
+   "collections": [
+    "starts-buen-tek-2026"
+   ]
+  },
+  {
+   "id": "joao-machado--interspecies-architectures",
+   "creator_ids": [
+    "joao-machado"
+   ],
+   "title": "Interspecies Architectures: Ceramic Habitats for Stingless Bees",
+   "year": 2025,
+   "field": "ecoart",
+   "sub": "interspecies-art",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "Ongoing research in which Machado fires ceramic sculptures that are working nests for Brazil's native stingless bees, developed with meliponiculturists and Indigenous knowledge holders and paired with recordings that let people hear the colonies. Honorable Mention, S+T+ARTS Prize Buen-TEK 2026.",
+   "description_zh": "一项持续进行的研究：Machado 烧制的陶瓷雕塑是巴西本土无刺蜂可以真正入住的蜂巢，与无刺蜂养殖者和原住民知识持有者一起开发，并配有录音，让人听见蜂群。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。",
+   "idea_en": "A sculpture can be both an artwork for people and a home for bees, if its cavities are designed for the bees first.",
+   "idea_zh": "如果先按蜂的需求设计内腔，一件雕塑可以既是给人看的作品，也是蜂的家。",
+   "method": "Cavity volume, insulation and entrance orientation are tuned to specific species using traditional meliponiculture knowledge, then made with wood, saggar and pit firing; bioacoustic recordings amplify the bees.",
+   "method_zh": "依据传统无刺蜂养殖知识，按特定蜂种调整内腔容积、保温和入口朝向，再用柴烧、匣钵烧和坑烧成型；生物声学录音放大蜂群的声音。",
+   "keywords": [
+    "stingless bees",
+    "meliponiculture",
+    "Melipona",
+    "ceramics",
+    "bioacoustics",
+    "S+T+ARTS Buen-TEK 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u5zJDe6AXqk"
+   },
+   "images": [
+    "https://starts.eu/wp-content/uploads/0-2-scaled.jpg",
+    "https://starts.eu/wp-content/uploads/13.jpg",
+    "https://starts.eu/wp-content/uploads/19-1.jpg"
+   ],
+   "source_url": "https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-joao-machado",
+   "collections": [
+    "starts-buen-tek-2026"
+   ]
+  },
+  {
+   "id": "juan-cortes--geography-of-equinoctial-plants",
+   "creator_ids": [
+    "juan-cortes"
+   ],
+   "title": "Geography of Equinoctial Plants: Counter-Taxonomy and Relational Ecologies",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "installation",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An installation that rebuilds the silhouette of Mount Chimborazo from Humboldt's 1805 botanical diagram using only endemic and culturally significant Andean plants, including medicinal and sacred species bought as surplus from Bogotá's Samper Mendoza market. Light passes through the suspended living matter and casts shifting shadows. Honorable Mention, S+T+ARTS Prize Buen-TEK 2026.",
+   "description_zh": "一件装置，用安第斯本土特有、具有文化意义的植物——包括药用和神圣植物，均购自波哥大 Samper Mendoza 市场的剩余货品——重建洪堡 1805 年植物学图中钦博拉索山的轮廓。光线穿过悬挂的活植物，投下变化的影子。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。",
+   "idea_en": "Redraw a colonial scientific image with the plants it left out, and classification shows itself as a cultural act.",
+   "idea_zh": "用一幅殖民时期科学图像所遗漏的植物重画它，分类就显露为一种文化行为。",
+   "method": "A porous suspended structure is filled with living plants sourced through urban market networks rather than collections; their shadows register time and environmental change.",
+   "method_zh": "悬挂的多孔结构里填满活植物，来源是城市市场网络而不是标本收藏；植物的影子记录时间和环境变化。",
+   "keywords": [
+    "Humboldt",
+    "Chimborazo",
+    "Naturgemälde",
+    "Andean plants",
+    "counter-taxonomy",
+    "S+T+ARTS Buen-TEK 2026"
+   ],
+   "images": [
+    "https://starts.eu/wp-content/uploads/GPE-1-1024x576.jpeg",
+    "https://starts.eu/wp-content/uploads/GPE-3-scaled.jpeg",
+    "https://starts.eu/wp-content/uploads/GPE-9-787x1024.png"
+   ],
+   "source_url": "https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-juan-cortes",
+   "collections": [
+    "starts-buen-tek-2026"
+   ]
+  },
+  {
+   "id": "gabriela-bila--imaginary-atlas-amazonia",
+   "creator_ids": [
+    "gabriela-bila"
+   ],
+   "title": "Imaginary Atlas, Amazônia",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "design-fiction",
+   "also": [
+    "ecoart"
+   ],
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "An art-based urban research project and immersive XR installation imagining how Belém do Pará and its riverine and island communities might evolve over the next century: will the city swallow the forest, or will the forest reshape the city? It was co-created with urban Amazonian artists, many of Indigenous descent. Honorable Mention, S+T+ARTS Prize Buen-TEK 2026.",
+   "description_zh": "一个以艺术为方法的城市研究项目和沉浸式 XR 装置，想象贝伦及其河岸与岛屿社区在未来一百年里会如何演变：城市会吞没森林，还是森林会重塑城市？它与亚马孙城市艺术家共同创作，其中许多人是原住民后裔。获 2026 年 S+T+ARTS Prize Buen-TEK 荣誉提名。",
+   "idea_en": "Design Amazonian cities as continuations of ancestral knowledge and of the forest, not as their opposite.",
+   "idea_zh": "把亚马孙城市设计成祖先知识和森林的延续，而不是它们的对立面。",
+   "method": "A 'TEK + Tech' approach mixes local crafts, cinema, game-engine worlds and interactive media, with research at the MIT Media Lab and partners such as Museu Paraense Emílio Goeldi.",
+   "method_zh": "以“传统生态知识 + 技术”的方法，把本地手工艺、电影、游戏引擎世界和互动媒体结合起来，研究依托麻省理工学院媒体实验室和 Museu Paraense Emílio Goeldi 等伙伴。",
+   "keywords": [
+    "Belém",
+    "Amazon",
+    "urban futures",
+    "XR",
+    "TEK",
+    "Ancestral Urban Futures",
+    "S+T+ARTS Buen-TEK 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sDGVry0uioA"
+   },
+   "images": [
+    "https://starts.eu/wp-content/uploads/ATLAS_IMAG_scene-3-1024x575.png",
+    "https://starts.eu/wp-content/uploads/ATLAS_IMAG_exhibit-1-1-scaled.jpeg"
+   ],
+   "source_url": "https://starts.eu/prize-buen-tek-winners-2026/honorable-mentions-gabriela-bila",
+   "collections": [
+    "starts-buen-tek-2026"
+   ]
+  },
+  {
+   "id": "dana-fiona-armour--serpentine-currents",
+   "creator_ids": [
+    "dana-fiona-armour"
+   ],
+   "title": "Serpentine Currents – Fragments of a Changing Future",
+   "year": 2026,
+   "field": "ecoart",
+   "sub": "eco-media",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A three-part illuminated sculpture suspended over the fountains of Somerset House's courtyard in London (19 February–26 April 2026), modelled on a 3D scan of the endangered sea snake Aipysurus fuscus. Its LED skin changes pattern and brightness with historic and projected ocean temperature and salinity data for the British coast, imagining a future warm enough for sea snakes to live in UK waters.",
+   "description_zh": "一件分为三段的发光雕塑，悬挂在伦敦萨默塞特宫庭院的喷泉上方（2026 年 2 月 19 日至 4 月 26 日），依据濒危海蛇 Aipysurus fuscus 的三维扫描建模。它的 LED 表皮随英国海岸历史和预测的海水温度与盐度数据改变图案和亮度，想象一个海水暖到海蛇能在英国水域生活的未来。",
+   "idea_en": "Use an endangered animal as a bioindicator you can see from across a courtyard.",
+   "idea_zh": "把一种濒危动物变成隔着整个庭院都能看见的生物指示器。",
+   "method": "A 3D-scanned specimen is enlarged into mesh LED sculptures driven by oceanographic datasets that project 50 years ahead.",
+   "method_zh": "把三维扫描的标本放大成网状 LED 雕塑，由海洋学数据驱动，并推演到 50 年后。",
+   "keywords": [
+    "sea snake",
+    "Aipysurus fuscus",
+    "bioindicator",
+    "ocean warming",
+    "Somerset House",
+    "data sculpture"
+   ],
+   "images": [
+    "https://admin.somersethouse.org.uk/images/kgYbkOZhMkbthAG9_KAhtj28FN8=/6097/width-3200/Close-up-of-Serpentine-Currents-by-Dana-Fiona-Armour.-Credit---Tim-Bowditc.jpg",
+    "https://admin.somersethouse.org.uk/images/2j3JX5EOfuWm458yrOdjyTon4mg=/6098/width-3200/Close-up-of-Serpentine-Currents-by-Dana-Fiona-Armo_7Jz8KxG.-Credit---Tim-Bowditc.jpg"
+   ],
+   "source_url": "https://www.somersethouse.org.uk/whats-on/dana-fiona-armour-serpentine-currents"
+  },
+  {
+   "id": "shihan-zhang--department-of-species-services",
+   "creator_ids": [
+    "shihan-zhang"
+   ],
+   "title": "The Department of Species Services (DSS)",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "design-fiction",
+   "also": [
+    "ai"
+   ],
+   "organisms": [
+    "insects",
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "An immersive installation at Gray Area, San Francisco (April–May 2026), set in 2035, when the DSS is the first AI-led NGO in the US and hires humans to work for species and biomes. In its 'Human Pollinator' scenario, a collapse of California bee populations threatens the California poppy, and visitors are recruited as pollinators wearing a 3D-printed glove.",
+   "description_zh": "一件在旧金山 Gray Area 展出的沉浸式装置（2026 年 4 月至 5 月），故事设定在 2035 年：DSS 是美国第一个由 AI 领导的非政府组织，雇用人类为物种和生物群落工作。在“人类传粉者”情境中，加州蜜蜂数量骤减威胁到加州罂粟，观众被招募为传粉者，戴上 3D 打印的手套上岗。",
+   "idea_en": "Imagine jobs where humans are employed by ecosystems, with AI as the manager of ecological care.",
+   "idea_zh": "想象一种由生态系统雇用人类的工作，而 AI 负责管理生态照护。",
+   "method": "A 3D-printed Pollination Glove uses haptic feedback to trigger spatial sound in a sculptural flower environment, while a two-wall projection pairs a rendered bumblebee with the glove's live camera feed.",
+   "method_zh": "3D 打印的“授粉手套”通过触觉反馈在雕塑化的花丛环境中触发空间声音，两面墙的投影把渲染出的熊蜂和手套上的实时摄像画面并置。",
+   "keywords": [
+    "Human Pollinator",
+    "California poppy",
+    "bee decline",
+    "AI-led NGO",
+    "Gray Area",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9rFB8xznVOs"
+   },
+   "images": [
+    "https://grayarea.org/wp-content/uploads/2026/04/dss-in-action.jpg",
+    "https://grayarea.org/wp-content/uploads/2026/04/vlcsnap-2026-03-19-12h59m47s443.png"
+   ],
+   "source_url": "https://grayarea.org/event/exhibition-the-department-of-species-services/"
+  },
+  {
+   "id": "constitutional-court-of-colombia--rancheria-river",
+   "creator_ids": [
+    "constitutional-court-of-colombia"
+   ],
+   "title": "Rights of the Ranchería River (Judgment C-353/26)",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "In October 2026 Colombia's Constitutional Court upheld Law 2415 of 2024, which recognises the Ranchería River in La Guajira, its basin and tributaries as a subject of rights to protection, conservation, maintenance and restoration. The law creates a Commission of Guardians of the Ranchería River with community participation.",
+   "description_zh": "2026 年 10 月，哥伦比亚宪法法院裁定 2024 年第 2415 号法律合宪。该法律承认拉瓜希拉省的兰切里亚河及其流域和支流为权利主体，享有受保护、保育、维护和恢复的权利，并设立有社区参与的“兰切里亚河守护者委员会”。",
+   "idea_en": "A river's rights become harder to undo when they pass from a court order into national law and then survive constitutional review.",
+   "idea_zh": "河流的权利一旦从法院判令写进国家法律，又通过违宪审查，就更难被推翻。",
+   "method": "Legislation passed by Congress and signed in August 2024, reviewed by the Constitutional Court (C-353/26), assigns the state duties toward the river and sets up a guardians' commission with its own participatory rules.",
+   "method_zh": "国会通过、2024 年 8 月签署的法律经宪法法院审查（C-353/26），规定国家对河流负有义务，并设立有参与式规则的守护者委员会。",
+   "keywords": [
+    "rights of nature",
+    "Ranchería River",
+    "La Guajira",
+    "Wayuu",
+    "Ley 2415 de 2024",
+    "C-353/26",
+    "Colombia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3x2vuvrxsuk"
+   },
+   "images": [
+    "https://rtvc-informativo.s3.amazonaws.com/assets/public/2024-08/R%C3%ADo%20Rancher%C3%ADa.jpeg"
+   ],
+   "source_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-33-28-de-octubre-de-2026.pdf"
+  },
+  {
+   "id": "alianza-jambato--jambato-rights-case",
+   "creator_ids": [
+    "alianza-jambato"
+   ],
+   "title": "Jambato v. the Ambato–Guambeine–Angamarca road",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A rights-of-nature case brought in the name of the Jambato harlequin toad (Atelopus ignescens), which survives only around Angamarca, Ecuador, against a road project. A Pujilí court halted construction on 4 January 2026 before revoking the measure; on 7 March 2026 a court in Riobamba found that the road's environmental licence violated the toad's rights (case 06282-2026-00060).",
+   "description_zh": "以 Jambato 丑角蟾（Atelopus ignescens）之名提起的自然权利诉讼，对象是一条公路工程；这种蟾蜍只生活在厄瓜多尔安加马卡一带。2026 年 1 月 4 日，普希利的法院叫停施工，几天后又撤销了这一措施；2026 年 3 月 7 日，里奥班巴的法院裁定该公路的环境许可侵犯了蟾蜍的权利（案号 06282-2026-00060）。",
+   "idea_en": "A single species, not only an ecosystem, can be the plaintiff in a rights-of-nature case.",
+   "idea_zh": "自然权利诉讼的原告可以是一个物种，而不只是整个生态系统。",
+   "method": "Protective actions under Ecuador's constitutional rights of nature, building on the Los Cedros precedent, first against the provincial road builder and then against the environment ministry's licence.",
+   "method_zh": "依据厄瓜多尔宪法中的自然权利提起保护诉讼，援引 Los Cedros 判例，先针对省级修路方，再针对环境部颁发的许可。",
+   "keywords": [
+    "rights of nature",
+    "Atelopus ignescens",
+    "harlequin toad",
+    "Angamarca",
+    "Ecuador",
+    "Los Cedros"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j-rGGhI2Ze0"
+   },
+   "images": [
+    "https://verfassungsblog.de/wp-content/uploads/2026/03/jambato.jpg"
+   ],
+   "source_url": "https://verfassungsblog.de/jambato-ecuador/"
+  },
+  {
+   "id": "alderville-first-nation--rice-lake-personhood",
+   "creator_ids": [
+    "alderville-first-nation"
+   ],
+   "title": "Legal personhood of Pemadashkodeyong / Rice Lake",
+   "year": 2025,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "On 17 November 2025 the council of Alderville First Nation unanimously recognised Rice Lake in Ontario as a legal person with nine rights, including the right to live, exist and thrive. It is the second natural body in Canada to receive legal personhood, after Quebec's Magpie River in 2021.",
+   "description_zh": "2025 年 11 月 17 日，奥尔德维尔原住民族议会一致通过决议，承认安大略省的赖斯湖为法律人格主体，享有九项权利，包括生存、存在和繁荣的权利。它是继 2021 年魁北克马格皮河之后，加拿大第二个获得法律人格的自然水体。",
+   "idea_en": "A First Nation can use its own constitution to give a lake legal standing before any state does.",
+   "idea_zh": "原住民族可以先于国家，用自己的宪法赋予一片湖法律地位。",
+   "method": "A council resolution grounded in the nation's constitution (Chi-Naaknigewin), drafted with the International Observatory on the Rights of Nature, to be followed by lake surveys and a Guardians Council.",
+   "method_zh": "依据本族宪法（Chi-Naaknigewin）通过的议会决议，由国际自然权利观察组织协助起草，后续将开展湖泊调查并设立守护者委员会。",
+   "keywords": [
+    "rights of nature",
+    "Rice Lake",
+    "Pemadashkodeyong",
+    "Anishinaabe",
+    "Mississauga",
+    "Ontario",
+    "legal personhood"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YILCztR_1Iw"
+   },
+   "images": [
+    "https://dr48t4z2v1s6a.cloudfront.net/wp-content/uploads/2026/02/05122645/RiceLakeSunset-1280x960.jpg"
+   ],
+   "source_url": "https://peterboroughcurrents.ca/newsletters/is-rice-lake-a-person/"
+  },
+  {
+   "id": "eci-rights-for-nature--european-citizens-initiative",
+   "creator_ids": [
+    "eci-rights-for-nature"
+   ],
+   "title": "Rights for Nature: Empower Citizens to Represent and Protect Ecosystems",
+   "year": 2026,
+   "field": "speculation",
+   "sub": "rights-politics",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A European Citizens' Initiative registered by the European Commission on 19 May 2026 that asks for an EU directive recognising ecosystems as legal persons with rights to exist, regenerate and be restored, and giving citizens standing to represent them in court. If it gathers one million signatures from at least seven member states by October 2027, the Commission must respond.",
+   "description_zh": "欧盟委员会于 2026 年 5 月 19 日登记的一项欧洲公民倡议，要求制定欧盟指令，承认生态系统是法律人格主体，享有存在、再生和被恢复的权利，并赋予公民在法庭上代表它们的资格。如果在 2027 年 10 月前在至少七个成员国收集到一百万个签名，欧盟委员会就必须作出回应。",
+   "idea_en": "Scale rights of nature from single rivers to a whole continent's law by letting citizens act as ecosystems' representatives.",
+   "idea_zh": "让公民成为生态系统的代表，把自然权利从单条河流推广到整个大陆的法律。",
+   "method": "Uses the EU's citizens' initiative mechanism and builds on Spain's 2022 Mar Menor law, linking ecosystems to the definitions in the EU Nature Restoration Regulation.",
+   "method_zh": "利用欧盟公民倡议机制，以西班牙 2022 年的 Mar Menor 法律为先例，并把生态系统与欧盟《自然恢复条例》中的定义挂钩。",
+   "keywords": [
+    "rights of nature",
+    "European Citizens' Initiative",
+    "EU law",
+    "Mar Menor",
+    "Nature Restoration Regulation",
+    "legal personhood"
+   ],
+   "images": [
+    "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/c7/ed/852b02d74b8db2fb472c015f4352/https-delivery-gettyimages.com/downloads/1234872585"
+   ],
+   "source_url": "https://ecojurisprudence.org/initiatives/europen-citizens-initiaitve-eci-rights-for-nature/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "15th Shanghai Biennale works: Tania Candiani, Prologue II. Resonant Blossoms (2025); Kosen Ohtsubo, Linga Shanghai (2025); Allora & Calzadilla, Graft (Phantom Tree) / Penumbra (2025)",
+   "why": "Biennale built on interspecies perception (Nov 2025–Mar 2026). Images exist on hubemag.com but no project descriptions beyond titles and materials; Candiani is already a creator (tania-candiani).",
+   "link": "https://hubemag.com/shanghai-biennale-explores-the-more-than-human-world",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Sandra Knecht — Home Is a Foreign Place (Biennale Arte 2026)",
+   "why": "Installation around a restored apiary once occupied by wasps and a dormouse, and a bronze cast of a fallen pear tree that houses insects in her garden; La Biennale page has images.",
+   "link": "https://www.labiennale.org/en/art/2026/sandra-knecht",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Brazil Pavilion — Comigo ninguém pode (Rosana Paulino, Adriana Varejão, Venice 2026)",
+   "why": "Named after the protective Dieffenbachia plant; spirituality and more-than-human realms in Brazilian culture. More about colonial history than plants.",
+   "link": "https://www.labiennale.org/en/art/2026/brazil",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Philippines Pavilion — Sea of Love / Dagat ng Pag-ibig (Jon Cuyson, Venice 2026)",
+   "why": "Mussels as motif and method for kinship across land and sea, framed by queer and post-colonial ecologies.",
+   "link": "https://www.labiennale.org/en/art/2026/philippines",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Claudix Vanesix — XENOCENE: A Manifesto in Motion",
+   "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): real-time AI performance on the 'age of the non-human'; mostly about AI and identity, so left out.",
+   "link": "https://archive.aec.at/prix/319506/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Direito à Sombra / The Right to Shade (Mari Nagem, Thiago Hersan)",
+   "why": "S+T+ARTS Prize 2026 nomination about urban shade and trees in Brazil; no project page found.",
+   "link": "https://starts.eu/detail/starts-prize-2026/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "The Data of Coca (Plano Negativo)",
+   "why": "S+T+ARTS Prize 2026 nomination on the coca plant and data; not researched.",
+   "link": "https://starts.eu/detail/starts-prize-2026/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "International Rights of Nature Tribunal — Antarctica and the Southern Ocean (Cape Town, 2 Dec 2026)",
+   "why": "7th tribunal session hearing the case of Antarctica and the Southern Ocean; add after it takes place.",
+   "link": "https://www.rightsofnaturetribunal.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Superflux — Relics of Abundance (2026), The Craftocene at Weltmuseum Wien",
+   "why": "New commission for the Vienna Climate Biennale 2026 imagining descendants reading today's objects; more about consumption than other species.",
+   "link": "https://superflux.in/index.php/work/the-craftocene/",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "Abya Yala / Buen-TEK grand prizes: Voluspa Jarpa; Inty and Yauri Muenala; El Alto Aesthetics Collective",
+   "why": "S+T+ARTS Buen-TEK 2026 winners on ancestral memory, Kichwa names and weaving; Indigenous cosmology but not centred on other species.",
+   "link": "https://starts.eu/prize-buen-tek-winners-2026",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "SIGGRAPH Asia 2026 Art Gallery ('Starting with Spinning')",
+   "why": "Takes place in December 2026, after this sweep; SIGGRAPH 2026 Art Gallery ecological works (Simulacra Naturae, The Long Fall) are already in the gallery.",
+   "link": "https://asia.siggraph.org/2026/submissions/art-gallery/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "ISEA2026 Dubai (6–15 Nov 2026)",
+   "why": "Running now; full artwork list not yet published. Check for ecological works after it closes.",
+   "link": "https://isea-2026.isea-international.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Holy See Pavilion, Venice 2026 — FKA twigs bee sound piece; Nick Cave bird figure (In Minor Keys)",
+   "why": "Reviews mention a bee-buzz work by FKA twigs and a Nick Cave figure hosting 50 bird species; not researched.",
+   "link": "https://www.theartnewspaper.com/2026/05/08/the-big-review-%7C-venice-biennale-2026-in-minor-keys-12",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

@@ -824,6 +824,14 @@
   "batch": "hni"
  },
  {
+  "name": "Rehkitzrettung Schweiz",
+  "why": "Swiss volunteer network using thermal drones to find fawns before mowing; gives a drone demo at ACI 2026. Possible org record.",
+  "link": "https://www.rehkitzrettung.ch",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "latest-aci"
+ },
+ {
   "name": "Katharina Kleiser et al. – Learning from Human-Dog Collaboration for SAR robots (HRI 2026 LBR)",
   "why": "Interviews with search-and-rescue dog handlers to inform robot teaming; no figures found.",
   "link": "https://doi.org/10.1145/3776734.3794545",
@@ -1294,6 +1302,126 @@
   "found_via": "guy-ben-ary",
   "status": "off_topic",
   "batch": "organoid"
+ },
+ {
+  "name": "ACI 2026 papers without public preprint (proceedings due Dec 2026, DOI prefix 10.1145/3859975)",
+  "why": "Program lists ~26 papers: Make It Rain ostrich mist sprinkler (Mastali, Jackson); tablet speech board with a miniature Aberdeen steer (Taylor-O'Connor, Mancini); Pawsitive Projection remote human–cat play (Fangyuan Chang); Equiform hippotherapy UI; AI wildlife sensing-to-notification (Kobayashi); robotic quadrupeds for nature protection (Bendel); wild horse Re-ID drones; As the Crow Flies magnetoreception vest (Nippert-Eng); FISH-SCALE aquaculture sorting (Roberts); Why Not Reptiles?; Shaping Sonic Worlds review (Kleinberger); The Question of Art for Dogs (Zamansky); biosemiotics of AI sign systems (Mancini); Perceptances (Roberts); detection-dog pressure sensors (Mancini, Medical Detection Dogs); pig behaviour perception (Kobayashi); under-mattress dog rest monitoring (Adams); multimodal dog wearables (Starner); dog rehoming profiles (Nippert-Eng); A Year in a Zoo (William Gaver). Add when ACM DOIs resolve.",
+  "link": "https://www.aciconf.org/_files/ugd/1bf0ca_9b42cfb0fde94393b39ac401189b374e.pdf",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-aci"
+ },
+ {
+  "name": "Oliver Bendel – Towards a Discipline of Animal-Machine Interaction (Robophilosophy 2026)",
+  "why": "Position paper arguing AMI as its own discipline; DOI not yet found.",
+  "link": "https://www.robophilosophy.com/archives/4553",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-aci"
+ },
+ {
+  "name": "Ewe and lamb Bluetooth social-behaviour sensing (AABS 2026)",
+  "why": "Bluetooth proximity tags as welfare indicator in sheep.",
+  "link": "https://doi.org/10.1016/j.applanim.2026.107188",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-aci"
+ },
+ {
+  "name": "Eugène Bergeron & Vassilis Papadopoulos – AlifeHFPipeline (ALIFE 2026)",
+  "why": "Human-preference reward models to search Lenia and ParticleLife; companion to ASAL. Only a GitHub card as image.",
+  "link": "https://doi.org/10.1162/isal.a.988",
+  "found_via": "sakana-ai",
+  "status": "no_media",
+  "batch": "sweep-2026-11-ai"
+ },
+ {
+  "name": "15th Shanghai Biennale works: Tania Candiani, Prologue II. Resonant Blossoms (2025); Kosen Ohtsubo, Linga Shanghai (2025); Allora & Calzadilla, Graft (Phantom Tree) / Penumbra (2025)",
+  "why": "Biennale built on interspecies perception (Nov 2025–Mar 2026). Images exist on hubemag.com but no project descriptions beyond titles and materials; Candiani is already a creator (tania-candiani).",
+  "link": "https://hubemag.com/shanghai-biennale-explores-the-more-than-human-world",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-art-spec"
+ },
+ {
+  "name": "Claudix Vanesix — XENOCENE: A Manifesto in Motion",
+  "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): real-time AI performance on the 'age of the non-human'; mostly about AI and identity, so left out.",
+  "link": "https://archive.aec.at/prix/319506/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "sweep-2026-11-art-spec"
+ },
+ {
+  "name": "Direito à Sombra / The Right to Shade (Mari Nagem, Thiago Hersan)",
+  "why": "S+T+ARTS Prize 2026 nomination about urban shade and trees in Brazil; no project page found.",
+  "link": "https://starts.eu/detail/starts-prize-2026/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-art-spec"
+ },
+ {
+  "name": "Abya Yala / Buen-TEK grand prizes: Voluspa Jarpa; Inty and Yauri Muenala; El Alto Aesthetics Collective",
+  "why": "S+T+ARTS Buen-TEK 2026 winners on ancestral memory, Kichwa names and weaving; Indigenous cosmology but not centred on other species.",
+  "link": "https://starts.eu/prize-buen-tek-winners-2026",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "sweep-2026-11-art-spec"
+ },
+ {
+  "name": "KABK graduation show 2026 (Greenhousing Saprophytes, Moritz Plöns)",
+  "why": "Spatial design as multispecies practice with saprophytic fungi; DDW page no longer online.",
+  "link": "https://www.kabk.nl",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-bio"
+ },
+ {
+  "name": "Yiqian Wu, Ziming Wang, Michail Giannakos, Morten Fjeld: 'Blooming Tree in the Air: Speculating on a Plant–Robot Hybrid That Grows and Flies' (NordiCHI 2026 Adjunct)",
+  "why": "Speculative plant–robot hybrid; no abstract or image reachable (ACM blocks scripts).",
+  "link": "https://doi.org/10.1145/3821402.3830128",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-biocomp"
+ },
+ {
+  "name": "Akyildiz, Sayin, Saygili, Unluturk: molecular type division multiplexing via algae VOCs (ACM NanoCom 2026)",
+  "why": "Algae volatiles as a molecular communication channel; still no abstract or visual.",
+  "link": "https://doi.org/10.1145/3818305.3830272",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-biocomp"
+ },
+ {
+  "name": "Nazar Zadeh Attar, Magarini, Mura et al.: plant stress decoding from electrophysiological signals (ACM NanoCom 2026)",
+  "why": "Plant bioelectric signals framed as a communication channel.",
+  "link": "https://doi.org/10.1145/3818305.3830252",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-biocomp"
+ },
+ {
+  "name": "Takeuchi lab: light-driven quadrupedal walking biohybrid robot with antagonistic muscle rings (Adv. Robotics Research 2026)",
+  "why": "Follow-up to the biohybrid biped; no public figure or video found yet.",
+  "link": "https://doi.org/10.1002/adrr.202500203",
+  "found_via": "shoji-takeuchi",
+  "status": "no_media",
+  "batch": "sweep-2026-11-biocomp"
+ },
+ {
+  "name": "Simulacra Naturae – Entangled Biomes (SIGGRAPH 2026 Art Gallery)",
+  "why": "New iteration of an existing organoid-driven artwork (nefeli-manoudaki--simulacra-naturae); could be added as extra media.",
+  "link": "https://doi.org/10.1145/3799824.3812690",
+  "found_via": "nefeli-manoudaki",
+  "status": "duplicate",
+  "batch": "sweep-2026-11-biocomp"
+ },
+ {
+  "name": "UIST 2026 proceedings (Detroit)",
+  "why": "Scanned 251 papers via Crossref: no living-organism interface papers; AquaWeave liquid-activated bio-textiles (10.1145/3830398.3830607) may fit the bio field.",
+  "link": "https://dl.acm.org/doi/proceedings/10.1145/3830398",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "sweep-2026-11-biocomp"
  },
  {
   "name": "Clara Mancini",
