@@ -17,7 +17,7 @@
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
   const UPDATES = DATA.updates || [];
-  const VIEWS = ["atlas", ...(UPDATES.length ? ["updates"] : []), ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
+  const VIEWS = ["atlas", ...(UPDATES.length ? ["new", "updates"] : []), ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -66,7 +66,7 @@
   function writeHash(workId) {
     const p = new URLSearchParams();
     if (state.view !== "atlas") p.set("view", state.view);
-    if ((fieldById[state.view] || state.view === "updates") && state.sub) p.set("sub", state.sub);
+    if ((fieldById[state.view] || state.view === "updates" || state.view === "new") && state.sub) p.set("sub", state.sub);
     if (FILTERED.includes(state.view)) {
       if (state.q) p.set("q", state.q);
       if (state.cols.size) p.set("col", [...state.cols].join(","));
@@ -372,6 +372,22 @@
     currentList = lists.flat();
     return currentList.length;
   }
+  /* What's New: everything the latest update added, filterable by field (state.sub = field id). */
+  function renderNew() {
+    const u = UPDATES[0];
+    const all = sorted(DATA.works.filter((w) => w.added === u.date));
+    if (state.sub && !all.some((w) => w.field === state.sub)) state.sub = "";
+    const chip = (id, label, n) => `<button class="chip" data-sub="${esc(id)}" aria-pressed="${state.sub === id}">${esc(label)}<small>${n}</small></button>`;
+    const note = zh() ? u.note_zh : u.note_en;
+    $("#newHead").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().tab_new)}</h2>
+        <p class="starred__lede">${esc(nm(u) || S().update_untitled)}${note ? " — " + esc(note) : ""}</p>
+        <p class="count mono">${esc(u.date)} · ${esc(S().update_added(all.length))}</p></div>
+      <div class="chips scat-chips">${chip("", S().all_cats, all.length)}${FIELDS.map((f) => { const n = all.filter((w) => w.field === f.id).length; return n ? chip(f.id, nm(f), n) : ""; }).join("")}</div>`;
+    currentList = state.sub ? all.filter((w) => w.field === state.sub) : all;
+    fill($("#newGrid"), currentList, card, 24, 36);
+    $("#newFoot").innerHTML = UPDATES.length > 1 ? `<button class="tour__start mono update__more" data-go="updates">${esc(S().all_updates(UPDATES.length))}</button>` : "";
+    return currentList.length;
+  }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
     fill($("#grid"), currentList, card, 24, 36);
@@ -444,7 +460,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, updates: renderUpdates, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, new: renderNew, updates: renderUpdates, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();

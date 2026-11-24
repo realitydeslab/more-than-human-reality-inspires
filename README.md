@@ -7,6 +7,7 @@ Design with more than humans. A bilingual (English / 中文) gallery of works in
 ## What's inside
 
 - **Atlas**: the nine fields in three groups (relating to other beings · working with living matter · culture & futures) and their sub-categories at a glance, plus collections.
+- **What's New**: everything the latest update added, filterable by field.
 - **Updates**: what entered the gallery and when, newest first — each update with its date, a note, counts per field and the works it added.
 - **Nine field views**, each grouped by sub-category:
   - More-than-Human Design: multispecies design, care & cohabitation, noticing & attunement, methods & tools, theory & frameworks.
@@ -85,6 +86,7 @@ Images and videos are linked from the creators, labs, museums and publishers and
 与万物一起设计。这是一个中英双语的作品库，收录**超越人类的设计**、**动物-计算机交互**、**人与自然交互**、**生物设计**、**生物计算**、**类器官计算**、**生态艺术**、**思辨与政治**与**跨物种 AI** 九个领域的论文、研究原型、艺术作品、产品和思辨设计项目。每件作品都写明核心想法和实现方式，并附上论文、视频和图片链接。由 [Reality Design Lab](https://reality.design) 整理，是 [Reality Design Inspire](https://inspire.reality.design) 的姊妹站。
 
 - **总览**：九个领域分三组（与其他生命相处 · 与活体物质一起工作 · 文化与未来）及其子类，以及各个合集。
+- **最新**：最近一次更新加入的全部作品，可按领域筛选。
 - **更新**：每次新收录了什么、在哪一天，最新的在前；每次更新列出日期、说明、各领域数量和新增作品。
 - **九个领域页**：按子类分组浏览。
 - **全部作品**：按领域、生物、类型、合集和年代筛选，支持全文搜索。
