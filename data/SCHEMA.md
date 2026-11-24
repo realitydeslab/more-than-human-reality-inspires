@@ -81,6 +81,11 @@ A work joins by listing the id in its `collections`, or by adding its work id to
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
 New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
 
+## Updates (`data/added.json`, `data/updates.json`)
+The build dates every work by the build that first included it (`data/added.json`: `{ "<work-id>": "YYYY-MM-DD" }`, maintained
+automatically — never edit by hand) and the Updates tab groups works by that date. To give an update a title and a note, add
+`{ "date": "YYYY-MM-DD", "en": "…", "zh": "…", "note_en": "…", "note_zh": "…" }` to `data/updates.json` (the date of the build that added the works).
+
 ## Reclassification (`data/reclass/<name>.json`)
 Moves existing works to another field/sub without editing their batch: `{ "<work-id>": {"field": "ecoart", "sub": "eco-media", "also": ["mth"]} }`.
 Applied at build after `taxonomy.aliases` (old field/sub ids → default new ones, so older batches stay valid) and before `overrides.patch_works`.

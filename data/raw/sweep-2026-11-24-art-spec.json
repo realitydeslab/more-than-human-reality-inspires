@@ -1,0 +1,1510 @@
+{
+  "batch": "sweep-2026-11-24-art-spec",
+  "creators": [
+    {
+      "id": "band-of-weeds",
+      "name": "Band of Weeds",
+      "kind": "studio",
+      "role": "Artist group making music with plants: Olli Aarni, Lauri Ainala, Kalle Hamm and Hermanni Keko",
+      "based": "Helsinki, FI",
+      "bio": "Finnish group, active since 2016, that turns electrical signals and measurement data from plants into sound works, records and installations.",
+      "why": "They treat weeds and forest trees as band members and use scientific plant data as musical material.",
+      "links": {
+        "site": "https://helsinkibiennaali.fi/en/artist/band-of-weeds/"
+      },
+      "role_zh": "与植物一起做音乐的艺术团体，成员为 Olli Aarni、Lauri Ainala、Kalle Hamm 和 Hermanni Keko",
+      "bio_zh": "芬兰团体，自 2016 年起活动，把植物的电信号和测量数据变成声音作品、唱片和装置。",
+      "why_zh": "他们把杂草和林木当作乐队成员，把植物的科学数据当作音乐素材。",
+      "based_zh": "赫尔辛基，芬兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "tamara-henderson",
+      "name": "Tamara Henderson",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Canada / Australia",
+      "bio": "Canadian-born artist (b. 1982) working with film, painting, sculpture and sound, often starting from dreams, gardens and compost.",
+      "why": "Her recent works make earthworms and decomposition the main performers.",
+      "links": {
+        "site": "https://helsinkibiennaali.fi/en/artist/tamara-henderson/"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "出生于加拿大的艺术家（1982 年生），创作涉及电影、绘画、雕塑和声音，常从梦境、花园和堆肥出发。",
+      "why_zh": "她近年的作品让蚯蚓和分解过程成为主角。",
+      "based_zh": "加拿大 / 澳大利亚",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "laura-pold",
+      "name": "Laura Põld",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Tallinn, EE / Vienna, AT",
+      "bio": "Estonian artist (b. 1984) who combines sculpture with ceramics, rug-making and other crafts.",
+      "why": "She uses folklore figures and craft to make works that double as shelters and water basins for other species.",
+      "links": {
+        "site": "https://helsinkibiennaali.fi/en/artist/laura-pold/"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "爱沙尼亚艺术家（1984 年生），把雕塑与陶艺、织毯等手工艺结合起来。",
+      "why_zh": "她借助民间传说中的形象和手工艺，让作品同时成为其他物种的栖所和水盆。",
+      "based_zh": "塔林，爱沙尼亚 / 维也纳，奥地利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "saskia-calderon",
+      "name": "Saskia Calderón",
+      "kind": "person",
+      "role": "Artist and soprano",
+      "based": "Ecuador",
+      "bio": "Ecuadorian artist and opera-trained soprano (b. 1981) whose sound works draw on listening and healing practices of Amazonian communities.",
+      "why": "She composes by listening to what she calls the non-human spirits of a place, joining operatic voice and Amazonian practice.",
+      "links": {
+        "site": "https://helsinkibiennaali.fi/en/artist/saskia-calderon/"
+      },
+      "role_zh": "艺术家、女高音",
+      "bio_zh": "厄瓜多尔艺术家、受过歌剧训练的女高音（1981 年生），她的声音作品借鉴亚马孙社群的聆听与疗愈实践。",
+      "why_zh": "她通过聆听一个地方的“非人类之灵”来作曲，把歌剧嗓音和亚马孙的实践结合在一起。",
+      "based_zh": "厄瓜多尔",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "matteo-marangoni",
+      "name": "Matteo Marangoni",
+      "kind": "person",
+      "role": "Artist; member of iii (instrument inventors initiative)",
+      "based": "The Hague, NL",
+      "bio": "Artist working across music, visual art and theatre who builds robotic instruments and artificial creatures.",
+      "why": "His sound-making creatures respond to weather, light and each other, so the environment composes the music.",
+      "links": {
+        "site": "https://instrumentinventors.org/?p=26642"
+      },
+      "role_zh": "艺术家；iii（instrument inventors initiative）成员",
+      "bio_zh": "创作横跨音乐、视觉艺术和剧场的艺术家，制作机器人乐器和人造生物。",
+      "why_zh": "他做的发声小生物会回应天气、光线和彼此，让环境来谱写音乐。",
+      "based_zh": "海牙，荷兰",
+      "connected_to": [
+        "dieter-vandoren"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "dieter-vandoren",
+      "name": "Dieter Vandoren",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Netherlands",
+      "bio": "Belgian-born artist working between music, software and experimental architecture, with a focus on spatial audiovisual instruments and environments.",
+      "why": "He builds instruments at the scale of a landscape, played by light, weather and visitors.",
+      "links": {
+        "site": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "出生于比利时的艺术家，创作介于音乐、软件和实验建筑之间，专注于空间化的视听乐器与环境。",
+      "why_zh": "他制作景观尺度的乐器，由光线、天气和访客来演奏。",
+      "based_zh": "荷兰",
+      "connected_to": [
+        "matteo-marangoni"
+      ],
+      "discovered_via": "matteo-marangoni"
+    },
+    {
+      "id": "sandra-knecht",
+      "name": "Sandra Knecht",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Buus, CH",
+      "bio": "Swiss artist (b. 1968, Zurich) who lives in the village of Buus with her partner, dogs and other animals and works with sculpture, found objects, photography and food.",
+      "why": "She treats home (Heimat) as something made together with animals, plants and rural routines.",
+      "links": {
+        "site": "https://www.labiennale.org/en/art/2026/sandra-knecht"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "瑞士艺术家（1968 年生于苏黎世），与伴侣、狗和其他动物住在 Buus 村，创作涉及雕塑、现成物、摄影和食物。",
+      "why_zh": "她把“家乡”（Heimat）看作与动物、植物和乡村日常一起形成的东西。",
+      "based_zh": "布斯，瑞士",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jon-cuyson",
+      "name": "Jon Cuyson",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Philippines",
+      "bio": "Filipino artist working with painting, video and sculpture on seafaring, labour and queer and post-colonial ecologies.",
+      "why": "He uses the mussel as a model for kinship between people, ships and the sea.",
+      "links": {
+        "site": "https://www.labiennale.org/en/art/2026/philippines"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "菲律宾艺术家，用绘画、影像和雕塑探讨航海、劳动以及酷儿与后殖民生态。",
+      "why_zh": "他把贻贝当作人、船和海之间亲缘关系的模型。",
+      "based_zh": "菲律宾",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "superflex",
+      "name": "SUPERFLEX",
+      "kind": "studio",
+      "role": "Artist group founded in 1993 by Jakob Fenger, Bjørnstjerne Christiansen and Rasmus Rosengren Nielsen",
+      "based": "Copenhagen, DK",
+      "bio": "Danish artist group known for works on economy, migration and climate; since about 2018 much of its work proposes architecture and public spaces designed for marine life as well as people.",
+      "why": "They design sculptures and buildings for a flooded future in which fish and corals are the next users.",
+      "links": {
+        "site": "https://superflex.net",
+        "vimeo": "https://vimeo.com/superflex"
+      },
+      "role_zh": "艺术团体，1993 年由 Jakob Fenger、Bjørnstjerne Christiansen 和 Rasmus Rosengren Nielsen 创立",
+      "bio_zh": "丹麦艺术团体，以关于经济、移民和气候的作品著称；大约从 2018 年起，他们的许多作品提出既为人也为海洋生物设计的建筑和公共空间。",
+      "why_zh": "他们为被海水淹没的未来设计雕塑和建筑，下一批使用者是鱼和珊瑚。",
+      "based_zh": "哥本哈根，丹麦",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anicka-yi",
+      "name": "Anicka Yi",
+      "kind": "person",
+      "role": "Artist",
+      "based": "New York, US",
+      "bio": "Korean-born American artist (b. 1971) who works with bacteria, algae, scent and machines, often together with biologists and chemists.",
+      "why": "She makes microbes and smell into sculptural material and asks what it means to share space with living systems.",
+      "links": {
+        "site": "https://www.anickayistudio.biz/"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "出生于韩国的美国艺术家（1971 年生），用细菌、藻类、气味和机器创作，常与生物学家和化学家合作。",
+      "why_zh": "她把微生物和气味变成雕塑材料，追问与活的系统共处一室意味着什么。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cosmo-sheldrake",
+      "name": "Cosmo Sheldrake",
+      "kind": "person",
+      "role": "Musician, composer and field recordist",
+      "based": "London, UK",
+      "bio": "British musician who composes with field recordings of birds, fish, fungi and whole habitats; brother of the mycologist Merlin Sheldrake.",
+      "why": "He builds songs from the recorded voices of other species and has asked that an ecosystem be credited as co-author.",
+      "links": {
+        "site": "https://www.cosmosheldrake.com",
+        "youtube": "https://www.youtube.com/@CosmoSheldrake"
+      },
+      "role_zh": "音乐人、作曲家、田野录音师",
+      "bio_zh": "英国音乐人，用鸟、鱼、真菌乃至整片栖息地的田野录音作曲；真菌学家 Merlin Sheldrake 的兄弟。",
+      "why_zh": "他用其他物种被录下的声音写歌，并要求把一个生态系统署名为共同作者。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "robert-macfarlane",
+        "merlin-sheldrake",
+        "cesar-rodriguez-garavito"
+      ],
+      "discovered_via": "more-than-human-life-program"
+    },
+    {
+      "id": "earth-law-center",
+      "name": "Earth Law Center",
+      "kind": "lab",
+      "role": "Non-profit legal organisation working on rights of nature",
+      "based": "Durango, US",
+      "bio": "US-based non-profit that drafts laws and supports court cases recognising the rights of rivers, oceans, species and ecosystems around the world.",
+      "why": "It turns the idea of rights of nature into ordinances and lawsuits that communities can use.",
+      "links": {
+        "site": "https://www.earthlawcenter.org"
+      },
+      "role_zh": "从事自然权利工作的非营利法律组织",
+      "bio_zh": "总部在美国的非营利组织，在世界各地起草法律、支持诉讼，推动承认河流、海洋、物种和生态系统的权利。",
+      "why_zh": "它把“自然的权利”这个想法变成社区可以使用的条例和诉讼。",
+      "based_zh": "杜兰戈，美国",
+      "connected_to": [
+        "amazon-research-internacional"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "amazon-research-internacional",
+      "name": "Amazon Research Internacional",
+      "kind": "lab",
+      "role": "Research non-profit founded by the chemical biologist Rosa Vásquez Espinoza",
+      "based": "Peru",
+      "bio": "Peruvian research organisation that studies Amazonian stingless bees and their honey together with Asháninka and other Indigenous communities.",
+      "why": "Its field research with Indigenous beekeepers supplied the evidence for the first legal rights granted to an insect.",
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=c_rtZNw6cEE"
+      },
+      "role_zh": "由化学生物学家 Rosa Vásquez Espinoza 创办的非营利研究机构",
+      "bio_zh": "秘鲁的研究组织，与 Asháninka 等原住民社群一起研究亚马孙无刺蜂及其蜂蜜。",
+      "why_zh": "它与原住民养蜂人一起做的田野研究，为昆虫首次获得法律权利提供了依据。",
+      "based_zh": "秘鲁",
+      "connected_to": [
+        "earth-law-center"
+      ],
+      "discovered_via": "earth-law-center"
+    },
+    {
+      "id": "hinemoana-halo",
+      "name": "Hinemoana Halo Ocean Initiative",
+      "kind": "lab",
+      "role": "Indigenous-led ocean conservation initiative of Māori and Pacific leaders",
+      "based": "Aotearoa New Zealand",
+      "bio": "Initiative led by Māori conservationists that works with Pacific leaders on ocean protection and prepared He Whakaputanga Moana, the declaration on the legal personhood of whales.",
+      "why": "It grounds a new legal status for whales in Pacific Indigenous law rather than in state legislation.",
+      "links": {
+        "site": "https://ecojurisprudence.org/initiatives/he-whakaputanga-moana-declaration-for-the-ocean-treaty/"
+      },
+      "role_zh": "由毛利和太平洋领袖主导的原住民海洋保护行动",
+      "bio_zh": "由毛利保护工作者领导的行动，与太平洋各地领袖合作保护海洋，并起草了关于鲸鱼法律人格的宣言 He Whakaputanga Moana。",
+      "why_zh": "它让鲸鱼的新法律地位立足于太平洋原住民的法，而不是国家立法。",
+      "based_zh": "新西兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "madras-high-court",
+      "name": "Madras High Court (Madurai Bench)",
+      "kind": "lab",
+      "role": "High court of the Indian state of Tamil Nadu; the Madurai Bench hears cases from the southern districts",
+      "based": "Madurai, IN",
+      "bio": "The Madurai Bench of the Madras High Court has issued several orders on river pollution in southern Tamil Nadu.",
+      "why": "In 2026 it recognised a river as a juristic person by way of its status as a deity.",
+      "links": {
+        "site": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-tamirabaranu-deity-hindus-no-pullition-ban-dumping-clothes-543555"
+      },
+      "role_zh": "印度泰米尔纳德邦的高等法院；马杜赖分庭审理南部各县的案件",
+      "bio_zh": "马德拉斯高等法院马杜赖分庭就泰米尔纳德邦南部的河流污染作出过多项命令。",
+      "why_zh": "2026 年，它以河流是神祇为由，承认一条河是法律上的人。",
+      "based_zh": "马杜赖，印度",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cider-rio-portoviejo",
+      "name": "CIDER (Colectivo Intercomunitario por la Defensa Ecológica del Río Portoviejo)",
+      "kind": "lab",
+      "role": "Citizens' collective defending the Portoviejo River",
+      "based": "Manabí, EC",
+      "bio": "Collective of communities along the Portoviejo River in Manabí province that went to court on the river's behalf over untreated sewage.",
+      "why": "It shows how a small local group can use Ecuador's rights of nature to speak for a polluted river.",
+      "links": {
+        "site": "https://ecojurisprudence.org/initiatives/santa-ana-ecuador-court-case-rights-of-the-portoviejo-river/"
+      },
+      "role_zh": "保卫 Portoviejo 河的公民团体",
+      "bio_zh": "由马纳比省 Portoviejo 河沿岸社区组成的团体，因未经处理的污水问题代表这条河提起诉讼。",
+      "why_zh": "它说明一个小小的地方团体可以怎样用厄瓜多尔的自然权利，为一条被污染的河发声。",
+      "based_zh": "马纳比，厄瓜多尔",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ngai-tuhoe",
+      "name": "Ngāi Tūhoe",
+      "kind": "lab",
+      "role": "Māori iwi of Te Urewera, represented by Tūhoe Te Uru Taumatua",
+      "based": "Te Urewera, NZ",
+      "bio": "Māori iwi whose homeland is the forested Te Urewera region of the North Island; its 2013 settlement with the Crown led to the Te Urewera Act 2014.",
+      "why": "Its settlement produced the first law in which a tract of land became a legal entity that no one owns.",
+      "links": {
+        "site": "https://ngaituhoe.iwi.nz/te-urewera"
+      },
+      "role_zh": "Te Urewera 的毛利部族（iwi），由 Tūhoe Te Uru Taumatua 代表",
+      "bio_zh": "毛利部族，故土是新西兰北岛森林覆盖的 Te Urewera 地区；2013 年与王室达成的和解促成了 2014 年的 Te Urewera 法案。",
+      "why_zh": "这次和解带来了第一部让一片土地成为不属于任何人的法律实体的法律。",
+      "based_zh": "Te Urewera，新西兰",
+      "connected_to": [
+        "whanganui-iwi"
+      ],
+      "discovered_via": "whanganui-iwi"
+    },
+    {
+      "id": "toledoans-for-safe-water",
+      "name": "Toledoans for Safe Water",
+      "kind": "lab",
+      "role": "Citizens' group in Toledo, Ohio",
+      "based": "Toledo, US",
+      "bio": "Grassroots group created in response to Toledo's 2014 water crisis; with the Community Environmental Legal Defense Fund it drafted the Lake Erie Bill of Rights and collected the signatures that put it on the ballot.",
+      "why": "It put the rights of a Great Lake to a city-wide vote.",
+      "links": {
+        "site": "https://www.michiganpublic.org/environment-science/2020-02-28/lake-erie-bill-of-rights-declared-unconstitutional"
+      },
+      "role_zh": "美国俄亥俄州托莱多市的公民团体",
+      "bio_zh": "为回应托莱多 2014 年的饮水危机而成立的草根团体；它与 Community Environmental Legal Defense Fund 一起起草了《伊利湖权利法案》，并征集签名把它送上公投。",
+      "why_zh": "它让全市投票决定一座大湖的权利。",
+      "based_zh": "托莱多，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "innu-council-of-ekuanitshit",
+      "name": "Innu Council of Ekuanitshit",
+      "kind": "lab",
+      "role": "Council of the Innu First Nation of Ekuanitshit (Mingan), Quebec",
+      "based": "Ekuanitshit, CA",
+      "bio": "Governing council of the Innu community of Ekuanitshit on Quebec's Côte-Nord, whose traditional territory includes the Muteshekau Shipu (Magpie River).",
+      "why": "Together with the regional municipality it made the Magpie the first river in Canada with legal personhood.",
+      "links": {
+        "site": "https://ecojurisprudence.org/initiatives/innu-first-nation-resolution-rights-of-the-magpie-river/"
+      },
+      "role_zh": "魁北克 Ekuanitshit（Mingan）因努原住民的议会",
+      "bio_zh": "魁北克北岸地区 Ekuanitshit 因努社区的管理议会，其传统领地包括 Muteshekau Shipu（Magpie 河）。",
+      "why_zh": "它与地区市政当局一起，让 Magpie 河成为加拿大第一条拥有法律人格的河。",
+      "based_zh": "Ekuanitshit，加拿大",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kichwa-people-of-sarayaku",
+      "name": "Kichwa People of Sarayaku",
+      "kind": "lab",
+      "role": "Indigenous Kichwa people of the Bobonaza River, Ecuadorian Amazon",
+      "based": "Sarayaku, EC",
+      "bio": "Kichwa community of roughly 1,200 to 1,400 people on the Bobonaza River in Pastaza province; it received the UNDP Equator Prize in 2021 for its Living Forest proposal.",
+      "why": "They ask that their forest be recognised in law as they understand it: a living, conscious being made of many kinds of persons.",
+      "links": {
+        "site": "https://sarayaku.org/en/declaracion/"
+      },
+      "role_zh": "厄瓜多尔亚马孙 Bobonaza 河流域的 Kichwa 原住民",
+      "bio_zh": "帕斯塔萨省 Bobonaza 河畔约 1200 至 1400 人的 Kichwa 社区；2021 年因“活的森林”提案获联合国开发计划署赤道奖。",
+      "why_zh": "他们要求法律按他们自己的理解来承认森林：一个由多种“人”组成的、活着的、有意识的存在。",
+      "based_zh": "Sarayaku，厄瓜多尔",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "joanna-macy",
+      "name": "Joanna Macy",
+      "kind": "person",
+      "role": "Buddhist scholar, systems thinker and activist (1929–2025); founder of the Work That Reconnects",
+      "based": "Berkeley, US",
+      "bio": "American scholar of Buddhism and general systems theory who developed group practices for facing ecological grief and acting on it.",
+      "why": "Her group rituals gave environmental activists a practical way to feel and speak as part of the living world.",
+      "links": {
+        "site": "https://workthatreconnects.org"
+      },
+      "role_zh": "佛学学者、系统思想家和行动者（1929–2025）；Work That Reconnects 的创始人",
+      "bio_zh": "研究佛学和一般系统论的美国学者，发展出一套帮助人们面对生态悲伤并付诸行动的团体练习。",
+      "why_zh": "她的团体仪式给了环保行动者一种切实的办法，去感受自己是生命世界的一部分并以此发言。",
+      "based_zh": "伯克利，美国",
+      "connected_to": [
+        "john-seed"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "john-seed",
+      "name": "John Seed",
+      "kind": "person",
+      "role": "Rainforest activist and deep ecology educator; founder of the Rainforest Information Centre",
+      "based": "New South Wales, AU",
+      "bio": "Australian activist who helped protect the Terania Creek rainforest in 1979 and has since led deep ecology workshops around the world.",
+      "why": "He co-created a workshop form in which people give their voice to other species.",
+      "links": {
+        "site": "https://www.rainforestinfo.org.au/deep-eco/council.htm"
+      },
+      "role_zh": "雨林行动者、深层生态学教育者；Rainforest Information Centre 创始人",
+      "bio_zh": "澳大利亚行动者，1979 年参与保护 Terania Creek 雨林，此后在世界各地带领深层生态学工作坊。",
+      "why_zh": "他与人共同创造了一种工作坊形式，让人把自己的声音借给其他物种。",
+      "based_zh": "新南威尔士，澳大利亚",
+      "connected_to": [
+        "joanna-macy"
+      ],
+      "discovered_via": "joanna-macy"
+    }
+  ],
+  "works": [
+    {
+      "id": "band-of-weeds--the-weep-of-trees",
+      "creator_ids": [
+        "band-of-weeds"
+      ],
+      "title": "The Weep of Trees",
+      "year": 2021,
+      "field": "ecoart",
+      "sub": "eco-media",
+      "organisms": [
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A four-channel sound installation, made between 2021 and 2023, that turns the stress response of trees left standing in a partly felled Finnish commercial forest into music. At the Helsinki Biennial 2025 it played in a greenhouse on Vallisaari island.",
+      "description_zh": "一件四声道声音装置，创作于 2021 至 2023 年，把芬兰一片经济林被部分砍伐后留下的树木的应激反应变成音乐。在 2025 年赫尔辛基双年展上，它在 Vallisaari 岛的一间温室里播放。",
+      "idea_en": "Let a logged forest be heard: use the chemical distress of the surviving trees as the score.",
+      "idea_zh": "让被砍伐的森林被听见：把幸存树木的化学“求救”当作乐谱。",
+      "method": "Sensor data on volatile organic compounds released by trees before and after harvesting, collected by a University of Helsinki project at Hyytiälä Forest Station, is combined with electrical impulses from plant tissue shifted into the audible range and with forest recordings.",
+      "method_zh": "赫尔辛基大学在 Hyytiälä 森林站的项目用传感器记录了砍伐前后树木释放的挥发性有机物；乐队把这些数据与移到可听范围的植物组织电脉冲以及森林录音结合起来。",
+      "keywords": [
+        "Puiden itku",
+        "VOC",
+        "Hyytiälä Forest Station",
+        "Kalevala",
+        "plant sonification",
+        "Helsinki Biennial 2025",
+        "Vallisaari"
+      ],
+      "images": [
+        "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/05/03155914/Band-of-Weeds_Puiden-itku.jpg"
+      ],
+      "source_url": "https://helsinkibiennaali.fi/en/artist/band-of-weeds/",
+      "collections": [
+        "helsinki-biennial-2025"
+      ]
+    },
+    {
+      "id": "tamara-henderson--worm-affair",
+      "creator_ids": [
+        "tamara-henderson"
+      ],
+      "title": "Worm Affair",
+      "year": 2023,
+      "field": "ecoart",
+      "sub": "interspecies-art",
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A sound installation built around a working compost bin: visitors hear a live audio feed of compost worms tunnelling through and digesting organic matter. It was commissioned by Camden Art Centre for the exhibition Green in the Grooves and shown again at the Helsinki Biennial 2025.",
+      "description_zh": "一件围绕一只真正在运作的堆肥箱做成的声音装置：观众听到的是堆肥蚯蚓在有机物中钻行、消化的实时声音。作品由 Camden Art Centre 为展览 Green in the Grooves 委托创作，2025 年又在赫尔辛基双年展展出。",
+      "idea_en": "Put a microphone in the compost and let decomposition, done by worms, be the performance.",
+      "idea_zh": "把话筒放进堆肥里，让蚯蚓完成的分解过程成为演出。",
+      "method": "Contact microphones in a compost bin with live compost worms feed speakers mounted in wooden structures.",
+      "method_zh": "在养着活堆肥蚯蚓的堆肥箱里放置接触式话筒，声音送到装在木结构中的扬声器。",
+      "keywords": [
+        "compost worms",
+        "contact microphones",
+        "live audio",
+        "Green in the Grooves",
+        "Camden Art Centre",
+        "Helsinki Biennial 2025"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=4-65yKxZGhc"
+      },
+      "images": [
+        "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/05/03155720/Tamara-Henderson_Matojuttu.jpg"
+      ],
+      "source_url": "https://helsinkibiennaali.fi/en/artist/tamara-henderson/",
+      "collections": [
+        "helsinki-biennial-2025"
+      ]
+    },
+    {
+      "id": "laura-pold--kulmking",
+      "creator_ids": [
+        "laura-pold"
+      ],
+      "title": "Külmking. Tassel of the Dead, Root of the Living / Resting Within Puddles and Branches",
+      "year": 2025,
+      "field": "ecoart",
+      "sub": "installation",
+      "also": [
+        "speculation"
+      ],
+      "organisms": [
+        "animals",
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "Two linked works named after Külmking, a figure in Estonian folklore said to protect forests and peatlands. Indoors, plant-dyed wool tapestries and ceramics suggest mossy ground and roots; outdoors on Vallisaari island, large ceramic tree trunks hold mushroom-like basins where local birds can drink and bathe.",
+      "description_zh": "两件相关联的作品，以爱沙尼亚民间传说中守护森林和泥炭地的 Külmking 命名。室内部分用植物染羊毛挂毯和陶瓷暗示长满苔藓的地面与树根；室外部分在 Vallisaari 岛上，大型陶瓷树干托着蘑菇状的水盆，供当地鸟类饮水和洗浴。",
+      "idea_en": "Bring a folklore guardian of the forest back as a sculpture that actually serves the birds of the site.",
+      "idea_zh": "让民间传说里的森林守护者回来，变成一件真正为当地鸟类服务的雕塑。",
+      "method": "Hand-tufted wool pile tapestries dyed with plants, made with three weavers, and ceramic and steel sculptures whose forms collect rainwater for birds.",
+      "method_zh": "与三位织工一起手工簇绒、用植物染色的羊毛挂毯，以及陶瓷和钢制雕塑，其造型可以为鸟类蓄积雨水。",
+      "keywords": [
+        "Külmking",
+        "Estonian folklore",
+        "peatland",
+        "plant-dyed wool",
+        "ceramics",
+        "bird bath",
+        "Helsinki Biennial 2025"
+      ],
+      "images": [
+        "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/03144424/Laura-Pold_Kylmakenka.-Lepailee-latakoissa-ja-oksilla-1.jpg",
+        "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/04235746/Laura-Pold-Kylmakenka.-Kuolleiden-tupsu-elavien-juuri.jpg"
+      ],
+      "source_url": "https://helsinkibiennaali.fi/en/artist/laura-pold/",
+      "collections": [
+        "helsinki-biennial-2025"
+      ]
+    },
+    {
+      "id": "saskia-calderon--sonata-vallisaari",
+      "creator_ids": [
+        "saskia-calderon"
+      ],
+      "title": "Sonata Vallisaari",
+      "year": 2025,
+      "field": "ecoart",
+      "sub": "eco-media",
+      "also": [
+        "speculation"
+      ],
+      "organisms": [
+        "ecosystems",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A performance and sound piece of about 20 minutes, composed after the artist spent several days on Vallisaari island listening to what she describes as its non-human spirits: vegetation, rocks, water and animals. Visitors listen seated on the island; it was shown with her earlier Coro de la Selva (2015), a choir built from melodies received in the Ecuadorian Amazon.",
+      "description_zh": "一件约 20 分钟的表演与声音作品。艺术家在 Vallisaari 岛上待了几天，聆听她所说的岛上的“非人类之灵”——植被、岩石、水和动物——之后写成。观众坐在岛上聆听；同时展出的还有她早先的 Coro de la Selva（2015），一部用在厄瓜多尔亚马孙地区得到的旋律组成的合唱。",
+      "idea_en": "Compose for a place by first asking its plants, rocks, water and animals what the melody is.",
+      "idea_zh": "为一个地方作曲之前，先去问那里的植物、岩石、水和动物旋律是什么。",
+      "method": "The artist, a trained soprano, applies listening practices learned from Siona, Cofán and Secoya traditions to the island and sings the resulting melody; the piece is played back on site.",
+      "method_zh": "艺术家是受过训练的女高音，她把从 Siona、Cofán 和 Secoya 传统中学到的聆听方法用在这座岛上，唱出由此得到的旋律，作品在现场播放。",
+      "keywords": [
+        "Sonnet for Vallisaari",
+        "Coro de la Selva",
+        "soprano",
+        "Siona",
+        "Cofán",
+        "Secoya",
+        "listening",
+        "Helsinki Biennial 2025"
+      ],
+      "images": [
+        "https://evermade-helsinkibiennaali-phase2-website.s3.eu-north-1.amazonaws.com/wp-content/uploads/2025/06/04220026/Saskia-Calderon_Sonata-Vallisaari-ja-Coro-de-la-Selva.jpg"
+      ],
+      "source_url": "https://helsinkibiennaali.fi/en/artist/saskia-calderon/",
+      "collections": [
+        "helsinki-biennial-2025"
+      ]
+    },
+    {
+      "id": "matteo-marangoni--komorebi",
+      "creator_ids": [
+        "matteo-marangoni",
+        "dieter-vandoren"
+      ],
+      "title": "Komorebi",
+      "year": 2022,
+      "field": "ecoart",
+      "sub": "eco-media",
+      "organisms": [
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A swarm of small electronic creatures placed in a park or forest that make music from sunlight, passing clouds and the moving shadows of trees. Each one reacts to the light around it and to the sounds of its neighbours, so the composition changes with the weather and as visitors walk through. A first version was developed for the cancelled 2020 edition of the festival Into the Great Wide Open; the swarm was shown in the dunes of Vlieland at the 2022 edition and at the Ars Electronica Festival 2026.",
+      "description_zh": "一群放在公园或森林里的小型电子生物，用阳光、飘过的云和摇动的树影来做音乐。每一只都对周围的光线和邻居的声音作出反应，所以乐曲随天气和观众的走动而变化。最初的版本是为后来取消的 2020 年 Into the Great Wide Open 音乐节开发的；这群小生物在 2022 年的音乐节上出现在弗利兰岛的沙丘里，2026 年又在 Ars Electronica 电子艺术节展出。",
+      "idea_en": "Let tree shadows and clouds play the instrument: many simple devices, each listening only to its own patch of light.",
+      "idea_zh": "让树影和云来演奏：许多简单的装置，每一只只留意自己那一小片光。",
+      "method": "Each unit has its own processor, light sensing and a horn speaker and runs the same program independently; up to about 100 units are spread over a site.",
+      "method_zh": "每个单元都有自己的处理器、光感应和号角扬声器，各自独立运行同一个程序；一个场地上最多散布约 100 个单元。",
+      "keywords": [
+        "komorebi",
+        "swarm",
+        "light-responsive",
+        "generative music",
+        "Into the Great Wide Open",
+        "Vlieland",
+        "Crossing Parallels",
+        "TU Delft",
+        "Ars Electronica 2026"
+      ],
+      "images": [
+        "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_komorebi-01-photo-dieter-vandoren.jpg",
+        "https://instrumentinventors.org/wp-content/uploads/2021/11/KomorebiVlieland02.jpg",
+        "https://ars.electronica.art/negotiatinghumanity/files/2026/08/komorebi-05-photo-dieter-vandoren.jpg"
+      ],
+      "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778",
+      "collections": [
+        "ars-electronica-negotiating-beyond-humanity-2026"
+      ]
+    },
+    {
+      "id": "pierre-huyghe--exomind-deep-water",
+      "creator_ids": [
+        "pierre-huyghe"
+      ],
+      "title": "Exomind (Deep Water)",
+      "year": 2017,
+      "field": "ecoart",
+      "sub": "interspecies-art",
+      "organisms": [
+        "insects",
+        "plants",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "A permanent garden at the Dazaifu Tenmangu shrine in Fukuoka, Japan. A concrete figure of a crouching woman carries a living bee colony as its head, and around it live an orange tree, a plum tree, water lilies descended from Monet's Giverny pond, koi, an axolotl, a calico cat, ants and spiders. The work continues Untilled (2012) and has been growing since 2017.",
+      "description_zh": "日本福冈太宰府天满宫里的一座永久花园。一尊蹲坐女子的混凝土像，头部是一个活的蜂群；周围生活着橙树、梅树、莫奈吉维尼池塘睡莲的后代、锦鲤、一只美西螈、一只三花猫、蚂蚁和蜘蛛。作品延续了 Untilled（2012），自 2017 年起一直在生长。",
+      "idea_en": "Make a sculpture whose head is a beehive and then leave the garden around it to the species that live there.",
+      "idea_zh": "做一尊以蜂巢为头的雕塑，然后把周围的花园交给住在那里的物种。",
+      "method": "A concrete cast after a statue by Tobari Kogan supports a wax hive with a bee colony; plants and animals with their own histories are introduced into a shrine garden and left to interact over years.",
+      "method_zh": "按户张孤雁的一尊雕像翻制的混凝土像托着带蜂群的蜡质蜂巢；各有来历的植物和动物被引入神社花园，任它们在多年里相互作用。",
+      "keywords": [
+        "Dazaifu Tenmangu",
+        "bee colony",
+        "Untilled",
+        "Tobari Kogan",
+        "axolotl",
+        "permanent garden",
+        "Esther Schipper"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aXuTBg2gZzY"
+      },
+      "images": [
+        "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/212e5a689bfc6eaae09a2d99a7acf87fj.jpg"
+      ],
+      "source_url": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/17096-pierre-huyghe-exomind-deep-water-2017ongoing/"
+    },
+    {
+      "id": "superflex--interspecies-assembly",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Interspecies Assembly",
+      "year": 2021,
+      "field": "ecoart",
+      "sub": "installation",
+      "also": [
+        "speculation"
+      ],
+      "organisms": [
+        "animals",
+        "ecosystems",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Pink marble sculptures arranged in a broken circle in Central Park, New York, during the 76th UN General Assembly. They mark out a meeting place with no fixed entrance, and visitors are asked to slow down and listen to other species. An Interspecies Contract carved into the stone proposes a new code of conduct for humans, including five minutes of idling.",
+      "description_zh": "第 76 届联合国大会期间，摆放在纽约中央公园的一组粉色大理石雕塑，排成一个有缺口的圆。它们围出一个没有固定入口的集会场所；访客被请求慢下来、聆听其他物种。刻在石头上的《跨物种契约》为人类提出一套新的行为准则，其中包括闲待五分钟。",
+      "idea_en": "Hold an assembly next to the UN where humans are only one delegation, and write the terms of attendance in stone.",
+      "idea_zh": "在联合国旁边开一场集会，人类只是其中一个代表团，并把出席的条件刻在石头上。",
+      "method": "Carved pink marble blocks form an open circle in a public park; the engraved contract text sets out a code of conduct for humans. It was shown with Vertical Migration, a film about a computer-generated siphonophore projected on the UN building.",
+      "method_zh": "雕刻的粉色大理石块在公园里围成一个开放的圆，刻在上面的契约文本为人类提出行为准则。同时展出的还有 Vertical Migration：一部以电脑生成的管水母为主角、投影在联合国大楼上的影片。",
+      "keywords": [
+        "Interspecies Contract",
+        "pink marble",
+        "Central Park",
+        "UN General Assembly",
+        "ART 2030",
+        "Vertical Migration"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/1240w_19_superflex_interspecies_assembly_lance_gerber09_1633520067.jpg",
+        "https://superflex.net/superfleximages/400w_1_superflex_interspecies_assembly_lance_gerber33_1633519616.jpg"
+      ],
+      "source_url": "https://superflex.net/works/interspecies_assembly"
+    },
+    {
+      "id": "superflex--there-are-other-fish-in-the-sea",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "There Are Other Fish In The Sea",
+      "year": 2026,
+      "field": "ecoart",
+      "sub": "installation",
+      "also": [
+        "speculation"
+      ],
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "For this site-specific work the Renaissance courtyard of Palazzo Strozzi in Florence was flooded with a shallow pool, from which eight pink travertine columns rise. The columns are designed as future shelters for marine life, for a time when the sea covers the city; the work was shown from April to August 2026, sixty years after the 1966 Florence flood.",
+      "description_zh": "这件为场地而作的作品把佛罗伦萨 Palazzo Strozzi 的文艺复兴庭院灌成一片浅水，八根粉色洞石柱从水中升起。这些柱子被设计成未来海洋生物的庇护所，为海水淹没城市的那一天做准备；作品于 2026 年 4 月至 8 月展出，正值 1966 年佛罗伦萨大洪水六十周年。",
+      "idea_en": "Design architecture now for the tenants who arrive after sea-level rise: fish, not people.",
+      "idea_zh": "现在就为海平面上升之后搬进来的住户设计建筑：是鱼，不是人。",
+      "method": "A temporary water basin fills the courtyard and carved pink travertine columns stand in it; their forms are intended as habitat for marine species. The installation is due to be reconfigured for Kunsthal Spritten in Aalborg in 2027.",
+      "method_zh": "庭院被临时水池填满，雕刻的粉色洞石柱立在水中，造型意在成为海洋物种的栖息地。装置计划于 2027 年在奥尔堡的 Kunsthal Spritten 重新布置。",
+      "keywords": [
+        "Palazzo Strozzi",
+        "interspecies architecture",
+        "sea-level rise",
+        "travertine",
+        "1966 Florence flood",
+        "Kunsthal Spritten"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Cnje2aw2Xl0"
+      },
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/04/superflex-palazzo-strozzi-courtyard-future-refuges-marine-life-sea-levels-florence-designboom-1200.jpg"
+      ],
+      "source_url": "https://www.designboom.com/art/superflex-palazzo-strozzi-courtyard-future-refuges-marine-life-sea-levels-florence/"
+    },
+    {
+      "id": "superflex--dive-in",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Dive-In",
+      "year": 2019,
+      "field": "ecoart",
+      "sub": "installation",
+      "also": [
+        "speculation"
+      ],
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A pink, coral-like structure built in the Coachella Valley desert for Desert X 2019. By night it worked as a drive-in cinema showing underwater footage; it was also conceived as infrastructure for the fish and corals that will use it when sea levels rise.",
+      "description_zh": "为 Desert X 2019 在科切拉谷沙漠中建造的一座粉色、珊瑚状的构筑物。夜晚它是一座放映水下影像的汽车影院；它同时也被设想成海平面上升之后供鱼和珊瑚使用的基础设施。",
+      "idea_en": "Build for two clients at once: people in cars today and marine life after the water comes back.",
+      "idea_zh": "同时为两类客户建造：今天坐在车里的人，和海水回来之后的海洋生物。",
+      "method": "Stacked pink blocks form walls that serve as projection screens for footage of fish interacting with prototypes of the structure; with the fish-behaviour researcher Alex Jordan the artists tested which forms marine creatures prefer, and chose pink because it attracts coral polyps.",
+      "method_zh": "堆叠的粉色砌块形成可作银幕的墙面，放映鱼类与这种结构的原型互动的影像；艺术家与鱼类行为研究者 Alex Jordan 一起测试海洋生物偏好哪些形态，选用粉色是因为它能吸引珊瑚虫。",
+      "keywords": [
+        "Desert X 2019",
+        "Coachella Valley",
+        "drive-in cinema",
+        "interspecies architecture",
+        "coral",
+        "sea-level rise",
+        "Alex Jordan",
+        "TBA21–Academy"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=iMFMsNc67K4"
+      },
+      "images": [
+        "https://superflex.net/superfleximages/1240w_Dive_in_14_1607698935.jpg",
+        "https://superflex.net/superfleximages/400w_Dive_in_01_1607698330.jpg"
+      ],
+      "source_url": "https://superflex.net/works/dive-in"
+    },
+    {
+      "id": "anicka-yi--message-from-the-mud",
+      "creator_ids": [
+        "anicka-yi"
+      ],
+      "title": "Message from the Mud",
+      "year": 2026,
+      "field": "ecoart",
+      "sub": "installation",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "bacteria",
+        "algae",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "Yi's first large outdoor project, at Storm King Art Center from May to November 2026, looks like an archaeological dig: mounded earth around a pool from which twenty Winogradsky columns rise. Over the months, bacteria and algae in the columns settle into coloured bands, so the sculpture is a slow portrait of the site's own mud.",
+      "description_zh": "Yi 的第一个大型户外项目，2026 年 5 月至 11 月在 Storm King Art Center 展出。它看上去像一处考古发掘现场：土堆围着一个水池，二十根 Winogradsky 柱从池中升起。几个月里，柱中的细菌和藻类逐渐分出彩色的层带，这件雕塑于是成为这片土地自身泥土的一幅缓慢的肖像。",
+      "idea_en": "Use a classic microbiology teaching device at landscape scale, so the colours of the work are grown by the pond's own microbes.",
+      "idea_zh": "把经典的微生物学教具放大到景观尺度，让作品的颜色由池塘自己的微生物长出来。",
+      "method": "Transparent columns are filled with mud and water from Storm King's ponds plus egg yolk and shredded newspaper as sulphur and carbon sources; light and oxygen gradients sort cyanobacteria, algae and sulphur bacteria into layers.",
+      "method_zh": "透明柱里装入 Storm King 池塘的泥和水，再加入蛋黄和碎报纸作为硫源和碳源；光照和氧气的梯度让蓝细菌、藻类和硫细菌分成不同的层。",
+      "keywords": [
+        "Winogradsky column",
+        "Storm King Art Center",
+        "microbial time",
+        "pond mud",
+        "cyanobacteria",
+        "biofiction"
+      ],
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/anicka-yi-microbial-time-politics-senses-interview-designboom-1200-1.jpg",
+        "https://www.artforum.com/wp-content/uploads/2026/05/SK-Yi-5-1-26-8161-Crop-B.jpg?w=1000"
+      ],
+      "source_url": "https://www.designboom.com/art/anicka-yi-microbial-time-politics-senses-interview/"
+    },
+    {
+      "id": "sandra-knecht--home-is-a-foreign-place",
+      "creator_ids": [
+        "sandra-knecht"
+      ],
+      "title": "Home Is a Foreign Place",
+      "year": 2026,
+      "field": "ecoart",
+      "sub": "installation",
+      "organisms": [
+        "insects",
+        "animals",
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "An installation of sculptures, found objects and photographs at the 2026 Venice Biennale, drawn from the artist's life in a Swiss farming village. It includes Bee House, a restored apiary that was taken over first by wasps and then by a dormouse, and a bronze cast of her favourite pear tree, which fell in a storm; the fallen tree itself stays in her garden as shelter for insects and nesting animals.",
+      "description_zh": "2026 年威尼斯双年展上的一件由雕塑、现成物和照片组成的装置，取材于艺术家在瑞士农村的生活。其中有 Bee House——一座修复的蜂房，先被胡蜂占据，后来又住进一只睡鼠；还有一件青铜铸件，翻铸自她最喜爱的、在风暴中倒下的梨树，而倒下的树本身仍留在她的花园里，为昆虫和筑巢的动物提供庇护。",
+      "idea_en": "Describe home as something animals help make: show the bee house that wasps and a dormouse redesigned.",
+      "idea_zh": "把“家”说成动物也参与建造的东西：展出那座被胡蜂和睡鼠改造过的蜂房。",
+      "method": "Objects shaped by animal use are restored and exhibited next to a bronze cast of a fallen tree and a photographic series on Swiss mountain-spirit stories.",
+      "method_zh": "把被动物使用、改变过的物件修复后展出，旁边是倒下的树的青铜铸件，以及一组关于瑞士山灵传说的摄影。",
+      "keywords": [
+        "Heimat",
+        "Bee House",
+        "apiary",
+        "wasps",
+        "dormouse",
+        "pear tree",
+        "Tschinns",
+        "Biennale Arte 2026",
+        "In Minor Keys"
+      ],
+      "images": [
+        "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/artists/600x600/knecht_sandra03631.jpg?itok=iOtlr5Mi"
+      ],
+      "source_url": "https://www.labiennale.org/en/art/2026/sandra-knecht",
+      "collections": [
+        "venice-biennale-arte-2026"
+      ]
+    },
+    {
+      "id": "jon-cuyson--sea-of-love",
+      "creator_ids": [
+        "jon-cuyson"
+      ],
+      "title": "Sea of Love / Dagat ng Pag-ibig",
+      "year": 2026,
+      "field": "ecoart",
+      "sub": "installation",
+      "organisms": [
+        "animals",
+        "ecosystems",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "The Philippines Pavilion at the 2026 Venice Biennale, curated by Mara Gladstone. Paintings, videos and sculptures form an abstract horizon that tells a love story from four viewpoints: a sailor, his mother, his lover and the sea. Mussels, which filter water, cluster together and travel on ship hulls, are the work's motif and model for the life of Filipino seafarers.",
+      "description_zh": "2026 年威尼斯双年展菲律宾馆，由 Mara Gladstone 策展。绘画、影像和雕塑组成一条抽象的地平线，从四个视角讲述一个爱情故事：水手、他的母亲、他的恋人，以及大海。贻贝会滤水、会聚集成群、会附在船体上远行，是这件作品的母题，也是菲律宾海员生活的模型。",
+      "idea_en": "Tell the story of migrant seafarers through a mollusc that clings, filters and travels with the ship.",
+      "idea_zh": "借一种会附着、会滤水、随船远行的软体动物，讲述漂泊海员的故事。",
+      "method": "An immersive arrangement of painted 'memory modules', video, sculpture, light, sound and reflective surfaces in the Arsenale, drawing on queer and post-colonial ecology.",
+      "method_zh": "在军械库展区里，把绘制的“记忆模块”、影像、雕塑、灯光、声音和反光表面布置成沉浸式空间，借鉴酷儿生态学与后殖民生态学。",
+      "keywords": [
+        "Philippines Pavilion",
+        "mussels",
+        "seafarers",
+        "Mara Gladstone",
+        "queer ecology",
+        "Arsenale",
+        "Biennale Arte 2026"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=cWs8VqpP1DE"
+      },
+      "images": [
+        "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/600x600/filippine_.jpg?itok=sICzI1YZ"
+      ],
+      "source_url": "https://www.labiennale.org/en/art/2026/philippines",
+      "collections": [
+        "venice-biennale-arte-2026"
+      ]
+    },
+    {
+      "id": "ackroyd-harvey--beuys-acorns",
+      "creator_ids": [
+        "ackroyd-harvey"
+      ],
+      "title": "Beuys' Acorns",
+      "year": 2007,
+      "field": "ecoart",
+      "sub": "restoration",
+      "organisms": [
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "In 2007 the artists gathered acorns from the oaks Joseph Beuys planted in Kassel for 7000 Oaks (1982) and have raised the saplings ever since as a living sculpture. One hundred of the trees stood outside Tate Modern in 2021; a programme running from 2024 to 2027 is planting them in circles of seven in public places across the UK, each with a ceremony designed with local people.",
+      "description_zh": "2007 年，两位艺术家从 Joseph Beuys 为《7000 棵橡树》（1982）在卡塞尔种下的橡树上采集橡子，此后一直把树苗当作活的雕塑来养育。2021 年，其中一百棵树立在泰特现代美术馆外；2024 至 2027 年的计划正把它们以七棵一圈的方式种到英国各地的公共空间，每一圈都有与当地人共同设计的种植仪式。",
+      "idea_en": "Continue another artist's work by raising its offspring: care for trees over decades is the artwork.",
+      "idea_zh": "通过养育它的后代来延续另一位艺术家的作品：几十年里对树的照料就是作品本身。",
+      "method": "Acorns germinated from the Kassel oaks are grown in Air-Pot containers that encourage healthy roots, shown as groves in galleries and public sites, then planted out permanently.",
+      "method_zh": "用卡塞尔橡树的橡子育苗，种在促进根系健康的 Air-Pot 容器里，先在美术馆和公共场所以小树林的形式展出，再永久栽种。",
+      "keywords": [
+        "Joseph Beuys",
+        "7000 Oaks",
+        "Kassel",
+        "oak",
+        "Tate Modern",
+        "tree planting",
+        "The Prelude & the Planting"
+      ],
+      "images": [
+        "https://www.ackroydandharvey.com/wp-content/uploads/2023/03/Beuys-Acorns-Woodhatch-Place-2023-Photo-Andrew-Shaylor-copy-720x480.jpg",
+        "https://www.ackroydandharvey.com/wp-content/uploads/2023/03/IMG_20220710_115645-640x480.jpg"
+      ],
+      "source_url": "https://www.ackroydandharvey.com/beuys-acorns/"
+    },
+    {
+      "id": "marshmallow-laser-feast--of-the-oak",
+      "creator_ids": [
+        "marshmallow-laser-feast"
+      ],
+      "title": "Of the Oak",
+      "year": 2025,
+      "field": "ecoart",
+      "sub": "eco-media",
+      "also": [
+        "hni"
+      ],
+      "organisms": [
+        "plants",
+        "fungi",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A large outdoor video and sound installation commissioned by the Royal Botanic Gardens, Kew, and shown there from May to September 2025. It is a digital double of Kew's Lucombe oak that shows water, sugars and seasons moving through the tree and its roots; an online field guide adds the many species an oak supports and a set of spoken meditations.",
+      "description_zh": "由英国皇家植物园邱园委托创作的大型户外影像与声音装置，2025 年 5 月至 9 月在邱园展出。它是邱园 Lucombe 橡树的数字分身，呈现水分、糖分和四季在树体与根系中的流动；配套的在线野外指南介绍一棵橡树所供养的众多物种，并附有一组朗读的冥想。",
+      "idea_en": "Portray one tree as a meeting point of thousands of lives by scanning it from canopy to root tip.",
+      "idea_zh": "从树冠扫描到根尖，把一棵树呈现为成千上万生命的交汇点。",
+      "method": "LiDAR and photogrammetry of the tree, ground-penetrating radar of the root network and CT scans of soil samples are combined in real-time graphics, with a soundscape from 24-hour recordings made in the tree with Kew scientists.",
+      "method_zh": "把对树的激光雷达扫描和摄影测量、对根系网络的探地雷达扫描以及土壤样本的 CT 扫描结合成实时图像，声景来自与邱园科学家一起在树上做的 24 小时录音。",
+      "keywords": [
+        "Kew Gardens",
+        "Lucombe oak",
+        "LiDAR",
+        "ground-penetrating radar",
+        "field guide",
+        "Merlin Sheldrake",
+        "digital twin"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vBivcyQVMFE"
+      },
+      "images": [
+        "https://marshmallowlaserfeast.com/app/uploads/2025/04/MLF_Of_the_Oak_BarneySteel_01329-1-1024x683.jpg",
+        "https://marshmallowlaserfeast.com/app/uploads/2025/04/0279_An_Ode_to_an_Oak_comp_v027_summer_day_a_landscape_no_particles.000001_REFERENCE-1024x576.jpg"
+      ],
+      "source_url": "https://marshmallowlaserfeast.com/project/of-the-oak/"
+    },
+    {
+      "id": "cosmo-sheldrake--song-of-the-cedars",
+      "creator_ids": [
+        "cosmo-sheldrake",
+        "robert-macfarlane",
+        "more-than-human-life-program",
+        "cesar-rodriguez-garavito"
+      ],
+      "title": "Song of the Cedars",
+      "year": 2024,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "also": [
+        "ecoart"
+      ],
+      "organisms": [
+        "ecosystems",
+        "plants",
+        "fungi"
+      ],
+      "kind": "artwork",
+      "description": "A song written in and with the Los Cedros cloud forest in Ecuador, whose rights the Constitutional Court upheld in 2021. In 2024 its human authors (musician Cosmo Sheldrake, writer Robert Macfarlane, mycologist Giuliana Furci and legal scholar César Rodríguez-Garavito) petitioned Ecuador's copyright office to register the forest as co-author; Al Jazeera reported in November 2024 that the petition was still pending.",
+      "description_zh": "一首在厄瓜多尔 Los Cedros 云雾林中、与这片森林一起写成的歌；宪法法院在 2021 年确认了这片森林的权利。2024 年，歌曲的人类作者——音乐人 Cosmo Sheldrake、作家 Robert Macfarlane、真菌学家 Giuliana Furci 和法学家 César Rodríguez-Garavito——向厄瓜多尔版权局申请把森林登记为共同作者；据半岛电视台 2024 年 11 月报道，申请当时仍在审理中。",
+      "idea_en": "If a forest has legal rights, test whether it can also hold authorship: credit it for the song it helped make.",
+      "idea_zh": "既然森林有法律权利，就试试它能否也拥有著作权：为它参与创作的歌曲署上它的名字。",
+      "method": "Field recordings of the forest's birds, bats, insects, trees and fungi are woven into the song; a legal petition prepared with the MOTH Program asks for the forest's moral rights as author, with royalties intended for its conservation.",
+      "method_zh": "把森林中鸟、蝙蝠、昆虫、树木和真菌的田野录音编入歌曲；与 MOTH 项目一起准备的法律申请要求承认森林作为作者的精神权利，版税拟用于森林保护。",
+      "keywords": [
+        "Los Cedros",
+        "copyright",
+        "co-authorship",
+        "Giuliana Furci",
+        "MOTH",
+        "field recording",
+        "moral rights"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=HH_timp2S3E"
+      },
+      "images": [
+        "https://i.cbc.ca/ais/1.7368557,1730323144000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3BResize%3D620"
+      ],
+      "source_url": "https://www.aljazeera.com/features/2024/11/3/why-is-an-ecuador-forest-petitioning-for-the-rights-to-a-song"
+    },
+    {
+      "id": "earth-law-center--rights-of-stingless-bees-satipo",
+      "creator_ids": [
+        "earth-law-center",
+        "amazon-research-internacional"
+      ],
+      "title": "Rights of Amazonian Stingless Bees (Satipo Ordinance No. 33)",
+      "year": 2025,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "insects",
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "On 21 October 2025 the provincial municipality of Satipo, Peru, passed an ordinance recognising the rights of native stingless bees within the Avireri-Vraem Biosphere Reserve; reports describe it as the first time an insect has been given legal rights. The province of Nauta in Loreto followed with its own ordinance in December 2025.",
+      "description_zh": "2025 年 10 月 21 日，秘鲁萨蒂波省市政府通过一项条例，承认 Avireri-Vraem 生物圈保护区内本土无刺蜂的权利；报道称这是昆虫第一次获得法律权利。洛雷托大区的瑙塔省在 2025 年 12 月也通过了自己的条例。",
+      "idea_en": "Rights of nature can be written for a small animal, not only for rivers and forests, when a community depends on it.",
+      "idea_zh": "当一个社区依赖某种小动物时，自然的权利也可以为它而写，而不只是为河流和森林。",
+      "method": "A municipal ordinance names species such as Melipona eburnea and Tetragonisca angustula and grants them rights to exist, to a healthy habitat and to legal representation; it was drafted with Earth Law Center on the basis of field research by Amazon Research Internacional with Asháninka beekeepers.",
+      "method_zh": "这项市政条例点名 Melipona eburnea、Tetragonisca angustula 等物种，赋予它们生存、拥有健康栖息地和由人代为诉讼的权利；条例与 Earth Law Center 共同起草，依据是 Amazon Research Internacional 与 Asháninka 养蜂人一起做的田野研究。",
+      "keywords": [
+        "Satipo",
+        "Melipona eburnea",
+        "Tetragonisca angustula",
+        "Asháninka",
+        "Avireri-Vraem Biosphere Reserve",
+        "meliponiculture",
+        "Rosa Vásquez Espinoza",
+        "Nauta"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bSeHgoNerR0"
+      },
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/55914fd1e4b01fb0b851a814/a470d8fc-26c0-48d2-89ae-9f512ff31bdd/IMG_7318.jpg",
+        "https://images.squarespace-cdn.com/content/v1/55914fd1e4b01fb0b851a814/a3ab38d3-305c-4b0c-8038-f43a5573715c/Luis_Garcia_Solsol-3.jpg"
+      ],
+      "source_url": "https://www.earthlawcenter.org/elc-in-the-news/2025/11/satipo-approves-historic-ordinance-in-world-first-an-insect-is-granted-legal-rights"
+    },
+    {
+      "id": "hinemoana-halo--he-whakaputanga-moana",
+      "creator_ids": [
+        "hinemoana-halo"
+      ],
+      "title": "He Whakaputanga Moana: Declaration for the Ocean",
+      "year": 2024,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "A declaration signed in Rarotonga on 28 March 2024 by Māori King Tūheitia, Cook Islands high chief Tou Travel Ariki and other Indigenous leaders of the Pacific. It recognises whales as legal persons with rights to move freely, to a healthy environment and to thrive, and calls on governments to give this status force in their own law.",
+      "description_zh": "2024 年 3 月 28 日，毛利国王 Tūheitia、库克群岛大酋长 Tou Travel Ariki 等太平洋原住民领袖在拉罗汤加签署的宣言。它承认鲸鱼是法律上的人，享有自由迁徙、拥有健康环境和繁衍兴旺的权利，并呼吁各国政府在本国法律中落实这一地位。",
+      "idea_en": "Legal personhood for a migratory animal can start from Indigenous law across an ocean, ahead of any state.",
+      "idea_zh": "迁徙动物的法律人格可以先从横跨大洋的原住民之法开始，走在任何国家之前。",
+      "method": "A declaration grounded in customary concepts such as mana, signed by traditional leaders of Aotearoa, the Cook Islands, Tahiti, Tonga, Hawaiʻi and Rapa Nui; it is not a binding treaty, and a member's bill based on it was later put forward in New Zealand.",
+      "method_zh": "这份宣言立足于 mana 等习惯法概念，由新西兰、库克群岛、塔希提、汤加、夏威夷和拉帕努伊的传统领袖签署；它不是有约束力的条约，后来新西兰有议员据此提出了法案。",
+      "keywords": [
+        "whales",
+        "tohorā",
+        "legal personhood",
+        "Kiingi Tūheitia",
+        "Tou Travel Ariki",
+        "Rarotonga",
+        "Hinemoana Halo",
+        "Pacific"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=v4j-zgbIkVI"
+      },
+      "images": [
+        "https://www.greenpeace.org/static/planet4-aotearoa-stateless/2024/04/377cf0f4-whales-sue.jpg",
+        "https://media.rnztools.nz/rnz/image/upload/s--r8qCZqtU--/t_kt-crop-16x10/w_800/f_auto/q_auto:eco/4M3HJN2_gallery_image_73317"
+      ],
+      "source_url": "https://ecojurisprudence.org/initiatives/he-whakaputanga-moana-declaration-for-the-ocean-treaty/"
+    },
+    {
+      "id": "madras-high-court--tamirabarani-river-juristic-person",
+      "creator_ids": [
+        "madras-high-court"
+      ],
+      "title": "Tamirabarani River as a Juristic Person (Sivanupandian v. District Collector)",
+      "year": 2026,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "also": [
+        "ecoart"
+      ],
+      "organisms": [
+        "ecosystems",
+        "humans"
+      ],
+      "kind": "speculative",
+      "description": "In an order of 23 July 2026 the Madurai Bench of the Madras High Court held that the Tamirabarani (Porunai) river in Tamil Nadu has the character of a legal person, for the limited purpose of protecting it from pollution. The judges reasoned that the river is worshipped as a deity and Indian law already treats deities as juristic persons; they banned the dumping of clothes and ritual waste, allowing only the immersion of ashes.",
+      "description_zh": "在 2026 年 7 月 23 日的一项命令中，马德拉斯高等法院马杜赖分庭认定，泰米尔纳德邦的 Tamirabarani（Porunai）河在保护其免受污染这一有限目的上具有法律人格。法官的理由是：这条河被当作神祇来敬拜，而印度法律本来就把神祇视为法人；他们禁止向河中丢弃衣物和仪式废弃物，只允许撒放骨灰。",
+      "idea_en": "A river can enter the law through an existing door: where people already treat it as a deity, the court can treat it as a person.",
+      "idea_zh": "河流可以从一扇现成的门走进法律：在人们已经把它当作神的地方，法院就可以把它当作人。",
+      "method": "A public-interest writ petition over ritual waste (about 86–90 tonnes of clothes were removed from the river in three weeks of May 2026) led the bench to apply the Hindu-law doctrine of the deity as juristic person to the river.",
+      "method_zh": "一宗针对仪式废弃物的公益令状申请（2026 年 5 月的三周内从河里清出约 86 至 90 吨衣物）让法庭把印度教法中“神祇是法人”的原则用到这条河上。",
+      "keywords": [
+        "Tamirabarani",
+        "Thamirabarani",
+        "Porunai",
+        "Madurai Bench",
+        "juristic person",
+        "deity",
+        "ritual pollution",
+        "Tirunelveli"
+      ],
+      "images": [
+        "https://cf-images.assettype.com/downtoearth%2F2026-08-17%2Fuadj2hya%2FThamirabaraniRiver.jpg?w=480&auto=format%2Ccompress&fit=max"
+      ],
+      "source_url": "https://www.downtoearth.org.in/rivers/tamil-nadus-tamirabharani-or-porunai-river-is-now-a-legal-person-marking-a-milestone-in-indias-earth-jurisprudence"
+    },
+    {
+      "id": "cider-rio-portoviejo--rights-of-the-portoviejo-river",
+      "creator_ids": [
+        "cider-rio-portoviejo"
+      ],
+      "title": "Rights of the Portoviejo River (Santa Ana ruling)",
+      "year": 2026,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "On 10 February 2026 a local judge in Santa Ana, in Ecuador's Manabí province, declared the Portoviejo River a subject of rights and found that the municipality had violated those rights by letting untreated sewage flow into it. The ruling orders wastewater treatment plans and creates a body of citizen Guardians of the Portoviejo River to watch over compliance; the municipality said it would appeal.",
+      "description_zh": "2026 年 2 月 10 日，厄瓜多尔马纳比省圣安娜的一位地方法官宣布 Portoviejo 河为权利主体，并认定市政府放任未经处理的污水排入河中，侵犯了这些权利。判决要求制定污水处理计划，并设立由公民组成的“Portoviejo 河守护者”来监督执行；市政府表示将上诉。",
+      "idea_en": "Give a polluted river standing in the lowest court and appoint neighbours as its guardians.",
+      "idea_zh": "让一条被污染的河在最基层的法院里有诉讼地位，并任命沿岸居民做它的守护者。",
+      "method": "A constitutional protection action filed by the citizens' collective CIDER on the river's behalf; the judge applied the principle in dubio pro natura, placing on the municipality the burden of showing that no violation continues.",
+      "method_zh": "公民团体 CIDER 代表这条河提起宪法保护之诉；法官适用“存疑时有利于自然”（in dubio pro natura）原则，由市政府承担证明侵害已不再持续的责任。",
+      "keywords": [
+        "Río Portoviejo",
+        "Santa Ana",
+        "Manabí",
+        "acción de protección",
+        "in dubio pro natura",
+        "river guardians",
+        "wastewater"
+      ],
+      "images": [
+        "https://img.eldiario.ec/upload/2026/04/17161D524C43406D15100F54584945741F121718534B46761013-1024x576.jpg"
+      ],
+      "source_url": "https://ecojurisprudence.org/initiatives/santa-ana-ecuador-court-case-rights-of-the-portoviejo-river/"
+    },
+    {
+      "id": "constitutional-court-of-colombia--atrato-river-t-622",
+      "creator_ids": [
+        "constitutional-court-of-colombia"
+      ],
+      "title": "Rights of the Atrato River (Judgment T-622/16)",
+      "year": 2016,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "ecosystems",
+        "humans"
+      ],
+      "kind": "speculative",
+      "description": "On 10 November 2016 Colombia's Constitutional Court recognised the Atrato River, its basin and tributaries as a subject of rights to protection, conservation, maintenance and restoration, after Afro-Colombian and Indigenous communities of Chocó sued over illegal gold mining. The court grounded the decision in 'biocultural rights' and ordered a commission of guardians made up of the government and the riverside communities.",
+      "description_zh": "2016 年 11 月 10 日，乔科省的非裔和原住民社区就非法采金提起诉讼后，哥伦比亚宪法法院承认 Atrato 河及其流域和支流是享有受保护、保全、维护和修复之权利的主体。法院以“生物文化权利”为依据，并下令由政府和沿河社区共同组成守护者委员会。",
+      "idea_en": "Tie a river's rights to the people whose culture depends on it, and make both state and community its guardians.",
+      "idea_zh": "把河流的权利与文化依赖它的人群绑在一起，让国家和社区共同做它的守护者。",
+      "method": "A tutela action (a constitutional claim for the protection of rights) brought on behalf of the riverside communities; the judgment has the river represented jointly by the Colombian state and the ethnic communities of the basin, and the communities formed a collegiate body of fourteen river guardians.",
+      "method_zh": "代表沿河社区提起的权利保护之诉（tutela）；判决规定这条河由哥伦比亚国家和流域内的族群社区共同代表，社区则组成了一个由十四名河流守护者构成的合议机构。",
+      "keywords": [
+        "Río Atrato",
+        "Chocó",
+        "biocultural rights",
+        "T-622/16",
+        "Guardianes del Atrato",
+        "illegal mining"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/55914fd1e4b01fb0b851a814/35bd1c01-67d5-42e3-996a-0814e50ecbb5/Atrato_river_Medio_Atrato_region.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/R%C3%ADo_Atrato_Quibd%C3%B3.jpg"
+      ],
+      "source_url": "https://www.earthlawcenter.org/blog-entries/2026/8/the-atrato-river-was-given-rights-what-happened-next"
+    },
+    {
+      "id": "constitutional-court-of-ecuador--estrellita",
+      "creator_ids": [
+        "constitutional-court-of-ecuador"
+      ],
+      "title": "The Estrellita Case (Judgment 253-20-JH/22)",
+      "year": 2022,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "also": [
+        "aci"
+      ],
+      "organisms": [
+        "animals"
+      ],
+      "kind": "speculative",
+      "description": "Estrellita was a woolly monkey who lived for 18 years with a family in Ambato, was seized by the authorities in 2019 and died soon after in a zoo. Ruling on a habeas corpus petition filed for her, Ecuador's Constitutional Court held by seven votes to two in January 2022 that the constitutional rights of nature also protect individual wild animals, and ordered new legislation on animal rights.",
+      "description_zh": "Estrellita 是一只绒毛猴，在安巴托的一户人家生活了 18 年，2019 年被当局没收，不久后死在动物园里。厄瓜多尔宪法法院在审理为她提出的人身保护令申请时，于 2022 年 1 月以七票对两票裁定，宪法中的自然权利同样保护野生动物个体，并要求制定新的动物权利立法。",
+      "idea_en": "Rights of nature reach down from species and ecosystems to the single animal, who can be a rights-holder in court.",
+      "idea_zh": "自然的权利从物种和生态系统一直延伸到单个动物，它可以在法庭上成为权利主体。",
+      "method": "Ruling on a habeas corpus petition filed for the monkey, the judges took up the wider question of animal rights; the judgment refers directly to a joint amicus brief from Harvard's Animal Law & Policy Program and the Nonhuman Rights Project.",
+      "method_zh": "法官在审理为这只猴子提出的人身保护令申请时，进一步讨论了动物权利这一更大的问题；判决直接引用了哈佛 Animal Law & Policy Program 与 Nonhuman Rights Project 联合提交的法庭之友意见。",
+      "keywords": [
+        "Estrellita",
+        "woolly monkey",
+        "Lagothrix lagothricha",
+        "habeas corpus",
+        "rights of nature",
+        "animal rights",
+        "Ambato"
+      ],
+      "images": [
+        "https://insideclimatenews.org/wp-content/uploads/2022/03/Lagothrix_lagotricha.jpeg",
+        "https://animal.law.harvard.edu/wp-content/uploads/woollymonkey-850x475.jpg"
+      ],
+      "source_url": "https://animal.law.harvard.edu/news-article/landmark-ruling/"
+    },
+    {
+      "id": "ngai-tuhoe--te-urewera-act",
+      "creator_ids": [
+        "ngai-tuhoe"
+      ],
+      "title": "Te Urewera Act 2014",
+      "year": 2014,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "ecosystems",
+        "plants"
+      ],
+      "kind": "speculative",
+      "description": "A New Zealand law that ended the national-park status of Te Urewera, the forested homeland of Ngāi Tūhoe, and declared it a legal entity with the rights, powers, duties and liabilities of a legal person. The land is vested in Te Urewera itself and a board of Tūhoe and Crown appointees acts in its name, guided by Tūhoe concepts of care.",
+      "description_zh": "一部新西兰法律：它终止了 Ngāi Tūhoe 的森林故土 Te Urewera 的国家公园身份，宣布它是一个法律实体，具有法人的权利、权力、义务和责任。土地归 Te Urewera 自身所有，由 Tūhoe 和王室任命的成员组成的委员会以它的名义行事，并以 Tūhoe 的照护观念为指引。",
+      "idea_en": "Settle a dispute over who owns the land by letting the land own itself, with people as its board.",
+      "idea_zh": "用“让土地拥有自己、人只是它的理事会”来解决土地归谁的争端。",
+      "method": "Section 11 of the Act creates the legal personality; the Te Urewera Board exercises its rights and writes the management plan (Te Kawa o Te Urewera, 2017), which describes how people should behave toward the land, not how to manage it.",
+      "method_zh": "法案第 11 条确立了法律人格；Te Urewera 委员会代其行使权利并制定管理方案（Te Kawa o Te Urewera，2017），方案写的是人该怎样对待这片土地，而不是怎样管理它。",
+      "keywords": [
+        "Te Urewera",
+        "Ngāi Tūhoe",
+        "legal personhood",
+        "Te Urewera Board",
+        "Te Kawa o Te Urewera",
+        "Treaty settlement",
+        "Lake Waikaremoana"
+      ],
+      "images": [
+        "https://www.doc.govt.nz/thumbs/hero/contentassets/993ef4c355634d129123f7e0f893af9a/te-urewera-hero.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/13/Lake_Waikaremoana_and_Urewera_Country.jpg"
+      ],
+      "source_url": "https://www.legislation.govt.nz/act/public/2014/51/en/latest/"
+    },
+    {
+      "id": "toledoans-for-safe-water--lake-erie-bill-of-rights",
+      "creator_ids": [
+        "toledoans-for-safe-water"
+      ],
+      "title": "Lake Erie Bill of Rights",
+      "year": 2019,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "ecosystems",
+        "algae"
+      ],
+      "kind": "speculative",
+      "description": "A citizen-drafted amendment to the city charter of Toledo, Ohio, approved by 61% of voters on 26 February 2019, that declared that Lake Erie and its watershed have the right to exist, flourish and naturally evolve. A farm sued the next day, and in February 2020 a federal judge struck the law down as unconstitutionally vague and beyond a city's powers.",
+      "description_zh": "美国俄亥俄州托莱多市由市民起草的一项城市宪章修正案，2019 年 2 月 26 日获 61% 选民通过。它宣布伊利湖及其流域拥有存在、繁盛和自然演化的权利。第二天就有一家农场提起诉讼；2020 年 2 月，联邦法官以条文含糊违宪、超出市政权限为由将其推翻。",
+      "idea_en": "A city can vote to give its lake rights; the case also shows where such a law breaks when it meets existing legal structures.",
+      "idea_zh": "一座城市可以投票赋予自己的湖以权利；这个案例也显示了这样的法律在碰到既有法律结构时会在哪里断裂。",
+      "method": "A citizens' ballot initiative: Toledoans for Safe Water drafted the text with the Community Environmental Legal Defense Fund and gathered signatures to put it to a city-wide vote.",
+      "method_zh": "一次公民发起的公投：Toledoans for Safe Water 与 Community Environmental Legal Defense Fund 一起起草条文，并征集签名把它交给全市投票。",
+      "keywords": [
+        "LEBOR",
+        "Toledo",
+        "ballot initiative",
+        "Drewes Farms v. City of Toledo",
+        "Judge Jack Zouhary",
+        "CELDF"
+      ],
+      "images": [
+        "https://npr.brightspotcdn.com/dims4/default/78d9c1c/2147483647/strip/true/crop/4000x2250+0+375/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fmichigan%2Ffiles%2F201801%2F057.JPG"
+      ],
+      "source_url": "https://www.michiganpublic.org/environment-science/2020-02-28/lake-erie-bill-of-rights-declared-unconstitutional"
+    },
+    {
+      "id": "innu-council-of-ekuanitshit--muteshekau-shipu",
+      "creator_ids": [
+        "innu-council-of-ekuanitshit"
+      ],
+      "title": "Legal Personhood of Muteshekau Shipu (Magpie River)",
+      "year": 2021,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "organisms": [
+        "ecosystems",
+        "animals"
+      ],
+      "kind": "speculative",
+      "description": "In early 2021 the Innu Council of Ekuanitshit and the Minganie regional county municipality in Quebec passed matching resolutions that made the Magpie River the first river in Canada recognised as a legal person. The river is given nine rights, among them to flow, to keep its biodiversity, to be free of pollution and to sue, and guardians named by both bodies act for it.",
+      "description_zh": "2021 年初，魁北克的 Ekuanitshit 因努议会和 Minganie 地区县政府通过了内容对应的两份决议，让 Magpie 河成为加拿大第一条被承认为法人的河。这条河获得九项权利，包括流淌、保有生物多样性、免受污染以及提起诉讼的权利，由双方指定的守护者代它行事。",
+      "idea_en": "Two governments, one Indigenous and one municipal, can each declare the same river a person and share its guardianship.",
+      "idea_zh": "一个原住民政府和一个市政府可以各自宣布同一条河是“人”，并共同担任它的守护者。",
+      "method": "Twin resolutions adopted under Innu law and municipal powers, prepared with the International Observatory on the Rights of Nature and an alliance of local and conservation groups, mainly to keep hydroelectric dams off the river.",
+      "method_zh": "依据因努法和市政权限分别通过的一对决议，由国际自然权利观察站以及地方和保护团体的联盟协助起草，主要目的是不让水电站大坝建在这条河上。",
+      "keywords": [
+        "Muteshekau Shipu",
+        "Magpie River",
+        "Innu",
+        "Ekuanitshit",
+        "Minganie",
+        "Côte-Nord",
+        "hydroelectric dams",
+        "river guardians"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nbtWp31L7MY"
+      },
+      "images": [
+        "https://thenarwhal.ca/wp-content/uploads/2021/06/Magpie-au-coin-du-feu-credit-Boreal-River.jpeg",
+        "https://www.aljazeera.com/wp-content/uploads/2021/03/Uapukun-24.jpg?resize=1920%2C1440"
+      ],
+      "source_url": "https://ecojurisprudence.org/initiatives/innu-first-nation-resolution-rights-of-the-magpie-river/"
+    },
+    {
+      "id": "kichwa-people-of-sarayaku--kawsak-sacha",
+      "creator_ids": [
+        "kichwa-people-of-sarayaku"
+      ],
+      "title": "Kawsak Sacha: The Living Forest Declaration",
+      "year": 2018,
+      "field": "speculation",
+      "sub": "rights-politics",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "ecosystems",
+        "plants",
+        "animals"
+      ],
+      "kind": "speculative",
+      "description": "A declaration by the Kichwa People of Sarayaku, adopted by their assembly in 2012 and launched publicly in Quito on 26 July 2018. It states that their territory in the Ecuadorian Amazon is Kawsak Sacha, a living and conscious being made up of plants, animals, waterfalls, lagoons and their protective beings, and asks national and international law to recognise it as a subject of rights and as a new category of protected area, free of extraction.",
+      "description_zh": "Sarayaku 的 Kichwa 人发表的宣言，2012 年由他们的大会通过，2018 年 7 月 26 日在基多公开发布。宣言称，他们在厄瓜多尔亚马孙的领地是 Kawsak Sacha——一个活着的、有意识的存在，由植物、动物、瀑布、潟湖以及守护它们的存在共同构成，并要求国内法和国际法承认它是权利主体，并把它列为一种新的、不受开采的保护地类别。",
+      "idea_en": "Start conservation law from an Indigenous description of the forest as a community of persons, not from the idea of a resource.",
+      "idea_zh": "让保护法从原住民对森林的描述——一个由许多“人”组成的共同体——出发，而不是从“资源”的概念出发。",
+      "method": "A written declaration developed over years in community assemblies with elders, women and youth, handed to representatives of the Ecuadorian state at a public event in Quito and presented to IUCN.",
+      "method_zh": "这份书面宣言由长者、妇女和青年在社区大会上历时多年形成，在基多的一场公开活动上递交给厄瓜多尔政府代表，并向世界自然保护联盟作了介绍。",
+      "keywords": [
+        "Kawsak Sacha",
+        "Selva Viviente",
+        "Sarayaku",
+        "Kichwa",
+        "Pastaza",
+        "subject of rights",
+        "Eriberto Gualinga",
+        "Equator Prize"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=v-2td3h7KHI"
+      },
+      "images": [
+        "https://amazonwatch.org/wp-content/uploads/2019/05/0810-sarayaku-launches-living-forest-proposal-viva-kawsak-sacha.jpg"
+      ],
+      "source_url": "https://sarayaku.org/en/declaracion/"
+    },
+    {
+      "id": "joanna-macy--council-of-all-beings",
+      "creator_ids": [
+        "joanna-macy",
+        "john-seed"
+      ],
+      "title": "The Council of All Beings",
+      "year": 1985,
+      "field": "speculation",
+      "sub": "myth-ritual",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals",
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "A group ritual first held in 1985 at a workshop for activists in New South Wales, Australia. Each participant spends time alone until another being (an animal, a plant, a river, a mountain) 'chooses' them, makes a mask of it, and then speaks as that being in a council, telling the humans what is happening to it and what it can offer them. The form spread worldwide and was published in the book Thinking Like a Mountain (1988).",
+      "description_zh": "一种团体仪式，1985 年在澳大利亚新南威尔士州一个面向行动者的工作坊上第一次举行。每位参与者先独处，直到另一个存在——动物、植物、河流或山——“选中”自己，然后为它做一个面具，在议会中以它的身份发言，告诉人类它正在遭遇什么、又能给人类什么。这种形式传遍世界，并收入 1988 年出版的 Thinking Like a Mountain 一书。",
+      "idea_en": "Before designing for other species, sit in a circle and speak as one: role-play as a method for moving out of the human position.",
+      "idea_zh": "为其他物种做设计之前，先围坐成圈，以其中一员的身份说话：用角色扮演的方法离开人类的位置。",
+      "method": "A structured sequence of mourning, remembering evolutionary history, mask-making and council speech, led by facilitators in the deep ecology tradition of Arne Naess; no technology beyond cardboard, paint and voice.",
+      "method_zh": "由引导者带领的一套有结构的流程：哀悼、回忆演化的历史、制作面具、在议会中发言，承接 Arne Naess 的深层生态学传统；除了纸板、颜料和嗓音，不用任何技术。",
+      "keywords": [
+        "deep ecology",
+        "Work That Reconnects",
+        "Thinking Like a Mountain",
+        "Arne Naess",
+        "Pat Fleming",
+        "mask",
+        "role-play",
+        "ritual"
+      ],
+      "images": [
+        "https://www.rainforestinfo.org.au/images/mask4.jpg"
+      ],
+      "source_url": "https://www.rainforestinfo.org.au/deep-eco/council.htm"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Other Intelligences (MU Hybrid Art House, Dutch Design Week 2026)",
+      "why": "Group exhibition at MU, Eindhoven, on forms of intelligence beyond the human, including plants and animals; artist list not researched.",
+      "link": "https://ddw.nl/en/programme/other-intelligences-1",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Embassy of Livestock Animals (Dutch Design Week 2026)",
+      "why": "Design workshop on making room for the lives and perspectives of farm animals; organiser and outcomes not researched.",
+      "link": "https://ddw.nl/en/programme/embassy-of-livestock-animals-a-design-workshop",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Mycelinfo (Dutch Design Week 2026)",
+      "why": "DDW 2026 project on ecological narratives from a nonhuman, fungal perspective; maker not confirmed.",
+      "link": "https://ddw.nl/en/programme/mycelinfo",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Thijs Biersteker — Econario",
+      "why": "Robotic plant sculpture driven by the Biodiversity Intactness Index, made with the Natural History Museum London (dated 2022 on the DDW 2025 page); not in the gallery, year of first showing to confirm.",
+      "link": "https://ddw.nl/en/programme/archive/2025/econario-1",
+      "found_via": "thijs-biersteker",
+      "status": "open"
+    },
+    {
+      "name": "Olalekan Jeyifous & AD—WO — Ancestral Ecologies (Brooklyn Botanic Garden 2026)",
+      "why": "2026 Art × Environment commission at Brooklyn Botanic Garden (May–Oct 2026); not researched.",
+      "link": "https://www.bbg.org/visit/event/ancestral_ecologies",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Even Our Oddkin (Towson University, Sept–Dec 2026) and A World in Common (Biosphère Montréal, from Sept 2026)",
+      "why": "Two autumn 2026 group shows on sharing the world with other species; artist lists could hold new works.",
+      "link": "https://www.towson.edu/campus/artsculture/centers/center-arts-gallery/even-our-oddkin.html",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "SUPERFLEX — As Close As We Get, Vertical Migration, Fish Ping Pong, Super Reef",
+      "why": "More interspecies-architecture works by SUPERFLEX (now a creator in the gallery); images on superflex.net pass check_media.",
+      "link": "https://superflex.net/works/as_close_as_we_get",
+      "found_via": "superflex",
+      "status": "open"
+    },
+    {
+      "name": "Anicka Yi — In Love With the World (Tate Turbine Hall 2021), Biologizing the Machine (Venice 2019)",
+      "why": "Earlier works with floating 'aerobes', scent and bacteria-and-algae panels; only her 2026 Storm King work was added.",
+      "link": "https://www.pacegallery.com/journal/anicka-yi-at-storm-king/",
+      "found_via": "anicka-yi",
+      "status": "open"
+    },
+    {
+      "name": "Tohorā Oranga Bill (Aotearoa New Zealand)",
+      "why": "Member's bill by Teanau Tuiono to recognise whales as legal persons, based on He Whakaputanga Moana; status in Parliament not verified.",
+      "link": "https://en.wikipedia.org/wiki/The_Tohora_Oranga_Bill",
+      "found_via": "hinemoana-halo",
+      "status": "open"
+    },
+    {
+      "name": "Rights-of-nature landmarks still missing",
+      "why": "Ecuador's 2008 Constitution (arts. 71–74), Bolivia's Law of the Rights of Mother Earth (2010), Rights of Manoomin (White Earth Band, 2018), Machángara River ruling (Quito, 2024), Turag River ruling (Bangladesh, 2019), Ganga and Yamuna (Uttarakhand, 2017).",
+      "link": "https://ecojurisprudence.org/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Agnes Meyer-Brandis — Office for Tree Migration, S+T+ARTS Grand Prize 2026",
+      "why": "Already in the gallery (2021); the 2026 Grand Prize for Innovative Collaboration could be added to the starts-prize collection file.",
+      "link": "https://www.cityofmediaarts.at/?p=3238",
+      "found_via": "agnes-meyer-brandis",
+      "status": "duplicate"
+    }
+  ]
+}

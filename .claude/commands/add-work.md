@@ -19,7 +19,8 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` first.
    Verify with `python3 tools/check_media.py <url>…`, `--doi <doi>`, `--arxiv <id>`, `--og <page>` (image candidates). Keep only `"ok": true`; check that a DOI's title is the right paper.
 4. **Write** `data/raw/add-<creator-id>.json` with creators, works (field / sub / organisms / kind from the taxonomy, English + Chinese text), leads.
 5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` until ✓.
-6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
+6. **Build.** `python3 tools/build_data.py`. New works appear in the Updates tab under today's date; add or extend today's entry in `data/updates.json` (`date, en, zh, note_en, note_zh`) to say what this update is.
+   Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8932/#view=works&q=<name>`.
 8. **Check duplicates**: `python3 tools/audit_titles.py` — resolve any same-title works that are yours.
 9. **Publish** (skip with `--no-push`): `tools/publish.sh "feat(data): add <name> (<n> works)"`

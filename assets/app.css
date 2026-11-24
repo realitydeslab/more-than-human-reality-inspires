@@ -342,6 +342,9 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 
 /* field views (grouped by sub-category) */
 .scat-chips { margin: 0 0 8px; }
+.update__fields { margin: 0 0 16px; }
+.update__more { margin: 18px 0 10px; }
+.foot__link { background: none; border: 0; padding: 0; font: inherit; color: inherit; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
 .scat { border-top: 1px solid var(--line); padding: 26px 0 8px; }
 .scat__head { display: flex; align-items: baseline; gap: 12px; }
 .scat__title { font: 400 30px/1.05 var(--serif); letter-spacing: -.02em; margin: 0; }

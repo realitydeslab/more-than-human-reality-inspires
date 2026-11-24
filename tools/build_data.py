@@ -36,6 +36,8 @@ MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
 APPROACH = ROOT / "data" / "approach"      # { work_id: [approach ids] }
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
+ADDED = ROOT / "data" / "added.json"      # { work_id: "YYYY-MM-DD" } — date each work entered the gallery (kept by the build)
+UPDATES = ROOT / "data" / "updates.json"  # optional notes for the Updates tab: [ {date, en, zh, note_en, note_zh} ]
 RECLASS = ROOT / "data" / "reclass"        # { work_id: {field, sub, also} } — per-work moves after a taxonomy change
 
 
@@ -336,7 +338,19 @@ def strip_blocked(items: list, blocked: list, what: str) -> None:
             x["links"] = {k: v for k, v in x["links"].items() if not bad(v)}
 
 
-CORE_WORK = ("id", "title", "year", "field", "sub", "also", "kind", "organisms", "approaches", "disciplines", "collections",
+def stamp_added(works: list, today: str) -> list:
+    """Date every work by the build that first included it (data/added.json) and list the updates, newest first.
+    A note in data/updates.json gives an update its title and description."""
+    ledger = json.loads(ADDED.read_text()) if ADDED.exists() else {}
+    for w in works:
+        w["added"] = ledger.setdefault(w["id"], today)
+    ADDED.write_text(json.dumps(ledger, indent=0, ensure_ascii=False, sort_keys=True))
+    notes = {n["date"]: n for n in (json.loads(UPDATES.read_text()) if UPDATES.exists() else [])}
+    dates = sorted({w["added"] for w in works}, reverse=True)
+    return [{**notes.get(d, {}), "date": d, "n": sum(w["added"] == d for w in works)} for d in dates]
+
+
+CORE_WORK = ("id", "title", "year", "added", "field", "sub", "also", "kind", "organisms", "approaches", "disciplines", "collections",
              "creator_ids", "idea_en", "idea_zh", "keywords")
 
 
@@ -359,7 +373,7 @@ def write_split(data: dict, d: Path) -> None:
         details_w[w["id"]] = {k: w[k] for k in ("description", "description_zh", "method", "method_zh", "images", "paper",
                                                 "source_url", "code_url") if w.get(k)}
     creators = [{k: c[k] for k in ("id", "name", "kind", "disciplines", "work_count") if c.get(k)} for c in data["creators"]]
-    core = {"generated": data["generated"], "taxonomy": data["taxonomy"], "works": works, "creators": creators,
+    core = {"generated": data["generated"], "taxonomy": data["taxonomy"], "updates": data.get("updates", []), "works": works, "creators": creators,
             "orgs": [], "details": f"data/details.json?v={stamp}"}
     details = {"works": details_w, "creators": {c["id"]: c for c in data["creators"]}, "orgs": data.get("orgs", [])}
     (d / "entries.js").write_text("window.MTH = " + json.dumps(core, ensure_ascii=False, separators=(",", ":")) + ";\n")
@@ -452,12 +466,13 @@ def main() -> None:
             w["disciplines"] = ds
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
     open_leads, checked_leads = classify_leads(leads, creators)
+    updates = stamp_added(kept, date.today().isoformat())
 
     orgs = load_orgs(cache, {c["id"] for c in out_creators})
     strip_blocked(orgs, ov.get("blocked_domains", []), "org")
     orgs = [o for o in orgs if o.get("url")]
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
-    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "orgs": orgs}
+    data = {"generated": date.today().isoformat(), "taxonomy": tax, "updates": updates, "creators": out_creators, "works": kept, "orgs": orgs}
     d = ROOT / "data"
     # guard against works silently disappearing (e.g. two batches each deleting a shared work)
     prev = {w["id"]: w.get("title", "") for w in json.loads((d / "entries.json").read_text())["works"]} if (d / "entries.json").exists() else {}

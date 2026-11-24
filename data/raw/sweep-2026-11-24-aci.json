@@ -1,0 +1,1627 @@
+{
+ "batch": "sweep-2026-11-24-aci",
+ "creators": [
+  {
+   "id": "nofence",
+   "name": "Nofence",
+   "kind": "company",
+   "role": "Company making GPS virtual-fence collars for goats, sheep and cattle",
+   "based": "Molde, Norway",
+   "bio": "Norwegian company founded in Batnfjordsøra in 2011 by goat farmer Oscar Hovde Berntsen; its collars keep grazing animals inside pastures drawn in a phone app.",
+   "why": "One of the first companies to sell virtual fencing, a technology that replaces physical fences with signals the animal has to learn.",
+   "links": {
+    "site": "https://www.nofence.no/en"
+   },
+   "role_zh": "生产山羊、绵羊和牛用 GPS 虚拟围栏项圈的公司",
+   "based_zh": "莫尔德，挪威",
+   "bio_zh": "挪威公司，2011 年由养羊人 Oscar Hovde Berntsen 在巴特恩峡湾瑟拉创立；它的项圈把放牧动物留在用手机应用画出的牧场范围内。",
+   "why_zh": "最早销售虚拟围栏的公司之一：这种技术用动物需要学会的信号取代实体围栏。",
+   "connected_to": [
+    "halter"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "save-the-elephants",
+   "name": "Save the Elephants",
+   "kind": "lab",
+   "role": "Elephant research and conservation organisation",
+   "based": "Nairobi and Samburu, Kenya",
+   "bio": "Research and conservation charity founded in 1993 by Iain Douglas-Hamilton, known for long-term GPS tracking of African elephants.",
+   "why": "Pioneered using an elephant's own tracking collar as an early-warning system for the farmers living next to it.",
+   "links": {
+    "site": "https://savetheelephants.org",
+    "youtube": "https://www.youtube.com/@SavetheElephants"
+   },
+   "role_zh": "大象研究与保护机构",
+   "based_zh": "内罗毕与桑布鲁，肯尼亚",
+   "bio_zh": "由 Iain Douglas-Hamilton 于 1993 年创立的研究与保护慈善机构，以对非洲象的长期 GPS 追踪著称。",
+   "why_zh": "率先把大象自己的追踪项圈变成给邻近农民的预警系统。",
+   "connected_to": [
+    "lucy-king"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucy-king",
+   "name": "Lucy King",
+   "kind": "person",
+   "role": "Zoologist; head of the Human–Elephant Coexistence Program, Save the Elephants",
+   "based": "Nairobi, Kenya",
+   "bio": "Zoologist who showed that African elephants avoid honeybees and turned that finding into the beehive fence used by farmers in Africa and Asia.",
+   "why": "Designs coexistence tools from an animal's own behaviour instead of from force.",
+   "links": {
+    "site": "https://elephantsandbees.com"
+   },
+   "role_zh": "动物学家；Save the Elephants 人象共存项目负责人",
+   "based_zh": "内罗毕，肯尼亚",
+   "bio_zh": "动物学家，证明非洲象会躲避蜜蜂，并把这一发现做成了非洲和亚洲农民使用的蜂箱围栏。",
+   "why_zh": "从动物自身的行为出发设计共存工具，而不是依靠强制手段。",
+   "connected_to": [
+    "save-the-elephants"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcelo-magnasco",
+   "name": "Marcelo Magnasco",
+   "kind": "person",
+   "role": "Professor, Laboratory of Integrative Neuroscience, The Rockefeller University",
+   "based": "New York, US",
+   "bio": "Biophysicist who studies perception and builds instruments for dolphin cognition research with Diana Reiss.",
+   "why": "Engineered an interface that lets dolphins use a touchscreen without any hardware in the water.",
+   "links": {},
+   "role_zh": "洛克菲勒大学整合神经科学实验室教授",
+   "based_zh": "纽约，美国",
+   "bio_zh": "生物物理学家，研究感知，并与 Diana Reiss 一起为海豚认知研究制作仪器。",
+   "why_zh": "设计了一种水中没有任何硬件、却能让海豚使用触摸屏的界面。",
+   "connected_to": [
+    "diana-reiss"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomofun",
+   "name": "Tomofun (Furbo)",
+   "kind": "company",
+   "role": "Pet technology company; maker of the Furbo Dog Camera",
+   "based": "Taipei, Taiwan, and Seattle, US",
+   "bio": "Start-up founded in 2014 by Victor Chang; its first product, the Furbo Dog Camera, launched on Indiegogo in 2016.",
+   "why": "Made the treat-tossing pet camera a mass-market product, the commercial form of remote human–pet interaction.",
+   "links": {
+    "site": "https://furbo.com"
+   },
+   "role_zh": "宠物科技公司；Furbo 狗狗摄像机的制造商",
+   "based_zh": "台北，台湾；西雅图，美国",
+   "bio_zh": "Victor Chang 于 2014 年创立的创业公司；首款产品 Furbo 狗狗摄像机于 2016 年在 Indiegogo 上发布。",
+   "why_zh": "把会抛零食的宠物摄像机做成大众产品，是远程人宠互动的商业形态。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "petcube",
+   "name": "Petcube",
+   "kind": "company",
+   "role": "Pet technology company making interactive pet cameras",
+   "based": "Kyiv, Ukraine",
+   "bio": "Company incorporated in Kyiv in 2013 by Alex Neskin, Yaroslav Azhnyuk and Andrey Klen; its first Kickstarter campaign raised 250,000 US dollars that year, and its cameras let owners play with a pet through a remote laser pointer.",
+   "why": "An early example of a consumer product built around playing with a pet from a distance.",
+   "links": {
+    "site": "https://petcube.com",
+    "youtube": "https://www.youtube.com/@petcube"
+   },
+   "role_zh": "制作互动宠物摄像机的宠物科技公司",
+   "based_zh": "基辅，乌克兰",
+   "bio_zh": "2013 年由 Alex Neskin、Yaroslav Azhnyuk 和 Andrey Klen 在基辅注册成立；同年首次 Kickstarter 众筹筹得 25 万美元，它的摄像机让主人通过远程激光笔和宠物玩耍。",
+   "why_zh": "较早围绕“远程和宠物玩耍”做出的消费产品。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "onlycat",
+   "name": "OnlyCat",
+   "kind": "company",
+   "role": "Company making a camera-equipped cat flap with prey detection",
+   "based": "Cramlington, UK",
+   "bio": "British company (VirtualV Trading Ltd) founded by brothers Martin and Tomas Rosinski, whose microchip cat flap checks each arriving cat with a camera and keeps the door shut when it carries prey.",
+   "why": "Puts a machine-vision decision at the door a cat uses every day.",
+   "links": {
+    "site": "https://www.onlycat.com",
+    "youtube": "https://www.youtube.com/channel/UCJ8Apoxdt9YfCR20J8-peTw"
+   },
+   "role_zh": "生产带摄像头、能识别猎物的猫门的公司",
+   "based_zh": "克拉姆灵顿，英国",
+   "bio_zh": "英国公司（VirtualV Trading Ltd），由 Martin 与 Tomas Rosinski 兄弟创立，它的芯片猫门用摄像头检查每只回家的猫，发现叼着猎物时就不开门。",
+   "why_zh": "把机器视觉的判断放在猫每天进出的那扇门上。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dave-soldier",
+   "name": "Dave Soldier",
+   "kind": "person",
+   "role": "Composer and musician; as David Sulzer, neuroscientist at Columbia University",
+   "based": "New York, US",
+   "bio": "Composer who co-founded the Thai Elephant Orchestra with elephant conservationist Richard Lair and has made music with other animals and with children.",
+   "why": "Asked whether animals would make music if given instruments built for their bodies.",
+   "links": {
+    "site": "https://www.davesoldier.com"
+   },
+   "role_zh": "作曲家、音乐人；本名 David Sulzer，哥伦比亚大学神经科学家",
+   "based_zh": "纽约，美国",
+   "bio_zh": "作曲家，与大象保护工作者 Richard Lair 共同创办泰国大象管弦乐团，也和其他动物以及儿童一起做音乐。",
+   "why_zh": "他提出的问题是：如果给动物按它们身体打造的乐器，它们会不会做音乐。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "earthranger",
+   "name": "EarthRanger",
+   "kind": "lab",
+   "role": "Conservation software programme of the Allen Institute for AI (Ai2)",
+   "based": "Seattle, US",
+   "bio": "Free software platform started in 2017 at Paul Allen's Vulcan and moved to the Allen Institute for AI in 2021; it is used at more than 1,000 conservation sites.",
+   "why": "Turns animal collars, camera traps and ranger reports into one live map that protected-area staff act on.",
+   "links": {
+    "site": "https://www.earthranger.com",
+    "youtube": "https://www.youtube.com/@earthrangertech"
+   },
+   "role_zh": "艾伦人工智能研究所（Ai2）的保护软件项目",
+   "based_zh": "西雅图，美国",
+   "bio_zh": "免费软件平台，2017 年始于 Paul Allen 的 Vulcan 公司，2021 年转入艾伦人工智能研究所；目前用于 1000 多个保护地。",
+   "why_zh": "把动物项圈、红外相机和巡护员报告汇成一张实时地图，供保护地工作人员据此行动。",
+   "connected_to": [
+    "save-the-elephants"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "noctua",
+   "name": "NOCTUA",
+   "kind": "lab",
+   "role": "Team building a quiet, long-endurance fixed-wing aircraft for wildlife protection",
+   "based": "Zurich, Switzerland",
+   "bio": "Team that began in 2023 as an ETH Zurich focus project of ten engineering students, set up to help rangers against poachers in African national parks, and now develops a second-generation hydrogen fuel-cell aircraft.",
+   "why": "Designs an observation aircraft around not disturbing the animals it watches.",
+   "links": {
+    "site": "https://noctua-site.pages.dev"
+   },
+   "role_zh": "研制安静、长航时固定翼飞机用于野生动物保护的团队",
+   "based_zh": "苏黎世，瑞士",
+   "bio_zh": "团队始于 2023 年苏黎世联邦理工学院的一个“焦点项目”：十名工程专业学生为帮助非洲国家公园的巡护员对付盗猎者而组队，现在研制第二代氢燃料电池飞机。",
+   "why_zh": "围绕“不打扰被观察的动物”来设计观测飞机。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "octanis-instruments",
+   "name": "Octanis Instruments",
+   "kind": "company",
+   "role": "Company making open instruments for wildlife and environmental monitoring",
+   "based": "Switzerland",
+   "bio": "Swiss company that develops monitoring devices for researchers; it built the Anisca Bird weighing perch with the Swiss Ornithological Institute and published its design files.",
+   "why": "Shows how a measuring device can take the place of an object the animal already uses.",
+   "links": {
+    "site": "https://anisca-bird.readthedocs.io",
+    "github": "https://github.com/o16s/anisca-bird"
+   },
+   "role_zh": "制作野生动物与环境监测开源仪器的公司",
+   "based_zh": "瑞士",
+   "bio_zh": "瑞士公司，为研究者开发监测设备；与瑞士鸟类研究所合作制作了 Anisca Bird 称重栖木，并公开了设计文件。",
+   "why_zh": "展示测量设备如何直接替换动物本来就在用的物件。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shiqi-zhang",
+   "name": "Shiqi Zhang",
+   "kind": "person",
+   "role": "Associate Professor of Computer Science, Binghamton University (SUNY)",
+   "based": "Binghamton, US",
+   "bio": "Roboticist whose group builds quadruped robotic guide dogs and studies how they should communicate with blind handlers.",
+   "why": "Uses the guide dog as a model for robots and asks what changes when the 'dog' can talk.",
+   "links": {
+    "site": "https://www.cs.binghamton.edu/~szhang/"
+   },
+   "role_zh": "宾汉姆顿大学（纽约州立大学）计算机科学副教授",
+   "based_zh": "宾汉姆顿，美国",
+   "bio_zh": "机器人学者，他的团队制作四足机器人导盲犬，并研究它们应如何与视障使用者沟通。",
+   "why_zh": "以导盲犬为机器人的范本，并追问：当这只“狗”会说话时，什么会改变。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "florian-golemo",
+   "name": "Florian Golemo",
+   "kind": "person",
+   "role": "Robotics researcher, Mila – Quebec AI Institute",
+   "based": "Montreal, Canada",
+   "bio": "Robotics researcher at Mila who leads Milo, an open-source robotic guide dog developed with Polytechnique Montréal.",
+   "why": "Makes the robotic guide dog cheap and open enough for others to rebuild.",
+   "links": {
+    "site": "https://fgolemo.github.io/milo",
+    "github": "https://github.com/fgolemo/milo"
+   },
+   "role_zh": "Mila 魁北克人工智能研究所机器人研究者",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio_zh": "Mila 的机器人研究者，主持与蒙特利尔综合理工学院合作开发的开源机器人导盲犬 Milo。",
+   "why_zh": "把机器人导盲犬做得足够便宜、足够开放，让别人可以复制。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xinlong-deng",
+   "name": "Xinlong Deng",
+   "kind": "person",
+   "role": "Researcher; first author of the BeVo dataset and model",
+   "based": "China",
+   "bio": "Audio machine-learning researcher working with Yin Cao, Qiuqiang Kong and colleagues; the paper lists China University of Petroleum (Beijing), Harbin Engineering University, The Chinese University of Hong Kong and the Institute of Acoustics, CAS.",
+   "why": "Frames animal sound synthesis as generating a call for a described behaviour, not for a species label.",
+   "links": {
+    "site": "https://persimmontian.github.io/BCAVG"
+   },
+   "role_zh": "研究者；BeVo 数据集与模型的第一作者",
+   "based_zh": "中国",
+   "bio_zh": "音频机器学习研究者，与 Yin Cao、Qiuqiang Kong 等人合作；论文署名单位包括中国石油大学（北京）、哈尔滨工程大学、香港中文大学和中国科学院声学研究所。",
+   "why_zh": "把动物声音合成定义为“为一段被描述的行为生成叫声”，而不是为一个物种标签生成叫声。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hanjing-shi",
+   "name": "Hanjing Shi",
+   "kind": "person",
+   "role": "Researcher, Department of Computer Science and Engineering, Lehigh University",
+   "based": "Bethlehem, US",
+   "bio": "HCI researcher working with Dominic DiFranzo on how generative AI should behave in memorials for companion animals.",
+   "why": "Works out limits for an AI that speaks in the voice of a dead pet.",
+   "links": {},
+   "role_zh": "理海大学计算机科学与工程系研究者",
+   "based_zh": "伯利恒，美国",
+   "bio_zh": "人机交互研究者，与 Dominic DiFranzo 合作研究生成式 AI 在伴侣动物纪念中应如何表现。",
+   "why_zh": "为“以已故宠物口吻说话的 AI”划定界限。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "flora-talyigas",
+   "name": "Flora Talyigas",
+   "kind": "person",
+   "role": "Researcher, University of Chester",
+   "based": "Chester, UK",
+   "bio": "Researcher at the University of Chester working with Lindsay Murray, Sonya Hill and Richard Stocker on computer vision for great ape behaviour.",
+   "why": "Uses rendered chimpanzees to make up for the lack of annotated footage of an endangered species.",
+   "links": {},
+   "role_zh": "切斯特大学研究者",
+   "based_zh": "切斯特，英国",
+   "bio_zh": "切斯特大学研究者，与 Lindsay Murray、Sonya Hill 和 Richard Stocker 合作研究用于类人猿行为的计算机视觉。",
+   "why_zh": "用渲染出来的黑猩猩弥补濒危物种标注影像的不足。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "azahara-oliva",
+   "name": "Azahara Oliva",
+   "kind": "person",
+   "role": "Assistant Professor of Neurobiology and Behavior, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "Neuroscientist who, with Antonio Fernandez-Ruiz and first author Zifang Zhao, developed the open-source WILD datalogger for recording brain activity in freely moving animals outdoors.",
+   "why": "Moves neural recording out of the lab cage and into the place where the animal actually lives.",
+   "links": {},
+   "role_zh": "康奈尔大学神经生物学与行为学助理教授",
+   "based_zh": "伊萨卡，美国",
+   "bio_zh": "神经科学家，与 Antonio Fernandez-Ruiz 及第一作者 Zifang Zhao 一起开发了开源的 WILD 记录器，用于在户外记录自由活动动物的脑活动。",
+   "why_zh": "把神经记录从实验室笼子搬到动物真正生活的地方。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "orit-hirsch-matsioulas",
+   "name": "Orit Hirsch-Matsioulas",
+   "kind": "person",
+   "role": "Anthropologist, University of Haifa",
+   "based": "Haifa, Israel",
+   "bio": "Anthropologist of human–animal relations who studies dogs, their people and the city, and writes on the politics of animal–computer interaction.",
+   "why": "Reads an everyday object, the leash, as an interface that carries signals both ways.",
+   "links": {},
+   "role_zh": "海法大学人类学者",
+   "based_zh": "海法，以色列",
+   "bio_zh": "研究人与动物关系的人类学者，关注狗、养狗人与城市，并撰文讨论动物-计算机交互中的政治。",
+   "why_zh": "把牵引绳这种日常物件读作一个双向传递信号的界面。",
+   "connected_to": [
+    "anna-zamansky"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomas-krajnik",
+   "name": "Tomáš Krajník",
+   "kind": "person",
+   "role": "Associate Professor, Faculty of Electrical Engineering, Czech Technical University in Prague",
+   "based": "Prague, Czechia",
+   "bio": "Roboticist who builds long-term vision and tracking systems; in the RoboRoyale project his group tracks the honeybee queen and her court inside observation hives.",
+   "why": "Builds the cameras and trackers that let a robot find and follow one bee among thousands.",
+   "links": {},
+   "role_zh": "布拉格捷克理工大学电气工程学院副教授",
+   "based_zh": "布拉格，捷克",
+   "bio_zh": "机器人学者，研制长期视觉与追踪系统；在 RoboRoyale 项目中，他的团队在观察蜂箱里追踪蜂王及其侍从蜂。",
+   "why_zh": "制作让机器人能在上千只蜜蜂中找到并跟随某一只的相机与追踪系统。",
+   "connected_to": [
+    "thomas-schmickl",
+    "farshad-arvin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "farshad-arvin",
+   "name": "Farshad Arvin",
+   "kind": "person",
+   "role": "Professor of Robotics, Department of Computer Science, Durham University",
+   "based": "Durham, UK",
+   "bio": "Swarm roboticist who develops miniature robots, including robotic agents meant to work inside honeybee colonies in the RoboRoyale project.",
+   "why": "Scales robots down to the size and pace of the insects they are meant to interact with.",
+   "links": {},
+   "role_zh": "杜伦大学计算机科学系机器人学教授",
+   "based_zh": "杜伦，英国",
+   "bio_zh": "群体机器人学者，研制微型机器人，包括在 RoboRoyale 项目中打算进入蜂群内部工作的机器人。",
+   "why_zh": "把机器人缩小到与它要互动的昆虫相同的尺度和节奏。",
+   "connected_to": [
+    "tomas-krajnik",
+    "thomas-schmickl"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aalborg-zoo",
+   "name": "Aalborg Zoo",
+   "kind": "lab",
+   "role": "Zoo with a research group run jointly with Aalborg University",
+   "based": "Aalborg, Denmark",
+   "bio": "Danish zoo whose staff and Aalborg University students study enrichment and behaviour, increasingly with automated video analysis.",
+   "why": "Pairs simple sensory enrichment with machine-learning tools that measure whether it works.",
+   "links": {
+    "site": "https://aalborgzoo.dk"
+   },
+   "role_zh": "动物园，与奥尔堡大学合办研究团队",
+   "based_zh": "奥尔堡，丹麦",
+   "bio_zh": "丹麦动物园，园方人员与奥尔堡大学学生一起研究丰容与行为，越来越多地使用自动视频分析。",
+   "why_zh": "把简单的感官丰容与衡量其效果的机器学习工具配在一起。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sam-gowland",
+   "name": "Sam Gowland",
+   "kind": "person",
+   "role": "Researcher, Northumbria University",
+   "based": "Newcastle upon Tyne, UK",
+   "bio": "Researcher working with Dirk van der Linden on how social media shapes people's relations with urban wildlife.",
+   "why": "Treats social media as part of the technology through which city dwellers meet wild animals.",
+   "links": {},
+   "role_zh": "诺森比亚大学研究者",
+   "based_zh": "泰恩河畔纽卡斯尔，英国",
+   "bio_zh": "研究者，与 Dirk van der Linden 合作研究社交媒体如何影响人与城市野生动物的关系。",
+   "why_zh": "把社交媒体看作城市居民接触野生动物的技术的一部分。",
+   "connected_to": [
+    "dirk-van-der-linden"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stella-kyratzi",
+   "name": "Stella Kyratzi",
+   "kind": "person",
+   "role": "Postdoctoral researcher, Department of Knowledge, Information and Innovation, Vrije Universiteit Amsterdam",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Organisation researcher who studies how robots are taken up in everyday work, including robotic milking on Dutch dairy farms.",
+   "why": "Shows that farm robots work through a web of people, not through a single user and a machine.",
+   "links": {},
+   "role_zh": "阿姆斯特丹自由大学知识、信息与创新系博士后研究员",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio_zh": "组织研究者，研究机器人如何进入日常工作，包括荷兰奶牛场的机器人挤奶。",
+   "why_zh": "说明农场机器人是靠一张人际网络运转的，而不只是一个用户加一台机器。",
+   "connected_to": [
+    "lely"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cassandra-willyard",
+   "name": "Cassandra Willyard",
+   "kind": "person",
+   "role": "Science journalist",
+   "based": "Madison, US",
+   "bio": "Freelance science journalist who writes for MIT Technology Review and other outlets.",
+   "why": "Gave a sober public account of what AI can and cannot yet do for animal communication.",
+   "links": {},
+   "role_zh": "科学记者",
+   "based_zh": "麦迪逊，美国",
+   "bio_zh": "自由科学记者，为《麻省理工科技评论》等媒体撰稿。",
+   "why_zh": "向公众冷静说明了 AI 在动物沟通上目前能做到什么、做不到什么。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "nofence--virtual-fence-collars",
+   "creator_ids": [
+    "nofence"
+   ],
+   "title": "Nofence virtual fencing collars",
+   "year": 2017,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Solar-charged GPS collars keep goats, sheep and cattle inside a pasture that the farmer draws in a phone app. Near the boundary the collar plays a rising tone, and an animal that keeps going gets a mild electric pulse. Norway approved the system for goats in 2017.",
+   "description_zh": "太阳能充电的 GPS 项圈把山羊、绵羊和牛留在农民用手机应用画出的牧场里。靠近边界时项圈播放逐渐升高的提示音，继续往前的动物会受到轻微电脉冲。挪威于 2017 年批准该系统用于山羊。",
+   "idea_en": "A fence can be a sound the animal learns to turn away from.",
+   "idea_zh": "围栏可以只是一段声音，动物学会听到它就转身。",
+   "method": "GPS collar with solar panels, an audio cue that rises in pitch and a weak electric pulse, set up and monitored through a mobile app over the cellular network.",
+   "method_zh": "带太阳能板的 GPS 项圈，配音调逐渐升高的声音提示和微弱电脉冲，通过蜂窝网络由手机应用设置和监控。",
+   "keywords": [
+    "virtual fencing",
+    "GPS collar",
+    "goats",
+    "cattle",
+    "sheep",
+    "grazing",
+    "Norway"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_2XGMg0K7fc"
+   },
+   "images": [
+    "https://images.ctfassets.net/mtsmv57oe9i9/3xZqjqJ4KyMBFvAJ4w1WEw/9ef29eace33160c85b9fff5db373c97f/compressed_NoFence_UserStory_Shoot1_Texas_2025-231__compressed_.jpg?fm=webp&q=90&w=1200"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.applanim.2022.105755",
+    "doi": "10.1016/j.applanim.2022.105755",
+    "arxiv": "",
+    "venue": "Applied Animal Behaviour Science 2022",
+    "title": "Goats are able to adapt to virtual fencing; A field study in commercial goat herds on Norwegian farms"
+   },
+   "source_url": "https://www.nofence.no/en"
+  },
+  {
+   "id": "save-the-elephants--elephant-geofencing",
+   "creator_ids": [
+    "save-the-elephants"
+   ],
+   "title": "Elephant geofencing: collars that text rangers",
+   "year": 2005,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "From December 2005, Save the Elephants fitted Kimani, a crop-raiding bull at Ol Pejeta in Kenya, with a GSM collar that sent a text message to rangers whenever he crossed a virtual line toward farms. Rangers drove him back each time, and by 2008 he had stopped raiding.",
+   "description_zh": "从 2005 年 12 月起，Save the Elephants 给肯尼亚 Ol Pejeta 一头经常闯入农田的公象 Kimani 戴上 GSM 项圈：只要它越过通向农田的虚拟界线，项圈就给巡护员发短信。巡护员每次都把它赶回去，到 2008 年它不再偷吃庄稼。",
+   "idea_en": "Let the animal's own position call for help before the conflict starts.",
+   "idea_zh": "让动物自己的位置在冲突发生之前就发出求助。",
+   "method": "GPS collar with a Safaricom SIM card and virtual fence coordinates stored on board; crossing the line triggers an SMS with the elephant's location to the reserve manager and researchers.",
+   "method_zh": "装有 Safaricom SIM 卡的 GPS 项圈，内存虚拟围栏坐标；越线时向保护区经理和研究者发送带大象位置的短信。",
+   "keywords": [
+    "geofence",
+    "GSM collar",
+    "SMS alert",
+    "human–elephant conflict",
+    "Ol Pejeta",
+    "Kimani",
+    "Kenya"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pXtMo8KGH9g"
+   },
+   "images": [
+    "https://savetheelephants.org/wp-content/uploads/2015/09/ste-kimani-the-crop-raider.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1890/13-1971.1",
+    "doi": "10.1890/13-1971.1",
+    "arxiv": "",
+    "venue": "Ecological Applications 2014",
+    "title": "Novel opportunities for wildlife conservation and research with real‐time monitoring"
+   },
+   "source_url": "https://savetheelephants.org/news/geo-fencing/"
+  },
+  {
+   "id": "lucy-king--beehive-fence",
+   "creator_ids": [
+    "lucy-king",
+    "save-the-elephants"
+   ],
+   "title": "Beehive fence",
+   "year": 2009,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A fence made of beehives hung between posts and linked by wire protects small farms from elephants. An elephant that pushes against the wire shakes the hives, the bees come out, and the elephant retreats. The farmer also gets honey and pollination.",
+   "description_zh": "把蜂箱挂在木桩之间、用铁丝连起来做成围栏，保护小农场不被大象闯入。大象一推铁丝，蜂箱晃动，蜜蜂飞出，大象就退走。农民还能收获蜂蜜和授粉。",
+   "idea_en": "Use one species' behaviour as the boundary for another.",
+   "idea_zh": "用一个物种的行为，给另一个物种划出边界。",
+   "method": "Hives linked by wire about every ten metres along the field edge (the 2009 pilot in Laikipia, Kenya, used nine hives over 90 m), built on the finding that African elephants avoid honeybees.",
+   "method_zh": "沿田地边缘每隔约十米用铁丝连起一个蜂箱（2009 年在肯尼亚莱基皮亚的试点用九个蜂箱围出 90 米），依据是“非洲象会躲避蜜蜂”这一发现。",
+   "keywords": [
+    "human–elephant coexistence",
+    "honeybees",
+    "crop raiding",
+    "Elephants and Bees Project",
+    "Kenya",
+    "low-tech"
+   ],
+   "also": [
+    "mth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=on0B0iCovOo"
+   },
+   "images": [
+    "https://savetheelephants.org/wp-content/uploads/2003/03/339A9359-scaled-e1739880595158-1300x686.jpg",
+    "https://savetheelephants.org/wp-content/uploads/2025/02/339A7073-scaled.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/j.1365-2028.2009.01114.x",
+    "doi": "10.1111/j.1365-2028.2009.01114.x",
+    "arxiv": "",
+    "venue": "African Journal of Ecology 2009",
+    "title": "Beehive fence deters crop‐raiding elephants"
+   },
+   "source_url": "https://elephantsandbees.com/beehive-fence/"
+  },
+  {
+   "id": "diana-reiss--dolphin-touchscreen",
+   "creator_ids": [
+    "diana-reiss",
+    "marcelo-magnasco"
+   ],
+   "title": "Underwater touchscreen for dolphins",
+   "year": 2017,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "An eight-foot touchscreen at the National Aquarium in Baltimore lets bottlenose dolphins use apps and a symbol keyboard through an underwater viewing window. Without training, a young male named Foster began playing a Whack-a-Mole-style game with moving fish.",
+   "description_zh": "巴尔的摩国家水族馆的一块约 2.4 米宽的触摸屏，让宽吻海豚隔着水下观察窗使用应用和符号键盘。年轻的雄性海豚 Foster 未经训练就开始玩一个追逐游动小鱼的“打地鼠”式游戏。",
+   "idea_en": "Keep the hardware out of the animal's habitat and put only the interaction in it.",
+   "idea_zh": "把硬件留在动物栖息空间之外，只让交互进入其中。",
+   "method": "The display sits outside the pool window; touches are detected optically, so no device parts are in the water, and cameras and hydrophones record behaviour and vocalisations during sessions.",
+   "method_zh": "显示屏装在水池观察窗外侧，触碰用光学方式检测，水里没有任何设备部件；摄像机和水听器记录实验过程中的行为与发声。",
+   "keywords": [
+    "bottlenose dolphin",
+    "touchscreen",
+    "symbolic keyboard",
+    "National Aquarium",
+    "Rockefeller University",
+    "Hunter College",
+    "m2c2"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tHXwX_BDnDE"
+   },
+   "images": [
+    "https://www.rockefeller.edu/news/uploads/www.rockefeller.edu/sites/13/2017/05/Dolphin-touchscreen_main_NW_opt.jpg"
+   ],
+   "source_url": "https://www.rockefeller.edu/news/19742-researchers-create-interactive-touchscreen-dolphins/"
+  },
+  {
+   "id": "tomofun--furbo-dog-camera",
+   "creator_ids": [
+    "tomofun"
+   ],
+   "title": "Furbo Dog Camera",
+   "year": 2016,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A home camera for dogs that lets the owner watch, talk and toss a treat from a phone, and sends an alert when the dog barks. It launched on Indiegogo in April 2016 and later added automatic detection of events such as pacing.",
+   "description_zh": "一款给狗用的家用摄像头：主人可以在手机上观看、说话、抛出零食，狗叫时会收到提醒。它于 2016 年 4 月在 Indiegogo 上发布，后来加入了对来回踱步等情况的自动检测。",
+   "idea_en": "Remote care reduced to three channels: seeing, speaking and feeding.",
+   "idea_zh": "把远程照料简化成三条通道：看见、说话、喂食。",
+   "method": "Wi-Fi camera with two-way audio and a treat launcher controlled from a phone app; bark detection, and in later models machine-learning event alerts.",
+   "method_zh": "带双向语音的 Wi-Fi 摄像头，配由手机应用控制的零食发射器；具备吠叫检测，后续型号加入机器学习事件提醒。",
+   "keywords": [
+    "pet camera",
+    "treat tossing",
+    "bark alert",
+    "remote interaction",
+    "dogs",
+    "Indiegogo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=o4f2P-5EjtM"
+   },
+   "images": [
+    "https://cdn.shopify.com/s/files/1/1362/5949/files/dog_cat_thumbnail.jpg?v=1769160413"
+   ],
+   "source_url": "https://furbo.com"
+  },
+  {
+   "id": "petcube--interactive-pet-camera",
+   "creator_ids": [
+    "petcube"
+   ],
+   "title": "Petcube interactive pet cameras",
+   "year": 2013,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Petcube's home cameras, first funded on Kickstarter in 2013, let owners watch and talk to a cat or dog from a phone and keep it busy with a built-in laser pointer. The Petcube Bites model tosses treats.",
+   "description_zh": "Petcube 的家用摄像头于 2013 年首次在 Kickstarter 上众筹成功：主人可以在手机上观看家里的猫狗并对它说话，还能用内置激光笔陪它玩。Petcube Bites 型号可以抛出零食。",
+   "idea_en": "The phone screen becomes a remote hand for play.",
+   "idea_zh": "手机屏幕变成一只用来玩耍的远程的手。",
+   "method": "Wi-Fi camera with two-way audio and a built-in laser pointer controlled from the phone app; the Bites model adds a treat dispenser.",
+   "method_zh": "带双向语音的 Wi-Fi 摄像头，内置由手机应用控制的激光笔；Bites 型号增加了零食投放器。",
+   "keywords": [
+    "pet camera",
+    "laser pointer",
+    "remote play",
+    "cats",
+    "dogs",
+    "Kickstarter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XBzJ_4V4ePU"
+   },
+   "images": [
+    "https://petcube.com/images/previews/general.jpg"
+   ],
+   "source_url": "https://petcube.com"
+  },
+  {
+   "id": "onlycat--prey-detecting-cat-flap",
+   "creator_ids": [
+    "onlycat"
+   ],
+   "title": "OnlyCat: cat flap with prey detection",
+   "year": 2024,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A cat flap with a camera checks each cat as it approaches. It opens for the household's microchipped cats, but stays shut for that attempt if the cat is carrying prey, and lets the cat in straight away when it comes back without it.",
+   "description_zh": "一扇带摄像头的猫门，会在猫靠近时逐一检查。它为家里植入芯片的猫开门，但如果猫叼着猎物，这一次就不开；猫放下猎物再回来时会立刻放行。",
+   "idea_en": "A door that answers what the cat is doing, not only which cat it is.",
+   "idea_zh": "一扇不只认“是哪只猫”，还看“猫在做什么”的门。",
+   "method": "Microchip reader for identity plus a built-in AI camera that screens each entry for prey, with per-cat entry, exit and curfew rules and video events in a phone app.",
+   "method_zh": "用芯片读取器识别身份，再用内置 AI 摄像头在每次进门时检查是否有猎物；在手机应用中可为每只猫设置进出和宵禁规则并查看视频记录。",
+   "keywords": [
+    "cat flap",
+    "prey detection",
+    "computer vision",
+    "microchip",
+    "outdoor cats",
+    "wildlife predation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KDoWMfU3pJY"
+   },
+   "images": [
+    "https://www.onlycat.com/wp-content/uploads/2024/07/IMG_0005-3-scaled.jpg",
+    "https://www.onlycat.com/wp-content/themes/onlycat/assets/home/hero-3000.webp"
+   ],
+   "source_url": "https://www.onlycat.com/"
+  },
+  {
+   "id": "dave-soldier--thai-elephant-orchestra",
+   "creator_ids": [
+    "dave-soldier"
+   ],
+   "title": "Thai Elephant Orchestra",
+   "year": 2002,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "At the Thai Elephant Conservation Center in Lampang, elephants play large instruments built for their trunks, such as marimba-like renats, drums and harmonicas. On the recordings, people only cue when to start and stop; what the elephants play in between is their own.",
+   "description_zh": "在南邦的泰国大象保护中心，大象演奏为象鼻打造的大型乐器，如类似马林巴的木琴、鼓和口琴。在录音中，人只提示开始和结束，中间演奏什么由大象自己决定。",
+   "idea_en": "Build the instrument for the animal's body, then leave the playing to the animal.",
+   "idea_zh": "按动物的身体来造乐器，然后把演奏交给动物。",
+   "method": "Heavy-duty versions of traditional Thai instruments tuned to a five-note scale and operated with the trunk or a stick held in it; the orchestra, of up to fourteen elephants, released three CDs between 2002 and 2011.",
+   "method_zh": "把泰国传统乐器做成加固版本，按五声音阶调音，用象鼻或象鼻握住的棒子演奏；乐团最多有十四头大象，2002 年至 2011 年间发行了三张 CD。",
+   "keywords": [
+    "elephants",
+    "interspecies music",
+    "instrument design",
+    "Richard Lair",
+    "Lampang",
+    "improvisation"
+   ],
+   "also": [
+    "ecoart"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Kdeyq0RFYwo"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/69ee5da345deab53bd6c09f6/bdd1e879-f5b8-46c4-a253-6953c87f7e0c/the+orchestra2.jpg"
+   ],
+   "source_url": "https://www.davesoldier.com/thai-elephant-orchestra"
+  },
+  {
+   "id": "earthranger--conservation-platform",
+   "creator_ids": [
+    "earthranger"
+   ],
+   "title": "EarthRanger",
+   "year": 2017,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "Free software that shows a protected area's collared animals, vehicles, rangers, camera traps and incident reports on one live map. It sends alerts when, for example, a tracked animal stops moving or crosses a boundary toward farmland.",
+   "description_zh": "一款免费软件，把保护地里戴项圈的动物、车辆、巡护员、红外相机和事件报告显示在同一张实时地图上。当被追踪的动物停止移动或越界走向农田等情况发生时，它会发出提醒。",
+   "idea_en": "Many separate sensors only become protection when one room can see them together.",
+   "idea_zh": "许多分散的传感器，只有在同一个房间里被一起看到时，才成为保护。",
+   "method": "Integrations with more than 150 collar, radio, camera-trap and tracker systems feed a web and mobile platform with rule-based alerts by SMS, WhatsApp or email.",
+   "method_zh": "接入 150 多种项圈、电台、红外相机和追踪器系统，数据汇入网页与移动平台，并按规则通过短信、WhatsApp 或电子邮件发出提醒。",
+   "keywords": [
+    "protected area management",
+    "real-time tracking",
+    "human–wildlife conflict",
+    "Allen Institute for AI",
+    "Vulcan",
+    "anti-poaching"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sT5kPMGnIuw"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/61a93c4da07e4e6975c3f2b2/623c8c81a23bafef31efceb7_er-command%20center.jpg"
+   ],
+   "source_url": "https://www.earthranger.com/"
+  },
+  {
+   "id": "noctua--wildlife-observation-aircraft",
+   "creator_ids": [
+    "noctua"
+   ],
+   "title": "NOCTUA: quiet long-endurance aircraft for wildlife protection",
+   "year": 2023,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A modular fixed-wing uncrewed aircraft designed to fly near-silently for up to ten hours on hydrogen fuel cells and detect animals or people on the ground in real time. It started in 2023 as a one-year ETH Zurich student project against poaching, flew a first prototype, and is now in its second generation.",
+   "description_zh": "一架模块化固定翼无人机，设计目标是依靠氢燃料电池近乎无声地飞行长达十小时，并实时检测地面上的动物或人。它始于 2023 年苏黎世联邦理工学院一个为期一年的反盗猎学生项目，第一架原型机已试飞，现在已是第二代。",
+   "idea_en": "For watching wildlife, quietness and endurance matter more than speed.",
+   "idea_zh": "观察野生动物时，安静和续航比速度更重要。",
+   "method": "Fixed-wing airframe with hydrogen fuel-cell propulsion and onboard AI detection, aimed at anti-poaching and environmental monitoring with minimal ground support.",
+   "method_zh": "固定翼机体，采用氢燃料电池推进并搭载机上 AI 检测，面向反盗猎和环境监测，所需地面支持很少。",
+   "keywords": [
+    "UAV",
+    "ETH Zurich",
+    "hydrogen fuel cell",
+    "anti-poaching",
+    "wildlife monitoring",
+    "low noise",
+    "onboard detection"
+   ],
+   "images": [
+    "https://noctua-site.pages.dev/videos/technology-hero-desktop.jpg",
+    "https://noctua-site.pages.dev/images/_DSC5977.JPG"
+   ],
+   "source_url": "https://noctua-site.pages.dev"
+  },
+  {
+   "id": "octanis-instruments--anisca-bird",
+   "creator_ids": [
+    "octanis-instruments"
+   ],
+   "title": "Anisca Bird: a perch that weighs birds",
+   "year": 2022,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A perch that replaces a ringed bird's usual roosting place and records who landed and how much it weighs, all year, without anyone catching the bird. It was developed with the Swiss Ornithological Institute and its hardware and firmware are open source.",
+   "description_zh": "一根替换环志鸟类惯用栖息处的栖木，全年记录是哪只鸟落下、体重多少，而不需要任何人去捕捉鸟。它与瑞士鸟类研究所合作开发，硬件和固件均开源。",
+   "idea_en": "Measure the animal where it already chooses to sit.",
+   "idea_zh": "在动物本来就选择停留的地方测量它。",
+   "method": "Plywood perch with a 125 kHz RFID antenna and a load cell with 1 g resolution; the reader logs identity and weight for years on battery power, with optional Sigfox uplink and webhooks.",
+   "method_zh": "胶合板栖木内置 125 kHz RFID 天线和分辨率 1 克的称重传感器；读取器靠电池长年记录身份与体重，可选 Sigfox 上传和 webhook。",
+   "keywords": [
+    "RFID",
+    "load cell",
+    "nest box",
+    "owls",
+    "Swiss Ornithological Institute",
+    "open hardware",
+    "Sigfox"
+   ],
+   "images": [
+    "https://raw.githubusercontent.com/o16s/anisca-bird/main/docs/source/220414_OCT_AniscaBird294.jpg"
+   ],
+   "source_url": "https://anisca-bird.readthedocs.io",
+   "code_url": "https://github.com/o16s/anisca-bird"
+  },
+  {
+   "id": "shiqi-zhang--woofs-to-words",
+   "creator_ids": [
+    "shiqi-zhang"
+   ],
+   "title": "From Woofs to Words: a robotic guide dog that talks",
+   "year": 2026,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A quadruped robotic guide dog talks with its blind handler: it asks where to go, describes the route it plans and tells the handler what is around them. A study with visually impaired participants compared ways of verbalising plans and scenes.",
+   "description_zh": "一只四足机器人导盲犬能和视障使用者对话：它询问目的地，描述自己规划的路线，并告诉使用者周围有什么。一项有视障参与者的研究比较了口头描述路线和场景的不同方式。",
+   "idea_en": "A guide dog cannot explain its decisions; a robot can, and that changes who decides.",
+   "idea_zh": "导盲犬无法解释自己的决定，机器人可以，而这会改变由谁来做决定。",
+   "method": "LLM-based dialogue system that grounds requests in a map of navigable places and turns the robot's navigation plan and camera scene into speech, tested in a human study and in simulation.",
+   "method_zh": "基于大语言模型的对话系统，把请求对应到可通行地点的地图上，并把机器人的导航计划和相机画面转成语音；通过人类研究和仿真进行测试。",
+   "keywords": [
+    "robotic guide dog",
+    "quadruped robot",
+    "LLM dialogue",
+    "blind and low vision",
+    "verbalisation",
+    "AAAI 2026"
+   ],
+   "also": [
+    "ai"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AHMIJ1gJd0E"
+   },
+   "images": [
+    "https://arxiv.org/html/2603.12574v1/robotic_guide_dog_pic.png",
+    "https://arxiv.org/html/2603.12574v1/dialog_overview_v3.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2603.12574",
+    "doi": "",
+    "arxiv": "2603.12574",
+    "venue": "AAAI 2026",
+    "title": "From Woofs to Words: Towards Intelligent Robotic Guide Dogs with Verbal Communication"
+   },
+   "source_url": "https://arxiv.org/abs/2603.12574"
+  },
+  {
+   "id": "florian-golemo--milo",
+   "creator_ids": [
+    "florian-golemo"
+   ],
+   "title": "Milo: an open-source robotic guide dog",
+   "year": 2026,
+   "field": "aci",
+   "sub": "working",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Milo is a robotic guide dog built on a Unitree Go2 for about 2,000 US dollars. It leads a person along indoor and outdoor paths, around obstacles and oncoming pedestrians, without a prior map or outside computing; the handler sets pace and turns with a pad on the handle.",
+   "description_zh": "Milo 是基于 Unitree Go2、成本约 2000 美元的机器人导盲犬。它带人走室内外路线，绕开障碍物和迎面走来的行人，不需要预先建好的地图或外部计算；使用者通过把手上的按键控制快慢和转向。",
+   "idea_en": "Copy the guide dog's basic job, not the dog, and make it cheap enough to share.",
+   "idea_zh": "复制导盲犬的基本工作而不是复制狗本身，并把它做得便宜到可以共享。",
+   "method": "Jetson Orin Nano, LiDAR and RGB camera on the robot run voxel mapping with floor, obstacle and pedestrian detection and a learned avoidance policy; a two-axis jointed handle senses where the handler is.",
+   "method_zh": "机器人上的 Jetson Orin Nano、激光雷达和 RGB 相机运行体素建图以及地面、障碍物和行人检测，再加一套学习得到的避障策略；两轴关节把手感知使用者的位置。",
+   "keywords": [
+    "robotic guide dog",
+    "Unitree Go2",
+    "open source",
+    "Mila",
+    "Polytechnique Montréal",
+    "blind and low vision",
+    "onboard autonomy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SWS3cQ3NWCI"
+   },
+   "images": [
+    "https://arxiv.org/html/2607.19530v1/figs/cover-v2.jpg",
+    "https://arxiv.org/html/2607.19530v1/figs/system-v3.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2607.19530",
+    "doi": "",
+    "arxiv": "2607.19530",
+    "venue": "arXiv 2026",
+    "title": "Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog"
+   },
+   "source_url": "https://fgolemo.github.io/milo",
+   "code_url": "https://github.com/fgolemo/milo"
+  },
+  {
+   "id": "xinlong-deng--bevo",
+   "creator_ids": [
+    "xinlong-deng"
+   ],
+   "title": "BeVo: generating animal calls from a description of behaviour",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A text-to-audio model produces animal vocalisations from a sentence describing what the animal is doing and in what social context. It is trained on 31,191 call events from spotted hyenas, meerkats, marmosets, goats, plains zebras and zebra finches.",
+   "description_zh": "一个文本到音频的模型，根据一句描述动物正在做什么、处于何种社交情境的话，生成相应的动物叫声。训练数据是来自斑鬣狗、狐獴、狨猴、山羊、平原斑马和斑胸草雀的 31,191 个叫声事件。",
+   "idea_en": "Condition synthetic calls on behaviour, which is what a playback experiment needs to control.",
+   "idea_zh": "让合成叫声以行为为条件，这正是回放实验需要控制的变量。",
+   "method": "The Behavior-Vocalization Dataset links public recordings to behaviour descriptions from the ethology literature; the TangoFlux rectified-flow generator is adapted with masking so that calls keep their real, variable lengths.",
+   "method_zh": "Behavior-Vocalization 数据集把公开录音与动物行为学文献中的行为描述对应起来；对 TangoFlux 整流流生成器加入掩码进行适配，使叫声保持真实而不等长的时长。",
+   "keywords": [
+    "bioacoustics",
+    "text-to-audio",
+    "TangoFlux",
+    "vocalisation synthesis",
+    "playback",
+    "dataset"
+   ],
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://arxiv.org/html/2610.16382v1/dataset.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2610.16382",
+    "doi": "",
+    "arxiv": "2610.16382",
+    "venue": "arXiv 2026",
+    "title": "Behavior-Conditioned Animal Vocalization Generation: Event-Aware Modeling and Multidimensional Evaluation"
+   },
+   "source_url": "https://persimmontian.github.io/BCAVG"
+  },
+  {
+   "id": "hanjing-shi--afterglow",
+   "creator_ids": [
+    "hanjing-shi"
+   ],
+   "title": "Afterglow: a memorial world for pet bereavement",
+   "year": 2026,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Afterglow is a mobile memorial for people grieving a pet: a private cottage and journal, a shared river and forest where others can leave small signs of witness, and occasional AI-written letters in the pet's voice that are labelled as symbolic. The study asks how such a voice can comfort without claiming to forgive or demanding to be visited.",
+   "description_zh": "Afterglow 是一个给失去宠物的人使用的手机纪念空间：私密的小屋和日记，一条共享的河流和一片森林供他人留下小小的见证，以及偶尔出现、以宠物口吻由 AI 写成并标明为象征性文字的信。研究追问：这样的声音怎样才能带来安慰，而不冒称有权原谅，也不要求人不断回来。",
+   "idea_en": "An AI that speaks for a dead animal should have limits the mourner can see.",
+   "idea_zh": "替已故动物说话的 AI，应当有悼念者看得见的界限。",
+   "method": "Research through Design with a survey of 57 people and six online walkthroughs with 20 participants over two prototype versions, leading to the requirement the authors call Legible Restraint.",
+   "method_zh": "以设计做研究：一项 57 人的问卷，以及针对两版原型、共 20 名参与者的六场线上走查，由此得出作者称为“可读的克制”（Legible Restraint）的要求。",
+   "keywords": [
+    "pet loss",
+    "continuing bonds",
+    "generative AI",
+    "griefbot",
+    "Research through Design",
+    "Legible Restraint"
+   ],
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://arxiv.org/html/2609.38729v1/figures/memory_cottage.png",
+    "https://arxiv.org/html/2609.38729v1/figures/shared_world.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2609.38729",
+    "doi": "",
+    "arxiv": "2609.38729",
+    "venue": "arXiv 2026",
+    "title": "Afterglow: A Place-Based Memorial Ecology for AI-Mediated Pet Bereavement"
+   },
+   "source_url": "https://arxiv.org/abs/2609.38729"
+  },
+  {
+   "id": "flora-talyigas--synpanz",
+   "creator_ids": [
+    "flora-talyigas"
+   ],
+   "title": "SynPanZ: synthetic chimpanzees for pose estimation",
+   "year": 2026,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Animated 3D chimpanzees rendered in groups, with varied poses, lighting and camera motion, give pose-tracking models labelled training video that nobody had to annotate. Adding about three synthetic frames per real one nearly doubled how many individuals a model found in unseen zoo footage.",
+   "description_zh": "把带动画的三维黑猩猩成群渲染出来，变换姿势、光照和镜头运动，就得到无需人工标注的带标签训练视频。每一帧真实画面配上约三帧合成画面后，模型在未见过的动物园影像中找到的个体数量几乎翻倍。",
+   "idea_en": "When an endangered species cannot supply enough data, render the missing examples.",
+   "idea_zh": "当濒危物种提供不了足够的数据时，就把缺少的样本渲染出来。",
+   "method": "Rigged chimpanzee models animated in Blender produce RGB video with 2D keypoints; DeepLabCut models trained on DeepWild with different real-to-synthetic ratios are tested on the ChimpACT zoo dataset.",
+   "method_zh": "在 Blender 中为绑定骨骼的黑猩猩模型制作动画，生成带二维关键点的 RGB 视频；用 DeepWild 数据按不同真实与合成比例训练 DeepLabCut 模型，并在动物园数据集 ChimpACT 上测试。",
+   "keywords": [
+    "chimpanzee",
+    "pose estimation",
+    "synthetic data",
+    "DeepLabCut",
+    "Blender",
+    "ChimpACT",
+    "great apes"
+   ],
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://arxiv.org/html/2611.18674v1/figures/generation-process.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2611.18674",
+    "doi": "",
+    "arxiv": "2611.18674",
+    "venue": "arXiv 2026",
+    "title": "SynPanZ: A Synthetic Dataset to Improve Multi-Animal Pose Estimation in Chimpanzees (Pan troglodytes)"
+   },
+   "source_url": "https://arxiv.org/abs/2611.18674"
+  },
+  {
+   "id": "azahara-oliva--wild-datalogger",
+   "creator_ids": [
+    "azahara-oliva"
+   ],
+   "title": "WILD: a wireless brain recorder for animals outdoors",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "neurons"
+   ],
+   "kind": "paper",
+   "description": "WILD is an open-source recorder, lighter than a US dime, that logs brain activity, movement, calls and eye movements of small animals living in groups outdoors. Mice wore it for more than two weeks in a field enclosure, giving the first recordings of place cells in such a setting.",
+   "description_zh": "WILD 是一款比一枚美国十美分硬币还轻的开源记录器，可记录在户外群居的小型动物的脑活动、运动、叫声和眼动。小鼠在野外围栏中佩戴它超过两周，由此得到这类环境下位置细胞的首批记录。",
+   "idea_en": "Study the brain where the animal lives, not where the equipment lives.",
+   "idea_zh": "在动物生活的地方研究大脑，而不是在设备所在的地方。",
+   "method": "Modular wireless datalogger with flexible neural probes, motion, sound and eye-tracking modules and optional light or electrical stimulation triggered by detected brain patterns; it records for three to nine hours per battery.",
+   "method_zh": "模块化无线记录器，带柔性神经探针以及运动、声音和眼动模块，还可在检测到特定脑活动模式时触发光或电刺激；每块电池可记录三到九小时。",
+   "keywords": [
+    "biologging",
+    "neural recording",
+    "place cells",
+    "open hardware",
+    "closed loop",
+    "Cornell University",
+    "Nature Methods"
+   ],
+   "images": [
+    "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-09/2026_1391_wildbraintracking_final_n.jpg?itok=A2rEoTyB",
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-026-03220-9/MediaObjects/41592_2026_3220_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41592-026-03220-9",
+    "doi": "10.1038/s41592-026-03220-9",
+    "arxiv": "",
+    "venue": "Nature Methods 2026",
+    "title": "A wireless modular platform for neuro-behavioral recording and closed-loop manipulation in small animals"
+   },
+   "source_url": "https://news.cornell.edu/stories/2026/09/device-gives-first-view-animal-brain-activity-field"
+  },
+  {
+   "id": "orit-hirsch-matsioulas--leashing-the-city",
+   "creator_ids": [
+    "orit-hirsch-matsioulas"
+   ],
+   "title": "Leashing the City: Dog-Leash-Human Entanglements and the Urban Space",
+   "year": 2021,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Fieldwork on dog walking in Tel Aviv-Yafo treats the leash as a designed object that links two bodies. The authors show that it does not simply give the person control: both dog and person send and read signals through it, and together they act as one unit in the street.",
+   "description_zh": "这项研究在特拉维夫-雅法对遛狗做田野调查，把牵引绳看作连接两个身体的设计物。作者指出，牵引绳并不只是让人获得控制：狗和人都通过它发出并读取信号，在街上作为一个整体行动。",
+   "idea_en": "The oldest interspecies interface is a rope, and it already works in both directions.",
+   "idea_zh": "最古老的跨物种界面是一根绳子，而且它本来就是双向的。",
+   "method": "Anthropological fieldwork with observation of walks, combined with professional knowledge of dog behaviour, analysed as dog–leash–human units moving through urban space.",
+   "method_zh": "人类学田野调查，观察遛狗过程并结合犬类行为方面的专业知识，把“狗—牵引绳—人”作为在城市空间中移动的单元来分析。",
+   "keywords": [
+    "leash",
+    "dog walking",
+    "urban space",
+    "nonverbal communication",
+    "Tel Aviv",
+    "multispecies ethnography",
+    "Yaara Sadetzki"
+   ],
+   "also": [
+    "mth"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3493842.3493889",
+    "doi": "10.1145/3493842.3493889",
+    "arxiv": "",
+    "venue": "ACI 2021",
+    "title": "Leashing the City: Dog-Leash-Human Entanglements and the Urban Space"
+   },
+   "source_url": "https://doi.org/10.1145/3493842.3493889"
+  },
+  {
+   "id": "donato-romano--locust-robot-pathogen",
+   "creator_ids": [
+    "donato-romano"
+   ],
+   "title": "Locusts, robots and a fungus: a three-way hybrid experiment",
+   "year": 2025,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "insects",
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Robotic locust dummies, some dusted with spores of the fungus Beauveria bassiana, were placed with gregarious desert locusts. Healthy locusts groomed more and touched the infected dummies for longer, and infected locusts sought contact with any robot, which points to social immunity in an insect that is not eusocial.",
+   "description_zh": "研究者把蝗虫形机器人放到群居的沙漠蝗中，其中一些沾有球孢白僵菌的孢子。健康蝗虫理毛更多，触碰受感染机器人的时间更长；受感染的蝗虫则会主动接触任何机器人。这表明并非真社会性的昆虫也存在社会免疫。",
+   "idea_en": "A robot can carry a pathogen into a social experiment that live animals could not be made to repeat.",
+   "idea_zh": "机器人可以把病原体带进一场社会实验，而这样的实验无法让活体动物重复完成。",
+   "method": "Biomimetic and non-biomimetic agents, with and without fungal conidia, presented to healthy and infected Schistocerca gregaria; latency, grooming, touching and aggression were compared.",
+   "method_zh": "把仿生与非仿生、带或不带真菌分生孢子的机器体呈现给健康和受感染的沙漠蝗（Schistocerca gregaria），比较反应潜伏期、理毛、触碰和攻击行为。",
+   "keywords": [
+    "animal–robot interaction",
+    "Schistocerca gregaria",
+    "Beauveria bassiana",
+    "social immunity",
+    "biohybrid",
+    "Cesare Stefanini"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/aisy.202400763",
+    "doi": "10.1002/aisy.202400763",
+    "arxiv": "",
+    "venue": "Advanced Intelligent Systems 2025",
+    "title": "Investigating Social Immunity in Swarming Locusts via a Triple Animal–Robot–Pathogen Hybrid Interaction"
+   },
+   "source_url": "https://doi.org/10.1002/aisy.202400763"
+  },
+  {
+   "id": "tomas-krajnik--open-source-observation-hive",
+   "creator_ids": [
+    "tomas-krajnik",
+    "thomas-schmickl"
+   ],
+   "title": "An open-source observation hive for long-term honeybee research",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "An open-hardware observation hive with standardised cameras and lighting, so that computer-vision studies of bees in different labs produce comparable images. The authors show it by following a single honeybee with an open-source tracker.",
+   "description_zh": "一套开源硬件的观察蜂箱，相机和照明都做了标准化，使不同实验室对蜜蜂的计算机视觉研究能得到可比较的图像。作者用开源追踪系统持续跟踪一只蜜蜂来演示它。",
+   "idea_en": "Shared results about animals need shared instruments, not only shared code.",
+   "idea_zh": "要共享关于动物的研究结果，需要共享仪器，而不只是共享代码。",
+   "method": "Adaptable hive design with published hardware plans and software, tested with automated tracking of an individual Apis mellifera over long observation periods.",
+   "method_zh": "可按需调整的蜂箱设计，公开硬件图纸和软件，并通过对单只西方蜜蜂（Apis mellifera）的长时间自动追踪进行测试。",
+   "keywords": [
+    "Apis mellifera",
+    "observation hive",
+    "open hardware",
+    "reproducibility",
+    "RoboRoyale",
+    "tracking",
+    "University of Graz"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Eem7w_IXXPE"
+   },
+   "images": [
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1f3f/13382704/49bdca07d63f/biolopen-15-062523-g1.jpg",
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1f3f/13382704/183f7b1953ee/biolopen-15-062523-g2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1242/bio.062523",
+    "doi": "10.1242/bio.062523",
+    "arxiv": "",
+    "venue": "Biology Open 2026",
+    "title": "An open-source high-precision hive for long-term honeybee observation and research"
+   },
+   "source_url": "https://doi.org/10.1242/bio.062523"
+  },
+  {
+   "id": "farshad-arvin--robot-queen-interaction",
+   "creator_ids": [
+    "farshad-arvin",
+    "tomas-krajnik"
+   ],
+   "title": "A robotic bee agent that keeps station in front of the queen",
+   "year": 2026,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "A small robotic system estimates the pose of a honeybee queen and steers an artificial bee so that it follows her path and stays in the sector in front of her head. Holding that position is the step needed before a robot could feed the queen, as her court bees do.",
+   "description_zh": "一套小型机器人系统估计蜂王的位置和朝向，并操控一只人造蜜蜂沿着蜂王的路径移动，始终停留在蜂王头部前方的扇形区域内。保持这个位置，是机器人像侍从蜂那样给蜂王喂食之前必须做到的一步。",
+   "idea_en": "To interact with one animal in a colony, first learn to stand where its companions stand.",
+   "idea_zh": "要和蜂群中的某一只动物互动，先学会站到它同伴所站的位置。",
+   "method": "Vision-based queen pose estimation with trajectory and orientation control of a micro-robotic agent, tested with queen-like planar motion under dynamic conditions.",
+   "method_zh": "基于视觉的蜂王位姿估计，加上对微型机器体的轨迹与朝向控制，在动态条件下用类似蜂王的平面运动进行测试。",
+   "keywords": [
+    "Apis mellifera",
+    "honeybee queen",
+    "biohybrid",
+    "microrobot",
+    "pose estimation",
+    "RoboRoyale",
+    "Durham University"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://ars.els-cdn.com/content/image/1-s2.0-S0921889026005312-gr1.jpg",
+    "https://ars.els-cdn.com/content/image/1-s2.0-S0921889026005312-gr2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.robot.2026.105859",
+    "doi": "10.1016/j.robot.2026.105859",
+    "arxiv": "",
+    "venue": "Robotics and Autonomous Systems 2026",
+    "title": "An embodied biohybrid robotic system for robot–insect interaction"
+   },
+   "source_url": "https://doi.org/10.1016/j.robot.2026.105859"
+  },
+  {
+   "id": "aalborg-zoo--pygmy-hippo-olfactory-enrichment",
+   "creator_ids": [
+    "aalborg-zoo"
+   ],
+   "title": "Scent enrichment for pygmy hippos, measured by pose tracking",
+   "year": 2026,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Three pygmy hippopotamuses at Aalborg Zoo were given new scents in their enclosure. They were less inactive and explored and sniffed more, and automatic pose tracking of the video agreed strongly with human scoring for the female and moderately for the calf.",
+   "description_zh": "奥尔堡动物园的三头倭河马在围舍中得到了新的气味。它们不活动的时间减少，探索和嗅闻增多；对视频做的自动姿态追踪，与人工评分相比，在雌性个体上高度一致，在幼崽上中等一致。",
+   "idea_en": "Enrichment and its evaluation can be designed as one system.",
+   "idea_zh": "丰容和对丰容的评估，可以作为一个系统来设计。",
+   "method": "Olfactory stimuli assessed with continuous focal sampling and heat maps; SLEAP pose estimation classified standing, locomotion, feeding and lying, compared with manual annotation.",
+   "method_zh": "用连续焦点取样和热图评估嗅觉刺激的效果；用 SLEAP 姿态估计对站立、移动、进食和躺卧进行分类，并与人工标注比较。",
+   "keywords": [
+    "Choeropsis liberiensis",
+    "olfactory enrichment",
+    "SLEAP",
+    "pose estimation",
+    "zoo welfare",
+    "Aalborg University"
+   ],
+   "images": [
+    "https://pub.mdpi-res.com/animals/animals-16-00385/article_deploy/html/images/animals-16-00385-g001.png",
+    "https://pub.mdpi-res.com/animals/animals-16-00385/article_deploy/html/images/animals-16-00385-g002.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani16030385",
+    "doi": "10.3390/ani16030385",
+    "arxiv": "",
+    "venue": "Animals 2026",
+    "title": "Olfactory Enrichment of Captive Pygmy Hippopotamuses with Applied Machine Learning"
+   },
+   "source_url": "https://doi.org/10.3390/ani16030385"
+  },
+  {
+   "id": "jie-gao--goat-shape-discrimination",
+   "creator_ids": [
+    "jie-gao"
+   ],
+   "title": "How goats tell shapes apart on a touchscreen",
+   "year": 2026,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Four domestic goats chose between pairs of simple shapes on a touchscreen with their noses. They told apart all pairs but one, and mixed up shapes that share curves or sharp corners, which suggests they attend to local features more than to outlines.",
+   "description_zh": "四只家山羊用鼻子在触摸屏上从成对的简单图形中做选择。除一对之外，它们都能分辨；它们容易混淆同样带曲线或尖角的图形，这说明它们更多依靠局部特征而不是整体轮廓。",
+   "idea_en": "A touchscreen gives a farm animal a way to show how it sees.",
+   "idea_zh": "触摸屏让农场动物有办法表现出它是怎么看东西的。",
+   "method": "Computer-controlled two-choice touchscreen task with eight geometric shapes; error patterns compared with published data from horses, dolphins and chimpanzees. Preprint, not yet peer reviewed.",
+   "method_zh": "由计算机控制的二选一触摸屏任务，使用八种几何图形；把出错模式与已发表的马、海豚和黑猩猩数据比较。预印本，尚未经同行评审。",
+   "keywords": [
+    "Capra hircus",
+    "touchscreen",
+    "visual perception",
+    "shape discrimination",
+    "comparative cognition",
+    "Kyoto City Zoo",
+    "Masayuki Tanaka"
+   ],
+   "images": [
+    "https://assets-eu.researchsquare.com/files/rs-11057537/v1/5ea356f964c7d088a2db8c29.jpg",
+    "https://assets-eu.researchsquare.com/files/rs-11057537/v1/7fc1fcc7f5b499e83a438846.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11057537/v1",
+    "doi": "10.21203/rs.3.rs-11057537/v1",
+    "arxiv": "",
+    "venue": "Research Square preprint 2026",
+    "title": "Shape discrimination in domestic goats using a touchscreen task"
+   },
+   "source_url": "https://www.researchsquare.com/article/rs-11057537/v1"
+  },
+  {
+   "id": "megan-verdon--virtual-fence-shock-energy",
+   "creator_ids": [
+    "megan-verdon",
+    "halter"
+   ],
+   "title": "How strong does a virtual fence shock need to be?",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Forty dairy cows new to virtual fencing received one of four shock energies, from 0.1 to 0.45 joules, from Halter collars during training. Shock strength made no difference to their reactions, most of which were mild; which cow it was explained 46% of the variation.",
+   "description_zh": "40 头初次接触虚拟围栏的奶牛在训练中由 Halter 项圈施加四档电击能量之一，范围为 0.1 到 0.45 焦耳。电击强度对它们的反应没有影响，多数反应很轻微；46% 的差异取决于是哪一头牛。",
+   "idea_en": "Set an aversive signal to the lowest level that works for each individual animal.",
+   "idea_zh": "把厌恶性信号调到对每一头动物刚好有效的最低水平。",
+   "method": "Five groups of eight cows; responses scored on a six-point reaction scale and analysed with linear mixed models, together with number of shocks and time to resume grazing.",
+   "method_zh": "五组、每组八头牛；用六级反应量表给反应评分，并连同受电击次数和恢复吃草所需时间一起用线性混合模型分析。",
+   "keywords": [
+    "virtual fencing",
+    "Halter",
+    "dairy cows",
+    "electric stimulus",
+    "animal welfare",
+    "individual variation"
+   ],
+   "images": [
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5593/13464026/37ff2dccbff7/fx1.jpg",
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5593/13464026/a3db00a8d0be/gr1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3168/jdsc.2026-1025",
+    "doi": "10.3168/jdsc.2026-1025",
+    "arxiv": "",
+    "venue": "JDS Communications 2026",
+    "title": "The behavioral response of dairy cows to different shock energies delivered during virtual fencing training"
+   },
+   "source_url": "https://doi.org/10.3168/jdsc.2026-1025"
+  },
+  {
+   "id": "sam-gowland--weeds-or-careful-cultivars",
+   "creator_ids": [
+    "sam-gowland",
+    "dirk-van-der-linden"
+   ],
+   "title": "Weeds or Careful Cultivars? Social Media in Urban Wildlife Research and Relations",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A review of 59 studies on social media and urban wildlife. Researchers mostly use platforms, above all Facebook groups, to recruit citizen scientists and gather sightings; attention goes to charismatic species such as cockatoos and troublesome ones such as coyotes, and there is little evidence that online engagement changes how people act.",
+   "description_zh": "一篇综述，梳理了 59 项关于社交媒体与城市野生动物的研究。研究者主要用这些平台（尤其是 Facebook 群组）招募公民科学参与者、收集目击记录；关注点集中在凤头鹦鹉这类有魅力的物种和郊狼这类惹麻烦的物种上，而线上参与能否改变人的实际行为，证据很少。",
+   "idea_en": "Social media is already an interface between city people and wild animals, and nobody designed it for that.",
+   "idea_zh": "社交媒体已经是城市居民与野生动物之间的界面，却没有人为此设计过它。",
+   "method": "Systematic literature review that screened 904 articles and analysed 59 by region, species, platform and the role social media played.",
+   "method_zh": "系统性文献综述：筛查 904 篇文章，对其中 59 篇按地区、物种、平台和社交媒体所起的作用进行分析。",
+   "keywords": [
+    "urban wildlife",
+    "social media",
+    "citizen science",
+    "systematic review",
+    "coexistence",
+    "Facebook groups"
+   ],
+   "also": [
+    "hni"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3768539.3768542",
+    "doi": "10.1145/3768539.3768542",
+    "arxiv": "",
+    "venue": "ACI 2025",
+    "title": "Weeds or Careful Cultivars? On the Growth of Social Media in Urban Wildlife Research and Relations"
+   },
+   "source_url": "https://doi.org/10.1145/3768539.3768542"
+  },
+  {
+   "id": "stella-kyratzi--trust-in-the-wild",
+   "creator_ids": [
+    "stella-kyratzi",
+    "lely"
+   ],
+   "title": "Trust in the Wild: How Advisors Mediate Human-Robot Relations on Dairy Farms",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "On Dutch dairy farms that adopt milking robots, farmers' trust in the robot is built less at the machine than through advisors. Advisors tune the system to the herd, reassure farmers when things are uncertain and relate the robot's data to what is happening in the barn.",
+   "description_zh": "在引入挤奶机器人的荷兰奶牛场，农民对机器人的信任与其说是在机器面前建立的，不如说是通过顾问建立的。顾问按牛群调校系统，在情况不明时安抚农民，并把机器人的数据与牛舍里实际发生的事联系起来。",
+   "idea_en": "A farm robot needs a human go-between who knows both the machine and the herd.",
+   "idea_zh": "农场机器人需要一位既懂机器又懂牛群的中间人。",
+   "method": "Practice-based study drawing on 15 hours of field observation and 18 archival interviews on farms using robotic milking systems.",
+   "method_zh": "基于实践的研究，材料来自对使用机器人挤奶系统的农场 15 小时的田野观察和 18 份存档访谈。",
+   "keywords": [
+    "robotic milking",
+    "dairy farming",
+    "trust",
+    "human–robot interaction",
+    "advisors",
+    "Netherlands"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3776734.3794413",
+    "doi": "10.1145/3776734.3794413",
+    "arxiv": "",
+    "venue": "HRI 2026 Companion",
+    "title": "Trust in the Wild: How Advisors Mediate Human-Robot Relations on Dairy Farms"
+   },
+   "source_url": "https://doi.org/10.1145/3776734.3794413"
+  },
+  {
+   "id": "cassandra-willyard--interspecies-communication",
+   "creator_ids": [
+    "cassandra-willyard"
+   ],
+   "title": "Interspecies communication (MIT Technology Review, The Impossible Issue)",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "A magazine article on where AI-based decoding of animal signals stands. It covers the Earth Species Project's NatureLM model and its work identifying individual carrion crows, Con Slobodchikoff's prairie dog studies, and Yossi Yovel's warning that models may group calls that sound alike but mean different things.",
+   "description_zh": "一篇杂志文章，梳理用 AI 解码动物信号的现状。文中谈到 Earth Species Project 的 NatureLM 模型及其识别小嘴乌鸦个体的工作、Con Slobodchikoff 的草原犬鼠研究，以及 Yossi Yovel 的提醒：模型可能把听起来相似但含义不同的叫声归为一类。",
+   "idea_en": "Without a shared Rosetta stone, a translation of animal signals cannot be checked.",
+   "idea_zh": "没有共同的“罗塞塔石碑”，对动物信号的翻译就无从核对。",
+   "method": "Journalism based on interviews with researchers in bioacoustics, behavioural ecology and machine learning.",
+   "method_zh": "基于对生物声学、行为生态学和机器学习研究者采访的新闻报道。",
+   "keywords": [
+    "animal communication",
+    "NatureLM",
+    "Earth Species Project",
+    "Zoolingua",
+    "Yossi Yovel",
+    "science journalism"
+   ],
+   "also": [
+    "ai"
+   ],
+   "images": [
+    "https://wp.technologyreview.com/wp-content/uploads/2026/10/Interspecies-Final.jpg?resize=1200,600"
+   ],
+   "source_url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "JoyBranch (INTERACT Animal Lab)",
+   "why": "Checked: JoyBranch is one of the two systems in the CHI 2020 paper 'Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo', already in the gallery (data/raw/aci.json). The video youtube DXUmbs-0ArA could be added to that work as extra media.",
+   "link": "https://www.youtube.com/watch?v=DXUmbs-0ArA",
+   "found_via": "rebecca-kleinberger",
+   "status": "duplicate"
+  },
+  {
+   "name": "Georgia Tech / Zoo Atlanta elephant audio enrichment wall (Apr 2026 news)",
+   "why": "Checked: Arianna Mastali's audio wall with computer-vision trunk detection is the system already covered by 'Play That Trunky Music' (ACI 2024) and 'Keeping it Trunky' (ACI 2025). The news adds results (176% more approaches, 71% more time) and photos but no new paper.",
+   "link": "https://news.gatech.edu/news/2026/04/22/zoo-atlanta-elephants-embrace-new-gt-designed-interactive-enrichment-wall",
+   "found_via": "melody-moore-jackson",
+   "status": "duplicate"
+  },
+  {
+   "name": "ACI 2026 proceedings (2–5 Dec 2026)",
+   "why": "Still not in Crossref on 2026-11-24 (prefix 10.1145/3859975 does not resolve). Sweep after the conference.",
+   "link": "https://www.aciconf.org/aci2026",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Morten Tønnessen – A Primer on Interspecies Translation and Animal Welfare (Biosemiotics 2026)",
+   "why": "DOI 10.1007/s12304-026-09668-8 resolves, but no abstract could be read (Springer login redirect), so it was not written up.",
+   "link": "https://doi.org/10.1007/s12304-026-09668-8",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Chi Zhu, Jianmin Wang, Yongkang Chen – Revisiting Animal-Computer Interaction: A Bibliometric and Systematic Review (LNCS 2026)",
+   "why": "DOI 10.1007/978-3-032-29593-4_24 resolves; abstract and conference name not accessible.",
+   "link": "https://doi.org/10.1007/978-3-032-29593-4_24",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "iStrayPaws – Embodied Empathy in VR (IJHCI 2026)",
+   "why": "VR perspective-taking as a stray animal with a one-week follow-up (48 students); human-facing, fits hni / umwelt next to Pawspective. No image found.",
+   "link": "https://doi.org/10.1080/10447318.2026.2741754",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Flappie (Zurich) AI cat flap",
+   "why": "Swiss competitor of OnlyCat with prey detection; own demo video youtube KRFdEpHnGW4. Founding facts not verified.",
+   "link": "https://flappie.ch/",
+   "found_via": "onlycat",
+   "status": "open"
+  },
+  {
+   "name": "Robot guide dog papers, autumn 2026",
+   "why": "Slope-aware admittance handle (arXiv 2609.15362) and GuideFetch two-robot guide-and-fetch (arXiv 2608.18292, ECCV 2026 workshop); technical, held back.",
+   "link": "https://arxiv.org/abs/2609.15362",
+   "found_via": "shiqi-zhang",
+   "status": "open"
+  },
+  {
+   "name": "EweAcT dataset (INRAE)",
+   "why": "79 hours of accelerometer data aligned with annotated behaviour for 120 ewes on rangeland (arXiv 2608.09943); dataset only, no visual.",
+   "link": "https://arxiv.org/abs/2608.09943",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Syncglasses G2 pet-translation glasses (CES 2026)",
+   "why": "Not researched further this round; only critical press, no verifiable product claims.",
+   "link": "https://gizmodo.com/smart-glasses-with-pet-translation-smell-like-total-bs-2000706899",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "TrailGuard AI (RESOLVE), Bird Buddy, MeowTalk",
+   "why": "Well-known wildlife and pet products still absent from the gallery; official pages did not load for automated checks this round.",
+   "link": "https://www.resolve.ngo/",
+   "found_via": "earthranger",
+   "status": "open"
+  },
+  {
+   "name": "Lucy King – later beehive-fence studies",
+   "why": "Field trials in northern Kenya (Afr. J. Ecol. 2011, 10.1111/j.1365-2028.2011.01275.x) and the multi-year evaluation (Conservation Biology 2017, 10.1111/cobi.12898); also 'African elephants run from the sound of disturbed bees' (Current Biology 2007).",
+   "link": "https://doi.org/10.1111/cobi.12898",
+   "found_via": "lucy-king",
+   "status": "open"
+  }
+ ]
+}

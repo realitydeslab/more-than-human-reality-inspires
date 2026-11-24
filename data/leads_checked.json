@@ -16,6 +16,14 @@
   "batch": "aci"
  },
  {
+  "name": "Orit Hirsch-Matsioulas",
+  "why": "University of Haifa; urban dog–leash–human entanglements, politicising ACI, dog shelters.",
+  "link": "https://doi.org/10.1145/3493842.3493889",
+  "found_via": "anna-zamansky",
+  "status": "covered",
+  "batch": "aci"
+ },
+ {
   "name": "Fredrik Aspling",
   "why": "Stockholm University; multispecies-computer interaction with dogs and plants; 'Understanding animals: a critical challenge in ACI' (NordiCHI 2018).",
   "link": "https://doi.org/10.1145/3240167.3240226",
@@ -53,6 +61,14 @@
   "link": "https://doi.org/10.1145/3768539.3768544",
   "found_via": "christopher-flynn-martin",
   "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "Nofence",
+  "why": "Norwegian GPS virtual-fence collars for goats, sheep and cattle (2011–); parallel to Halter.",
+  "link": "https://www.nofence.no/en",
+  "found_via": "halter",
+  "status": "covered",
   "batch": "aci"
  },
  {
@@ -184,6 +200,14 @@
   "batch": "bio-arch-art"
  },
  {
+  "name": "Anicka Yi",
+  "why": "Artist working with bacteria, scent and 'biologizing the machine' (e.g. Life is Cheap, Guggenheim 2017).",
+  "link": "https://www.guggenheim.org/artwork/artist/anicka-yi",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
   "name": "Ani Liu",
   "why": "Artist working on biology, reproduction and care; covered by the user-picks batch.",
   "link": "https://ani-liu.com/",
@@ -220,6 +244,14 @@
   "why": "Community biolab in Brooklyn; site of many DIY-bio art projects (e.g. Stranger Visions work).",
   "link": "https://www.genspace.org/",
   "found_via": "heather-dewey-hagborg",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Martyn Dade-Robertson",
+  "why": "Newcastle University; responsive bio-materials and 'living construction' (bacteria that respond to pressure).",
+  "link": "https://www.ncl.ac.uk/",
+  "found_via": "rachel-armstrong",
   "status": "covered",
   "batch": "bio-arch-art"
  },
@@ -1232,6 +1264,14 @@
   "batch": "mth-leads"
  },
  {
+  "name": "Gašper Beguš",
+  "why": "UC Berkeley linguist leading CETI's interpretable-GAN and vowel work; also CiwGAN/fiwGAN speech models.",
+  "link": "https://www.gasperbegus.com",
+  "found_via": "project-ceti",
+  "status": "covered",
+  "batch": "mth-leads"
+ },
+ {
   "name": "Federico Rossano (FluentPet button study)",
   "why": "Studies of dogs pressing soundboard buttons, the main empirical test of consumer 'talking pet' devices.",
   "link": "https://comparativecognitionlab.ucsd.edu",
@@ -1302,6 +1342,30 @@
   "found_via": "guy-ben-ary",
   "status": "off_topic",
   "batch": "organoid"
+ },
+ {
+  "name": "Georgia Tech / Zoo Atlanta elephant audio enrichment wall (Apr 2026 news)",
+  "why": "Checked: Arianna Mastali's audio wall with computer-vision trunk detection is the system already covered by 'Play That Trunky Music' (ACI 2024) and 'Keeping it Trunky' (ACI 2025). The news adds results (176% more approaches, 71% more time) and photos but no new paper.",
+  "link": "https://news.gatech.edu/news/2026/04/22/zoo-atlanta-elephants-embrace-new-gt-designed-interactive-enrichment-wall",
+  "found_via": "melody-moore-jackson",
+  "status": "duplicate",
+  "batch": "sweep-2026-11-24-aci"
+ },
+ {
+  "name": "Agnes Meyer-Brandis — Office for Tree Migration, S+T+ARTS Grand Prize 2026",
+  "why": "Already in the gallery (2021); the 2026 Grand Prize for Innovative Collaboration could be added to the starts-prize collection file.",
+  "link": "https://www.cityofmediaarts.at/?p=3238",
+  "found_via": "agnes-meyer-brandis",
+  "status": "duplicate",
+  "batch": "sweep-2026-11-24-art-spec"
+ },
+ {
+  "name": "Plantimate (DIS 2020 Companion)",
+  "why": "Anthropomorphic plant companion from NID Gandhinagar (10.1145/3393914.3395901); no image found.",
+  "link": "https://doi.org/10.1145/3393914.3395901",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "sweep-2026-11-24-mth-hni"
  },
  {
   "name": "ACI 2026 papers without public preprint (proceedings due Dec 2026, DOI prefix 10.1145/3859975)",

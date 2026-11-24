@@ -1,0 +1,583 @@
+{
+ "yu-fukasawa--fungal-intelligence-framework": [
+  "theorize"
+ ],
+ "feng-guo--organoid-computing-benchmark": [
+  "theorize",
+  "interface"
+ ],
+ "farshad-arvin--robot-queen-interaction": [
+  "interface"
+ ],
+ "nate-cira--physarum-traveling-network": [
+  "translate"
+ ],
+ "hanjing-shi--afterglow": [
+  "care",
+  "translate"
+ ],
+ "carol-breen--noticing-in-practice": [
+  "translate",
+  "theorize"
+ ],
+ "tomas-krajnik--open-source-observation-hive": [
+  "interface"
+ ],
+ "seth-lazar--artificial-persons": [
+  "theorize",
+  "advocate"
+ ],
+ "herve-glotin--sperm-whale-vocal-sparring-diarization": [
+  "translate"
+ ],
+ "karthik-pushpavanam--swarming-biomineralization": [
+  "grow"
+ ],
+ "xinlong-deng--bevo": [
+  "translate"
+ ],
+ "s-m-rayeed--bio-vqa": [
+  "translate"
+ ],
+ "anna-dawiec-lisniewska--microalgae-bioprinting-roadmap": [
+  "fabricate",
+  "theorize"
+ ],
+ "shoji-takeuchi--spiral-spring-crawler": [
+  "interface",
+  "fabricate"
+ ],
+ "liujing-zhuang--organoid-robot-olfaction": [
+  "interface"
+ ],
+ "michael-barros--biological-hybrid-intelligence": [
+  "theorize",
+  "interface"
+ ],
+ "gasper-begus--callcleaner": [
+  "translate"
+ ],
+ "francisco-placido--caminhante": [
+  "translate"
+ ],
+ "paulo-aguiar--rl-control-digital-twin": [
+  "interface"
+ ],
+ "weronika-kozak--clouds-may-be-past-farms": [
+  "theorize",
+  "speculate"
+ ],
+ "leonidas-bleris--dna-codec": [
+  "engineer"
+ ],
+ "karen-alim--light-trapped-slime-mold": [
+  "translate"
+ ],
+ "elio-caccavale--design-beyond-the-human": [
+  "theorize"
+ ],
+ "serena-pollastri--design-for-coastal-futures": [
+  "theorize"
+ ],
+ "larissa-pschetz--designing-temporal-ecologies-book": [
+  "theorize"
+ ],
+ "jixiang-jiang--designing-for-co-becoming": [
+  "theorize"
+ ],
+ "piumi-perera--designing-for-unobtrusiveness": [
+  "theorize"
+ ],
+ "htet-htet-june-han--ecoshift-vr": [
+  "translate"
+ ],
+ "craig-reynolds--evoflock": [
+  "speculate"
+ ],
+ "zoe-metherell--pattern-based-approaches": [
+  "theorize"
+ ],
+ "liberty-severs--physarum-paired-conditioning": [
+  "translate"
+ ],
+ "shiqi-zhang--woofs-to-words": [
+  "interface",
+  "care"
+ ],
+ "rikhil-jhaveri--functional-welfare-for-ai-safety": [
+  "theorize"
+ ],
+ "beheshteh-atrian--growing-closer": [
+  "care"
+ ],
+ "casandra-diaz-contreras-amador--guardians-of-the-mangrove": [
+  "advocate"
+ ],
+ "sasitharan-balasubramaniam--living-reservoir-mario-kart": [
+  "interface"
+ ],
+ "keqi-niu--heyflora": [
+  "translate",
+  "care"
+ ],
+ "sandra-knecht--home-is-a-foreign-place": [
+  "co-create"
+ ],
+ "jie-gao--goat-shape-discrimination": [
+  "interface"
+ ],
+ "megan-verdon--virtual-fence-shock-energy": [
+  "care"
+ ],
+ "cassandra-willyard--interspecies-communication": [
+  "translate",
+  "theorize"
+ ],
+ "yanxia-li--inviting-the-trouble": [
+  "care"
+ ],
+ "cameron-berg--language-models-act-on-hidden-valence": [
+  "theorize"
+ ],
+ "xiangyi-sun--leafecho": [
+  "translate"
+ ],
+ "marie-eve-aubin-tam--photosynthetic-living-actuator": [
+  "interface"
+ ],
+ "alex-alvarez--limbomorphs": [
+  "speculate"
+ ],
+ "hong-luo--listen-to-the-plant": [
+  "translate",
+  "care"
+ ],
+ "christopher-voigt--living-circuit-boards": [
+  "engineer",
+  "fabricate"
+ ],
+ "hiroyuki-fujita--living-sensor-display": [
+  "engineer",
+  "interface"
+ ],
+ "project-mycelium--manta": [
+  "advocate"
+ ],
+ "minh-chau-ha--match-dont-add": [
+  "theorize"
+ ],
+ "liesbeth-huybrechts--mediating-more-than-human-care": [
+  "care",
+  "theorize"
+ ],
+ "anicka-yi--message-from-the-mud": [
+  "grow",
+  "co-create"
+ ],
+ "stephen-wallace--pet-to-levodopa": [
+  "engineer"
+ ],
+ "florian-golemo--milo": [
+  "interface",
+  "care"
+ ],
+ "maria-debinska--physarum-boundary-object": [
+  "theorize"
+ ],
+ "elisa-giaccardi--more-than-human-data-practices": [
+  "theorize"
+ ],
+ "jiwei-zhou--fabulation-with-tides": [
+  "speculate",
+  "theorize"
+ ],
+ "alice-offenbach--mycelial-minds": [
+  "interface",
+  "grow"
+ ],
+ "gabriele-kaminski-schierle--neurosuite": [
+  "interface"
+ ],
+ "katt-grover--not-post-digital-but-more-than-human": [
+  "theorize"
+ ],
+ "google-deepmind--ocelot": [
+  "translate"
+ ],
+ "takashi-ikegami--openlife": [
+  "speculate"
+ ],
+ "tianming-wang--openstripe": [
+  "translate"
+ ],
+ "other-matter--leather": [
+  "grow"
+ ],
+ "keisuke-morishima--perception-driven-cyborg-insect": [
+  "interface"
+ ],
+ "lene-nielsen--planetary-persona-chatbots": [
+  "advocate",
+  "theorize"
+ ],
+ "marta-galvao-ferreira--practical-ways-of-staying-with-the-trouble": [
+  "theorize"
+ ],
+ "antonio-galiza-cerdeira-gonzalez--social-plantroid": [
+  "care"
+ ],
+ "cider-rio-portoviejo--rights-of-the-portoviejo-river": [
+  "advocate"
+ ],
+ "aalborg-zoo--pygmy-hippo-olfactory-enrichment": [
+  "care"
+ ],
+ "deepak-ganesan--scout": [
+  "translate"
+ ],
+ "jon-cuyson--sea-of-love": [
+  "co-create"
+ ],
+ "yingying-yan--searamica": [
+  "grow",
+  "fabricate"
+ ],
+ "natural-material-studio--seaweed-lighting": [
+  "grow"
+ ],
+ "arend-hintze--self-replicating-language-models": [
+  "speculate",
+  "theorize"
+ ],
+ "valentina-caiola--sensing-the-city": [
+  "translate",
+  "theorize"
+ ],
+ "peter-gloor--silent-signals": [
+  "interface"
+ ],
+ "ibon-santiago--nanofiber-dna-random-access": [
+  "engineer"
+ ],
+ "esmaeil-nadimi--stimulus-evoked-organoid-dynamics": [
+  "interface"
+ ],
+ "flora-talyigas--synpanz": [
+  "translate"
+ ],
+ "rui-nie--living-mycelium-actuators": [
+  "grow"
+ ],
+ "madras-high-court--tamirabarani-river-juristic-person": [
+  "advocate"
+ ],
+ "blaise-aguera-y-arcas--tapes-together-strong": [
+  "speculate"
+ ],
+ "superflex--there-are-other-fish-in-the-sea": [
+  "speculate",
+  "care"
+ ],
+ "sukran-karaosmanoglu--tidy-tide": [
+  "translate"
+ ],
+ "narges-pourjafarian--biomaterials-hci-review": [
+  "theorize"
+ ],
+ "xiaoluo-huang--dna-sam": [
+  "engineer"
+ ],
+ "paul-fergus--trap-tracker-rt": [
+  "translate",
+  "care"
+ ],
+ "stella-kyratzi--trust-in-the-wild": [
+  "theorize",
+  "care"
+ ],
+ "azahara-oliva--wild-datalogger": [
+  "interface"
+ ],
+ "hadas-zohar--what-counts": [
+  "theorize"
+ ],
+ "audrey-levy--xero-cool": [
+  "grow"
+ ],
+ "compassion-in-machine-learning--travel-agent-compassion": [
+  "advocate"
+ ],
+ "lucia-giron--e-pho-biocells": [
+  "interface",
+  "grow"
+ ],
+ "nikhil-baid--asal-plus-plus": [
+  "speculate"
+ ],
+ "aifunghi--mycelium-furniture": [
+  "grow"
+ ],
+ "studio-weave--intelligent-garden-pavilion": [
+  "grow"
+ ],
+ "bhavani-seetharaman--bushwhacking-through-expectations": [
+  "theorize"
+ ],
+ "hao-yan--dna-helix-bundle-nanopore": [
+  "engineer"
+ ],
+ "studio-tooj--duk": [
+  "grow"
+ ],
+ "lucius-caviola--futures-with-digital-minds": [
+  "theorize"
+ ],
+ "hao-yan--3d-dna-origami-cryptography": [
+  "engineer"
+ ],
+ "laura-pold--kulmking": [
+  "care"
+ ],
+ "olivaz-syntropia--lahn-river-avatar": [
+  "advocate",
+  "translate"
+ ],
+ "martyn-dade-robertson--living-assembly": [
+  "grow"
+ ],
+ "donato-romano--locust-robot-pathogen": [
+  "interface"
+ ],
+ "marshmallow-laser-feast--of-the-oak": [
+  "translate"
+ ],
+ "project-ceti--non-interactive-translator-evaluation": [
+  "translate",
+  "theorize"
+ ],
+ "myceen--pakk-pavilion": [
+  "grow"
+ ],
+ "google-deepmind--perch-2-whale-transfer": [
+  "translate"
+ ],
+ "sunayana-rane--animal-cognition-for-llm-evaluations": [
+  "theorize"
+ ],
+ "felipe-parodi--primateface": [
+  "translate"
+ ],
+ "i-thee--puddle-pavilion": [
+  "grow",
+  "fabricate"
+ ],
+ "hong-luo--respireal": [
+  "translate"
+ ],
+ "li-qun-gu--rewritable-dna-memory": [
+  "engineer"
+ ],
+ "earth-law-center--rights-of-stingless-bees-satipo": [
+  "advocate"
+ ],
+ "myungin-lee--sensorium-arc": [
+  "translate"
+ ],
+ "we-plus--so-colored": [
+  "grow"
+ ],
+ "saskia-calderon--sonata-vallisaari": [
+  "co-create",
+  "translate"
+ ],
+ "ge-wang--sbi-lab-from-scratch": [
+  "interface"
+ ],
+ "magical-mushroom-company--sunflower-sound-system": [
+  "grow"
+ ],
+ "iris-van-herpen--sympoiesis-living-dress": [
+  "grow"
+ ],
+ "haque-tan--t-h-ree": [
+  "advocate",
+  "translate"
+ ],
+ "graham-l-bishop--double-contingency-problem": [
+  "theorize"
+ ],
+ "brennen-hill--organoid-world-model-curriculum": [
+  "theorize",
+  "interface"
+ ],
+ "droga5--the-talking-tree": [
+  "translate",
+  "advocate"
+ ],
+ "sam-gowland--weeds-or-careful-cultivars": [
+  "theorize"
+ ],
+ "dana-damian--yeast-driven-soft-robots": [
+  "interface"
+ ],
+ "mason-youngblood--chatter": [
+  "translate"
+ ],
+ "fefostudio--ephemeral-table": [
+  "grow"
+ ],
+ "gob--mycelium-earplugs": [
+  "grow"
+ ],
+ "karoline-healy--phytomined-ring": [
+  "grow"
+ ],
+ "hinemoana-halo--he-whakaputanga-moana": [
+  "advocate"
+ ],
+ "victoria-webster-wood--hitting-the-gym": [
+  "interface"
+ ],
+ "maca-barrera--melwear": [
+  "speculate",
+  "engineer"
+ ],
+ "yong-ju-lee--mycelial-hut": [
+  "grow",
+  "fabricate"
+ ],
+ "kellie-vella--nature-networks": [
+  "theorize"
+ ],
+ "onlycat--prey-detecting-cat-flap": [
+  "care",
+  "interface"
+ ],
+ "cosmo-sheldrake--song-of-the-cedars": [
+  "advocate",
+  "co-create"
+ ],
+ "tosca-teran--symbiosis-dysbiosis": [
+  "interface",
+  "co-create"
+ ],
+ "studio-part--tenir": [
+  "grow"
+ ],
+ "sankalpa-ghose--case-for-animal-friendly-ai": [
+  "advocate"
+ ],
+ "joyce-hwang--multispecies-lounge": [
+  "care"
+ ],
+ "noctua--wildlife-observation-aircraft": [
+  "care"
+ ],
+ "tamara-henderson--worm-affair": [
+  "co-create"
+ ],
+ "octanis-instruments--anisca-bird": [
+  "interface"
+ ],
+ "loggerhead-instruments--haikubox": [
+  "translate"
+ ],
+ "matteo-marangoni--komorebi": [
+  "translate"
+ ],
+ "suzie-mcmurtry--living-with-wildfire": [
+  "grow",
+  "care"
+ ],
+ "constitutional-court-of-ecuador--estrellita": [
+  "advocate"
+ ],
+ "superflex--interspecies-assembly": [
+  "advocate"
+ ],
+ "orit-hirsch-matsioulas--leashing-the-city": [
+  "theorize"
+ ],
+ "innu-council-of-ekuanitshit--muteshekau-shipu": [
+  "advocate"
+ ],
+ "luis-undritz--phytoprinting": [
+  "grow",
+  "fabricate"
+ ],
+ "band-of-weeds--the-weep-of-trees": [
+  "translate"
+ ],
+ "bird-buddy--smart-bird-feeder": [
+  "translate"
+ ],
+ "audrey-briot--stymphalian-birds": [
+  "translate",
+  "fabricate"
+ ],
+ "superflex--dive-in": [
+  "care",
+  "speculate"
+ ],
+ "toledoans-for-safe-water--lake-erie-bill-of-rights": [
+  "advocate"
+ ],
+ "rosie-broadhead--skin-ii": [
+  "engineer",
+  "care"
+ ],
+ "flora-incognita--app": [
+  "translate"
+ ],
+ "kichwa-people-of-sarayaku--kawsak-sacha": [
+  "advocate"
+ ],
+ "kristin-dew--lessons-from-the-woodshop": [
+  "theorize",
+  "care"
+ ],
+ "earthranger--conservation-platform": [
+  "care"
+ ],
+ "pierre-huyghe--exomind-deep-water": [
+  "co-create"
+ ],
+ "nofence--virtual-fence-collars": [
+  "interface",
+  "care"
+ ],
+ "diana-reiss--dolphin-touchscreen": [
+  "interface"
+ ],
+ "tomofun--furbo-dog-camera": [
+  "care",
+  "interface"
+ ],
+ "constitutional-court-of-colombia--atrato-river-t-622": [
+  "advocate"
+ ],
+ "ngai-tuhoe--te-urewera-act": [
+  "advocate"
+ ],
+ "petcube--interactive-pet-camera": [
+  "care",
+  "interface"
+ ],
+ "lucy-king--beehive-fence": [
+  "care"
+ ],
+ "ackroyd-harvey--beuys-acorns": [
+  "care",
+  "grow"
+ ],
+ "save-the-elephants--elephant-geofencing": [
+  "care"
+ ],
+ "dave-soldier--thai-elephant-orchestra": [
+  "co-create"
+ ],
+ "joanna-macy--council-of-all-beings": [
+  "advocate",
+  "speculate"
+ ]
+}

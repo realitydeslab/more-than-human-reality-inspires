@@ -1,0 +1,1692 @@
+{
+ "batch": "sweep-2026-11-24-bio",
+ "creators": [
+  {
+   "id": "audrey-levy",
+   "name": "Audrey Levy",
+   "kind": "person",
+   "role": "Biodesigner; MA Biodesign graduate (2026), Central Saint Martins",
+   "based": "London, UK",
+   "bio": "Designer who grows bacterial cellulose materials and applies them to household appliances.",
+   "why": "Shows how a grown material can replace plastic foam insulation in an everyday appliance and question how we cool food.",
+   "links": {
+    "site": "https://ualshowcase.arts.ac.uk/@audreylevy"
+   },
+   "role_zh": "生物设计师；中央圣马丁 MA Biodesign 2026 届毕业生",
+   "bio_zh": "培养细菌纤维素材料，并把它用到家用电器上的设计师。",
+   "why_zh": "她展示了生长出来的材料可以替代家电里的塑料泡沫保温层，并让人重新思考食物冷藏这件事。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucia-giron",
+   "name": "Lucia Giron",
+   "kind": "person",
+   "role": "Biodesigner working with the Cambridge spin-out e-Pho; MA Biodesign graduate (2023), Central Saint Martins",
+   "based": "London / Cambridge, UK",
+   "bio": "Designer who has worked for over two years with Chris Howe's group at the University of Cambridge Department of Biochemistry on biophotovoltaic cells.",
+   "why": "Turns a laboratory biophotovoltaic device into a product form that people could use in place of disposable batteries.",
+   "links": {
+    "site": "https://luciabgiron.com"
+   },
+   "role_zh": "生物设计师，与剑桥衍生公司 e-Pho 合作；中央圣马丁 MA Biodesign 2023 届毕业生",
+   "bio_zh": "与剑桥大学生物化学系 Chris Howe 课题组合作两年多，研究生物光伏电池的设计师。",
+   "why_zh": "她把实验室里的生物光伏装置变成了可以替代一次性电池的产品形态。",
+   "based_zh": "伦敦 / 剑桥，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "natural-material-studio",
+   "name": "Natural Material Studio",
+   "kind": "studio",
+   "role": "Material design studio founded by Bonnie Hvillum",
+   "based": "Copenhagen, Denmark",
+   "bio": "Studio that develops biomaterials such as Procel, a protein-based biopolymer, and turns local leftovers into textiles, lighting and interiors.",
+   "why": "Makes site-specific biomaterials from a client's own waste stream, so the material tells where it came from.",
+   "links": {
+    "site": "https://naturalmaterialstudio.com/"
+   },
+   "role_zh": "材料设计工作室，由 Bonnie Hvillum 创立",
+   "bio_zh": "研发 Procel（一种蛋白质基生物聚合物）等生物材料，把本地的剩余物做成织物、灯具和室内的工作室。",
+   "why_zh": "他们用客户自己的废料流定制生物材料，让材料本身说明它的来处。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "other-matter",
+   "name": "Other Matter",
+   "kind": "studio",
+   "role": "Design and materials studio founded by Jessie French",
+   "based": "Melbourne, Australia",
+   "bio": "Studio that makes algae-based bioplastics, including a signage film used by retail clients, in small batches in Melbourne.",
+   "why": "Runs a take-back loop in which its own algae film is returned and remade into a second material.",
+   "links": {
+    "site": "https://other-matter.com/"
+   },
+   "role_zh": "设计与材料工作室，由 Jessie French 创立",
+   "bio_zh": "在墨尔本小批量制作藻基生物塑料的工作室，产品包括供零售客户使用的标识贴膜。",
+   "why_zh": "他们建立了回收闭环：自家的藻基贴膜用完收回，再做成第二种材料。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alice-offenbach",
+   "name": "Alice Offenbach",
+   "kind": "person",
+   "role": "Biodesigner; MA Biodesign, Central Saint Martins",
+   "based": "London, UK",
+   "bio": "Designer working with the bioelectric activity of fungi and physical computing; winner of The Mills Fabrica Innovation Award 2026.",
+   "why": "Makes the electrical activity of different fungal species visible as light in a domestic object.",
+   "links": {},
+   "role_zh": "生物设计师；中央圣马丁 MA Biodesign",
+   "bio_zh": "研究真菌生物电活动与物理计算的设计师；2026 年 The Mills Fabrica Innovation Award 得主。",
+   "why_zh": "她把不同真菌物种的电活动变成家居物件里看得见的光。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rui-nie",
+   "name": "Rui Nie",
+   "kind": "person",
+   "role": "Researcher, Harbin Institute of Technology; first author of the living mycelium actuator study",
+   "based": "Harbin, China",
+   "bio": "Materials researcher working on living fungal materials with colleagues at the Harbin Institute of Technology.",
+   "why": "Shows that a mycelium material can be tough and stretchy while staying alive and able to regrow.",
+   "links": {},
+   "role_zh": "哈尔滨工业大学研究人员；活体菌丝体致动器研究的第一作者",
+   "bio_zh": "在哈尔滨工业大学与同事研究活体真菌材料的材料学者。",
+   "why_zh": "这项研究表明，菌丝体材料可以既强韧可拉伸，又保持活性并能再生。",
+   "based_zh": "哈尔滨，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karthik-pushpavanam",
+   "name": "Karthik Pushpavanam",
+   "kind": "person",
+   "role": "Researcher, Indian Institute of Technology Gandhinagar; senior author of the swarming biomineralization study",
+   "based": "Gandhinagar, India",
+   "bio": "Researcher working on engineered living materials and bacterial biomineralization at IIT Gandhinagar.",
+   "why": "Uses bacterial movement, not a mould or printer, to place mineral in a living material.",
+   "links": {},
+   "role_zh": "印度理工学院甘地讷格尔分校研究人员；群游生物矿化研究的资深作者",
+   "bio_zh": "在印度理工学院甘地讷格尔分校研究工程活体材料与细菌生物矿化。",
+   "why_zh": "他用细菌的运动而不是模具或打印机，来决定矿物在活材料中的位置。",
+   "based_zh": "甘地讷格尔，印度",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-dawiec-lisniewska",
+   "name": "Anna Dawiec-Liśniewska",
+   "kind": "person",
+   "role": "Researcher, Wroclaw University of Science and Technology",
+   "based": "Wrocław, Poland",
+   "bio": "Chemical engineer working on microalgae-laden hydrogels and 3D bioprinting of engineered living materials.",
+   "why": "Documents the whole bioprinting process with microalgae, including the failed settings that papers usually leave out.",
+   "links": {},
+   "role_zh": "弗罗茨瓦夫理工大学研究人员",
+   "bio_zh": "研究载有微藻的水凝胶和工程活体材料 3D 生物打印的化学工程学者。",
+   "why_zh": "她完整记录了微藻生物打印的全过程，包括论文通常略去的失败参数。",
+   "based_zh": "弗罗茨瓦夫，波兰",
+   "connected_to": [
+    "monika-brandic-lipinska"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yingying-yan",
+   "name": "Yingying Yan",
+   "kind": "person",
+   "role": "Researcher, University College London; first author of Searamica",
+   "based": "London, UK",
+   "bio": "Designer-researcher at UCL working on seaweed-based building materials and robotic fabrication with Andreas Koerner and colleagues.",
+   "why": "Treats indoor mould as a design problem for a moisture-buffering seaweed material instead of for mechanical ventilation.",
+   "links": {},
+   "role_zh": "伦敦大学学院研究人员；Searamica 第一作者",
+   "bio_zh": "在伦敦大学学院与 Andreas Koerner 等人研究海藻基建筑材料和机器人建造的设计研究者。",
+   "why_zh": "她把室内霉菌当作一个可以用调湿海藻材料来解决的设计问题，而不是交给机械通风。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephen-wallace",
+   "name": "Stephen Wallace",
+   "kind": "person",
+   "role": "Professor of Chemical Biotechnology, University of Edinburgh",
+   "based": "Edinburgh, UK",
+   "bio": "Leads a lab that engineers microbes to make chemicals from waste, including earlier routes from plastic to vanillin and paracetamol.",
+   "why": "Reframes plastic waste as a feedstock that engineered bacteria can turn into medicines.",
+   "links": {},
+   "role_zh": "爱丁堡大学化学生物技术教授",
+   "bio_zh": "他的实验室改造微生物，用废弃物生产化学品，此前做过从塑料到香兰素和扑热息痛的路线。",
+   "why_zh": "他把塑料垃圾重新看作原料：工程细菌可以把它变成药物。",
+   "based_zh": "爱丁堡，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "narges-pourjafarian",
+   "name": "Narges Pourjafarian",
+   "kind": "person",
+   "role": "Researcher, Northeastern University",
+   "based": "Boston, US",
+   "bio": "HCI researcher working on sustainable fabrication of interactive devices with bio-based materials.",
+   "why": "Gives HCI a shared map of which biomaterials are used, how they are processed and how their lifetimes are handled.",
+   "links": {},
+   "role_zh": "美国东北大学研究人员",
+   "bio_zh": "研究用生物基材料可持续地制作交互设备的人机交互学者。",
+   "why_zh": "她为人机交互领域提供了一张共同的地图：用了哪些生物材料、如何加工、寿命如何处理。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [
+    "madalina-nicolae",
+    "eldy-lazaro-vasquez",
+    "fiona-bell"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martyn-dade-robertson",
+   "name": "Martyn Dade-Robertson",
+   "kind": "person",
+   "role": "Professor; leads the Living Construction group, Northumbria University",
+   "based": "Newcastle upon Tyne, UK",
+   "bio": "Architect and synthetic biologist who works on engineered living materials for construction, including bacteria that respond to pressure in soil; formerly co-director of the Hub for Biotechnology in the Built Environment.",
+   "why": "A central figure in 'living construction': treating microbes as builders of architectural materials.",
+   "links": {},
+   "role_zh": "教授；诺森比亚大学 Living Construction 研究组负责人",
+   "bio_zh": "建筑师兼合成生物学研究者，研究用于建造的工程活体材料，包括能感应土壤压力的细菌；曾任 Hub for Biotechnology in the Built Environment 联合主任。",
+   "why_zh": "“活体建造”方向的核心人物：把微生物当作建筑材料的建造者。",
+   "based_zh": "泰恩河畔纽卡斯尔，英国",
+   "connected_to": [
+    "richard-beckett",
+    "thora-hafdis-arnardottir",
+    "liv-tsim"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "richard-beckett",
+   "name": "Richard Beckett",
+   "kind": "person",
+   "role": "Associate Professor, The Bartlett School of Architecture, UCL; leads the Beckett Lab",
+   "based": "London, UK",
+   "bio": "Architect who researches 'probiotic design': building materials and surfaces that host beneficial microbes indoors.",
+   "why": "Argues that healthy buildings should cultivate microbes instead of removing them.",
+   "links": {},
+   "role_zh": "伦敦大学学院巴特莱特建筑学院副教授；Beckett Lab 负责人",
+   "bio_zh": "研究“益生菌设计”的建筑师：让建筑材料和表面在室内容纳有益微生物。",
+   "why_zh": "他主张健康的建筑应当培养微生物，而不是清除它们。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "martyn-dade-robertson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iris-van-herpen",
+   "name": "Iris van Herpen",
+   "kind": "person",
+   "role": "Fashion designer; founder of the haute couture house Iris van Herpen",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Couturier known for garments made with 3D printing, laser cutting and collaborations with scientists and artists.",
+   "why": "Brought a living, light-emitting organism onto the haute couture runway.",
+   "links": {
+    "site": "https://www.irisvanherpen.com/"
+   },
+   "role_zh": "时装设计师；高级定制品牌 Iris van Herpen 创始人",
+   "bio_zh": "以 3D 打印、激光切割以及与科学家和艺术家合作制衣而知名的高定设计师。",
+   "why_zh": "她把一种会发光的活生物带上了高级定制秀场。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [
+    "christopher-bellamy",
+    "spiber"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "we-plus",
+   "name": "we+",
+   "kind": "studio",
+   "role": "Contemporary design studio founded by Toshiya Hayashi and Hokuto Ando",
+   "based": "Tokyo, Japan",
+   "bio": "Studio that runs research-led projects on natural phenomena and overlooked materials, shown regularly at Milan design week.",
+   "why": "Treats microalgae as a source of colour to be explored for its own expressive range.",
+   "links": {
+    "site": "https://weplus.jp/"
+   },
+   "role_zh": "当代设计工作室，由林登志也（Toshiya Hayashi）与安藤北斗（Hokuto Ando）创立",
+   "bio_zh": "以研究为主导、关注自然现象和被忽视材料的工作室，经常在米兰设计周展出。",
+   "why_zh": "他们把微藻当作一种颜色来源，探索它自身的表现范围。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "myceen",
+   "name": "Myceen",
+   "kind": "company",
+   "role": "Mycelium materials company; co-founder and CEO Siim Karro",
+   "based": "Tallinn, Estonia",
+   "bio": "Company that grows mycelium composites from wood-industry residues for lamps, acoustic panels and building insulation.",
+   "why": "Tests mycelium insulation in a real building envelope over more than a year instead of only in the lab.",
+   "links": {
+    "site": "https://myceen.com/"
+   },
+   "role_zh": "菌丝体材料公司；联合创始人兼 CEO Siim Karro",
+   "bio_zh": "用木材工业的边角料培养菌丝体复合材料，制作灯具、吸音板和建筑保温材料的公司。",
+   "why_zh": "他们在真实的建筑围护结构中对菌丝体保温材料做了一年以上的测试，而不只是在实验室里。",
+   "based_zh": "塔林，爱沙尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "studio-weave",
+   "name": "Studio Weave",
+   "kind": "studio",
+   "role": "Architecture practice led by Je Ahn",
+   "based": "London, UK",
+   "bio": "Practice known for small public buildings and installations made with craft-based timber construction.",
+   "why": "Combined diseased ash timber and grown mycelium in a compostable garden building.",
+   "links": {
+    "site": "https://www.studioweave.com/"
+   },
+   "role_zh": "建筑事务所，由 Je Ahn 主持",
+   "bio_zh": "以手工艺木构建造的小型公共建筑和装置而知名的事务所。",
+   "why_zh": "他们把病害白蜡木和生长出来的菌丝体结合成一座可堆肥的花园建筑。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "sebastian-cox"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "magical-mushroom-company",
+   "name": "Magical Mushroom Company",
+   "kind": "company",
+   "role": "Mycelium packaging and materials manufacturer",
+   "based": "Surrey, UK",
+   "bio": "Company that grows mycelium-and-hemp packaging at industrial scale in the UK and also makes acoustic and construction products.",
+   "why": "Shows that grown mycelium parts can be produced by the tens of thousands per week.",
+   "links": {
+    "site": "https://magicalmushroom.com/"
+   },
+   "role_zh": "菌丝体包装与材料制造商",
+   "bio_zh": "在英国以工业规模培养菌丝体—大麻秆包装的公司，也生产吸音和建筑产品。",
+   "why_zh": "他们证明了生长出来的菌丝体部件可以每周生产数万件。",
+   "based_zh": "萨里郡，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aifunghi",
+   "name": "Aifunghi",
+   "kind": "company",
+   "role": "Mycelium furniture brand founded by Bart and Marije Schilder",
+   "based": "Enkhuizen, Netherlands",
+   "bio": "Dutch brand started by former Moooi product developers; its sister company Growmolding grows the mycelium-hemp material.",
+   "why": "Takes mycelium furniture from one-off pieces to tested, serially produced contract seating.",
+   "links": {
+    "site": "http://www.aifunghi.com"
+   },
+   "role_zh": "菌丝体家具品牌，由 Bart Schilder 与 Marije Schilder 创立",
+   "bio_zh": "由前 Moooi 产品开发者创办的荷兰品牌；姊妹公司 Growmolding 负责培养菌丝体—大麻纤维材料。",
+   "why_zh": "他们把菌丝体家具从单件作品推进到通过测试、可批量生产的商用座椅。",
+   "based_zh": "恩克赫伊曾，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "studio-tooj",
+   "name": "Studio TOOJ",
+   "kind": "studio",
+   "role": "Design studio founded by Ashley and Johan Wilén-Jong",
+   "based": "Stockholm, Sweden",
+   "bio": "Studio making sculptural furniture and objects in small editions.",
+   "why": "Uses a grown mycelium sheet as upholstery for collectible furniture.",
+   "links": {
+    "site": "https://www.studio-tooj.com"
+   },
+   "role_zh": "设计工作室，由 Ashley Wilén-Jong 与 Johan Wilén-Jong 创立",
+   "bio_zh": "制作小批量雕塑感家具和物件的工作室。",
+   "why_zh": "他们把生长出来的菌丝体片材用作收藏级家具的包覆面料。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "mycoworks"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "i-thee",
+   "name": "i/thee",
+   "kind": "studio",
+   "role": "Design-build studio led by Neal Lucas Hitch, Kristina Fisher and Martin Hitch",
+   "based": "Arizona, US",
+   "bio": "Studio that builds experimental pavilions from unusual materials, including bio-composites of coffee grounds and grape skins.",
+   "why": "Explores formwork-free casting with a largely bio-based resin at pavilion scale.",
+   "links": {
+    "site": "https://ithee.design/"
+   },
+   "role_zh": "设计兼建造工作室，由 Neal Lucas Hitch、Kristina Fisher 和 Martin Hitch 主持",
+   "bio_zh": "用非常规材料建造实验性展亭的工作室，用过咖啡渣和葡萄皮制成的生物复合材料。",
+   "why_zh": "他们在展亭尺度上尝试用以生物基为主的树脂做无模板浇筑。",
+   "based_zh": "亚利桑那州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yong-ju-lee",
+   "name": "Yong Ju Lee",
+   "kind": "person",
+   "role": "Architect; principal of Yong Ju Lee Architecture; works with the Robotic Fabrication Studio at Seoul National University of Science and Technology",
+   "based": "Seoul, South Korea",
+   "bio": "Architect who combines robotic fabrication with living and bio-based materials such as mycelium and moss.",
+   "why": "Scales mycelium from tiles to a walk-in building by pairing it with robotic mould-making.",
+   "links": {
+    "site": "https://www.archdaily.com/office/yong-ju-lee-architecture"
+   },
+   "role_zh": "建筑师；Yong Ju Lee Architecture 主持人；与首尔科学技术大学 Robotic Fabrication Studio 合作",
+   "bio_zh": "把机器人建造与菌丝体、苔藓等活体和生物基材料结合起来的建筑师。",
+   "why_zh": "他把机器人制模与菌丝体结合，使菌丝体从小砖片放大到可以走进去的建筑。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "studio-part",
+   "name": "Studio Part",
+   "kind": "studio",
+   "role": "Design studio founded by Julie Van Mulders and Lennart Van Uffelen",
+   "based": "Belgium",
+   "bio": "Belgian studio working between product design, craft and landscape.",
+   "why": "Designs the tool and the waiting time for a piece of furniture that a tree grows itself.",
+   "links": {
+    "site": "https://www.studiopart.be/"
+   },
+   "role_zh": "设计工作室，由 Julie Van Mulders 与 Lennart Van Uffelen 创立",
+   "bio_zh": "在产品设计、手工艺和景观之间工作的比利时工作室。",
+   "why_zh": "他们设计的是工具和等待的时间：家具由树自己长出来。",
+   "based_zh": "比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karoline-healy",
+   "name": "Karoline Healy",
+   "kind": "person",
+   "role": "Materials researcher and designer; founder of the jewellery brand H2ERǴ",
+   "based": "UK",
+   "bio": "Designer who works with metals recovered from polluted land by plants, in collaboration with the biomining start-up Phyona.",
+   "why": "Made what is reported as the first piece of jewellery containing phytomined metal.",
+   "links": {
+    "site": "https://www.karolinehealy.co.uk"
+   },
+   "role_zh": "材料研究者与设计师；珠宝品牌 H2ERǴ 创始人",
+   "bio_zh": "与生物采矿初创公司 Phyona 合作，使用植物从污染土地中回收的金属的设计师。",
+   "why_zh": "她做出了据报道第一件含有植物采矿金属的首饰。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maca-barrera",
+   "name": "Maca Barrera",
+   "kind": "person",
+   "role": "Biodesigner; MA Biodesign graduate (2024), Central Saint Martins",
+   "based": "London, UK",
+   "bio": "Designer who grows melanin-producing bacteria and explores bioprinted materials for the body.",
+   "why": "Proposes the body's own pigment, made by microbes, as a wearable sun filter.",
+   "links": {
+    "site": "https://ualshowcase.arts.ac.uk/project/477855/cover"
+   },
+   "role_zh": "生物设计师；中央圣马丁 MA Biodesign 2024 届毕业生",
+   "bio_zh": "培养产黑色素细菌、探索面向身体的生物打印材料的设计师。",
+   "why_zh": "她提出把人体自己的色素交给微生物生产，做成可穿戴的防晒层。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gob",
+   "name": "Gob",
+   "kind": "company",
+   "role": "Product company founded by Lauryn Menard",
+   "based": "San Francisco, US",
+   "bio": "Start-up making single-use wellness products from mycelium, beginning with earplugs.",
+   "why": "Picks a disposable product where being compostable matters more than being durable.",
+   "links": {
+    "site": "https://www.gob.earth/"
+   },
+   "role_zh": "产品公司，由 Lauryn Menard 创立",
+   "bio_zh": "用菌丝体制作一次性健康用品的初创公司，第一件产品是耳塞。",
+   "why_zh": "他们选了一种一次性产品——在这里可堆肥比耐用更重要。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "ecovative"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fefostudio",
+   "name": "Fefostudio",
+   "kind": "studio",
+   "role": "Design studio founded by Fernando 'Fefo' Aciar",
+   "based": "New York, US",
+   "bio": "Design studio in New York; made the Ephemeral Table with architect Kamilla Csegzi.",
+   "why": "Scripts the full life of a piece of furniture, including its decomposition, as a series of shared meals.",
+   "links": {
+    "site": "https://www.fefostudio.com/"
+   },
+   "role_zh": "设计工作室，由 Fernando “Fefo” Aciar 创立",
+   "bio_zh": "纽约的设计工作室；与建筑师 Kamilla Csegzi 合作完成 Ephemeral Table。",
+   "why_zh": "他们把一件家具的完整生命——包括分解——编排成一系列共同用餐的场合。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rosie-broadhead",
+   "name": "Rosie Broadhead",
+   "kind": "person",
+   "role": "Designer and researcher in probiotic textiles; Central Saint Martins graduate",
+   "based": "UK",
+   "bio": "Designer who studies how clothing interacts with the skin microbiome, working with microbiologist Chris Callewaert.",
+   "why": "An early example of clothing designed to care for the skin's microbes.",
+   "links": {},
+   "role_zh": "益生菌纺织品设计师与研究者；中央圣马丁毕业生",
+   "bio_zh": "研究服装如何与皮肤微生物组相互作用的设计师，与微生物学家 Chris Callewaert 合作。",
+   "why_zh": "她的作品是较早为照顾皮肤微生物而设计的服装。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "suzie-mcmurtry",
+   "name": "Suzie McMurtry",
+   "kind": "person",
+   "role": "Designer; MA Material Futures graduate, Central Saint Martins",
+   "based": "UK",
+   "bio": "American designer based in the UK who works with fungi, fire and land care.",
+   "why": "Designs for the moment after a disaster, using the fire itself as the trigger.",
+   "links": {
+    "site": "https://suzmcm.com/"
+   },
+   "role_zh": "设计师；中央圣马丁 MA Material Futures 毕业生",
+   "bio_zh": "常驻英国的美国设计师，作品涉及真菌、火与土地照护。",
+   "why_zh": "她为灾后的那一刻做设计，并让火本身成为触发器。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "luis-undritz",
+   "name": "Luis Undritz",
+   "kind": "person",
+   "role": "Industrial designer; MA Biodesign graduate (2021), Central Saint Martins",
+   "based": "London, UK",
+   "bio": "German designer who builds tools for growing images and patterns with photosynthetic microorganisms.",
+   "why": "Reimagines printing as guided growth: light decides where algae live.",
+   "links": {},
+   "role_zh": "工业设计师；中央圣马丁 MA Biodesign 2021 届毕业生",
+   "bio_zh": "为用光合微生物“种”出图像和图案而制作工具的德国设计师。",
+   "why_zh": "他把打印重新想象成被引导的生长：光决定藻类长在哪里。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "audrey-levy--xero-cool",
+   "creator_ids": [
+    "audrey-levy"
+   ],
+   "title": "Xero Cool (How to Grow a Refrigerator)",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A soft, fuzzy refrigerator whose insulation is a bacterial cellulose xerogel combined with felted wool instead of plastic foam; the concept pairs it with solar-thermal absorption cooling that needs no electricity.",
+   "description_zh": "一台柔软、毛茸茸的冰箱：保温层不用塑料泡沫，而是细菌纤维素干凝胶加毛毡；制冷设想采用不用电的太阳能吸收式循环。",
+   "idea_en": "Grow the insulation of an appliance instead of foaming it from plastic.",
+   "idea_zh": "家电的保温层可以培养出来，而不是用塑料发泡。",
+   "method": "Bacterial cellulose is grown and dried into a rigid, low-density xerogel at the CSM Grow Lab; water-filled macrofluidic panels line the interior, and an activated-carbon and ethanol absorption cycle driven by a solar collector is proposed for cooling.",
+   "method_zh": "在中央圣马丁 Grow Lab 培养细菌纤维素并干燥成坚硬、低密度的干凝胶；内壁是循环冷水的大流道面板，制冷设想由太阳能集热器驱动活性炭—乙醇吸收循环。",
+   "keywords": [
+    "bacterial cellulose",
+    "xerogel",
+    "refrigeration",
+    "insulation",
+    "Central Saint Martins",
+    "MA Biodesign"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/07/xero-cool-refrigerator-audrey-levy-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/07/xero-cool-refrigerator-audrey-levy-design_dezeen_2364_col_9-852x1278.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/07/xero-cool-refrigerator-audrey-levy-design_dezeen_2364_col_7-852x568.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2026/07/23/audrey-levy-xero-cool-fridge/"
+  },
+  {
+   "id": "lucia-giron--e-pho-biocells",
+   "creator_ids": [
+    "lucia-giron"
+   ],
+   "title": "e-Pho algae biocells",
+   "year": 2026,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae",
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Flat panels filled with living cyanobacteria that produce a small continuous electric current through photosynthesis; prototypes power a temperature sensor and a clock radio, and a University of Cambridge spin-out, e-Pho, is commercialising them.",
+   "description_zh": "装有活蓝细菌的扁平面板，靠光合作用持续产生微小电流；原型已能驱动温度传感器和收音机闹钟，剑桥大学衍生公司 e-Pho 正在将其商业化。",
+   "idea_en": "A living, photosynthesising panel can stand in for a disposable battery in low-power devices.",
+   "idea_zh": "一块会光合作用的活面板，可以替代低功耗设备里的一次性电池。",
+   "method": "A biophotovoltaic cell: cyanobacteria grow on a filamentous electrode behind a semi-permeable membrane that lets gases through but stops evaporation; the front plate comes off so parts can be reused. The Cambridge lab reports cells running for six years.",
+   "method_zh": "这是一种生物光伏电池：蓝细菌附着在丝状电极上，半透膜允许气体交换又防止蒸发；前面板可拆，便于零件重复利用。剑桥实验室称此类电池已持续运行六年。",
+   "keywords": [
+    "biophotovoltaics",
+    "cyanobacteria",
+    "Chris Howe",
+    "University of Cambridge",
+    "e-Pho",
+    "battery"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/07/algae-biocell-lucia-giron-university-cambridge-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/07/algae-biocell-lucia-giron-university-cambridge-design_dezeen_2364_col_13-411x272.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/07/algae-biocell-lucia-giron-university-cambridge-design_dezeen_2364_col_11-411x269.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2026/07/22/photosynthesis-powered-algae-biocells-e-pho/"
+  },
+  {
+   "id": "natural-material-studio--seaweed-lighting",
+   "creator_ids": [
+    "natural-material-studio"
+   ],
+   "title": "Seaweed lighting for Sticks'n'Sushi Lyngby",
+   "year": 2026,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "product",
+   "description": "Pendant lights and noren room dividers for a sushi restaurant, made from a biotextile that contains the restaurant's own leftover kelp from miso soup and spirulina from the kitchen.",
+   "description_zh": "为一家寿司餐厅制作的吊灯和暖帘隔断，所用生物织物里掺入了餐厅自己做味噌汤剩下的海带和厨房里的螺旋藻。",
+   "idea_en": "A restaurant's food leftovers can become the material of its own interior.",
+   "idea_zh": "餐厅的厨余可以变成它自己室内的材料。",
+   "method": "Leftover Danish kelp is dehydrated and broken into fibres and spirulina into fine particles, then both are cast into semi-translucent slabs of the protein-based biopolymer Procel, which hang in layers from a frame with an LED source.",
+   "method_zh": "剩余的丹麦海带脱水后打成纤维，螺旋藻磨成细粉，一起浇铸进半透明的蛋白质基生物聚合物 Procel 板材，再分层挂在带 LED 光源的框架上。",
+   "keywords": [
+    "kelp",
+    "spirulina",
+    "Procel",
+    "Bonnie Hvillum",
+    "food waste",
+    "lighting",
+    "interior"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/05/natural-material-studio-sticks-n-sushi-restaurant-copenhagen-seaweed-algae-lighting-hero-852x568.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/05/natural-material-studio-sticks-n-sushi-restaurant-copenhagen-seaweed-algae-lighting_dezeen_2364_col_1-852x568.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/05/natural-material-studio-sticks-n-sushi-restaurant-copenhagen-seaweed-algae-lighting_dezeen_2364_col_9-852x568.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2026/05/18/natural-material-studio-lighting-leftover-seaweed-sticks-n-sushi-restaurant/"
+  },
+  {
+   "id": "other-matter--leather",
+   "creator_ids": [
+    "other-matter"
+   ],
+   "title": "Other Matter Leather",
+   "year": 2026,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "product",
+   "description": "A leather-like sheet made by recycling the studio's algae-based signage film after it comes back from temporary shop displays; first used on seating by Made by Morgen.",
+   "description_zh": "一种类皮革片材，原料是工作室自己的藻基标识贴膜——它们在店铺临时陈列用完后被回收再造；首次用于 Made by Morgen 的座椅。",
+   "idea_en": "Design the second life of a bioplastic before its first use ends.",
+   "idea_zh": "在生物塑料的第一次使用结束之前，就设计好它的第二次生命。",
+   "method": "Returned algae bioplastic film is re-boiled in water to break it down, charcoal is added for a dark colour and grainy feel, and the mix is poured into trays and cured; small bubbles give a natural grain.",
+   "method_zh": "回收的藻基生物塑料膜重新加水煮化，加入木炭获得深色和颗粒感，再倒入托盘固化；固化时的小气泡形成天然纹理。",
+   "keywords": [
+    "algae bioplastic",
+    "OM Signage Film",
+    "Jessie French",
+    "recycling",
+    "leather alternative",
+    "Melbourne Design Week"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/06/other-matter-leather-jessie-french-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/06/other-matter-leather-jessie-french-design_dezeen_2364_col_8-411x617.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/06/other-matter-leather-jessie-french-design_dezeen_2364_col_3-411x548.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2026/06/10/other-matter-leather-material-design/"
+  },
+  {
+   "id": "alice-offenbach--mycelial-minds",
+   "creator_ids": [
+    "alice-offenbach"
+   ],
+   "title": "Mycelial Minds",
+   "year": 2026,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A lighting installation that reads the electrical activity of living mycelium and turns it into changing light patterns and colours; a web app lets the user switch between fungal species.",
+   "description_zh": "一件灯光装置：读取活菌丝体的电活动，转化为不断变化的光纹与颜色；用户可以用网页应用在不同真菌物种之间切换。",
+   "idea_en": "Let a fungus, not a timer or an app, decide how a lamp behaves.",
+   "idea_zh": "让真菌而不是定时器或程序来决定一盏灯的表现。",
+   "method": "Electrodes and physical computing capture bioelectric signals from several fungal species and map each to its own light pattern and colour, controlled over a wireless web app.",
+   "method_zh": "用电极和物理计算采集多种真菌的生物电信号，把每一种映射为各自的光纹和颜色，并通过无线网页应用控制。",
+   "keywords": [
+    "mycelium",
+    "bioelectric signals",
+    "lighting",
+    "physical computing",
+    "The Mills Fabrica Innovation Award",
+    "Central Saint Martins"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://ual-media-res.cloudinary.com/image/fetch/https://www.arts.ac.uk/__data/assets/image/0019/602128/Mills-Fabrica-lead-image.jpeg",
+    "https://ual-media-res.cloudinary.com/image/fetch/c_fill,f_auto,fl_lossy,g_auto,q_auto/https://www.arts.ac.uk/__data/assets/image/0012/602130/Mills-fabrica-1.png",
+    "https://ual-media-res.cloudinary.com/image/fetch/c_fill,f_auto,fl_lossy,g_auto,q_auto/https://www.arts.ac.uk/__data/assets/image/0016/602134/Mills-Fabrica-2.png"
+   ],
+   "source_url": "https://www.arts.ac.uk/colleges/central-saint-martins/stories/the-mills-fabrica-innovation-award-2026"
+  },
+  {
+   "id": "rui-nie--living-mycelium-actuators",
+   "creator_ids": [
+    "rui-nie"
+   ],
+   "title": "Tailored living mycelium macerate for reproducible flexible actuators",
+   "year": 2026,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Flexible sheets of living mycelium that bend with humidity, stretch by 11–349% and can go dormant and regrow over a year; the regrown material inherits its two-faced structure and can turn humidity changes into electrical signals.",
+   "description_zh": "柔性的活菌丝体薄片：随湿度弯曲，伸长率可在 11–349% 之间调节，能休眠并在一年内再生；再生出的材料继承双面结构，还能把湿度变化转成电信号。",
+   "idea_en": "A living material can be mechanically robust and still renew itself.",
+   "idea_zh": "活材料可以既有足够的机械强度，又能自我更新。",
+   "method": "A fungal maceration step tailors the mycelium network into Janus sheets whose two faces take up water differently, so they bend with humidity; the fungus stays viable through dormancy–regeneration cycles.",
+   "method_zh": "通过真菌浸解处理把菌丝网络加工成两面吸湿性不同的 Janus 薄片，因而随湿度弯曲；真菌在休眠—再生循环中保持活性。",
+   "keywords": [
+    "living mycelium",
+    "humidity actuator",
+    "Janus structure",
+    "self-renewal",
+    "engineered living materials",
+    "Harbin Institute of Technology"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76623-z/MediaObjects/41467_2026_76623_Fig1_HTML.png",
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76623-z/MediaObjects/41467_2026_76623_Fig5_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-026-76623-z",
+    "doi": "10.1038/s41467-026-76623-z",
+    "arxiv": "",
+    "venue": "Nature Communications 2026",
+    "title": "Tailored living mycelium macerate for reproducible flexible actuators"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-026-76623-z"
+  },
+  {
+   "id": "karthik-pushpavanam--swarming-biomineralization",
+   "creator_ids": [
+    "karthik-pushpavanam"
+   ],
+   "title": "Bacterial Swarming-Guided Biomineralization Enables Pattern Formation in Engineered Living Materials",
+   "year": 2026,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Swarming E. coli colonies deposit calcium phosphate in regularly spaced concentric rings as they spread across a plate, so the bacteria's own movement draws a mineral pattern.",
+   "description_zh": "群游的大肠杆菌菌落在平板上扩张时，把磷酸钙沉积成间距规则的同心环——细菌自己的运动画出了矿物图案。",
+   "idea_en": "Microbial motility can be a patterning tool for mineral materials.",
+   "idea_zh": "微生物的运动本身可以成为矿物材料的图案工具。",
+   "method": "E. coli MG1655 swarms raise the local pH, which precipitates hydroxyapatite; the swarm front repeatedly stops and restarts, leaving rings, and calcium and phosphate levels tune both swarming and the pattern (supported by a continuum model).",
+   "method_zh": "大肠杆菌 MG1655 群游时使局部 pH 升高，析出羟基磷灰石；群游前沿反复停顿又重启，留下环纹，钙和磷酸盐浓度同时调节群游与图案（并有连续介质模型支持）。",
+   "keywords": [
+    "Escherichia coli",
+    "swarming motility",
+    "hydroxyapatite",
+    "pattern formation",
+    "engineered living materials",
+    "IIT Gandhinagar"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1021/acsmaterialslett.6c00557",
+    "doi": "10.1021/acsmaterialslett.6c00557",
+    "arxiv": "",
+    "venue": "ACS Materials Letters 2026",
+    "title": "Bacterial Swarming-Guided Biomineralization Enables Pattern Formation in Engineered Living Materials"
+   }
+  },
+  {
+   "id": "anna-dawiec-lisniewska--microalgae-bioprinting-roadmap",
+   "creator_ids": [
+    "anna-dawiec-lisniewska",
+    "monika-brandic-lipinska"
+   ],
+   "title": "Biodesign of microalgae-laden engineered living materials via 3D bioprinting: a roadmap",
+   "year": 2026,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "A step-by-step pictorial for designers who want to 3D print hydrogels containing living microalgae, from preparing the culture to checking that the printed cells still photosynthesise.",
+   "description_zh": "一份面向设计师的分步图解：如何 3D 打印含活微藻的水凝胶，从准备藻种到确认打印后的细胞仍在光合作用。",
+   "idea_en": "Printing with living cells means designing conditions for life, not only a shape.",
+   "idea_zh": "用活细胞打印，设计的不只是形状，更是生命得以维持的条件。",
+   "method": "Alginate–Pluronic F-127 hydrogels loaded with microalgae are extruded while composition, pressure and speed are varied systematically; viability and photosynthetic activity are measured after printing.",
+   "method_zh": "把载有微藻的海藻酸盐–Pluronic F-127 水凝胶挤出打印，系统地改变配方、压力和速度，并在打印后测量细胞活性与光合作用。",
+   "keywords": [
+    "microalgae",
+    "extrusion bioprinting",
+    "alginate",
+    "Pluronic F-127",
+    "engineered living materials",
+    "pictorial",
+    "Wroclaw University of Science and Technology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100869",
+    "doi": "10.1017/s2977905726100869",
+    "arxiv": "",
+    "venue": "Research Directions: Biotechnology Design 2026",
+    "title": "Biodesign of microalgae-laden engineered living materials via 3D bioprinting: a roadmap"
+   }
+  },
+  {
+   "id": "yingying-yan--searamica",
+   "creator_ids": [
+    "yingying-yan"
+   ],
+   "title": "Searamica: a seaweed-based antifungal wall retrofit",
+   "year": 2026,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "algae",
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A retrofit wall system for mould-prone UK homes that places a hygroscopic, antifungal seaweed-based material where simulation predicts the highest mould risk; the material buffers 2.14 g of moisture per square metre per %RH.",
+   "description_zh": "为易发霉的英国住宅设计的墙面改造系统：在模拟预测霉菌风险最高的位置布置吸湿、抗真菌的海藻基材料；该材料的调湿值为每平方米每 %RH 2.14 克。",
+   "idea_en": "Place a moisture-buffering biomaterial exactly where mould would grow.",
+   "idea_zh": "把能调湿的生物材料正好放在霉菌会长出来的地方。",
+   "method": "CFD and a modified VTT mould-growth model map mould risk in a room; these fields drive the shape and distribution of the seaweed material in a functionally graded wall that is fabricated robotically.",
+   "method_zh": "用 CFD 和改进的 VTT 霉菌生长模型绘出房间内的霉菌风险分布，再据此生成海藻材料在功能梯度墙体中的形态与分布，并以机器人建造。",
+   "keywords": [
+    "seaweed",
+    "mould",
+    "hygroscopic",
+    "retrofit",
+    "robotic fabrication",
+    "CFD",
+    "UCL",
+    "Andreas Koerner"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s2977905726100419",
+    "doi": "10.1017/s2977905726100419",
+    "arxiv": "",
+    "venue": "Biotechnology Design 2026",
+    "title": "Searamica: a bio-integrated framework for passive mould mitigation through a hygroscopic and antifungal seaweed-based material"
+   }
+  },
+  {
+   "id": "stephen-wallace--pet-to-levodopa",
+   "creator_ids": [
+    "stephen-wallace"
+   ],
+   "title": "Microbial upcycling of plastic waste to levodopa",
+   "year": 2026,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria",
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "Engineered E. coli turn terephthalic acid from waste PET bottles into L-DOPA, the main Parkinson's drug, at 5 g per litre; the product was isolated from a single post-consumer bottle, and algae captured the CO2 released.",
+   "description_zh": "工程大肠杆菌把废 PET 瓶分解得到的对苯二甲酸转化为帕金森病主要药物左旋多巴，产量达每升 5 克；研究者从一只用过的塑料瓶中分离出了产物，并用藻类吸收释放的二氧化碳。",
+   "idea_en": "Waste plastic is a carbon source that microbes can upgrade into medicine.",
+   "idea_zh": "废塑料是一种碳源，微生物可以把它升级为药物。",
+   "method": "PET is depolymerised to terephthalic acid; the pathway is split across two E. coli strains with an added transporter to avoid inhibition by the intermediate protocatechuate, and Chlamydomonas reinhardtii takes up the CO2 from the catechol step.",
+   "method_zh": "先把 PET 解聚成对苯二甲酸；代谢途径分配到两株大肠杆菌中并加入转运蛋白，以避开中间体原儿茶酸的抑制；莱茵衣藻吸收邻苯二酚步骤释放的二氧化碳。",
+   "keywords": [
+    "PET",
+    "L-DOPA",
+    "Escherichia coli",
+    "bio-upcycling",
+    "Chlamydomonas reinhardtii",
+    "University of Edinburgh",
+    "engineering biology"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41893-026-01785-z/MediaObjects/41893_2026_1785_Fig1_HTML.png",
+    "https://static-2026.dezeen.com/uploads/2026/03/stephen-wallace-university-edinburgh-plastic-bioupcycling-technology_dezeen_2364_hero2-852x479.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41893-026-01785-z",
+    "doi": "10.1038/s41893-026-01785-z",
+    "arxiv": "",
+    "venue": "Nature Sustainability 2026",
+    "title": "Microbial upcycling of plastic waste to levodopa"
+   },
+   "source_url": "https://www.dezeen.com/2026/03/16/plastic-bottles-recycled-into-parkinsons-drug-using-bacteria/"
+  },
+  {
+   "id": "narges-pourjafarian--biomaterials-hci-review",
+   "creator_ids": [
+    "narges-pourjafarian",
+    "madalina-nicolae",
+    "eldy-lazaro-vasquez",
+    "fiona-bell"
+   ],
+   "title": "Towards Sustainable Interactive Devices: A Literature Review of Biomaterials in HCI Fabrication",
+   "year": 2026,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi",
+    "bacteria",
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "A review of how HCI researchers fabricate interactive devices from biomaterials, linking the material palette, the fabrication techniques, the interactive functions (sensing, actuation, planned degradation) and the application contexts.",
+   "description_zh": "一篇综述：人机交互研究者如何用生物材料制作交互设备，把材料种类、制作工艺、交互功能（传感、致动、有计划的降解）和应用情境联系起来。",
+   "idea_en": "Material, technique, function and end of life should be designed and reported together.",
+   "idea_zh": "材料、工艺、功能和寿命终点应当一起设计、一起报告。",
+   "method": "A literature synthesis organised through four linked lenses, used to identify recurring trade-offs and to propose more comparable sustainability claims for biofabrication research.",
+   "method_zh": "用四个相互关联的视角组织文献综合，从中找出反复出现的取舍，并为生物制造研究提出更可比较的可持续性表述方式。",
+   "keywords": [
+    "biomaterials",
+    "HCI fabrication",
+    "literature review",
+    "unmaking",
+    "sustainability",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3861339",
+    "doi": "10.1145/3861339",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2026",
+    "title": "Towards Sustainable Interactive Devices: A Literature Review of Biomaterials in HCI Fabrication"
+   }
+  },
+  {
+   "id": "martyn-dade-robertson--living-assembly",
+   "creator_ids": [
+    "martyn-dade-robertson",
+    "richard-beckett",
+    "thora-hafdis-arnardottir",
+    "liv-tsim"
+   ],
+   "title": "Living Assembly: Building with Biology",
+   "year": 2025,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "A pavilion at London Design Biennale 2025 showing building materials grown by microbes and fungi: bulk mycelium, self-pigmenting microbial leather, bacterial cement, shaped bacterial cellulose, a humidity-moving latex coated with spores and ceramics that host beneficial bacteria.",
+   "description_zh": "2025 年伦敦设计双年展上的一座展馆，展示由微生物和真菌生长出的建筑材料：大体量菌丝体、能自己着色的微生物皮革、细菌水泥、成形的细菌纤维素、涂有孢子并随湿度变形的乳胶，以及容纳有益细菌的陶瓷。",
+   "idea_en": "A building could be grown from many microbial crafts instead of assembled from inert parts.",
+   "idea_zh": "建筑可以由多种微生物工艺生长而成，而不是用无生命的部件拼装。",
+   "method": "Northumbria University's Living Construction group and UCL's Beckett Lab grew the materials with fungi and with natural and engineered bacteria, shaping them with parametric design and tailoring density to form and scale.",
+   "method_zh": "诺森比亚大学 Living Construction 研究组与伦敦大学学院 Beckett Lab 用真菌以及天然和工程细菌培养这些材料，以参数化设计塑形，并按形态与尺度调整密度。",
+   "keywords": [
+    "London Design Biennale 2025",
+    "Somerset House",
+    "Living Construction",
+    "Beckett Lab",
+    "mycelium",
+    "bacterial cellulose",
+    "biocement",
+    "probiotic ceramics"
+   ],
+   "images": [
+    "https://a.storyblok.com/f/186937/3600x2400/2d3ad76dca/ldb25_northumbria_university_-_ucl_tw-3.jpg",
+    "https://a.storyblok.com/f/186937/3600x2261/ad407ca700/ldb25_northumbria_university_-_ucl_tw-6.jpg",
+    "https://a.storyblok.com/f/186937/2700x3600/d2c122a42f/ldb25_northumbria_university_-_ucl_tw-5.jpg"
+   ],
+   "source_url": "https://londondesignbiennale.com/pavilions/2025/northumbria-university-ucl"
+  },
+  {
+   "id": "iris-van-herpen--sympoiesis-living-dress",
+   "creator_ids": [
+    "iris-van-herpen",
+    "christopher-bellamy"
+   ],
+   "title": "Sympoiesis bioluminescent algae dress",
+   "year": 2025,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A couture dress containing about 125 million living Pyrocystis lunula algae that glow blue when the wearer moves; it opened the Sympoiesis Autumn/Winter 2025–26 haute couture show in Paris.",
+   "description_zh": "一件高定礼服，里面活着约 1.25 亿个新月梨甲藻（Pyrocystis lunula），穿着者一动就发出蓝光；它是巴黎 Sympoiesis 2025–26 秋冬高定秀的开场造型。",
+   "idea_en": "A garment can be cultivated and kept alive, not only constructed.",
+   "idea_zh": "一件衣服可以被培养并保持活着，而不只是被缝制出来。",
+   "method": "Biodesigner Chris Bellamy grew the algae for months in seawater baths with a nutrient gel, then sealed them in a protective membrane moulded into the dress; movement triggers their bioluminescence.",
+   "method_zh": "生物设计师 Chris Bellamy 在加有营养凝胶的海水槽中培养这些藻类数月，再把它们封进模制成礼服的保护膜里；运动触发它们的生物发光。",
+   "keywords": [
+    "Pyrocystis lunula",
+    "bioluminescence",
+    "haute couture",
+    "Chris Bellamy",
+    "Paris Fashion Week",
+    "living garment"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/07/iris-van-herpen-Sympoiesis_dezeen_2364_col_15-852x1065.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/07/iris-van-herpen-Sympoiesis_dezeen_2364_col_1-852x1065.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/07/iris-van-herpen-Sympoiesis_dezeen_2364_col_8-852x1065.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/07/10/glowing-algae-dress-iris-van-herpen/"
+  },
+  {
+   "id": "we-plus--so-colored",
+   "creator_ids": [
+    "we-plus"
+   ],
+   "title": "So-Colored",
+   "year": 2025,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "Stools, chairs, shelves and a bench clad in glossy tiles coloured only with microalgae pigments in reds, yellows, blues and greens, shown at Galleria Rubin during Milan design week 2025.",
+   "description_zh": "凳子、椅子、搁架和长凳表面贴满高光砖片，颜色全部来自微藻色素——红、黄、蓝和多种绿，2025 年米兰设计周期间在 Galleria Rubin 展出。",
+   "idea_en": "Microalgae offer a wide colour palette that depends on species and growing conditions.",
+   "idea_zh": "微藻能提供很宽的色谱，颜色取决于藻种和培养条件。",
+   "method": "Algae grown by the company Algal Bio are powdered, mixed with natural resin and poured as a glaze onto timber backings to form tiles.",
+   "method_zh": "Algal Bio 公司培养的藻类被制成粉末，与天然树脂混合，像釉一样浇在木质底板上形成砖片。",
+   "keywords": [
+    "microalgae pigments",
+    "Algal Bio",
+    "Milan design week 2025",
+    "Galleria Rubin",
+    "colour",
+    "furniture"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/05/c-so-colored-we-milan-design-week_dezeen_2364_col_6_dezeen_2364_col_4_dezeen_2364_col_0.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/05/b-so-colored-we-milan-design-week_dezeen_2364_col_6_dezeen_2364_col_0-852x567.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/05/so-colored-we-milan-design-week_dezeen_2364_col_5-852x567.jpg"
+   ],
+   "source_url": "https://weplus.jp/work/so-colored/"
+  },
+  {
+   "id": "myceen--pakk-pavilion",
+   "creator_ids": [
+    "myceen"
+   ],
+   "title": "PAKK Pavilion",
+   "year": 2025,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A small timber pavilion in Tallinn insulated with mycelium panels and built with the timber research centre EKA PAKK; sensors monitor the panels until the end of 2026, and early results show no condensation or mould risk.",
+   "description_zh": "塔林的一座小型木结构展亭，用菌丝体板保温，与木结构研究中心 EKA PAKK 合作建造；传感器将监测这些板材到 2026 年底，初步结果显示没有结露和发霉风险。",
+   "idea_en": "Prove a grown insulation material by living with it in a real wall.",
+   "idea_zh": "把生长出来的保温材料放进真实的墙里长期使用，以此验证它。",
+   "method": "Mycelium grows through sawdust and wood pulp and is then dried to stop growth; the panels fill EKA PAKK's open-source Pattern Building modules made of ash-dieback timber.",
+   "method_zh": "菌丝体在锯末和木浆中生长，随后烘干终止生长；板材填入 EKA PAKK 的开源 Pattern Building 模块，模块用白蜡树枯梢病木材制成。",
+   "keywords": [
+    "mycelium insulation",
+    "EKA PAKK",
+    "Estonian Academy of Arts",
+    "Pattern Building",
+    "timber",
+    "field test"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/09/pakk-pavilion-myceen-tallinn-architecture-mycelium-pavilion_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/09/pakk-pavilion-myceen-tallinn-architecture-mycelium-pavilion_dezeen_2364_col_14-852x1277.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/09/pakk-pavilion-myceen-tallinn-architecture-mycelium-pavilion_dezeen_2364_col_5-852x639.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/09/21/myceen-eka-pakk-pavilion-mycelium/"
+  },
+  {
+   "id": "studio-weave--intelligent-garden-pavilion",
+   "creator_ids": [
+    "studio-weave",
+    "sebastian-cox"
+   ],
+   "title": "Avanade Intelligent Garden pavilion",
+   "year": 2025,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A compostable pavilion for Tom Massey's garden at the Chelsea Flower Show 2025 with fluted screens of woven ash and mycelium and a dark, damp 'mycelium parlour' for fruiting mushrooms; it won a Gold Medal and Best Construction.",
+   "description_zh": "为 Tom Massey 在 2025 年切尔西花展的花园所建的可堆肥展亭：带凹槽的屏板由白蜡木编织和菌丝体构成，还有一间阴暗潮湿、用来出菇的“菌丝体小室”；获金奖和最佳建造奖。",
+   "idea_en": "Timber lost to tree disease and farm waste can be grown together into a building skin.",
+   "idea_zh": "因树木病害而砍伐的木材和农业废料，可以一起“长”成建筑表皮。",
+   "method": "Sebastian Cox grew the mycelium on agricultural waste at his Kent workshop and combined it with strips of ash felled because of ash dieback; four prefabricated 3.2 x 3 x 3 m volumes were assembled on site.",
+   "method_zh": "Sebastian Cox 在肯特郡的工坊里用农业废料培养菌丝体，并与因白蜡树枯梢病砍伐的白蜡木条结合；四个 3.2 x 3 x 3 米的预制体块在现场组装。",
+   "keywords": [
+    "Chelsea Flower Show 2025",
+    "Tom Massey",
+    "Sebastian Cox",
+    "ash dieback",
+    "mycelium facade",
+    "compostable building"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/05/sebastian-cox-studio-weave-Avanade-Intelligent-Garden-chelsea-flower-show_dezeen_2364_col_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/05/sebastian-cox-studio-weave-Avanade-Intelligent-Garden-chelsea-flower-show_dezeen_2364_col_13-852x639.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/05/sebastian-cox-studio-weave-Avanade-Intelligent-Garden-chelsea-flower-show_dezeen_2364_col_16-852x1019.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/05/30/studio-weaves-intelligent-garden-pavilion-mycelium/"
+  },
+  {
+   "id": "magical-mushroom-company--sunflower-sound-system",
+   "creator_ids": [
+    "magical-mushroom-company"
+   ],
+   "title": "Sunflower Sound System mycelium acoustic discs",
+   "year": 2025,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Twenty-five mycelium discs, each 2 m wide, that absorb sound around the Sunflower Sound System built with the DJ Floating Points at Glastonbury Festival 2025; left outdoors they break down in about 50 days.",
+   "description_zh": "25 块直径 2 米的菌丝体圆盘，为 DJ Floating Points 在 2025 年格拉斯顿伯里音乐节搭建的 Sunflower Sound System 吸音；放在户外约 50 天就会分解。",
+   "idea_en": "Temporary event structures can be grown for one use and then composted.",
+   "idea_zh": "临时活动的构件可以为一次使用而生长，用完就堆肥。",
+   "method": "Mycelium grows in moulds on waste hemp shiv, half of it from returned packaging; each disc has 32 segments with finer, denser edges and a coarser, porous centre to absorb sound.",
+   "method_zh": "菌丝体在模具中以废大麻秆芯为基质生长，其中一半来自回收的包装；每块圆盘由 32 个扇形块组成，边缘纤维更细更密，中心更粗更多孔，用来吸音。",
+   "keywords": [
+    "mycelium acoustics",
+    "hemp shiv",
+    "Glastonbury Festival 2025",
+    "Floating Points",
+    "Silver Hayes",
+    "festival design"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/06/sunflower-sound-system-glastonbury-mycelium_dezeen_2364_col_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/06/sunflower-sound-system-glastonbury-mycelium_dezeen_2364_col_28-852x1281.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/06/sunflower-sound-system-glastonbury-mycelium_dezeen_2364_col_0-852x1281.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/06/27/glastonbury-sunflower-sound-system-mycelium-insulation/"
+  },
+  {
+   "id": "aifunghi--mycelium-furniture",
+   "creator_ids": [
+    "aifunghi"
+   ],
+   "title": "Aifunghi mycelium furniture collection",
+   "year": 2025,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A debut collection of ten chairs plus tables and lamps with shells grown from hemp fibre and mycelium, padded with seaweed-based foam and covered in plant-based fur; the dining chair is reported as the first mycelium chair to pass the EN 16139 Level 1 contract-seating test.",
+   "description_zh": "首发系列包括十把椅子以及桌子和灯具：壳体由大麻纤维和菌丝体生长而成，填充海藻基泡沫，外覆植物基毛皮；据称其餐椅是第一把通过 EN 16139 一级商用座椅测试的菌丝体椅子。",
+   "idea_en": "Grown materials need standard certification to enter everyday furniture.",
+   "idea_zh": "生长出来的材料要进入日常家具，需要通过标准认证。",
+   "method": "Mycelium grows through hemp fibres in moulds and binds them without plastic; a semi-industrial factory in Enkhuizen can make up to 1,200 pieces a year.",
+   "method_zh": "菌丝体在模具中穿过大麻纤维生长，不用塑料就把它们粘合起来；位于恩克赫伊曾的半工业化工厂每年最多可生产 1200 件。",
+   "keywords": [
+    "mycelium composite",
+    "hemp",
+    "Growmolding",
+    "Agoprene",
+    "BioFluff",
+    "3 Days of Design 2025",
+    "EN 16139"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/06/hero-aifunghi-3-days-of-design_dezeen_2364_col_0-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/06/aifunghi-3-days-of-design_dezeen_2364_col_8-852x1065.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/06/aifunghi-3-days-of-design_dezeen_2364_col_4-852x1079.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/06/19/aifunghi-3-days-of-design-launch/"
+  },
+  {
+   "id": "studio-tooj--duk",
+   "creator_ids": [
+    "studio-tooj",
+    "mycoworks"
+   ],
+   "title": "Duk tables",
+   "year": 2025,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Tables and a pedestal carved from wood to look like draped cloth and upholstered in Reishi, the mycelium-grown leather-like material by MycoWorks; shown at Le Labo's Milan store during Milan design week 2025.",
+   "description_zh": "桌子和基座由木头雕成垂布的样子，再包覆 MycoWorks 用菌丝体培养的类皮革材料 Reishi；2025 年米兰设计周期间在 Le Labo 米兰店展出。",
+   "idea_en": "A grown sheet material can be worked like fine leather over sculpted forms.",
+   "idea_zh": "生长出来的片材可以像上等皮革一样包覆在雕塑形体上。",
+   "method": "Sculpted wooden forms are wrapped in sheets of Reishi, which MycoWorks grows from mycelium in trays and then tans and finishes.",
+   "method_zh": "雕刻好的木质形体包上 Reishi 片材——MycoWorks 在托盘中用菌丝体培养，再经鞣制和后整理而成。",
+   "keywords": [
+    "Reishi",
+    "MycoWorks",
+    "Fine Mycelium",
+    "Milan design week 2025",
+    "Le Labo",
+    "furniture"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/04/studio-tooj-duk-reishi-tables-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/04/studio-tooj-duk-reishi-tables-design_dezeen_2364_col_6-852x1048.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/04/studio-tooj-duk-reishi-tables-design_dezeen_2364_col_1-852x1051.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/04/23/studio-tooj-duk-reishi-furniture-design/"
+  },
+  {
+   "id": "i-thee--puddle-pavilion",
+   "creator_ids": [
+    "i-thee"
+   ],
+   "title": "Puddle Pavilion",
+   "year": 2025,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "Two bright yellow canopies beside a creek in Bondurant, Iowa, made by pouring and flinging an algae-oil-based resin onto the ground and lifting the hardened puddles onto thin steel columns.",
+   "description_zh": "艾奥瓦州邦杜兰特一条小溪旁的两片亮黄色顶棚：把以藻油为原料的树脂直接泼洒在地上，凝固成“水洼”后抬到细钢柱上。",
+   "idea_en": "Let a liquid bio-resin find its own shape and use that as the roof.",
+   "idea_zh": "让液态的生物树脂自己找到形状，再把它当屋顶。",
+   "method": "A resin with 56% bio-based content, made from algae-derived oil supplied by Checkerspot, was mixed by hand and poured without formwork; Schlaich Bergermann Partner engineered the steel supports.",
+   "method_zh": "树脂的生物基含量为 56%，原料是 Checkerspot 提供的藻类油脂，手工调配后不用模板直接浇注；钢结构支撑由 Schlaich Bergermann Partner 设计。",
+   "keywords": [
+    "algae-based resin",
+    "Checkerspot",
+    "ARTocka Trail Loop",
+    "Bondurant",
+    "formwork-free casting",
+    "pavilion"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2025/08/puddle-pavilion-iowa-i-thee_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/08/puddle-pavilion-iowa-i-thee_dezeen_2364_col_7-852x658.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/08/puddle-pavilion-iowa-i-thee_dezeen_2364_col_17-852x714.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2025/08/22/i-thee-puddle-pavilion-iowa-algae-resin/"
+  },
+  {
+   "id": "yong-ju-lee--mycelial-hut",
+   "creator_ids": [
+    "yong-ju-lee"
+   ],
+   "title": "Mycelial Hut",
+   "year": 2024,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A 10 m2 pavilion in a public park in Seoul whose outer skin is made of custom mycelium panels on a timber frame, built to test mycelium construction at building scale.",
+   "description_zh": "首尔一处公园里 10 平方米的展亭，木框架外覆定制菌丝体板，用来检验菌丝体在建筑尺度上的建造。",
+   "idea_en": "Robots make the moulds; the fungus makes the wall.",
+   "idea_zh": "机器人做模具，真菌做墙。",
+   "method": "Several mycelium composites were tested for workability, growth and strength; an industrial robotic arm then 3D printed large moulds in which the panels were grown and fixed to wooden frames that carry the load.",
+   "method_zh": "先测试多种菌丝体复合材料的可加工性、生长情况和强度，再用工业机械臂 3D 打印大型模具，在模具中培养板材并固定在承重的木框架上。",
+   "keywords": [
+    "mycelium panels",
+    "robotic 3D printing",
+    "SeoulTech",
+    "Robotic Fabrication Studio",
+    "CAADRIA 2025",
+    "pavilion"
+   ],
+   "images": [
+    "https://images.adsttc.com/media/images/6904/9d7c/436b/c600/01fd/b8a3/medium_jpg/2.jpg?1761910174",
+    "https://images.adsttc.com/media/images/6904/9d7f/436b/c600/01fd/b8aa/medium_jpg/10.jpg?1761910222",
+    "https://images.adsttc.com/media/images/6904/9d7f/436b/c600/01fd/b8ae/medium_jpg/18_robotic_fabrication.jpg?1761910181"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.52842/conf.caadria.2025.2.059",
+    "doi": "10.52842/conf.caadria.2025.2.059",
+    "arxiv": "",
+    "venue": "CAADRIA 2025",
+    "title": "Mycelial Hut: Large-scale mycelium-based construction enabled by robotic technology"
+   },
+   "source_url": "https://www.archdaily.com/1035602/mycelial-hut-yong-ju-lee-architecture"
+  },
+  {
+   "id": "studio-part--tenir",
+   "creator_ids": [
+    "studio-part"
+   ],
+   "title": "Tenir",
+   "year": 2024,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A public bench grown from living willow trees woven through a reusable stainless-steel mould; after three to four years the mould is removed and the fused trees carry the seat.",
+   "description_zh": "一张由活柳树长成的公共长凳：柳枝穿编在可重复使用的不锈钢模具里，三四年后拆掉模具，长在一起的柳树自己承托座面。",
+   "idea_en": "A reusable mould turns tree growth into a slow production method.",
+   "idea_zh": "一副可重复使用的模具，把树木生长变成一种缓慢的生产方式。",
+   "method": "Young willows are planted and threaded through holes in a curved steel frame with rubber inlays; a metal cover makes the bench usable while they grow. One mould could yield about 30 benches over 90 years.",
+   "method_zh": "把幼柳种下并穿过带橡胶衬垫的弧形钢架上的孔；生长期间有金属盖板让长凳可以使用。一副模具 90 年内大约能长出 30 张长凳。",
+   "keywords": [
+    "living willow",
+    "tree shaping",
+    "reusable formwork",
+    "Bokrijk",
+    "BKRK",
+    "public furniture"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2024/08/hero-studio-part-tenir-design-furniture_dezeen_2364_col_0-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/08/studio-part-tenir-design-furniture_dezeen_2364_col_5-852x1278.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/08/studio-part-tenir-design-furniture_dezeen_2364_col_2-852x1278.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2024/08/28/studio-part-willow-trees-bench-tenir/"
+  },
+  {
+   "id": "karoline-healy--phytomined-ring",
+   "creator_ids": [
+    "karoline-healy"
+   ],
+   "title": "H2ERǴ phytomined ring",
+   "year": 2024,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "A ring holding a sealed sphere of silver, nickel, copper and zinc dust that plants drew out of the soil at a former coal mine in Barnsley, England.",
+   "description_zh": "一枚戒指，顶部密封的小球里装着银、镍、铜和锌的粉末——它们是植物从英格兰巴恩斯利一处旧煤矿的土壤中吸出来的。",
+   "idea_en": "Plants can mine metals while cleaning polluted land.",
+   "idea_zh": "植物可以一边修复被污染的土地，一边开采金属。",
+   "method": "Hyperaccumulator plants such as foxgloves, thistles and grasses take up metals through their roots in Phyona's Miners Garden at Barnsley Main Colliery; the harvested plants are processed with a bio-based method to extract the metal.",
+   "method_zh": "毛地黄、蓟和禾草等超富集植物在 Phyona 设于 Barnsley Main Colliery 的 Miners Garden 里用根系吸收金属；收割后的植物用生物基方法处理，提取出金属。",
+   "keywords": [
+    "phytomining",
+    "hyperaccumulator plants",
+    "Phyona",
+    "Barnsley Main Colliery",
+    "jewellery",
+    "soil remediation"
+   ],
+   "also": [
+    "hni"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2024/08/phytomined-ring-karoline-healy-h2erg-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/08/phytomined-ring-karoline-healy-h2erg-design_dezeen_2364_col_5-852x567.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/08/phytomined-ring-karoline-healy-h2erg-design_dezeen_2364_col_2-852x567.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2024/08/30/phytomined-h2erg-ring-metals-plants-design/"
+  },
+  {
+   "id": "maca-barrera--melwear",
+   "creator_ids": [
+    "maca-barrera"
+   ],
+   "title": "Melwear",
+   "year": 2024,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A concept for thin bodysuits that carry bacteria-made melanin to absorb UV light, with printed capsules that would darken under strong sun as a warning; a speculative project without a working garment.",
+   "description_zh": "一个概念：薄薄的连体衣里带有细菌生产的黑色素以吸收紫外线，印上去的小囊在强烈日晒下会变深作为提醒；这是思辨项目，没有可用的成衣。",
+   "idea_en": "Borrow the skin's own pigment as a grown sunscreen you wear.",
+   "idea_zh": "借用皮肤自己的色素，做成一层穿在身上、培养出来的防晒。",
+   "method": "Barrera grew melanin-producing bacteria in the CSM Grow Lab at several pigment concentrations and ran bioprinting tests with living cells through a partnership with the Francis Crick Institute.",
+   "method_zh": "Barrera 在中央圣马丁 Grow Lab 培养产黑色素的细菌并得到多种色素浓度，还通过与 Francis Crick Institute 的合作做了活细胞生物打印测试。",
+   "keywords": [
+    "melanin",
+    "UV protection",
+    "bioprinting",
+    "Francis Crick Institute",
+    "Central Saint Martins",
+    "MA Biodesign"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2024/06/melwear-maca-barrera-central-saint-martins-graduate-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/06/melwear-maca-barrera-central-saint-martins-graduate-design_dezeen_2364_col_6-852x609.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/06/melwear-maca-barrera-central-saint-martins-graduate-design_dezeen_2364_col_9-852x608.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2024/06/10/melanin-melwear-maca-barrera-design-technology/"
+  },
+  {
+   "id": "gob--mycelium-earplugs",
+   "creator_ids": [
+    "gob",
+    "ecovative"
+   ],
+   "title": "Gob mycelium earplugs",
+   "year": 2024,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Single-use earplugs made entirely of soft mycelium foam that mould to the ear like memory foam and compost in an estimated 45 days.",
+   "description_zh": "完全用柔软的菌丝体泡沫做成的一次性耳塞，像记忆棉一样贴合耳道，估计 45 天即可堆肥分解。",
+   "idea_en": "Match a short-lived product with a short-lived material.",
+   "idea_zh": "让寿命短的产品配上寿命短的材料。",
+   "method": "Aerial mycelium grown by Ecovative from agricultural by-products is cut into small cylinders by a custom robotic system.",
+   "method_zh": "Ecovative 用农业副产品培养气生菌丝体，再由定制的机器人系统切成小圆柱。",
+   "keywords": [
+    "aerial mycelium",
+    "Ecovative",
+    "earplugs",
+    "compostable",
+    "single-use",
+    "Lauryn Menard"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2024/10/gob-mycelium-earplugs-_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/10/gob-mycelium-earplugs-_dezeen_2364_col_1-852x1065.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/10/gob-mycelium-earplugs-_dezeen_2364_col_3-852x1065.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2024/10/18/mycelium-compostable-earplugs-gob/"
+  },
+  {
+   "id": "fefostudio--ephemeral-table",
+   "creator_ids": [
+    "fefostudio"
+   ],
+   "title": "Ephemeral Table",
+   "year": 2024,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "A dining table grown from mycelium and organic waste, made with architect Kamilla Csegzi and used for three gatherings; after the last dinner it is left outdoors to decompose. Hollows in the table were used as moulds for its amber glassware.",
+   "description_zh": "一张由菌丝体和有机废料长成的餐桌，与建筑师 Kamilla Csegzi 合作，用于三次聚会；最后一次晚餐后被留在户外分解。桌面的凹坑还被用作模具，吹制出配套的琥珀色玻璃器皿。",
+   "idea_en": "Plan a product's end as an event, not as waste.",
+   "idea_zh": "把产品的终点设计成一次活动，而不是垃圾。",
+   "method": "A mix of 50% mycelium substrate with paper, leaves and other organic waste was moulded around objects found in the studio; the voids were then used to shape glass.",
+   "method_zh": "50% 的菌丝体基质与纸、树叶等有机废料混合，围绕工作室里找到的物件成形；留下的空腔再用来给玻璃定型。",
+   "keywords": [
+    "mycelium table",
+    "Kamilla Csegzi",
+    "Collectible New York 2024",
+    "decomposition",
+    "glassware",
+    "gathering"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2024/09/mushroom-table-fefostudio-collectible_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/09/mushroom-table-fefostudio-collectible_dezeen_2364_col_3-852x568.jpg",
+    "https://static-2026.dezeen.com/uploads/2024/09/mushroom-table-fefostudio-collectible_dezeen_2364_col_1-852x1278.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2024/09/10/fefostudio-kamilla-csegzi-mycelium-based-ephemeral-table/"
+  },
+  {
+   "id": "rosie-broadhead--skin-ii",
+   "creator_ids": [
+    "rosie-broadhead"
+   ],
+   "title": "Skin II",
+   "year": 2019,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A skin-tight garment with live probiotic bacteria encapsulated in its fibres at sweat-prone areas; sweat activates them, and they are meant to reduce body odour and support the skin.",
+   "description_zh": "一件紧身衣，在容易出汗的部位把活的益生菌封装进纤维里；汗水激活它们，目的是减轻体味并帮助皮肤。",
+   "idea_en": "Clothing can feed the skin microbiome instead of fighting it.",
+   "idea_zh": "衣服可以滋养皮肤微生物组，而不是对抗它。",
+   "method": "Probiotic bacteria are encapsulated in natural yarns placed at the armpits, forearms and torso; bacteria counts on the textile were measured in the lab with microbiologist Chris Callewaert, followed by wear trials.",
+   "method_zh": "益生菌被封装在天然纱线里，分布在腋下、前臂和躯干；与微生物学家 Chris Callewaert 在实验室测量织物上的细菌数量，之后进行试穿测试。",
+   "keywords": [
+    "probiotic textile",
+    "skin microbiome",
+    "Chris Callewaert",
+    "encapsulation",
+    "Central Saint Martins",
+    "body odour"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2019/07/rosie-broadhead-skin-ii-design-technology_dezeen_2364_sq-2.jpg",
+    "https://static-2026.dezeen.com/uploads/2019/07/rosie-broadhead-skin-ii-design-technology_dezeen_2364_col_1-411x329.jpg",
+    "https://static-2026.dezeen.com/uploads/2019/07/rosie-broadhead-skin-ii-design-technology_dezeen_2364_col_7-411x308.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2019/07/23/rosie-broadhead-weaves-bacteria-into-clothing-fibres-to-create-a-second-skin/"
+  },
+  {
+   "id": "suzie-mcmurtry--living-with-wildfire",
+   "creator_ids": [
+    "suzie-mcmurtry"
+   ],
+   "title": "Living with Wildfire",
+   "year": 2022,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A 'spore cannon' placed around a property: when a wildfire passes, its heat fires a cork loaded with dormant oyster mushroom spores over the burned ground to start breaking down pollutants. The prototype had not been tested in a fire when published.",
+   "description_zh": "布置在房产周围的“孢子炮”：野火经过时，热量把装满休眠平菇孢子的软木塞射向烧过的土地，开始分解污染物。发表时原型尚未在真实火情中测试。",
+   "idea_en": "Use the disaster's own energy to start the repair.",
+   "idea_zh": "用灾害自身的能量启动修复。",
+   "method": "A flame-retardant mycelium pod grown on silica-rich substrate shields a steel vessel of water; fire boils the water, pressure launches the spore-filled cork, as in fire-opened pine and banksia seed pods.",
+   "method_zh": "在富含二氧化硅的基质上培养出阻燃的菌丝体外壳，保护装水的钢制容器；火把水烧开，压力把装满孢子的软木塞弹出，原理类似遇火才开裂的松果和班克木果荚。",
+   "keywords": [
+    "mycoremediation",
+    "oyster mushroom",
+    "wildfire",
+    "spore dispersal",
+    "Material Futures",
+    "Central Saint Martins"
+   ],
+   "also": [
+    "hni"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2022/10/suzie-mcmurtry-living-with-wildfire-mycoremediation-system-sq_dezeen_2364_col_2.jpg",
+    "https://static-2026.dezeen.com/uploads/2022/10/suzie-mcmurtry-living-with-wildfire-mycoremediation-system_dezeen_2364_col_6-852x1065.jpg",
+    "https://static-2026.dezeen.com/uploads/2022/11/suzie-mcmurtry-living-with-wildfire-mycoremediation-system-sq_dezeen_2364_col_10-852x1226.jpg"
+   ],
+   "source_url": "https://suzmcm.com/Living-with-Wildfire"
+  },
+  {
+   "id": "luis-undritz--phytoprinting",
+   "creator_ids": [
+    "luis-undritz"
+   ],
+   "title": "Phytoprinting",
+   "year": 2021,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "A round desktop printer that projects an image onto textile, ceramic or paper wetted with phytoplankton and nutrients; over three to seven days the algae grow only where the light falls and form a living, temporary print.",
+   "description_zh": "一台圆形桌面打印机：把图像投射到浸有浮游植物和营养液的织物、陶瓷或纸上；三到七天里，藻类只在有光的地方生长，形成一幅活的、短暂的印刷品。",
+   "idea_en": "Print by growing: project light and let algae fill in the image.",
+   "idea_zh": "用生长来打印：投下光，让藻类把图像填出来。",
+   "method": "A DLP projector shines a black-and-white negative onto a surface lined with water, nutrients and a small amount of marine phytoplankton, which multiply in the illuminated areas.",
+   "method_zh": "DLP 投影仪把黑白负像投到铺有水、营养液和少量海洋浮游植物的表面上，藻类在被照亮的区域繁殖。",
+   "keywords": [
+    "phytoplankton",
+    "DLP projection",
+    "living print",
+    "Materialized exhibition",
+    "Milan design week 2021",
+    "Central Saint Martins"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2021/09/phytoprinting-luis-undritz-algae-design-hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2021/09/phytoprinting-luis-undritz-algae-design_dezeen_2364_col_10-852x568.jpg",
+    "https://static-2026.dezeen.com/uploads/2021/09/phytoprinting-luis-undritz-algae-design_dezeen_2364_col_15-852x453.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2021/09/10/luis-undritz-printer-living-images-algae/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Madalina Nicolae & Vivien Roussel — Threads of Becoming: From Microscopic Fibers to Living Interfaces",
+   "why": "SIGGRAPH Asia 2026 Art Gallery piece (DOI 10.1145/3829214.3839402, dated 30 Nov 2026); no abstract or images available yet.",
+   "link": "https://doi.org/10.1145/3829214.3839402",
+   "found_via": "madalina-nicolae",
+   "status": "open"
+  },
+  {
+   "name": "Phyta Biodesign — Fauna and Apia ecoclimatic facades",
+   "why": "UCL spin-out; 3D-printed ceramic facade panels with microhabitats for bees and other urban species, shown at Material Matters, London Design Festival 2026; founders and target species not confirmed. Fits mth multispecies design.",
+   "link": "https://www.phytadesign.com/fauna",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Designing Mycelium (Routledge, Oct 2026)",
+   "why": "Edited book with chapters by Elsacker, Telhan, Alima, Dessi-Olive, Ghazvinian, MYCL and others (chapter DOIs 10.4324/9781003630111-*); editors and book-level DOI not looked up. Good publication entry.",
+   "link": "https://doi.org/10.4324/9781003630111-3",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mycology for Architecture (2026)",
+   "why": "Book with chapters on mycelium building components, space applications (Brandić Lipińska) and pedagogy (DOI prefix 10.53061); not researched.",
+   "link": "https://doi.org/10.53061/xpot4821",
+   "found_via": "monika-brandic-lipinska",
+   "status": "open"
+  },
+  {
+   "name": "Spiegel & Blasco — Volumetric 3D printing of microalgae-based engineered living materials",
+   "why": "Trends in Biotechnology, Oct 2026 (DOI 10.1016/j.tibtech.2026.08.016); short spotlight article, abstract and original research paper not accessed.",
+   "link": "https://doi.org/10.1016/j.tibtech.2026.08.016",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Engineered living building material for low-energy construction on Mars (Liu, Qiu et al.)",
+   "why": "Chem Circularity, Sept 2026 (DOI 10.1016/j.checir.2026.100120); abstract not accessible.",
+   "link": "https://doi.org/10.1016/j.checir.2026.100120",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Biodesign x AI: Interactions in the Algorithmic Wet Lab (Raphael Kim et al., CHI EA 2026)",
+   "why": "CHI 2026 workshop on AI in biodesign practice with Telhan, Nicenboim, Dade-Robertson, Pevere; no abstract or images found. Could fit ai or bio.",
+   "link": "https://doi.org/10.1145/3772363.3790105",
+   "found_via": "martyn-dade-robertson",
+   "status": "open"
+  },
+  {
+   "name": "Yong Ju Lee Architecture — Moss Columns (Seoul, 2024)",
+   "why": "3D-printed columns with moss embedded in the material; only a short ArchDaily text found.",
+   "link": "https://www.archdaily.com/1021192/moss-columns-yong-ju-lee-architecture",
+   "found_via": "yong-ju-lee",
+   "status": "open"
+  },
+  {
+   "name": "Thora Arnardottir & Laura Gonzalez — Complex Pringles: microbially sculpted mineral forms (2025)",
+   "why": "Exhibition output from Northumbria's Living Construction group; also 'Living Manufacture: Engineered Living Fabrication' (2024).",
+   "link": "https://researchportal.northumbria.ac.uk/en/publications/living-assembly-building-with-biology/",
+   "found_via": "martyn-dade-robertson",
+   "status": "open"
+  },
+  {
+   "name": "DDW 2026: Fusion of Materials (Andrea Brittnek & Kata Lagzi), Growing Facade (Wierwaar), Living Traces",
+   "why": "Programme entries on mycelium sheets with algae films, a seaweed-based growing facade and evolving bio-composites; only programme listings found, no post-event documentation.",
+   "link": "https://ddw.nl/en/programme/15366/an-edible-mission-fusion-of-materials",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "CSM MA Biodesign 2026 nominees (Mills Fabrica Innovation Award)",
+   "why": "Living 3D-printing filaments, mycelium waterproof biocoatings and interactive mycelial-network visualisations are mentioned without designer names.",
+   "link": "https://www.arts.ac.uk/colleges/central-saint-martins/stories/the-mills-fabrica-innovation-award-2026",
+   "found_via": "alice-offenbach",
+   "status": "open"
+  },
+  {
+   "name": "Let the Space Breathe (Archello, 2026)",
+   "why": "Proposal for a timber frame with a pneumatic membrane grown from mycelium composite; page returned HTTP 403, not verified.",
+   "link": "https://archello.com/project/let-the-space-breathe",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Glastonbury Hayes Pavilion (Simon Carroll, 2023) and Grybova Hata restaurant (YOD Group, 2025)",
+   "why": "Further mycelium architecture and interiors covered by Dezeen; not researched.",
+   "link": "https://www.dezeen.com/2023/06/23/glastonburys-mycelium-hayes-pavilion-simon-carroll/",
+   "found_via": "magical-mushroom-company",
+   "status": "open"
+  }
+ ]
+}

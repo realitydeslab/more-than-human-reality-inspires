@@ -16,7 +16,8 @@
   let ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
+  const UPDATES = DATA.updates || [];
+  const VIEWS = ["atlas", ...(UPDATES.length ? ["updates"] : []), ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -65,7 +66,7 @@
   function writeHash(workId) {
     const p = new URLSearchParams();
     if (state.view !== "atlas") p.set("view", state.view);
-    if (fieldById[state.view] && state.sub) p.set("sub", state.sub);
+    if ((fieldById[state.view] || state.view === "updates") && state.sub) p.set("sub", state.sub);
     if (FILTERED.includes(state.view)) {
       if (state.q) p.set("q", state.q);
       if (state.cols.size) p.set("col", [...state.cols].join(","));
@@ -343,6 +344,34 @@
     currentList = shown.flatMap((c) => listOf(c.id));
     return currentList.length;
   }
+  /* Updates: what entered the gallery and when (work.added, set by the build; notes from data/updates.json). */
+  function renderUpdates() {
+    const byDate = {};
+    DATA.works.forEach((w) => (byDate[w.added] = byDate[w.added] || []).push(w));
+    const listOf = (d) => sorted(byDate[d] || []);
+    const title = (u) => nm(u) || S().update_untitled;
+    const PREVIEW = 8;
+    if (state.sub && !UPDATES.some((u) => u.date === state.sub)) state.sub = "";
+    const chip = (id, label, n) => `<button class="chip" data-sub="${esc(id)}" aria-pressed="${state.sub === id}">${esc(label)}<small>${n}</small></button>`;
+    $("#updatesHead").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().tab_updates)}</h2>
+        <p class="starred__lede">${esc(S().updates_lede)}</p><p class="count mono">${esc(S().updates_n(UPDATES.length, DATA.works.length))}</p></div>
+      <div class="chips scat-chips">${chip("", S().all_cats, DATA.works.length)}${UPDATES.map((u) => chip(u.date, u.date, u.n)).join("")}</div>`;
+    const shown = state.sub ? UPDATES.filter((u) => u.date === state.sub) : UPDATES;
+    const section = (u) => {
+      const ws = listOf(u.date);
+      const fields = FIELDS.map((f) => [f, ws.filter((w) => w.field === f.id).length]).filter(([, n]) => n)
+        .map(([f, n]) => `<span class="tag">${esc(nm(f))} ${n}</span>`).join("");
+      const note = zh() ? u.note_zh : u.note_en;
+      return `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(title(u))}</h3><span class="scat__n mono">${esc(u.date)} · ${esc(S().update_added(ws.length))}</span></div>
+        ${note ? `<p class="scat__desc">${esc(note)}</p>` : ""}<div class="tags update__fields">${fields}</div><div class="grid" data-update-grid="${esc(u.date)}"></div>
+        ${!state.sub && ws.length > PREVIEW ? `<button class="tour__start mono update__more" data-sub="${esc(u.date)}">${esc(S().all_n(ws.length))}</button>` : ""}</section>`;
+    };
+    $("#updateList").innerHTML = shown.map(section).join("");
+    const lists = shown.map((u) => (state.sub ? listOf(u.date) : listOf(u.date).slice(0, PREVIEW)));
+    shown.forEach((u, i) => fill($(`[data-update-grid="${u.date}"]`), lists[i], card, 24, 36));
+    currentList = lists.flat();
+    return currentList.length;
+  }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
     fill($("#grid"), currentList, card, 24, 36);
@@ -415,7 +444,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, updates: renderUpdates, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();

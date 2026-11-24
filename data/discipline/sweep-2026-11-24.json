@@ -1,0 +1,446 @@
+{
+ "koen-vanmechelen": [
+  "art"
+ ],
+ "dave-soldier": [
+  "art"
+ ],
+ "olivaz-syntropia": [
+  "art"
+ ],
+ "band-of-weeds": [
+  "art"
+ ],
+ "tamara-henderson": [
+  "art"
+ ],
+ "laura-pold": [
+  "art"
+ ],
+ "saskia-calderon": [
+  "art"
+ ],
+ "matteo-marangoni": [
+  "art"
+ ],
+ "dieter-vandoren": [
+  "art"
+ ],
+ "sandra-knecht": [
+  "art"
+ ],
+ "jon-cuyson": [
+  "art"
+ ],
+ "superflex": [
+  "art"
+ ],
+ "anicka-yi": [
+  "art"
+ ],
+ "cosmo-sheldrake": [
+  "art"
+ ],
+ "myungin-lee": [
+  "art"
+ ],
+ "carys-bennett": [
+  "science"
+ ],
+ "save-the-elephants": [
+  "science"
+ ],
+ "lucy-king": [
+  "science"
+ ],
+ "marcelo-magnasco": [
+  "science"
+ ],
+ "earthranger": [
+  "science"
+ ],
+ "noctua": [
+  "science"
+ ],
+ "shiqi-zhang": [
+  "science"
+ ],
+ "florian-golemo": [
+  "science"
+ ],
+ "xinlong-deng": [
+  "science"
+ ],
+ "flora-talyigas": [
+  "science"
+ ],
+ "azahara-oliva": [
+  "science"
+ ],
+ "tomas-krajnik": [
+  "science"
+ ],
+ "farshad-arvin": [
+  "science"
+ ],
+ "aalborg-zoo": [
+  "science"
+ ],
+ "mason-youngblood": [
+  "science"
+ ],
+ "gasper-begus": [
+  "science"
+ ],
+ "herve-glotin": [
+  "science"
+ ],
+ "felipe-parodi": [
+  "science"
+ ],
+ "s-m-rayeed": [
+  "science"
+ ],
+ "tianming-wang": [
+  "science"
+ ],
+ "deepak-ganesan": [
+  "science"
+ ],
+ "paul-fergus": [
+  "science"
+ ],
+ "takashi-ikegami": [
+  "science"
+ ],
+ "blaise-aguera-y-arcas": [
+  "science"
+ ],
+ "arend-hintze": [
+  "science"
+ ],
+ "alex-alvarez": [
+  "science"
+ ],
+ "craig-reynolds": [
+  "science"
+ ],
+ "nikhil-baid": [
+  "science"
+ ],
+ "project-mycelium": [
+  "science"
+ ],
+ "compassion-in-machine-learning": [
+  "science"
+ ],
+ "cameron-berg": [
+  "science"
+ ],
+ "rikhil-jhaveri": [
+  "science"
+ ],
+ "sunayana-rane": [
+  "science"
+ ],
+ "amazon-research-internacional": [
+  "science"
+ ],
+ "rui-nie": [
+  "science"
+ ],
+ "karthik-pushpavanam": [
+  "science"
+ ],
+ "anna-dawiec-lisniewska": [
+  "science"
+ ],
+ "stephen-wallace": [
+  "science"
+ ],
+ "liujing-zhuang": [
+  "science"
+ ],
+ "paulo-aguiar": [
+  "science"
+ ],
+ "gabriele-kaminski-schierle": [
+  "science"
+ ],
+ "esmaeil-nadimi": [
+  "science"
+ ],
+ "ge-wang": [
+  "science"
+ ],
+ "michael-barros": [
+  "science"
+ ],
+ "brennen-hill": [
+  "science"
+ ],
+ "dana-damian": [
+  "science"
+ ],
+ "nate-cira": [
+  "science"
+ ],
+ "xiaoluo-huang": [
+  "science"
+ ],
+ "ibon-santiago": [
+  "science"
+ ],
+ "li-qun-gu": [
+  "science"
+ ],
+ "hao-yan": [
+  "science"
+ ],
+ "leonidas-bleris": [
+  "science"
+ ],
+ "hiroyuki-fujita": [
+  "science"
+ ],
+ "peter-gloor": [
+  "science"
+ ],
+ "marie-eve-aubin-tam": [
+  "science"
+ ],
+ "flora-incognita": [
+  "science"
+ ],
+ "loggerhead-instruments": [
+  "science"
+ ],
+ "octanis-instruments": [
+  "science"
+ ],
+ "nofence": [
+  "product"
+ ],
+ "tomofun": [
+  "product"
+ ],
+ "petcube": [
+  "product"
+ ],
+ "onlycat": [
+  "product"
+ ],
+ "bird-buddy": [
+  "product"
+ ],
+ "aifunghi": [
+  "product"
+ ],
+ "gob": [
+  "product"
+ ],
+ "studio-tooj": [
+  "product"
+ ],
+ "studio-part": [
+  "product"
+ ],
+ "fefostudio": [
+  "product"
+ ],
+ "luis-undritz": [
+  "product"
+ ],
+ "karoline-healy": [
+  "product"
+ ],
+ "hanjing-shi": [
+  "interaction"
+ ],
+ "sam-gowland": [
+  "interaction"
+ ],
+ "stella-kyratzi": [
+  "interaction"
+ ],
+ "haque-tan": [
+  "interaction"
+ ],
+ "narges-pourjafarian": [
+  "interaction"
+ ],
+ "beheshteh-atrian": [
+  "interaction"
+ ],
+ "xiangyi-sun": [
+  "interaction"
+ ],
+ "minh-chau-ha": [
+  "interaction"
+ ],
+ "keqi-niu": [
+  "interaction"
+ ],
+ "htet-htet-june-han": [
+  "interaction"
+ ],
+ "francisco-placido": [
+  "interaction"
+ ],
+ "antonio-galiza-cerdeira-gonzalez": [
+  "interaction"
+ ],
+ "sukran-karaosmanoglu": [
+  "interaction"
+ ],
+ "kellie-vella": [
+  "interaction"
+ ],
+ "hadas-zohar": [
+  "interaction"
+ ],
+ "weronika-kozak": [
+  "interaction"
+ ],
+ "liesbeth-huybrechts": [
+  "interaction"
+ ],
+ "casandra-diaz-contreras-amador": [
+  "interaction"
+ ],
+ "katt-grover": [
+  "interaction"
+ ],
+ "carol-breen": [
+  "interaction"
+ ],
+ "lene-nielsen": [
+  "interaction"
+ ],
+ "kristin-dew": [
+  "interaction"
+ ],
+ "valentina-caiola": [
+  "interaction"
+ ],
+ "orit-hirsch-matsioulas": [
+  "theory"
+ ],
+ "cassandra-willyard": [
+  "theory"
+ ],
+ "graham-l-bishop": [
+  "theory"
+ ],
+ "seth-lazar": [
+  "theory"
+ ],
+ "lucius-caviola": [
+  "theory"
+ ],
+ "sankalpa-ghose": [
+  "theory"
+ ],
+ "earth-law-center": [
+  "theory"
+ ],
+ "hinemoana-halo": [
+  "theory"
+ ],
+ "madras-high-court": [
+  "theory"
+ ],
+ "cider-rio-portoviejo": [
+  "theory"
+ ],
+ "ngai-tuhoe": [
+  "theory"
+ ],
+ "toledoans-for-safe-water": [
+  "theory"
+ ],
+ "innu-council-of-ekuanitshit": [
+  "theory"
+ ],
+ "kichwa-people-of-sarayaku": [
+  "theory"
+ ],
+ "joanna-macy": [
+  "theory"
+ ],
+ "john-seed": [
+  "theory"
+ ],
+ "maria-debinska": [
+  "theory"
+ ],
+ "liberty-severs": [
+  "theory"
+ ],
+ "droga5": [
+  "speculative"
+ ],
+ "agency-for-nature": [
+  "speculative"
+ ],
+ "audrey-levy": [
+  "material"
+ ],
+ "lucia-giron": [
+  "material"
+ ],
+ "natural-material-studio": [
+  "material"
+ ],
+ "other-matter": [
+  "material"
+ ],
+ "alice-offenbach": [
+  "material"
+ ],
+ "we-plus": [
+  "material"
+ ],
+ "myceen": [
+  "material"
+ ],
+ "magical-mushroom-company": [
+  "material"
+ ],
+ "maca-barrera": [
+  "material"
+ ],
+ "suzie-mcmurtry": [
+  "material"
+ ],
+ "yingying-yan": [
+  "architecture"
+ ],
+ "martyn-dade-robertson": [
+  "architecture"
+ ],
+ "richard-beckett": [
+  "architecture"
+ ],
+ "studio-weave": [
+  "architecture"
+ ],
+ "i-thee": [
+  "architecture"
+ ],
+ "yong-ju-lee": [
+  "architecture"
+ ],
+ "zoe-metherell": [
+  "architecture"
+ ],
+ "iris-van-herpen": [
+  "fashion"
+ ],
+ "rosie-broadhead": [
+  "fashion"
+ ],
+ "audrey-briot": [
+  "fashion"
+ ]
+}
